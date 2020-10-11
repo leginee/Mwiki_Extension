@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="tr">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="tr" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>uzantılar;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="tr" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="tr" l10n="NEW"><ahelp hid=".">Wiki Publisher kullanarak şu anki Writer metin belgenizi MediaWiki sunucusuna gönderebilirsiniz. Gönderdikten sonra, tüm Wiki kullanıcıları Wiki üzerinden belgenizi okuyabilir.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="tr" l10n="NEW"><ahelp hid=".">Şu anki Writer belgesini MediaWiki sunucusuna göndermek için <item type="menuitem">Dosya - Gönder - MediaWiki'ye </item> seçeneğini seçin.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="tr" level="2" l10n="NEW">Sistem Gereksinimleri</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="tr" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="tr" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="tr" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="tr" l10n="NEW">Bir Wiki hesabı destekleyen <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> sunucusu</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="tr" level="2" l10n="NEW">Wiki Publisher yükleniyor</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="tr" l10n="NEW">Wiki Publisher yüklemeden önce, %PRODUCTNAME uygulamasının Java Çalışma Zamanı Ortamı (JRE) kullandığından emin olun. JRE durumunu kontrol etmek için <item type="menuitem">Araçlar - Seçenekler - %PRODUCTNAME - Java</item> seçeneğini seçin. &quot;Java çalışma zamanı ortamı kullan&quot; seçeneğinin işaretlendiğinden ve büyük liste kutusu içindeki Java çalışma zamanı klasörünün seçildiğinden emin olun. Eğer hiç JRE aktif edilmediyse, o zaman JRE 1.4 veya daha üzerini aktif edin ve %PRODUCTNAME uygulamasını yeniden başlatın.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="tr" level="3" l10n="NEW">Wiki Publisher yüklemek için</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="tr" l10n="NEW">Writer penceresindeki, <item type="menuitem">Araçlar - Uzantı Yöneticisi</item> seçeneğini seçin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="tr" l10n="NEW">Uzantı Yöneticisi iletisinde, Ekle'ye tıklayın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="tr" l10n="NEW">wiki-publisher.oxt dosyasını bulun, Aç düğmesine tıklayın ve ondan sonra Kapat düğmesine tıklayın. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="tr" l10n="NEW">%PRODUCTNAME uygulamasını ve eğer etkinleştirildiyse, ayrıca Hızlı Başlatıcı'yı kapatın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="tr" l10n="NEW">Yazılımı tekrar başlatın, bir metin belgesi açın, ondan sonra Wiki ayarlarınıza girmek için <item type="menuitem">Araçlar - Seçenekler - Internet - MediaWiki</item> seçeneğini seçin. Aşağıdan &quot;Bir Wiki'ye Bağlanmak için&quot; seçeneğine bakın.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="tr" level="3" l10n="NEW">Wiki Publisher kaldırmak için</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="tr" l10n="NEW">Writer penceresindeki, <item type="menuitem">Araçlar - Uzantı Yöneticisi</item> seçeneğini seçin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="tr" l10n="NEW">Uzantılarım seçeneğinin önünde bulunan (+) artı işaretine tıklayın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="tr" l10n="NEW">Uzantıyı seçin, Kaldır düğmesine tıklayın ve ondan sonra Kapat düğmesine tıklayın.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="tr" level="2" l10n="NEW">Bir Wiki'ye Bağlanmak için</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="tr" l10n="NEW">Not: %PRODUCTNAME içinde tüm ilgili iletiler için kullanıcı adınızı ve parolanızı saklayabilirsiniz. Parola, erişimin asıl bir parola ile korunduğu, güvenli bir yolla saklanacaktır. Asıl parolayı etkinleştirmek için <item type="menuitem">Araçlar - Seçenekler - %PRODUCTNAME- Güvenlik</item> seçeneğini seçin.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="tr" l10n="NEW">Not: Eğer bir proksi sunucusu kullanarak web'e bağlanırsanız, proksi bilgilerini <item type="menuitem">Araçlar - Seçenekler - Internet - Proksi</item> seçeneği altında girin ve yazılımı yeniden başlatın.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="tr" l10n="NEW">Bir Writer belgesi açın ve <item type="menuitem">Araçlar - Seçenekler - Internet - MediaWiki</item> seçeneğini seçin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="tr" l10n="NEW"><link href="com.sun.wiki-publisher/wikisettings.xhp">Seçenekler</link> iletisindeki, Ekle'ye tıklayın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="tr" l10n="NEW"><link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link> iletisine Wiki için hesap bilgilerini girin.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="tr" l10n="NEW">URL metin kutusuna, bağlanmak istediğiniz bir Wiki'nin adresini girin.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="tr" l10n="NEW">URL'yi bir web tarayıcısından kopyalayabilir ve metin kutusu içine yapıştırabilirsiniz.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="tr" l10n="NEW">Kullanıcı adı kutusuna, Wiki hesabınızın kullanıcı KİMLİĞİNİ girin.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="tr" l10n="NEW">Eğer Wiki isimsiz olarak yazma erişimine izin veriyorsa, Kullanıcı Adı ve Parola kutularını boş bırakabilirsiniz.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="tr" l10n="NEW">Parola kutusuna, Wiki hesabınızınn parolasını girin, ondan sonra TAMAM düğmesine tıklayın.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="tr" l10n="NEW">İsteğe bağlı olarak oturumlar arasında parolayı kaydetmek için &quot;Parolayı kaydet&quot; seçeneğini etkinleştirin. Asıl parola, tüm kaydedilen parolalara erişilmesini engellemek için kullanılır. Asıl parolayı etkinleştirmek için <item type="menuitem">Araçlar - Seçenekler - %PRODUCTNAME - Güvenlik</item> seçeneğini seçin. Asıl parola etkinleştirilmediğinde &quot;Parolayı kaydet&quot; seçeneği kullanılabilir olmaz.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="tr" level="2" l10n="NEW">Yeni Bir Wiki Sayfası Oluşturmak için</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="tr" l10n="NEW">Bir Writer belgesi açın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="tr" l10n="NEW">Wiki sayfasının içeriğini yazın. Metin biçimleri, üst başlıklar, dipnotlar ve daha fazlası gibi biçimlendirmeleri kullanabilirsiniz. Daha fazla bilgi için <link href="com.sun.wiki-publisher/wikiformats.xhp">desteklenen biçimler listesine</link> bakın.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="tr" l10n="NEW"><item type="menuitem">Dosya - Gönder - MediaWiki'ye</item> seçeneğini seçin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="tr" l10n="NEW"><link href="com.sun.wiki-publisher/wikisend.xhp">MediaWiki'ye Gönder</link> iletisinde, girişiniz için ayarları belirleyin.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="tr" l10n="NEW"><emph>MediaWiki sunucusu</emph>: Wiki seçin.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="tr" l10n="NEW"><emph>Başlık</emph>: Sayfanızın başlığını yazın. Şu anki metin belgenizle sayfanın üzerine yazmak için varolan bir sayfanın başlığını yazın. Wiki'de yeni bir sayfa oluşturmak için yeni bir başlık yazın.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="tr" l10n="NEW"><emph>Özet</emph>: Sayfanızın isteğe bağlı olarak kısa bir özetini girin.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="tr" l10n="NEW"><emph>Bu küçük bir düzenlemedir</emph>: Aynı başlığı olan zaten varolan bir sayfanın küçük düzenlemesi yapılmış gibi gönderilen sayfayı işaretlemek için bu kutuyu işaretleyin.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="tr" l10n="NEW"><emph>Web tarayıcısında göster</emph>: Sistem web tarayıcınızı açmak ve gönderilmiş Wiki sayfasını göstermek için bu kutuyu işaretleyin.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="tr" l10n="NEW">Tıkla Gönder.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

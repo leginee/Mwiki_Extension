@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="kk">MediaWiki пішімдері</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="kk" level="1" l10n="NEW">MediaWiki пішімдері</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="kk" l10n="NEW">The following list gives an overview of the text formats that the @WIKIEXTENSIONPRODUCTNAME@ can upload to the Wiki server.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="kk" l10n="NEW">Writer қолданатын OpenDocument пішімі және WikiMedia пішімдері әр түрлі болып табылады. Мүмкіндіктердің бір бөлігін ғана бір пішімнен екінші пішімге түрлендіруге болады.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="kk" level="2" l10n="NEW">Тақырыптамалар</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="kk" l10n="NEW">Writer мәтіндік құжатының тақырыптамасы үшін тақырыптама стилін іске асырыңыз. Wiki сәйкес деңгей тақырыптамаларының стильдерін көрсететін болады, олар Wiki ережелеріне сай пішімделеді.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="kk" level="2" l10n="NEW">Гиперсілтемелер</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="kk" l10n="NEW">OpenDocument гиперсілтемелері Wiki-дің сыртқы гиперсілтемелеріне түрлендіріледі. Сондықтан, OpenDocument құрамындағы гиперсілтемелерді тек сыртқы сайттарға сілтеу үшін қолдану керек. Ағымдағы доменнің басқа мақалаларына көрететін сілтемелерді жасау үшін, Wiki сілтемелерін қолданыңыз.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="kk" level="2" l10n="NEW">Тізімдер</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="kk" l10n="NEW">Тізбектей нөмірлеу қолданылған кезде тізімдер жеткілікті түрде сенімді экспортталатын болады. Writer ішінде тізімді жасау үшін нөмірлеу таңбаларын немесе маркерлеуді қолданыңыз. Егер нөмірлеусіз және маркерсіз тізімді жасау керек болса, Пішімі - Маркерлер және нөмірлеу мәзірін сәйкес келетін тізім стилін іске асыру үшін қолданыңыз.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="kk" level="2" l10n="NEW">Абзацтар</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="kk" level="3" l10n="NEW">Туралау</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="kk" l10n="NEW">Wiki мақалаларында тұрақты туралауды қолданбау керек. Сонда да, мәтінді сол жақ, оң жақ немесе ортасымен туралауға мүмкіндік бар.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="kk" level="3" l10n="NEW">Пішімделген мәтін</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="kk" l10n="NEW">Тең енді қаріпті қолданатын абзац стильдері пішімделген мәтінге түрлендіріледі. Пішімделген мәтін Wiki-де мәтін айналасындағы қоршаумен көрсетіледі.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="kk" level="2" l10n="NEW">Таңба стильдері</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="kk" l10n="NEW">Таңбалар стильдері абзацтың кейбір бөліктерінің сыртқы түрін өзгертеді. Келесі пішімдеулер түрлендіруіне қолдау бар: жуан, көлбеу, жуан көлбеу, жол үсті және жол асты жазулар. Тең енді барлық қаріптер Wiki-дің жазу машинкасы стиліне түрлендіріледі.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="kk" level="2" l10n="NEW">Нұсқамалар</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="kk" l10n="NEW">Ескерту: түрлендіру &lt;ref&gt; және &lt;references&gt; тэгтері бар түсірінділердің жаңа стилін қолданады, ол болса, MediaWiki-дің орнатылған Cite.php кеңейтуін талап етеді. Егер бұл тегтер қалыпты мәтін ретінде көрсетілсе, аталған кеңейтуді орнату үшін Wiki әкімшісіне хабарласыңыз.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="kk" level="2" l10n="NEW">Суреттер</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="kk" l10n="NEW">Суреттерді Wiki ішінде қолдану үшін экспорттау мүмкін емес. Бірақ, егер сурет алдын-ала мақсат Wiki доменіне (мысалы, WikiMedia Commons) жүктелген болса, суреттер сәйкес келетін сурет тегіне түрлендіріледі. Сонымен қатар, суреттер аттарына қолдау бар.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="kk" level="2" l10n="NEW">Кестелер</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="kk" l10n="NEW">Қарапайым кестелердің қолдауы жақсы. Кестелер тақырыптамалары сәйкес келетін Wiki кестелерінің тақырыптамалары стильдеріне түрлендіріледі. Бірақ, түрлендіру үрдісі кесте шекарасының арнайы пішімдеуін, бағандар өлшемдерін және кесте фонын елемейді.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="kk" level="3" l10n="NEW">Біріккен ұяшықтар</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="kk" l10n="NEW">OpenDocument and especially OpenOffice.org represent tables that have joined cells that span rows as tables with nested tables. In contrast, the wiki model of table is to declare column and row spans for such joined cells. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="kk" l10n="NEW">Егер жол ішіндегі бағандар біріккен болса, түрлендіру нәтижесі түпнұсқа құжатына өте жақын болады.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="kk" level="3" l10n="NEW">Шектер</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="kk" l10n="NEW">Irrespective of custom table styles for border and background, a table is always exported as &quot;<emph>prettytable&quot;</emph>, which renders in the Wiki engine with simple borders and bold header.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="kk" level="2" l10n="NEW">Кодталу және арнайы таңбалар</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="kk" l10n="NEW">Түрлендіру нәтижесі UTF-8 таңбалар кодтауында көрсетілетін болады. Егер сіздің жүйеңізде үнсіз келісім бойынша таңбалардың басқа кодтауы қолданылса, онда арнайы таңбалар қате көрсетілуі мүмкін. Ондай кезде сіз түзеткішті UTF-8 таңбалар кодтауына ауыстыра аласыз. Ал егер түзеткішіңіз UTF-8 кодтауындағы таңбаларды көрсетуді қолдамаса, түрлендіру нәтижесін Firefox браузерімен қарауға болады, оның ішінде UTF-8 кодтауын таңдау керек. Енді түрлендіру нәтижесін қиып алып, таңдауыңызша қолданбаға кірістіруіңізге болады.</paragraph>
+</body>
+</helpdocument>

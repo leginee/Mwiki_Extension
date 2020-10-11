@@ -1,0 +1,26 @@
+21 com.sun.wiki-publisher%2Fwiki.xhp 3e com.sun.wiki-publisher/wiki.xhphelp.jar„Wiki Publisher“
+20 vnd.com.sun.star.wiki%3Aaboutbox 4b ,com.sun.wiki-publisher/wiki.xhp#bm_id3159252help.jar„Wiki Publisher“
+1c vnd.com.sun.star.wiki%3Asend 4b ,com.sun.wiki-publisher/wiki.xhp#bm_id3159253help.jar„Wiki Publisher“
+21 com.sun.wiki-publisher%2Fwiki.xhp 4b ,com.sun.wiki-publisher/wiki.xhp#bm_id3154408help.jar„Wiki Publisher“
+28 com.sun.wiki-publisher%2Fwikiaccount.xhp 40 &com.sun.wiki-publisher/wikiaccount.xhphelp.jar„MediaWiki“
+1f vnd.com.sun.star.wiki%3Aaccount 4d 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id7021088help.jar„MediaWiki“
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 4d 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558244help.jar„MediaWiki“
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 4d 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558245help.jar„MediaWiki“
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4d 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558246help.jar„MediaWiki“
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 4d 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558247help.jar„MediaWiki“
+28 com.sun.wiki-publisher%2Fwikiformats.xhp 49 &com.sun.wiki-publisher/wikiformats.xhphelp.jar„MediaWiki“ formatai
+1f vnd.com.sun.star.wiki%3Aformats 56 3com.sun.wiki-publisher/wikiformats.xhp#bm_id7021088help.jar„MediaWiki“ formatai
+25 com.sun.wiki-publisher%2Fwikisend.xhp 48 #com.sun.wiki-publisher/wikisend.xhphelp.jarSiųsti į „MediaWiki“
+22 vnd.com.sun.star.wiki%3AsendDialog 55 0com.sun.wiki-publisher/wikisend.xhp#bm_id7021088help.jarSiųsti į „MediaWiki“
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 54 /com.sun.wiki-publisher/wikisend.xhp#bm_id735801help.jarSiųsti į „MediaWiki“
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 54 /com.sun.wiki-publisher/wikisend.xhp#bm_id735802help.jarSiųsti į „MediaWiki“
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 54 /com.sun.wiki-publisher/wikisend.xhp#bm_id735803help.jarSiųsti į „MediaWiki“
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 55 0com.sun.wiki-publisher/wikisend.xhp#bm_id2619708help.jarSiųsti į „MediaWiki“
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 55 0com.sun.wiki-publisher/wikisend.xhp#bm_id1293679help.jarSiųsti į „MediaWiki“
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton 54 /com.sun.wiki-publisher/wikisend.xhp#bm_id290536help.jarSiųsti į „MediaWiki“
+29 com.sun.wiki-publisher%2Fwikisettings.xhp 4b 'com.sun.wiki-publisher/wikisettings.xhphelp.jar„MediaWiki“ nuostatos
+20 vnd.com.sun.star.wiki%3Asettings 58 4com.sun.wiki-publisher/wikisettings.xhp#bm_id7021088help.jar„MediaWiki“ nuostatos
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 58 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6402783help.jar„MediaWiki“ nuostatos
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 58 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067384help.jar„MediaWiki“ nuostatos
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 58 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067385help.jar„MediaWiki“ nuostatos
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 58 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067386help.jar„MediaWiki“ nuostatos

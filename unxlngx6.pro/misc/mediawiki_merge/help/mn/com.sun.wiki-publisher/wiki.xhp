@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mn">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="mn" branch="index" id="bm_id3154408">&lt;bookmark_value&gt;Вики;@WIKIEXTENSIONPRODUCTNAME@&lt;/bookmark_value&gt;&lt;bookmark_value&gt;@WIKIEXTENSIONPRODUCTNAME@&lt;/bookmark_value&gt;&lt;bookmark_value&gt;өргөтгөлүүд;МедиаВики&lt;/bookmark_value&gt;</bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="mn" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="mn" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@-г хэрэглэснээр та идэвхтэй Бичээчийн бичвэр баримтыг МедиаВики серверт тавьж болно. Тавьсны дараа Викигийн бүх хэрэглэгч таны баримтыг унших боломжтой.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="mn" l10n="NEW"><ahelp hid="."><item type="menuitem">Файл - Илгээх - МедиаВики рүү</item>г сонгож идэвхтэй буй Бичээч баримтыг МедиаВики сервер рүү илгээнэ.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="mn" level="2" l10n="NEW">Системийн шаардлага</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="mn" l10n="NEW">StarOffice/StarSuite 8 Шинэчлэл 10</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="mn" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="mn" l10n="NEW">Жава ажиллах үеийн орчин 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="mn" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">МедиаВики</link> сервер дээр дэмжигдсэн Вики бүртгэл</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="mn" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@-г суулгаж байна</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="mn" l10n="NEW">Та @WIKIEXTENSIONPRODUCTNAME@-г суулгахынхаа өмнө, StarOffice буюу OpenOffice.org Жава Ажиллах Үеийн орчин (JRE) хэрэглэж байгаа эсэхийг нягтална уу. JRE төлөвийг шалгахдаа та <item type="menuitem">Хэрэгсэл - Тохиргоо -  StarOffice/OpenOffice.org - Жава</item> сонгоно уу. Мөн "Жава ажиллах үеийн орчин хэрэглэх" идэвхжсэн эсэхийг нягтлаад ямар нэг JRE-хувилбар сонголтын жагсаалтанд байгаа эсэхийг шалгана уу. Хэрэв JRE идэвхжээгүй байвал, та ямар нэг JRE 1.4 эсвэл хойшхи хувилбарыг идэвхжүүлээд StarOffice/OpenOffice.org-г шинээр эхлүүлнэ үү.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="mn" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@-г суулгах</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="mn" l10n="NEW">Бичээчийн цонхноос <item type="menuitem">Хэрэгсэл - Өргөтгөлийн удирдлага</item> сонгоно уу.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="mn" l10n="NEW">Өргөтгөлийн удирдлага диалогоос "нэмэх"-г дар.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="mn" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt файлын байрлалыг сонгоод, Нээх дээр дарсны дараа Хаах дээр дарна уу. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="mn" l10n="NEW">StarOffice/StarSuite/OpenOffice.org-г хаана уу, мөн түргэн эхлүүлэгч идэвхтэй байвал салгана уу.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="mn" l10n="NEW">Вики тохиргоог оруулахын тулд програмыг дахин ачаалаад, бичвэр баримт нээн <item type="menuitem">Хэрэгсэл - Тохируулга - Интернет - МедиаВики</item>-г сонгоод доор буй  "Викирүү холбогдох"-г харна уу.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="mn" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@-г устгах</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="mn" l10n="NEW">Бичээчийн цонхноос <item type="menuitem">Хэрэгсэл - Өргөтгөлийн удирдлага</item> сонгоно уу.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="mn" l10n="NEW">Миний өргөтгөлүүдийн урд буй нэмэх тэмдэг (+)-г товш.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="mn" l10n="NEW">Өргөтгөлөө сонгоод, Устгахыг дараад Хаах-г дар.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="mn" level="2" l10n="NEW">Вики рүү холбогдох</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="mn" l10n="NEW">Санамж: Та хэрэглэгчийн нэр болон нууц үгээ StarOffice/OpenOffice.org-н бүх диалог тус бүрийн хувьд хадгалах боломжтой. Нууц үгс Мастер нууц үгийн тусламжтай хандах боломжтойгоор түлхүүрлэгдэн хадгалагдана. Мастер нууц үг хийхийг хүсвэл та <item type="menuitem"> Хэрэгсэл - Тохиргоо - StarOffice/OpenOffice.org - Хамгаалалт</item>-г сонгоно уу.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="mn" l10n="NEW">Санамж: Хэрвээ та вэбд итгэмжлэгч сервер хэрэглэн холбогддог бол <item type="menuitem">Хэрэгсэл - Тохируулга - Интернет - Итгэмжлэгч</item>-д итгэмжлэгчийн мэдээллээ оруулаад програмыг дахин ачаална уу.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="mn" l10n="NEW">Бичээч баримт нээгээд, <item type="menuitem">Хэрэгсэл - Тохиргоо - Интернет - МедиаВики</item> сонгоно уу.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="mn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Тохируулга</link> диалогоос Нэмэх-г дар.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="mn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">МедиаВики</link> диалогт Викигийн бүртгэлийн мэдээллээ оруулна уу.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="mn" l10n="NEW">Хаяг (URL) бичвэр бокст, холбогдохыг хүсэж буй Викигийн хаягаа оруул.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="mn" l10n="NEW">Та вэб хөтчөөс хаягийг (URL) хуулж аван бичвэр бокст буулгаж болно.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="mn" l10n="NEW">Хэрэглэгчийн нэр хайрцагт өөрийн Вики бүртгэлийн хэрэглэгчийн нэрээ оруулна уу.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="mn" l10n="NEW">Вики нь нуугдмал хэрэглэгчийн бичих эрхийг зөвшөөрдөг бол та Хэрэглэгчийн нэр Нууц үг хайрцгуудыг хоосон орхиж болно.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="mn" l10n="NEW">Нууц үг хайрцагт өөрийн Вики бүртгэлийн нууц үгээ оруулаад ОК-г товш.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="mn" l10n="NEW">Та мөн нууц үгсээ тогтмол хадгалахыг хүсвэл "Нууц үг хадгалах"-г идэвхжүүлэх боломжтой. Хадгалагдсан бүх нууц үгс рүү хандахдаа Мастер нууц үг хэрэглэгдэнэ. Мастер нууц үг өгөхдөө, та <item type="menuitem">Хэрэгсэл - Тохиргооо - StarOffice/OpenOffice.org - Хамгаалалт</item>-г сонгоно уу. Хэрэв мастер нууц үг өгөгдөөгүй бол "Нууц үг хадгалах" боломжгүй.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="mn" level="2" l10n="NEW">Шинэ Вики хуудас үүсгэх</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="mn" l10n="NEW">Бичээч баримт нээнэ үү.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="mn" l10n="NEW">Вики хуудасны агуулгыг бичнэ үү. Та бичвэрийн хэлбэржилт, толгой, хөлийн тэмдэглэл болон өөр бусад хэлбэржилтүүдийг хэрэглэж болно.<link href="@WIKIEXTENSIONID@/wikiformats.xhp"> Дэмжигдсэн хэлбэржилтүүдийн жагсаалт</link>-г харна уу.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="mn" l10n="NEW"><item type="menuitem">Файл - Илгээх - МэдиаВики рүү</item> -г сонго.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="mn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">МедиаВики рүү илгээх</link> диалогт бичлэгийнхээ тохиргоог тодорхойл.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="mn" l10n="NEW"><emph>МедиаВики сервер</emph>: Вики сонго.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="mn" l10n="NEW">&lt;emph&gt;Гарчиг&lt;/emph&gt;: Хуудасныхаа гарчигийг оруул. Байгаа файлын гарчгийг өгвөл тухайн байгаар баримттайгаар дарж бичнэ. Викид шинэ хуудас үүсгэхдээ шинэ гарчиг өгнө үү.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="mn" l10n="NEW"><emph>Дүгнэлт</emph>: Өөрийн хуудасанд бага хэмжээний, сайн дурын дүгнэлт оруул.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="mn" l10n="NEW"><emph>Бяцхан өөрчлөлт</emph>: Ижил гарчигтай хуудасны бяцхан өөрчлөлтийг сервер рүү илгээхийн тул энэ тэмдэглэх талбарыг идэвхжүүлнэ үү.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="mn" l10n="NEW"><emph>Вэб хөтчид харуулах</emph>: Энэ талбарыг хэрээслэвэл таны системийн вэб толилуурыг нээн, өргөж өгөгдсөн Вики хуудсыг харуулна.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="mn" l10n="NEW">Илгээх-г дар.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

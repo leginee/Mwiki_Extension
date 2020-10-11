@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="or"> ମାଧ୍ଯମ ୱିକି ଫର୍ମାଟଗୁଡିକ</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="or" level="1" l10n="NEW"> ମାଧ୍ଯମ ୱିକି ଫର୍ମାଟଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="or" l10n="NEW">ନିମ୍ନଲିଖିତ ତାଲିକା ପାଠ୍ୟ ଶୈଳୀର ଗୋଟିଏ ପୂର୍ବାଲୋକନ ପ୍ରଦାନ କରିଥାଏ ଯାହାକୁକି@WIKIEXTENSIONPRODUCTNAME@ ୱିକି ସର୍ଭରରେ ରଖିପାରେ।</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="or" l10n="NEW">ଲେଖଙ୍କ ଦ୍ୱାରା ବ୍ୟବହୃତ OpenDocument ଶୈଳୀ ଏବଂ WikiMedia ଶୈଳୀ ଭିନ୍ନ ଅଟେ। କେବଳ ସମସ୍ତ ବିଶେଷ ଗୁଣଗୁଡ଼ିକର ଉପସେଟଗୁଡ଼ିକ ଗୋଟିଏ ଶୈଳୀରୁ ଅନ୍ୟ ଏକ ଶୈଳୀକୁ ପରିବର୍ତ୍ତିତ ହୋଇଥାଏ।</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="or" level="2" l10n="NEW">ଶୀର୍ଷକ</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="or" l10n="NEW">ଆପଣଙ୍କର ଲେଖିତ ଦଲିଲରେ ଗୋଟିଏ ଶୀର୍ଷକ ପାରାଗ୍ରାଫ ଶୈଳୀକୁ ପ୍ରୟୋଗ କରନ୍ତୁ। ୱିକି ସେହି ଶୀର୍ଷକ ଶୈଳୀକୁ ୱିକି ଯନ୍ତ୍ର ଦ୍ୱାରା ବ୍ୟାଖ୍ୟା କରାଯାଇଥିବା ସଜ୍ଜିକରଣ ଶୈଳୀ ଭାବରେ ଦର୍ଶାଇବ।</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="or" level="2" l10n="NEW">ହାଇପରଲିଙ୍କଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="or" l10n="NEW">ସ୍ଥାନୀୟ OpenDocument ହାଇପରଲିଙ୍କଗୁଡ଼ିକ &quot;external&quot; ୱିକି ସଂଯୋଗଗୁଡ଼ିକରେ ପରିବର୍ତ୍ତିତ ହୋଇଛି। ତେଣୁ, OpenDocumentର ସୁନିର୍ମିତ ସଂଯୋଗ ବ୍ୟବସ୍ଥାକୁ ୱିକି ବାହାରେ ଥିବା ଅନ୍ୟ ସାଇଟ ସହିତ ସଂଯୋଗ ସ୍ଥାପନ ପାଇଁ ବ୍ୟବହାର କରିବା ଉଚିତ। ସମାନ ୱିକି ଡମେନର ଅନ୍ୟ ବିଷୟ ସହିତ ୱିକି ସଂଯୋଗ ନିର୍ମାଣ କରିବା ପାଇଁ ୱିକି ସଂଯୋଗକୁ ବ୍ୟବହାର କରନ୍ତୁ।</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="or" level="2" l10n="NEW">ତାଲିକା</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="or" l10n="NEW">ସଂଖ୍ଯାଦେବା କିମ୍ବା ଗୁଳିଗୁଡିକ ରେ କିମ୍ବା ଫର୍ମାଟ ଗୁଳିଗୁଡିକ ଏବଂ ସଂଖ୍ଯାଦେବା ଏବଂ.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="or" level="2" l10n="NEW">ପରିଚ୍ଛେଦଗୁଡିକ</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="or" level="3" l10n="NEW">ପଂକ୍ତିକରଣ</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="or" l10n="NEW">ଟେଷ୍ଟ୍ ରେ ଟେଷ୍ଟ୍ ପାଇଁ ବାମ କେନ୍ଦ୍ରୀଯ ଏବଂ ଡାହାଣ ର ଟେଷ୍ଟ୍.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="or" level="3" l10n="NEW">ପୂର୍ବରୁ ସଜ୍ଜିକୃତ ପାଠ୍ୟ</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="or" l10n="NEW">A ପରିଚ୍ଛେଦ ସହିତ  ଓସାର ଟେଷ୍ଟ୍ ଟେଷ୍ଟ୍ ରେ ସହିତ  ଟେଷ୍ଟ୍.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="or" level="2" l10n="NEW">ଅକ୍ଷର ଶୈଳୀ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="or" l10n="NEW">ଅକ୍ଷର ର ର ପରିଚ୍ଛେଦ ମୋଟା ମୋଟା ଏବଂ ସମସ୍ତ ଓସାର.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="or" level="2" l10n="NEW">ପାଦଟିପପ୍ଣୀଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="or" l10n="NEW">ଟିପ୍ପଣୀ: ଏହି ପରିବର୍ତ୍ତନ &lt;ref&gt; ଏବଂ &lt;references&gt; ଟ୍ୟାଗ ସହିତ ନୂତନ ଶୈଳୀକୁ ବ୍ୟବହାର କରିଥାଏ ଯାହାକି ମେଡ଼ିଆ ୱିକି ସ୍ଥାପନ କରିବା ପାଇଁ Cite.php ଅନୁଲଗ୍ନ ଆବଶ୍ୟକ କରିଥାଏ। ଯଦି ସେହି ଟ୍ୟାଗଗୁଡ଼ିକ ସରଳ ପାଠ୍ୟ ଆକାରରେ ଥାଏ, ତେବେ ଏହି ଅନୁଲଗ୍ନକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ୱିକି ପ୍ରଶାସକଙ୍କୁ କୁହନ୍ତୁ।</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="or" level="2" l10n="NEW">ଚିତ୍ରଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="or" l10n="NEW">ପରିବହନ ଦ୍ୱାରା ଚିତ୍ରଗୁଡ଼ିକୁ ରପ୍ତାନି କରିହେବ ନାହିଁ। ତଥାପି, ଯଦି ଚିତ୍ରଟି ଲକ୍ଷ୍ୟ ୱିକି ଡମେନରେ ଧାରଣ ହୋଇଥିବ (ଯେପରି କି WikiMedia Commons), ତେବେ ପରିବହନ ବୈଧ ଚିତ୍ର ପ୍ରଦାନ କରିଥାଏ। ଚିତ୍ର ପ୍ରସଙ୍ଗଗୁଡ଼ିକ ମଧ୍ଯ ସମର୍ଥିତ।</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="or" level="2" l10n="NEW">ଟେବୁଲ୍ଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="or" l10n="NEW">ସହଜ ସାରଣୀଗୁଡ଼ିକ ମଧ୍ଯ ସମର୍ଥିତ। ସାରଣୀ ଶୀର୍ଷକଗୁଡ଼ିକ ୱିକି ଶୈଳୀରେ ଅନୁବାଦ ହୋଇଥାଏ। ତଥାପି, ସାରଣୀ ଧାର, ସ୍ତମ୍ଭ ଆକାର ଏବଂ ପୃଷ୍ଠଭୂମି ରଙ୍ଗର ଇଚ୍ଛାମୁତାବକ ସଜ୍ଜିକରଣକୁ ଅଗ୍ରାହ୍ୟ କରାଯାଇଥାଏ।</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="or" level="3" l10n="NEW">ମିଳିତ କୋଷଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="or" l10n="NEW">ଏବଂ ପଂକ୍ତିଗୁଡିକ ସହିତ  ରେ ର ସ୍ତମ୍ଭ ଏବଂ ପଂକ୍ତି ପାଇଁ </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="or" l10n="NEW">ସ୍ତମ୍ଭଗୁଡିକ ର ପଂକ୍ତି ର.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="or" level="3" l10n="NEW">ସୀମାଗୁଡିକ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="or" l10n="NEW">ଧାର ଏବଂ ପୃଷ୍ଠଭୂମୀ ପାଇଁ ଇଚ୍ଛାମୁତାବକ ସାରଣୀ ଶୈଳୀ ଥିବା ସତ୍ତ୍ୱେ, &quot;<emph>prettytable&quot;</emph> ପରି ଏକ ସାରଣୀ ସର୍ବଦା ରପ୍ତାନୀ ହୋଇଥାଏ, ଯାହାକି ୱିକି ଯନ୍ତ୍ରକୁ ସରଳ ଧାର ଏବଂ ଗାଢ଼ ଶୀର୍ଷକ ସହିତ ସଜାଡ଼ିଥାଏ।</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="or" level="2" l10n="NEW">ଅକ୍ଷର ସେଟ ଏବଂ ବିଶେଷ ଅକ୍ଷରଗୁଡ଼ିକ</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="or" l10n="NEW">ପରିବର୍ତ୍ତନ ଫଳାଫଳର ଅକ୍ଷର ସେଟକୁ UTF-8ରେ ସମାଧାନ କରାଯାଇଛି। ଆପଣଙ୍କର ତନ୍ତ୍ର ଉପରେ ନିର୍ଭର କରି, ଏହାକୁ ପୂର୍ବନିରିଦ୍ଧାରିତ ଅକ୍ଷର ସେଟ ଆକାରରେ ରଖାଯାଇପାରିବ ନାହିଁ। ଏହା &quot;special characters&quot; କୁ ଭାଙ୍ଗିଦେଇପାରେ। ତଥାପି, ଆପଣ ସମ୍ପାଦକକୁ UTF-8 ସାଙ୍କେତିକରଣକେ ପରିବର୍ତ୍ତନ କରିପାରିବେ। ଯଦି ଆପଣଙ୍କର ସମ୍ପାଦକ ସାଙ୍କେତିକରଣ ପରିବର୍ତ୍ତନକୁ ସମର୍ଥନ ନକରୁଥାଏ, ତେବେ ଆପଣ ଫଳାଫଳକୁ Firefox ବ୍ରାଉଜରରେ ଦର୍ଶାଇପାରିବେ ଏବଂ UTF-8 କୁ ସେଠାରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ। ବର୍ତ୍ତମାନ, ଆପଣ ସେହି ପରିବର୍ତ୍ତନ ଫଳାଫଳକୁ ପସନ୍ଦ ତାଲିକାରେ କାଟିକରି ଲଗାଇପାରିବେ।</paragraph>
+</body>
+</helpdocument>

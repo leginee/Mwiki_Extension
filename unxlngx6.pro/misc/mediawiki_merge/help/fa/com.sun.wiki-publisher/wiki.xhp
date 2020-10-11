@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="fa">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="fa" branch="index" id="bm_id3154408"><bookmark_value>ویکی;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>افزونه‌ها;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="fa" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="fa" l10n="NEW"><ahelp hid=".">با استفاده از @WIKIEXTENSIONPRODUCTNAME@ می‌توانید همین سند متنی را در سرور MediaWiki آپلود کنید. پس از آپلود, همه‌ی کاربران ویکی میتوانند سند شما را روی ویکی مطالعه کنند.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="fa" l10n="NEW"><ahelp hid=".">از منوی <item type="menuitem">فایل - ارسال - به MediaWiki</item> برای آپلود سند متنی جاری به سرور MediaWiki استفاده کنید.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="fa" level="2" l10n="NEW">پیش‌نیازهای سیستم</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="fa" l10n="NEW">StarOffice/StarSuite نسخه ۹</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="fa" l10n="NEW">OpenOffice.org نسخه‌ی ۳/۰</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="fa" l10n="NEW">محیط اجرایی جاوا نسخه ۱/۴</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="fa" l10n="NEW">حساب کاربری ویکی برای یک سرورِ پشتیبانی‌شده‌ی <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="fa" level="2" l10n="NEW">در حال نصب @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="fa" l10n="NEW">قبل از نصبِ @WIKIEXTENSIONPRODUCTNAME@ مطمئن شوید که %PRODUCTNAME از محیط اجراییِ جاوا (JRE) استفاده می‌کند. برای بررسیِ وضعیت JRE, منویِ <item type="menuitem">ابزار - انتخاب‌ها - %PRODUCTNAME - جاوا</item> را انتخاب کنید. اطمینان حاصل کنید که &quot;استفاده از محیط اجراییِ جاوا&quot; و پوشه اجراییِ جاوا در جعبه بزرگ انتخاب شده است. اگر هیچ JRE فعال نبود, JRE نسخه ۱/۴ یا بالاتر را فعال کرده و %PRODUCTNAME را ریستارت کنید.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="fa" level="3" l10n="NEW">برای نصب @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="fa" l10n="NEW">در پنجره‌ی Writer منوی <item type="menuitem"> ابزار‌ها - مدیریت افزونه</item> را انتخاب کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="fa" l10n="NEW">در پنجره‌ی مدیریت افزونه روی اضافه (Add) کلیک کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="fa" l10n="NEW">مکان فایل @WIKIEXTENSIONFILENAME@.oxt را مشخص کنید, روی &quot;باز کردن&quot; (Open) کلیک و سپس روی &quot;بستن&quot; (Close) کلیک کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="fa" l10n="NEW">%PRODUCTNAME را ببندید, همچنین در صورت فعال بودن Quickstarter آن را نیز ببندید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="fa" l10n="NEW">نرم‌افزار را ببندید و دوباره اجرا کنید, یک سند متنی باز کنید, سپس منوی <item type="menuitem">ابزار - انتخاب‌ها - اینترنت - MediaWiki</item> را برای وارد کردن تنظیمات ویکی انتخاب کنید. قسمت &quot;اتصال به یک ویکی&quot; را ببینید.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="fa" level="3" l10n="NEW">برای حذف @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="fa" l10n="NEW">در پنجره‌ی Writer منوی <item type="menuitem">ابزار - مدیریت افزونه</item> را انتخاب کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="fa" l10n="NEW">روی علامت (+) جلوی &quot;افزونه‌های من&quot; کلیک کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="fa" l10n="NEW">افزونه موردنظر را انتخاب کنید, روی &quot;حذف&quot; و سپس روی &quot;بستن&quot; کلیک کنید.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="fa" level="2" l10n="NEW">برای اتصال به ویکی</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="fa" l10n="NEW">اعلان: شما می‌توانید تمامی اطلاعات نام‌کاربری و گذرواژه مربوط به پنجره‌های داخل %PRODUCTNAME را ذخیره کنید. گذرواژه به شیوه‌ی امنی ذخیره خواهد شد به صورتی که فقط با گذرواژه مستر می‌توان به آن دسترسی پیدا کرد. برای فعال‌سازیِ گذرواژه مستر منوی <item type="menuitem">ابزار‌ها - انتخاب‌ها - %PRODUCTNAME - امنیت</item> را انتخاب کنید.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="fa" l10n="NEW">اعلان: اگر از طریق یک سرور پراکسی به وب متصل می‌شوید اطلاعات پراکسی را در منوی <item type="menuitem">ابزار‌ها - انتخاب‌ها - اینترنت - پراکسی</item> وارد کنید و نرم‌افزار را دوباره اجرا کنید.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="fa" l10n="NEW">یک سندِ درون Writer باز کنید و منوی <item type="menuitem">ابزار‌ها - انتخاب‌ها - اینترنت - MediaWiki</item> را انتخاب کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="fa" l10n="NEW">در پنجره <link href="@WIKIEXTENSIONID@/wikisettings.xhp">انتخاب‌ها</link> روی &quot;اضافه&quot; کلیک کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="fa" l10n="NEW">در پنجره‌ی <link href="@WIKIEXTENSIONID@/wikiaccount.xhp"> MediaWiki</link> اطلاعات حساب کاربری را وارد کنید.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="fa" l10n="NEW">در کادر URL, آدرس ویکی را که قصد دارید به آن متصل شوید وارد کنید.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="fa" l10n="NEW">شما می‌توانید URL را از مرورگرِ وب کپی کنید و آن را در کادر paste کنید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="fa" l10n="NEW">در کادر Username شناسه‌ی کاربریِ حساب ویکی خود را وارد کنید.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="fa" l10n="NEW">اگر ویکی اجازه نوشتنِ بی‌نام‌و‌نشان (anonymous) را می‌دهد می‌توانید کادرهای Username و Password را خالی بگذارید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="fa" l10n="NEW">در کادر Password گذرواژه‌ی حساب ویکی خود را وارد کنید.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="fa" l10n="NEW">Optionally enable &quot;Save password&quot; to save the password between sessions. A master password is used to maintain access to all saved passwords. Choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> to enable the master password. &quot;Save password&quot; is unavailable when the master password is not enabled.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="fa" level="2" l10n="NEW">برای ایجاد یک صفحه‌ی جدید ویکی</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="fa" l10n="NEW">Open a Writer document.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="fa" l10n="NEW">محتویات صفحه‌ی ویکی را بنویسید. شما می‌توانید از قالب‌های متن, عنوان, پاورقی و غیره استفاده کنید. لیست قالب‌های پشتیبانی شده را از <link href="@WIKIEXTENSIONID@/wikiformats.xhp">اینجا</link> ببینید.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="fa" l10n="NEW">Choose <item type="menuitem">File - Send - To MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="fa" l10n="NEW">در کادر <link href="@WIKIEXTENSIONID@/wikisend.xhp">ارسال به MediaWiki</link> تنظیمات برای نوشته‌ی خود را مشخص کنید.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="fa" l10n="NEW"><emph>سرورِ MediaWiki</emph>: ویکی مورد نظر را انتخاب کنید.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="fa" l10n="NEW"><emph>Title</emph>: Type the title of your page. Type the title of an existing page to overwrite the page with your current text document. Type a new title to create a new page on the Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="fa" l10n="NEW"><emph>خلاصه</emph>: در صورت تمایل یک خلاصه‌ی کوچک از صفحه‌ی خود بنویسید.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="fa" l10n="NEW"><emph>This is a minor edit</emph>: Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="fa" l10n="NEW"><emph>نمایش در مرورگر وب</emph>: برای نمایش صفحه‌ی ویکیِ آپلود‌شده در مرورگر سیستمتان این جعبه را علامت بزنید.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="fa" l10n="NEW">روی &quot;ارسال&quot; کلیک کنید.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

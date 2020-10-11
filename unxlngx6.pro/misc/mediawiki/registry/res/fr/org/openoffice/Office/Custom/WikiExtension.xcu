@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="fr">L'opération 'Envoyer à MediaWiki' n'a pas pu être complétée correctement.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="fr">Impossible de trouver le filtre d'export MediaWiki. Choisissez 'Paramétrages du filtre XML' pour installer le filtre ou utilisez le setup pour installer le composant.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="fr">Impossible de créer une connexion au système MediaWiki à '$ARG1'.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="fr">Nom d'utilisateur ou mot de passe incorrect. Veuillez essayer de nouveau ou laisser les champs vides pour une connexion anonyme.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="fr">Impossible de créer une connexion car l'URL n'est pas valide.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="fr">Indiquez un serveur MediaWiki en fournissant un URL.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="fr">Le transfert a été interrompu. Veuillez vérifier l'intégrité de l'article wiki.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="fr">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="fr">~Nom d'utilisateur</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="fr">~Mot de passe</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="fr">Envoyer à MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="fr">Article Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="fr">Non</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="fr">OK</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="fr">Oui</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="fr">~Ajouter...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="fr">~Éditer...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="fr">En~voyer</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="fr">~Supprimer</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="fr">Il n'existe pas encore d'article wiki ayant pour titre '$ARG1'. Voulez-vous créer un nouvel article portant ce nom ?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="fr">Serveur Media~Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="fr">~Titre</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="fr">~Résumé</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="fr">C'est une édition ~mineure</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="fr">Afficher dans le navigateur ~Web</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="fr">Le certificat du site sélectionné est inconnu.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="fr">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="fr">Compte</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="fr">Serveur MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="fr">Enregistrer le mot de ~passe</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="fr">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="fr">Un article de wiki, dont le titre est '$ARG1', existe déjà.&amp;#13;&amp;#13; Voulez-vous remplacer celui-ci par le votre ?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

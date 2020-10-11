@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="ca-XR">L'operació 'Enviar a MediaWiki' no s'ha pogut completar correctament.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="ca-XR">No s'ha trobat el filtre de exportacio a MediaWiki. Escullga 'Ferramentes-Configuració de filtre XML' per a instalar el filter, o utilice la configuració de l'instalació per a instalar el component.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="ca-XR">No s'ha pogut crear una conexió al servidor MediaWiki de '$ARG1'.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="ca-XR">L'usuari o contrasenya no son correctes. Per favor, intente-ho de nou, o deixe els camps en blanc per a una conexió anònima.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="ca-XR">No s'ha pogut crear una conexió perque l'URL no és vàlida.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="ca-XR">Especifique un servidor MediaWiki proporcionant una URL.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="ca-XR">La transferència ha segut interrompuda. Per favor, verifique la integritat de l'articul wiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="ca-XR">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="ca-XR">~Usuari</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="ca-XR">~Contrasenya</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="ca-XR">Enviar a MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="ca-XR">Artícul Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="ca-XR">No</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="ca-XR">Acceptar</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="ca-XR">Si</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="ca-XR">~Afegir...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="ca-XR">~Editar...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="ca-XR">En~viar</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="ca-XR">~Eliminar</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="ca-XR">L'artícul de wiki en el títul '$ARG1' no existix encara. ¿Vol crear un nou artícul en este nom?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="ca-XR">Servidor Media~Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="ca-XR">~Titul</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="ca-XR">Res~um</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="ca-XR">Esta es una edició ~menor</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="ca-XR">Mostrar en el ~navegador web</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="ca-XR">El certificat del servidor seleccionat es desconegut.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="ca-XR">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="ca-XR">Conte</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="ca-XR">Servidor MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="ca-XR">~Guardar contrasenya</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="ca-XR">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="ca-XR">Ya existix un artícul wiki en el títul '$ARG1' .&amp;#13;&amp;#13;Desija reemplaçar l'artícul existent en el seu artícul?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

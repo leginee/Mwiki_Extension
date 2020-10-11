@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ar">تنسيقات MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ar" level="1" l10n="NEW">تنسيقات MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ar" l10n="NEW">تقدم القائمة التالية نظرة عامة حول تنسيقات النص التي يُمكن لـ @WIKIEXTENSIONPRODUCTNAME@ تحميلها إلى خادم Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ar" l10n="NEW">يختلف تنسيق OpenDocument المستخدم بواسطة Writer وتنسيق WikiMedia عن بعضهما البعض. يمكنك تحويل مجموعة فرعية من كافة المزايا فقط من تنسيق لآخر.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ar" level="2" l10n="NEW">ترويسات</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ar" l10n="NEW">تطبيق نمط فقرة عنوان للعناوين في مستند Writer. سيعرض Wiki أنماط العناوين لنفس مستوى التخطيط، منسق كما تم تحديده بواسطة محرك Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ar" level="2" l10n="NEW">ارتباطات تشعبية</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ar" l10n="NEW">يتم تحويل الارتباطات التشعبية OpenDocument الأصلية إلى ارتباطات Wiki &quot;خارجية&quot;. لذلك، لا ينبغي استخدام أداة إنشاء الارتباط المضمنة الخاصة بـ OpenDocument إلا لإنشاء ارتباطات تشير إلى مواقع أخرى خارج ويب Wiki. لإنشاء ارتباطات Wiki تشير إلى مواضيع أخرى لنفس مجال Wiki، استخدم ارتباطات Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ar" level="2" l10n="NEW">القوائم</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ar" l10n="NEW">ُمكنك تصدير القوائم بشكل موثوق به عندما تستخدم القائمة بأكملها نمط قائمة مستمرًا. استخدم رمز الترقيم أو التعداد النقطي لإنشاء قائمة في Writer. إذا كنت ترغب في الحصول على قائمة بدون تعداد رقمي أو تعداد نقطي، استخدم &quot;تنسيق - تعداد نقطي وتعداد رقمي&quot; لتحديد نمط القائمة الخاص وتطبيقه.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ar" level="2" l10n="NEW">فقرات</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ar" level="3" l10n="NEW">محاذاة</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ar" l10n="NEW">لا يجب استخدام محاذاة النص الصريحة في مقالات Wiki. وعلى الرغم من ذلك، يتم دعم محاذاة النص لمحاذاة النص إلى اليسار والمنتصف واليمين.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ar" level="3" l10n="NEW">نص مُنسق مسبقًا</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ar" l10n="NEW">يتم تحويل نمط لفقرة ذات عرض ثابت للخط كنص منسق مسبقًا. يظهر النص المنسق مسبقًا على Wiki بحد حول النص.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ar" level="2" l10n="NEW">أنماط الأحرف</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ar" l10n="NEW">تعمل أنماط الأحرف على تعديل مظهر أجزاء فقرة. يدعم التحويل الأنماط غامق ومائل وغامق/مائل ومنخفض ومرتفع. يتم تحويل كافة الخطوط ذات العرض الثابت إلى نمط الآلة الكاتبة لموقع Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ar" level="2" l10n="NEW">حواشي سفلية</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ar" l10n="NEW">ملاحظة: تستخدم عملية التحويل النمط الجديد للحواشي السفلية مع العلامتين &lt;ref&gt; و &lt;references&gt;والذي يتطلب تثبيت Cite.php على MediaWiki. في حالة ظهور هذه العلامات كنص بسيط في نتيجة التحويل، اطلب من مسئول Wiki تثبيت هذا الامتداد.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ar" level="2" l10n="NEW">الصور</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ar" l10n="NEW">يتعذر تصدير الصور بواسطة عملية تحويل تؤدي للحصول على ملف مفرد من نص Wiki. ومع ذلك، في حالة تحميل الصورة بالفعل إلى مجال موقع Wiki المقصود (على سبيل المثالWikiMedia Commons) فسينتج عن عملية التحويل علامة صورة صالحة تشتمل على الصورة. يتم دعم تسميات الصور أيضًا.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ar" level="2" l10n="NEW">الجداول</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ar" l10n="NEW">كما يتم أيضًا دعم الجداول البسيطة. يتم ترجمة رؤوس الجدول إلى رؤوس جدول بنمط Wiki المقابل. وعلى كل حال، يتم تجاهل التنسيق المخصص لحدود الجدول وأحجام العمود وألوان الخلفية.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ar" level="3" l10n="NEW">خلايا متصلة</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ar" l10n="NEW">يمثل OpenDocument وخاصةً OpenOffice.org الجداول التي تحتوي على خلايا متصلة تشتمل على صفوف كجداول ذات جداول متداخلة. وعلى الجانب الآخر، يقوم نموذج Wiki بتعريف امتدادات الأعمدة والصفوف لتلك الخلايا المتصلة. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ar" l10n="NEW">في حالة ارتباط الأعمدة فقط لنفس الصف، فإن نتيجة التحويل تشبه مستند المصدر بشكل جيد جدًا.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ar" level="3" l10n="NEW">الحدود</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ar" l10n="NEW">بغض النظر عن أنماط الجدول المخصصة للحدود والخلفية، يتم دائمًا تصدير جدول باعتباره &quot;<emph>prettytable&quot;</emph>، والذي يعمل في محرك موقع Wiki بحدود بسيطة ورأس صفحة غامق.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ar" level="2" l10n="NEW">مجموعة الأحرف والحروف الخاصة</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ar" l10n="NEW">يتم تثبيت نتيجة مجموعة الأحرف للتحويل على UTF-8. واستنادًا إلى نوع النظام، فقد لا تكون تلك المجموعة الافتراضية للحروف. وقد يؤدي ذلك إلى &quot;حروف خاصة&quot; تبدو غير سليمة عند عرضها مع الإعدادات الافتراضية. ومع ذلك، يُمكنك تغيير المحرر إلى UTF-8 لإصلاح ذلك. إذا لم يدعم المحرر تغيير الترميز، فإنه يُمكنك عرض نتيجة التحويل في مستعرض Firefox وتغيير الترميز إلى UTF-8 هناك. الآن، يُمكنك قص نتيجة التحويل ولصقها إلى البرنامج الذي تختاره.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="he">לא ניתן להשלים את פעולת ה'שליחה למדיה ויקי'.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="he">מסנן היצוא למדיה ויקי לא נמצא. נא לבחור 'כלים' -&gt; ,הגדרת מסנני XML' כדי להתקין מסנן, או להשתמש בתוכנית ההתקנה להתקין את מרכיב המדיה ויקי.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="he">נסיון ההתחברות לשרת מדית הויקי ב '$ARG1' נכשל.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="he">שם המשתמש או הסיסמה או שניהם לא תקפים. נא לנסות שוב, או לבצע חיבור בעילום שם על-ידי השארת השדות ריקים.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="he">לא ניתן להתחבר כי הכתובת (URL) אינה חוקית.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="he">יש לציין שרת MediaWiki על-ידי ציון כתובת (URL).</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="he">ההעברה לשרת הויקי הופסקה. נא לבדוק את שלמות הכתבה.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="he">~כתובת (URL)</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="he">שם משתמש</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="he">~סיסמה</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="he">שליחה למדיה ויקי</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="he">כתבת ויקי</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="he">לא</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="he">אישור</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="he">כן</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="he">הוספה...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="he">עריכה...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="he">שליחה</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="he">הסרה</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="he">כתבת ויקי בעלת שם '$ARG1' לא קיימת. האם ליצור כתבה עם שם זה?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="he">שרת מדיה ויקי</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="he">כותרת</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="he">סיכום</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="he">זאת עריכה מזערית</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="he">תצוגה ב~דפדפן</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="he">החתימה הספרתית של האתר לא מוכרת.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="he">מדיה ויקי</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="he">חשבון</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="he">שרת מדיה ויקי</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="he">~שמירת סיסמה</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="he">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="he">כתבת ויקי עם הכותרת '$ARG1' כבר קיימת.#13;&amp;#13;האם אתה מעוניין להחליף את הכתבה הנוכחית בכתבה שלך?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

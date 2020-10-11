@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="vi">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="vi" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="vi" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="vi" l10n="NEW"><ahelp hid=".">Bằng cách sử dụng @WIKIEXTENSIONPRODUCTNAME@, bạn có thể tải tài liệu văn bản Soạn Thảo hiện tại lên một máy chủ MediaWiki. Sau khi tải lên thì mọi người dùng Wiki đều có thể đọc tài liệu của bạn trên Wiki đó.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="vi" l10n="NEW"><ahelp hid=".">Chọn <item type="menuitem">Tập tin &gt; Gửi &gt; Đến MediaWiki</item> để tải tài liệu hiện tại thuộc phần Soạn Thảo lên một máy chủ MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="vi" level="2" l10n="NEW">Yêu cầu Hệ thống</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="vi" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="vi" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="vi" l10n="NEW">Môi trường chạy Java 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="vi" l10n="NEW">Một tài khoản Wiki trên một máy chủ <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> được hỗ trợ.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="vi" level="2" l10n="NEW">Cài đặt @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="vi" l10n="NEW">Trước khi bạn cài đặt @WIKIEXTENSIONPRODUCTNAME@, hãy bảo đảm rằng phần mềm StarOffice hay OpenOffice.org sử dụng một môi trường chạy Java (JRE: Java Runtime Environment). Để kiểm tra trạng thái của JRE, chọn mục trình đơn <item type="menuitem">Công cụ &gt; Tùy chọn &gt; StarOffice/OpenOffice.org &gt; Java</item>. Chắc chắn rằng mục tùy chọn \&quot;Dùng môi trường lúc chạy Java\&quot; được bật, đồng thời thư mục chạy Java được chọn trong hộp liệt kê lớn. Nếu chưa kích hoạt môi trường JRE thì hãy kích hoạt một phiên bản JRE 1.4 hay mới hơn, sau đó khởi động  lại chương trình StarOffice/OpenOffice.org.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="vi" level="3" l10n="NEW">Để cài đặt @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="vi" l10n="NEW">Trong một cửa sổ Soạn Thảo, chọn mục trình đơn <item type="menuitem">Công cụ &gt; Bộ Quản lý Phần mở rộng</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="vi" l10n="NEW">Trong hộp thoại Bộ Quản lý Phần mở rộng, bấm nút Thêm.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="vi" l10n="NEW">Tìm tập tin @WIKIEXTENSIONFILENAME@.oxt, bấm nút Mở, sau đó bấm nút Đóng. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="vi" l10n="NEW">Đóng %PRODUCTNAME và Quickstarter nếu đang chạy</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="vi" l10n="NEW">Khởi chạy lại phần mềm, mở một tài liệu văn bản, sau đó chọn mục trình đơn <item type="menuitem">Công cụ - Tùy chọn - Internet - MediaWiki</item> để nhập thiết lập Wiki riêng. Xem &quot;Kết nối tới một Wiki&quot; bên dưới.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="vi" level="3" l10n="NEW">Gỡ bỏ @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="vi" l10n="NEW">Trong một cửa sổ Soạn Thảo, chọn mục trình đơn <item type="menuitem">Công cụ &gt; Bộ Quản lý Phần mở rộng</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="vi" l10n="NEW">Nhấn vào dấu cộng (+) phía trước « Phần mở rộng của tôi ».</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="vi" l10n="NEW">Chọn phần mở rộng, bấm nút Gỡ Bỏ, sau đó bấm Đóng.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="vi" level="2" l10n="NEW">Kết nối tới một Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="vi" l10n="NEW">Ghi chú : bạn có thể lưu lại tên người dùng và mật khẩu cho tất cả các hộp thoại tương ứng bên trong StarOffice/OpenOffice.org. Mật khẩu sẽ được cất giữ bằng một cách bảo mật, truy cập được bảo vệ bằng một mật khẩu chủ. Để bật mật khẩu chủ, chọn mục trình đơn <item type="menuitem">Công cụ &gt; Tùy chọn &gt; StarOffice/OpenOffice.org &gt; Bảo mật</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="vi" l10n="NEW">Ghi chú : nếu bạn kết nối tới Web qua máy phục vụ ủy nhiệm, nhập thông tin về máy phục vụ ủy nhiệm dưới <item type="menuitem">Công cụ &gt; Tùy chọn &gt; Internet &gt; Ủy nhiệm</item>, sau đó khởi chạy lại phần mềm.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="vi" l10n="NEW">Mở một tài liệu Soạn Thảo, sau đó chọn mục trình đơn <item type="menuitem">Công cụ - Tùy chọn - Internet -&gt; MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="vi" l10n="NEW">Trong hộp thoại <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Tùy chọn</link>, nhấn vào nút Thêm.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="vi" l10n="NEW">Trong hộp thoại <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, nhập thông tin tài khoản cho Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="vi" l10n="NEW">Trong hộp văn bản URL, gõ địa chỉ của một Wiki tới đó bạn muốn kết nối.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="vi" l10n="NEW">Bạn cũng có thể sao chép địa chỉ URL từ trình duyệt Web, sau đó dán nó vào hộp văn bản.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="vi" l10n="NEW">Trong hộp Tên người dùng, gõ tên người dùng của tài khoản Wiki của bạn.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="vi" l10n="NEW">Nếu Wiki cho phép truy cập ghi nặc danh, bạn có thể bỏ trống hai hộp Tên người dùng và Mật khẩu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="vi" l10n="NEW">Trong hộp Mật khẩu, gõ mật khẩu của tài khoản Wiki của bạn, sau đó bấm nút OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="vi" l10n="NEW">Bạn cũng có thể bật tùy chọn &quot;Lưu mật khẩu&quot; để lưu lại mật khẩu giữa hai buổi đăng nhập. Một mật khẩu chủ được sử dụng để điều khiển truy cập vào các mật khẩu đã lưu. Chọn mục trình đơn <item type="menuitem">Công cụ &gt; Tùy chọn &gt; StarOffice/OpenOffice.org &gt; Bảo mật</item> để bật mật khẩu chủ. Không bật mật khẩu chủ thì không thể sử dụng tùy chọn &quot;Lưu mật khẩu&quot; này.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="vi" level="2" l10n="NEW">Tạo một trang Wiki mới</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="vi" l10n="NEW">Mở một tài liệu Soạn Thảo.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="vi" l10n="NEW">Ghi nội dung của bài Wiki bạn muốn tạo. Cũng có thể sử dụng mã định dạng, v.d. định dạng văn bản, tiêu đề, cước chú. Xem <link href="@WIKIEXTENSIONID@/wikiformats.xhp">danh sách các định dạng đã hỗ trợ</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="vi" l10n="NEW">Chọn mục trình đơn <item type="menuitem">Tập tin &gt; Gửi &gt; Cho MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="vi" l10n="NEW">Trong hộp thoại <link href="@WIKIEXTENSIONID@/wikisend.xhp">Gửi cho MediaWiki</link>, hãy ghi rõ thiết lập cho mục nhập của bạn.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="vi" l10n="NEW"><emph>Máy phục vụ MediaWiki</emph>: chọn Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="vi" l10n="NEW"><emph>Tựa đề</emph>: gõ tựa đề của bài của bạn. Gõ tựa đề của một trang đã có, để ghi đề lên nó bằng tài liệu văn bản hiện tại. Gõ một tựa đề mới để tạo một trang mới trong Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="vi" l10n="NEW"><emph>Tóm tắt</emph>: (tùy chọn) tóm tắt trang của bạn.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="vi" l10n="NEW"><emph>Sửa đổi nhỏ</emph> : bật tùy chọn này để ngụ ý trang được tải lên chỉ sửa đổi một ít trang đã có cùng tên.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="vi" l10n="NEW"><emph>Hiện trong trình duyệt Web</emph>: bật tùy chọn này để mở trình duyệt Web trên máy của bạn và hiển thị trang Wiki vừa mới tải lên.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="vi" l10n="NEW">Bấm nút <emph>Gửi</emph>.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

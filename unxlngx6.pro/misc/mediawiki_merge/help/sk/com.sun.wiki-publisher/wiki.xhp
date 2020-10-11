@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sk">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sk" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>rozšírenia;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sk" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sk" l10n="NEW"><ahelp hid=".">S použitím @WIKIEXTENSIONPRODUCTNAME@ môžete odoslať váš aktuálny textový dokument na server MediaWiki. Po odoslaní môžu všetci používatelia wiki čítať váš dokument na Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sk" l10n="NEW"><ahelp hid=".">Pre odoslanie aktuálneho dokumentu Writer do MediaWiki zvoľte <item type="menuitem">Súbor - Odoslať - Do MediaWiki</item>.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sk" level="2" l10n="NEW">Systémové požiadavky</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sk" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sk" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sk" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sk" l10n="NEW">Wiki účet na podporovanom <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> serveri</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sk" level="2" l10n="NEW">Inštalujem @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sk" l10n="NEW">Pred inštaláciou @WIKIEXTENSIONPRODUCTNAME@ sa uistite že %PRODUCTNAME používa Java Runtime Environment (JRE). Pre kontrolu stavu JRE zvoľte <item type="menuitem">Nástroje - Možnosti - %PRODUCTNAME - Java</item>. Uistite sa že &quot;Použiť Java Runtime Environment&quot; je označené a že je vybraný priečinok Java runtime v uvedenom zozname. V prípade, že nebolo aktivované žiadne JRE, aktivujte JRE 1.4 alebo vyššie a reštartujte %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sk" level="3" l10n="NEW">Pre inštaláciu @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sk" l10n="NEW">V okne Writer-a zvoľte <item type="menuitem">Nástroje - Správca rozšírení</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sk" l10n="NEW">V dialógovom okne Správcu rozšírení kliknite na Pridať.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sk" l10n="NEW">Nájdite súbor @WIKIEXTENSIONFILENAME@.oxt, kliknite na Otvoriť a potom kliknite na Zatvoriť. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sk" l10n="NEW">Zatvorte %PRODUCTNAME, a taktiež zatvorte Quickstarter v prípade, že je zapnutý.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sk" l10n="NEW">Reštartujte softvér, otvorte textový dokument a potom zvoľte <item type="menuitem">Nástroje - Možnosti - Internet - MediaWiki</item> pre zadanie vašich Wiki nastavení.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sk" level="3" l10n="NEW">Pre odstránenie @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sk" l10n="NEW">V okne Writer-a zvoľte <item type="menuitem">Nástroje - Správca rozšírení</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sk" l10n="NEW">Kliknite na znamienko plus (+) pred Moje rozšírenia.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sk" l10n="NEW">Vyberte rozšírenie, kliknite na Odstrániť a potom kliknite na Zatvoriť.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sk" level="2" l10n="NEW">Pre pripojenie na Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sk" l10n="NEW">Poznámka: Pre všetky príslušné dialógové okná si môžete uložiť vaše používateľské meno a heslo v %PRODUCTNAME. Heslo bude uložené bezpečným spôsobom, kde je prístup chránený hlavným heslom. Pre zapnutie hlavného hesla, zvoľte <item type="menuitem">Nástroje - Možnosti - %PRODUCTNAME - Bezpečnosť</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sk" l10n="NEW">Poznámka: V prípade, že pre prístup k webu používate proxy server, zadajte informácie o proxy do <item type="menuitem">Nástroje - Možnosti - Internet - Proxy</item> a reštartuje softvér.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sk" l10n="NEW">Otvorte dokument Writer-a a zvoľte <item type="menuitem">Nástroje - Možnosti - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sk" l10n="NEW">V dialógovom okne <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Možnosti</link> kliknite na Pridať.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sk" l10n="NEW">V dialógovom okne <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> zadajte informácie o účte pre Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sk" l10n="NEW">V textovom poli URL zadajte adresu Wiki, ku ktorému sa chcete pripojiť.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sk" l10n="NEW">Môžete kopírovať adresu URL z webového prehliadača a vložiť ju do textového poľa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sk" l10n="NEW">V poli Používateľské meno zadajte vaše používateľské ID pre váš Wiki účet.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sk" l10n="NEW">V prípade, že Wiki dovoľuje anonymný prístup, môžete nechať polia Používateľské meno a Heslo prázdne.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sk" l10n="NEW">V poli Heslo zadajte heslo pre váš Wiki účet a potom kliknite na OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sk" l10n="NEW">Môžete taktiež zapnúť &quot;Uložiť heslo&quot; pre uloženie heslo medzi sedeniami. Pre prístup ku všetkým uloženým heslám sa používa hlavné heslo. Zvoľte <item type="menuitem">Nástroje - Možnosti - %PRODUCTNAME - Bezpečnosť</item> pre zapnutie hlavného hesla. Možnosť &quot;Uložiť heslo&quot; nie je dostupná v prípade, že nie je zapnuté hlavné heslo.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sk" level="2" l10n="NEW">Pre vytvorenie novej Wiki Strany</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sk" l10n="NEW">Otvorte dokument Writer-a.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sk" l10n="NEW">Napíšte obsah Wiki strany. Môžete požiť formátovanie ako formáty textu, nadpisy, poznámky pod čiarou a ďalšie. Prezrite si <link href="@WIKIEXTENSIONID@/wikiformats.xhp">zoznam podporovaných formátov</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sk" l10n="NEW">Zvoľte <item type="menuitem"> Súbor - Odoslať - do MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sk" l10n="NEW">V dialógovom okne <link href="@WIKIEXTENSIONID@/wikisend.xhp">Odoslať do MediaWiki</link> určite nastavenia pre vašu položku.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sk" l10n="NEW"><emph>MediaWiki server</emph>: Vyberte Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sk" l10n="NEW"><emph>Nadpis</emph>: Napíšte nadpis vašej strany. Napíšte nadpis už existujúcej strany pre prepísanie nadpisu strany s nadpisom vašeho aktuálneho textového dokumentu. Napíšte nový nadpis pre vytvorenie novej strany na Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sk" l10n="NEW"><emph>Súhrn</emph>: Zadajte voliteľný stručný súhrn vašej strany.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sk" l10n="NEW"><emph>Toto je menšia úprava</emph>: Zakliknite toto pole pre označenie posielanej strany ako menšej úpravy už existujúcej strany s rovnakým nadpisom.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sk" l10n="NEW"><emph>Zobraziť vo webovom prehliadači</emph>: Zakliknite toto pole pre otvorenie vášho systémového prehliadača a zobrazenie posielanej Wiki strany.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sk" l10n="NEW">Kliknite na Odoslať.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

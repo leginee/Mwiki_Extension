@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hy">MediaWiki ընտրանքներ</title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="hy" level="1" l10n="NEW">MediaWiki ընտրանքներ</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="hy" l10n="NEW">Դու կարող ես ավելացնել, խմբագրել և հեռացնել MediaWiki կայանները։ Բացեք երկխոսությունը <item type="menuitem">Գործիքներ - Ընտրանքներ - Համացանց - MediaWiki</item>։ Որեպս այլընտրանք, ընտրեք <item type="menuitem">Գործիքներ - Ընդլայնման կառավարիչ</item>, ընտրեք @WIKIEXTENSIONPRODUCTNAME@, և սեղմեք Ընտրանքներ կոճակը։</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="hy" l10n="NEW"><ahelp hid=".">Սեղմեք Ավելացնել, նոր Wiki կայան ավելացնելու համար։<br/>Ընտրեք մոտքը և սեղմեք Խմբագրել, հաշվի կարգաբերումները խմբագրելու համար։<br/>Ընտրեք մուտքը և սեղմեք Հեռացնել, ցուցակից մուտքը հեռացնելու համար։</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="hy" l10n="NEW"><ahelp hid="." visibility="hidden">Բացում է MediaWiki երկխոսությունը, ցուցակին նոր մուտք ավելացնելու համար։</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="hy" l10n="NEW"><ahelp hid="." visibility="hidden">Բացում է MediaWiki երկխոսությունը, ընտրված մուտքը խմբագրելու համար։</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="hy" l10n="NEW"><ahelp hid="." visibility="hidden">Ցուցակից հեռացնում է ընտրված մուտքը։</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="hy" l10n="NEW">Երբ սեղմում ես Ավելացնել կամ Խմբագրել <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> բացվում է երկխոսությունը։</paragraph>
+</body>
+</helpdocument>

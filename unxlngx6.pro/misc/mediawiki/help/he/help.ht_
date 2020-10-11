@@ -1,0 +1,18 @@
+1c vnd.com.sun.star.wiki%3Asend 79 יש לבחור קובץ - שלח - ל-MediaWiki‏ כדי להעלות את מסמך ה-Writer לשרת ה-MediaWiki.‏
+20 vnd.com.sun.star.wiki%3Aaboutbox d0 שימוש ב-Wiki Publisher מאפשר לך להעלות את טקסט מסמך ה-Writer לשרת MediaWiki. לאחר מכן, כל המשתמשים ב-Wiki יוכלו לקרוא את המסמך שלך שם.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox c5 מאפשר לשמור סיסמאות בין הפעלות שונות. אפשרות סיסמת האב צריכה להיות פעילה, ראה כלים - אפשרויות - %PRODUCTNAME - אבטחה.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 78 הזן את הסיסמה לשרת המדיה־ויקי. השאר את השדה ריק להתחברות אנונימית.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 87 הזן את שם המשתמש שלך על שרת המדיה־ויקי. השאר את השדה ריק להתחברות אנונימית.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 56 נא להזין את כתובת שרת המדיה־ויקי המתחילה ב־http://
+1f vnd.com.sun.star.wiki%3Aaccount 56 נא להזין את כתובת שרת המדיה־ויקי המתחילה ב־http://
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 7f סימון זה ייפתח את דפדפן האינטרנט של המערכת שלך ויציג את דף ה-Wiki שפורסם.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck a1 סימון בתיבת-סימון זו יציין את העמוד המפורסם כעריכה לא משמעותית של דף קיים בעל אותה כותרת.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 3e באפשרותך להקליד סיכום קצר או הערה.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 13d יש להקליד כותרת לפריט ה-Wiki שלך. היא תופיע ככותרת בחלק העליון של הפריט. הכותרת חייבת להיות ייחודית, אם מדובר בפריט חדש. אם הכותרת אינה ייחודית, פרסום זה יחליף את הפריט הקיים ב-Wiki.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 93 יש לבחור את שרת ה-MediaWiki אליו יפורסם המסמך שלך. לחיצה על "הוסף" תוסיף את השרת לרשימה.
+22 vnd.com.sun.star.wiki%3AsendDialog 93 יש לבחור את שרת ה-MediaWiki אליו יפורסם המסמך שלך. לחיצה על "הוסף" תוסיף את השרת לרשימה.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 33 מסיר את הפריט שנבחר מהרשימה.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 62 פותח את תיבת הדיאלוג של MediaWiki כדי לערוך את הפריט שנבחר.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 66 פותח את תיבת הדיאלוג של MediaWiki כדי להוסיף פריט חדש לרשימה.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList fa לחיצה על "הוסף" תוסיף שרת Wiki חדש.כדי לערוך את הגדרות החשבון יש לסמן פריט וללחוץ על "ערוך".כדי להסיר פריט מהרשימה יש לסמן אותו וללחוץ על "הסר".
+20 vnd.com.sun.star.wiki%3Asettings fa לחיצה על "הוסף" תוסיף שרת Wiki חדש.כדי לערוך את הגדרות החשבון יש לסמן פריט וללחוץ על "ערוך".כדי להסיר פריט מהרשימה יש לסמן אותו וללחוץ על "הסר".

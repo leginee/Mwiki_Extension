@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="si">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="si" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="si" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="si" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ භාවිතයෙන් ඔබගේ වත්මන් රයිටර් ‍පෙළ ලේඛණය ඔබට මීඩියාවිකි සේවාදායකයකට අපගත කල හැක. අපගත කිරීමෙන් පසු, විකියේ සියළු විකි පරිශීලකයන් හට ඔබගේ ලේඛනය කියවිය හැක.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="si" l10n="NEW"><ahelp hid=".">වර්තමාන රයිටර් ලේඛනය මීඩියාවිකි සේවාදායකයක් වෙත අපගත කිරීමට <item type="menuitem">File - Send - To MediaWiki</item> තෝරන්න.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="si" level="2" l10n="NEW">පද්ධති අවශ්‍යතා</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="si" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="si" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="si" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="si" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> සේවාදායකය අනුග්‍රහ ඇති විකි ගිණුමක්.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="si" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ස්ථාපනය වෙමින්</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="si" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ස්ථාපනය කිරීමට පෙර,  %PRODUCTNAME ජාවා ධාවන පාරිසරිකය(JRE) භාවිතා කරයිද යන්න සහතික කරගන්න. JRE හි තත්ත්වය පරීක්ෂා කිරීමට <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item> තෝරන්න. &quot;Use a Java runtime environment&quot; සලකුණු කර තිබීම සහ ජාවා ධාවන බහලුම ‍විශාල listbox හි තේරී තිබීදැයි සහතික කරගන්න. JRE සක්‍රිය කර නොමැති නම් JRE 1.4 හෝ පසු වෙලුමක් සක්‍රිය කර %PRODUCTNAME නැවත පණගන්වන්න.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="si" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ස්ථාපනයට</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="si" l10n="NEW">ලිවීමේ කවුලුවේදී <item type="menuitem">Tools - Extension Manager</item> තෝරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="si" l10n="NEW">දිගු කළමනාකරණ කවුළුවේදී Add ක්ලික් කරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="si" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ගොනුව පිහිටි තැන දැක්වීමට,  Open මත ක්ලික් කරන්න, නැවත Close මත ක්ලික් කරන්න. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="si" l10n="NEW">%PRODUCTNAME වසාදමන්න, සහ Quickstarter සක්‍රිය නම් එයද වසා දමන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="si" l10n="NEW">විකි සැකසුම් ඇතුලත් කිරීමට මෘදුකාංගය නැවත අරඹා, පෙළ ලේඛනයක් විවෘත කර, ඉන්පසු <item type="menuitem">Tools - Options - Internet - MediaWiki</item> තෝරන්න. පහල &quot;To Connect To a Wiki&quot; බලන්න.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="si" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ඉවත් කිරීමට</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="si" l10n="NEW">ලිවීමේ කවුලුවේදී <item type="menuitem">Tools - Extension Manager</item> තෝරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="si" l10n="NEW">මගේ දිගු වල එකතු කිරී‍මේ සලකුණ (+) ක්ලික් කරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="si" l10n="NEW">දිගුව තෝරන්න, Remove ක්ලික් කරන්න, සහ Close ක්ලික් කරන්න.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="si" level="2" l10n="NEW">විකියට සම්බන්ධ වෙන්න වීමට</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="si" l10n="NEW">සටහන: ඔබගේ පරිශීලක නම සහ මුරපදය %PRODUCTNAME ට අදාල සියළු කවුළු සඳහා ගබඩා කල හැක. මුරපදය ප්‍රධාන මුරපදය මගින් පරිශීලනය අාරක්ෂා කරන සුරක්ෂිත ක්‍රමයෙන් ගබඩා වනු ඇත. ප්‍රධාන මුරපදය සක්‍රිය කිරීමට, <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>. තෝරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="si" l10n="NEW">සටහන: ඔබ අන්තර්ජාලයට සම්බන්ධවන්නේ ප්‍රොක්සි සේවාදායකයක් හරහා නම් <item type="menuitem">Tools - Options - Internet - Proxy</item> වෙත ප්‍රොක්සි තොරතුරු ඇතුලත් කර මෘදුකාංගය නැවත අරඹන්න.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="si" l10n="NEW">Open a Writer document, and choose <item type="menuitem">Tools - Options - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="si" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Options</link> කවුලුවේදී , Add ක්ලික් කරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="si" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> කවුළුවේ, විකි සඳහා වූ ගිණුමේ තොරතුරු ඇතුලත් කරන්නi.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="si" l10n="NEW">ඔබට සම්බන්ධ වීමට අවශ්‍ය විකියේ ලිපිනය URL පාඨකොටුව තුලට ඇතුලත් කරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="si" l10n="NEW">ඔබට වෙබ් බ්‍රවුසරයෙන් URL පිටපත් කර textbox තුලට ඇලවීම කල හැක</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="si" l10n="NEW">Username  කොටුව තුල ඔබේ ඔබේ විකි ‍ගිණුම සඳහා වූ පරිශීලක ID ඇතුලත් කරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="si" l10n="NEW">විකිය නිර්නාමික ලිවීමේ ප්‍රවේශ අනුමත කරයි නම්, ඔබට පරිශීලක නම සහ මුරපද කොටු හිස්ව තැබිය හැක.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="si" l10n="NEW">මුරපද කොටුව තුල, ඔබගේ විකි ගිණුම සඳහා වූ මුරපදය ඇතුලත් කරන්න. ඉන්පසු OK ක්ලික් කරන්න.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="si" l10n="NEW">සැසි අතර මුරපදය සුරැකීමට &quot;Save password&quot; විකල්පය සක්‍රිය කරන්න. සියළු සුරකින ලද මුරපද ආරක්ෂා කිරීමට ප්‍රධාන මුරපදයක් භාවත කරයි. ප්‍රධාන මුරපදය සක්‍රිය කිරීමට <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> තෝරන්න. ප්‍රධාන මුරපදය සකසා ‍නොමැති විට &quot;Save password&quot; භාවිතයට නොමැත.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="si" level="2" l10n="NEW">නව විකි පිටුවක් සාදන්න</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="si" l10n="NEW">රයිටර් ලේඛනයක් විවෘත කරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="si" l10n="NEW">විකි පිටුව තුල අන්තරගතය ලියන්න. ඔබට පාඨ ආකෘති, ශීර්ෂක, සහ තවත් ආකෘතිකරණ භාවිතා කළ හැක. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">සහය දක්වන ආකෘතිකරණ</link> බලන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="si" l10n="NEW"><item type="menuitem">File - Send - To MediaWiki</item> තෝරන්න.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="si" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">Send to MediaWiki</link> කවුළුවේදී, ඔබේ ඇතුලත් කිරීමේ සැකසුම් සඳහන් කරන්න.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="si" l10n="NEW"><emph>MediaWiki සේවාදායක</emph>: විකිය තෝරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="si" l10n="NEW"><emph>මාතෘකාව</emph>: ඔබේ පිටුවේ මාතෘකාව යතුරුලියනය කරන්න. ඔබේ වර්තමාන පාඨ ලේඛනය සමග පිටුව මතලිවීමට පවත්නා පිටුවේ මාතෘකාව යතුරුලියනය කරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="si" l10n="NEW"><emph>සාරාංශයර</emph>: ඔබගේ පිටුවේ විකල්ප කෙටි සාරාංශයක් ඇතුළු කරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="si" l10n="NEW"><emph>මෙය සුළු සැකසීමකි</emph>: එකම මාතෘකා සහිත දැනට පවත්නා අපගත පිටු සුළු සැකසීම් ලෙස සලකුණු කිරීමට  මෙම කොටුව සලකුණු කරන්න.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="si" l10n="NEW"><emph>අන්තර්ජාල ගවේශකය තුල පෙන්වන්න</emph>: ඔබේ පද්ධතියේ අන්තර්ජාල ගවේශකය විවෘත කර අපගත කල විකි පිටුව පෙන්විමට මෙම කොටුව සලකුණු කරන්න.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="si" l10n="NEW">යවන්න ක්ලික් කරන්න.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

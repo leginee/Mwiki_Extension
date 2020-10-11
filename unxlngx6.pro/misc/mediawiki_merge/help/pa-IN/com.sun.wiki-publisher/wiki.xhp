@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="pa-IN">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="pa-IN" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="pa-IN" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="pa-IN" l10n="NEW"><ahelp hid=".">By using the @WIKIEXTENSIONPRODUCTNAME@ you can upload your current Writer text document to a MediaWiki server. After uploading, all Wiki users can read your document on the Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="pa-IN" l10n="NEW"><ahelp hid=".">Choose <item type="menuitem">File - Send - To MediaWiki</item> to upload the current Writer document to a MediaWiki server.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="pa-IN" level="2" l10n="NEW">ਸਿਸਟਮ ਲੋੜਾਂ</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="pa-IN" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="pa-IN" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="pa-IN" l10n="NEW">ਜਾਵਾ ਰਨਟਾਈਮ ਇੰਵਾਇਰਨਮੈਂਟ 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="pa-IN" l10n="NEW">ਇੱਕ ਸਹਾਇਕ <link href="http://www.mediawiki.org/wiki/MediaWiki">ਮੀਡਿਆ-ਵਿਕਿ</link> ਸਰਵਰ ਉੱਤੇ ਵਿਕਿ ਅਕਾਊਂਟ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="pa-IN" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="pa-IN" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਸੀਂ ਇਹ ਯਕੀਨੀ ਬਣਾਉ ਕਿ %PRODUCTNAME ਜਾਵਾ ਰਨਟਾਇਮ ਇੰਵਾਇਰਨਮੈਂਟ (JRE) ਵਰਤਦੇ ਹੋ। JRE ਦੀ ਹਾਲਤ ਵੇਖਣ ਵਾਸਤੇ <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - %PRODUCTNAME - ਜਾਵਾ</item> ਚੁਣੋ। &quot;ਜਾਵਾ ਰਨਟਾਇਮ ਇੰਵਾਇਰਨਮੈਂਟ ਵਰਤੋਂ&quot; ਚੁਣੇ ਹੋਣ ਅਤੇ ਵੱਡੇ ਲਿਸਟਬਾਕਸ ਵਿੱਚ ਉਸ ਜਾਵਾ ਰਨਟਾਈਮ ਇੰਵਾਇਰਨਮੈਂਟ ਫੋਲਡਰ ਦੇ ਚੁਣੇ ਹੋਣ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉ। ਜੇ ਕੋਈ JRE ਐਕਟੀਵੇਟ ਨਹੀਂ ਹੈ ਤਾਂ JRE ੧.੪ ਜਾਂ ਨਵਾਂ ਐਕਟੀਵੇਟ ਕਰੋ ਅਤੇ %PRODUCTNAME ਨੂੰ ਮੁੜ ਚਲਾਓ।</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="pa-IN" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ਇੰਸਟਾਲ ਕਰੋ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="pa-IN" l10n="NEW">ਇੱਕ ਰਾਇਟਰ ਵਿੰਡੋ ਵਿੱਚ, <item type="menuitem">ਟੂਲ - ਇਕਸਟੈਨਸ਼ਨ ਮੈਨੇਜਰ</item> ਚੁਣੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="pa-IN" l10n="NEW">ਇਕਸਟੈਨਸ਼ਨ ਮੈਨੇਜਰ ਡਾਈਲਾਗ ਵਿੱਚ ਸ਼ਾਮਲ ਕਲਿੱਕ ਕਰੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="pa-IN" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ਫਾਇਲ ਲੱਭੋ, ਖੋਲ੍ਹੋ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਤਦ ਬੰਦ ਉੱਤੇ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="pa-IN" l10n="NEW">%PRODUCTNAME ਬੰਦ ਕਰੋ ਅਤੇ ਤਦ ਤੁਰੰਤ-ਸਟਾਟਰ ਬੰਦ ਕਰੋ (ਜੇ ਚਾਲੂ ਹੈ ਤਾਂ)।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="pa-IN" l10n="NEW">ਸਾਫਟਵੇਅਰ ਮੁੜ-ਚਾਲੂ ਕਰੋ, ਇੱਕ ਟੈਕਸਟ ਡੌਕੂਮੈਂਟ ਖੋਲ੍ਹੋ, <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - ਇੰਟਰਨੈੱਟ - ਮੀਡਿਆ-ਵਿਕਿ</item> ਚੁਣ ਕੇ ਆਪਣੀ ਵਿਕਿ ਸੈਟਿੰਗ ਦਿਓ। ਹੇਠਾਂ &quot;ਇੱਕ ਵਿਕਿ ਨਾਲ ਕੁਨੈਕਟ&quot; ਵੇਖੋ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="pa-IN" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ਹਟਾਉਣਾ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="pa-IN" l10n="NEW">ਰਾਇਟਰ ਵਿੰਡੋ ਵਿੱਚ, <item type="menuitem">ਟੂਲ - ਇਕਸਟੈਨਸ਼ਨ ਮੈਨੇਜਰ</item> ਚੁਣੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="pa-IN" l10n="NEW">ਮੇਰੀਆਂ ਐਕਸ਼ਟੈਨਸ਼ਨਾਂ ਦੇ ਅੱਗੇ ਜੋੜ ਦੇ ਨਿਸ਼ਾਨ (+) ਨੂੰ ਕਲਿੱਕ ਕਰੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="pa-IN" l10n="NEW">ਐਕਸ਼ਟੈਨਸ਼ਨ ਚੁਣੋ, ਹਟਾਓ ਚੁਣੋ ਅਤੇ ਤਦ ਬੰਦ ਕਰੋ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="pa-IN" level="2" l10n="NEW">ਵਿਕਿ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨ ਲਈ</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="pa-IN" l10n="NEW">ਨੋਟ: ਤੁਸੀਂ %PRODUCTNAME ਵਿੱਚ ਸਭ ਲੋੜੀਦੇ ਡਾਈਲਾਗ ਲਈ ਆਪਣਾ ਯੂਜ਼ਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲ ਸਕਦੇ ਹੋ। ਪਾਸਵਰਡ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ, ਜਿਸ ਦੀ ਵਰਤੋਂ ਕੇਵਲ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨਾਲ ਹੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ। ਮਾਸਟਰ ਪਾਸਵਰਡ ਯੋਗ ਕਰਨ ਲਈ <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - %PRODUCTNAME - ਸੁਰੱਖਿਆ</item> ਚੁਣੋ।</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="pa-IN" l10n="NEW">ਨੋਟ: ਜੇ ਤੁਸੀਂ ਵੈੱਬ ਨੂੰ ਇੱਕ ਪਰਾਕਸੀ ਸਰਵਰ ਰਾਹੀਂ ਕੁਨੈਕਟ ਕਰਦੇ ਹੋ ਤਾਂ, <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - ਇੰਟਰਨੈੱਟ - ਪਰਾਕਸੀ</item> ਵਿੱਚ ਪਰਾਕਸੀ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ ਅਤੇ ਸਾਫਟਵੇਅਰ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ।</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="pa-IN" l10n="NEW">ਇੱਕ ਰਾਇਟਰ ਡੌਕੂਮੈਂਟ ਖੋਲ੍ਹੋ ਅਤੇ <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - ਮੀਡਿਆ-ਵਿਕਿ</item> ਦੀ ਚੋਣ ਕਰੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="pa-IN" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">ਚੋਣਾਂ</link> ਡਾਈਲਾਗ ਵਿੱਚ ਸ਼ਾਮਲ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="pa-IN" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">ਮੀਡਿਆ-ਵਿਕਿ</link> ਡਾਈਲਾਗ ਵਿੱਚ ਵਿਕਿ ਲਈ ਅਕਾਊਂਟ ਜਾਣਕਾਰੀ ਦਿਓ।</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="pa-IN" l10n="NEW">URL ਟੈਕਸਟ ਬਕਸੇ ਵਿੱਚ, ਵਿਕਿ ਦੀ ਵੈੱਬ-ਸਾਈਟ ਲਈ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਕੁਨੈਕਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="pa-IN" l10n="NEW">ਤੁਸੀਂ ਆਪਣੇ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਤੋਂ URL ਕਾਪੀ ਕਰਕੇ ਟੈਕਸਟ ਬਕਸੇ ਵਿੱਚ ਚੇਪ ਸਕਦੇ ਹੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="pa-IN" l10n="NEW">ਯੂਜ਼ਰ ਨਾਂ ਬਕਸੇ ਵਿੱਚ, ਆਪਣੇ ਵਿਕਿ ਅਕਾਊਂਟ ਲਈ ਆਪਣਾ ਯੂਜ਼ਰ ID ਦਿਓ।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="pa-IN" l10n="NEW">ਜੇ ਵਿਕਿ ਲਈ ਅਗਿਆਤ ਪਹੁੰਚ ਮਨਜ਼ੂਰ ਹੈ ਤਾਂ ਯੂਜ਼ਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਬਕਸੇ ਖਾਲੀ ਛੱਡੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="pa-IN" l10n="NEW">ਪਾਸਵਰਡ ਬਕਸੇ ਵਿੱਚ, ਆਪਣੇ ਵਿਕਿ ਅਕਾਊਂਟ ਲਈ ਪਾਸਵਰਡ ਦਿਓ ਅਤੇ ਠੀਕ ਹੈ ਕਲਿੱਕ ਕਰੋ</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="pa-IN" l10n="NEW">ਚੋਣਵੇਂ ਰੂਪ ਵਿੱਚ ਸ਼ੈਸ਼ਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ &quot;ਪਾਸਵਰਡ ਸੰਭਾਲੋ&quot; ਨੂੰ ਵਰਤੋਂ। ਸਭ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋਂ ਵਾਸਤੇ ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ। <item type="menuitem">ਟੂਲ - ਚੋਣਾਂ - %PRODUCTNAME - ਸੁਰੱਖਿਆ</item> ਨੂੰ ਮਾਸਟਰ ਪਾਸਵਰਡ ਯੋਗ ਕਰਨ ਲਈ ਵਰਤੋਂ। ਜਦੋਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਚਾਲੂ ਨਹੀਂ ਹੋਵੇਗਾ ਤਾਂ &quot;ਪਾਸਵਰਡ ਸੰਭਾਲੋ&quot; ਉਪਲੱਬਧ ਨਹੀਂ ਹੋਵੇਗਾ।</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="pa-IN" level="2" l10n="NEW">ਇੱਕ ਨਵਾਂ ਵਿਕਿ ਪੇਜ਼ ਬਣਾਉਣ ਲਈ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="pa-IN" l10n="NEW">ਇੱਕ ਰਾਇਟਰ ਡੌਕੂਮੈਂਟ ਖੋਲ੍ਹੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="pa-IN" l10n="NEW">ਵਿਕਿ ਪੇਜ਼ ਲਈ ਸਮਗੱਰੀ ਲਿਖੋ। ਤੁਸੀਂ ਟੈਕਸਟ ਫਾਰਮੈਟ, ਹੈੱਡਿੰਗ, ਫੁੱਟਨੋਟ ਅਤੇ ਇੰਝ ਦੇ ਹੋਰ ਫਾਰਮੈਟ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ। <link href="@WIKIEXTENSIONID@/wikiformats.xhp">ਸਹਾਇਕ ਫਾਰਮੈਟਾਂ ਦੀ ਲਿਸਟ</link> ਨੂੰ ਵੇਖੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="pa-IN" l10n="NEW"><item type="menuitem">ਫਾਇਲ - ਭੇਜੋ - ਮੀਡਿਆ-ਵਿਕਿ ਉੱਤੇ ਭੇਜੋ</item> ਚੁਣੋ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="pa-IN" l10n="NEW">In the <link href="@WIKIEXTENSIONID@/wikisend.xhp">Send to MediaWiki</link> dialog, specify the settings for your entry.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="pa-IN" l10n="NEW"><emph>ਮੀਡਿਆਵਿਕਿ ਸਰਵਰ</emph>: ਵਿਕਿ ਚੁਣੋ।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="pa-IN" l10n="NEW"><emph>ਟਾਈਟਲ</emph>: ਆਪਣੇ ਪੇਜ਼ ਲਈ ਟਾਈਟਲ ਦਿਓ। ਕਿਸੇ ਮੌਜੂਦ ਪੇਜ਼ ਨੂੰ ਆਪਣੇ ਮੌਜੂਦਾ ਟੈਕਸਟ ਡੌਕੂਮੈਂਟ ਨਾਲ ਬਦਲਣ ਲਈ ਮੌਜੂਦਾ ਪੇਜ਼ ਦਾ ਟਾਈਟਲ ਦਿਓ। ਵਿਕਿ ਉੱਤੇ ਨਵਾਂ ਪੇਜ਼ ਬਣਾਉਣ ਲਈ ਨਵਾਂ ਟਾਈਟਲ ਦਿਓ।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="pa-IN" l10n="NEW"><emph>ਸੰਖੇਪ</emph>: ਆਪਣੇ ਪੇਜ਼ ਲਈ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਦਿਓ।</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="pa-IN" l10n="NEW"><emph>ਇਹ ਸੰਖੇਪ ਸੋਧ ਹੈ</emph>: ਇਹ ਬਕਸੇ ਦੀ ਚੋਣ ਕਰੋ, ਜੇ ਉਸੇ ਟਾਈਟਲ ਵਾਲੇ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਪੇਜ਼ ਵਿੱਚ ਇੱਕ ਸੰਖੇਪ ਜਿਹੀ ਸੋਧ ਹੈ।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="pa-IN" l10n="NEW"><emph>ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਵੇਖੋ</emph>: ਇਹ ਬਕਸੇ ਦੀ ਚੋਣ ਕਰੋ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਸਿਸਟਮ ਦੇ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਨੂੰ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਅੱਪਲੋਡ ਕੀਤੇ ਵਿਕਿ ਪੇਜ਼ ਨੂੰ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="pa-IN" l10n="NEW">ਭੇਜੇ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

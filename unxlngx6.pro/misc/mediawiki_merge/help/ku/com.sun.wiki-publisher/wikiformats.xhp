@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ku">Teşeyên MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ku" level="1" l10n="NEW">Teşeyên MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ku" l10n="NEW">Di lîsteya jêr de pêşdîtina teşeyên nivîsê yên @WIKIEXTENSIONPRODUCTNAME@ dikare bar bike pêşkêşkera Wiki henin.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ku" l10n="NEW">Teşeya OpenDocument ya aliyê Writer ve hatiye bikaranîn û teşeya WikiMedia ji hev pir cuda in. Tenê komekî bin ya hemû taybetiyan ji teşeyekî bo teşeyekî din re tên veguhestin.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ku" level="2" l10n="NEW">Sernivîs</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ku" l10n="NEW">Şêweya paragrafa sernivîs ji bo belgeya we ya Writer disepîne. Wiki dê şêweyên sernivîsê di eynî asta pêşênivîsarê de nîşan bide, wek aliyê Wiki ve tê diyarkirin tê bên teşekirin.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ku" level="2" l10n="NEW">Hîperlînk</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ku" l10n="NEW">Hîperlînkên OpenDocument yên standard bi girêdanên Wiki yên &quot;derveyî&quot; re tên veguhastin. Ji ber vê, taybeta avakirina girêdanê ya OpenDocument tenê ji bo afirandina girêdanên malperên derveyê malpera Wiki tên bikaranîn. Ji bo afirandina girêdanên mijarên din yên eynî Wiki, girêdanên Wiki bikar bînin.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ku" level="2" l10n="NEW">Lîste</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ku" l10n="NEW">Lîste heke şêweya lîsteyê hevkêş be ji derve re tê şandin. Ji bo avakirina lîsteyê di Writer de, Numrekirin an Nîşana Xalan bikar bînin. Heke hun daxwaza lîsteya bilî numrekirin û nîşana xalan dikin, Teşekirin - Nîşana Xaşan û Numrekirin bikar bînin û şêweya lîsteyê yekî derbasdar diyar bikin û bisepînin.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ku" level="2" l10n="NEW">Paragraf</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ku" level="3" l10n="NEW">Hîzakirin</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ku" l10n="NEW">Di gotarên Wiki de hîzakirina nivîsê nayê bikaranîn. Hîzakirina nivîsê bi çepê ve, navîn kirin û bi rastê ve nayê piştgirîdan.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ku" level="3" l10n="NEW">Nivîsa Pêş-teşekirî</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ku" l10n="NEW">Şêweya paragrafekî bi curenivîsa sabîtkirî re wek nivîsa pêş-teşekirî tê veguhastin. Nivîsa pêş-teşekirî di Wiki de bi kêlekan re çarçovekirî tê nîşandan.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ku" level="2" l10n="NEW">Şêweyên tîpan</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ku" l10n="NEW">Şêweyên tîpan, xuyabûna beşên paragrafekî diguherîne. Vuguhastin piştgirî dide qalind, paldayî, qalind/îtalîk, dawêra jêr û dawêra jor. Hemû curenivîsên bi firejiya sabît re wek şêweya Wiki daktîlo tên veguhastin.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ku" level="2" l10n="NEW">Têbînî</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ku" l10n="NEW">Nîşe: Veguhastin şêweya nû ya têbînî bi etîketên &lt;ref&gt; û &lt;references&gt; bikar tîne yê ku hewceyê sazkirina pêveka Cite.php di MediaWiki de ye. Heke encama veguhastinê de ew etîket wek nivîsa sade bibin, sazkirina vê pêvekê ji rêvebirê Wiki daxwaz bikin.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ku" level="2" l10n="NEW">Wêne</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ku" l10n="NEW">Wêne bi veguhastinekî yek pela nivîsara Wiki peyde dike re nayê şandin. Dîsa jî, heke wêne ji domaîna Wiki re hatibe barkirin (mînak, Wikimedia Hevbeş), veguhastin dê etîketekî derbasdar ji bo wêne û wêne bixwe peyde bike. Nîvisên wêne jî tên piştgirîdan.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ku" level="2" l10n="NEW">Tablo</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ku" l10n="NEW">Tabloyên hêsan baş tên piştgirîdan. Sernavên tabloyan bi şêweya sernavên tablo yên Wiki re tên wergerîn. Lê, teşekirina taybet ya kêlekên tablo, mezinahiyên taybet û rengên zemînê tên tunekirin.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ku" level="3" l10n="NEW">Şanikên Yekbûyî</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ku" l10n="NEW">OpenDocument û bi taybetî OpenOffice.org tabloyan yên ku xwedî şanikên yekbûyî, yên rêzikan wek tabloyên çalkirî çêdike, nîşan dide. Lê dijê vê, modela wiki ya tablo çêkirina stûn û rêzikan ji bo şanikên yakbûyî dide zanîn.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ku" l10n="NEW">Heke tenê stûnên eynî rêzikê bên yekbûn, dê encama veguhastinê gorê belgeya çavkanî herî baş bibe.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ku" level="3" l10n="NEW">Kêlek</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ku" l10n="NEW">Bilî şêweyên tabloyê ji bo kêlek û zemînê, tabloyek herdem wek &quot;<emph>tabloyataybet&quot;</emph> tê şandin, yê ku di Wiki de bi kêlekên hêsan û sernava qalind re tê dîtin. </paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ku" level="2" l10n="NEW">Koma tîpan û tîpên taybet</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ku" l10n="NEW">Koma tîpên encama veguhastinê bi UTF-8 re sabît e. Di be ku di pergala ve de, ev ne koma tîpan ya standard be. Bi mîhengên standard re di be ku &quot;tîpên taybet&quot; baş xuya nekin. Lê, hun dikarin di edîtora xwe de UTF-8 hilbijêrin û vê sererast bikin. Heke di edîtora we de kodkirin neyê guherandin, hun dikarin encama veguhastinê di geroka Firefox de vekin û kodkirina UTF-8 hilbijêrin. Niha, hun dikarin encama veguhastinê jiber bigirin û di bernameya xwe de pêve bikin.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="bn">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="bn" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="bn" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="bn" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ ব্যবহার করে আপনি আপনার বর্তমান রাইটার টেক্সট ডকুমেন্ট একটি মিডিয়াউইকি সার্ভারে আপলোড করতে পারেন। আপলোড করার পরে, সকল উইকি ব্যবহারকারী আপনার ডকুমেন্ট উইকিতে পড়তে পারবে।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="bn" l10n="NEW"><ahelp hid=".">মিডিয়াউইকি সার্ভারে আপনার বর্তমান রাইটার নথি আপলোড করতে নির্বাচন করুন <item type="menuitem">ফাইল - পাঠাও মিডিয়াউইকি তে ।</item> </ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="bn" level="2" l10n="NEW">সিস্টেমের প্রয়োজনীয়তা</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="bn" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="bn" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="bn" l10n="NEW">জাভা রানটাইল এনভায়রনমেন্ট ১.৪</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="bn" l10n="NEW">একটি সমর্থিত <link href="http://www.mediawiki.org/wiki/MediaWiki">মিডিয়াউইকি</link> সার্ভারে একটি উইকি অ্যাকাউন্ট</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="bn" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ সংস্থাপন করা হচ্ছে</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="bn" l10n="NEW">Before you install the @WIKIEXTENSIONPRODUCTNAME@, ensure that %PRODUCTNAME uses a Java Runtime Environment (JRE). To check the status of the JRE, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item>. Ensure that &quot;Use a Java runtime environment&quot; is marked and that a Java runtime folder is selected in the big listbox. If no JRE was activated, then activate a JRE 1.4 or later and restart %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="bn" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ সংস্থাপন করতে</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="bn" l10n="NEW">একটি রাইটার উইন্ডোতে নির্বাচন করুন <item type="menuitem">টুলস - এক্সটেন্সন ম্যানেজার</item>।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="bn" l10n="NEW">এক্সটেন্সন ম্যানেজার সংলাপে, &quot;যোগ করুন&quot; এ ক্লিক করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="bn" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ফাইলটির স্থান নির্দেশ করুন, &quot;খুলুন&quot; এ ক্লিক করুন, এবং তারপর &quot;বন্ধ করুন&quot; এ ক্লিক করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="bn" l10n="NEW">Close %PRODUCTNAME, and close also the Quickstarter if enabled.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="bn" l10n="NEW">সফটওয়্যারটি পুনরায় চালু করুন, একটি পাঠ্য নথি খুলুন, আপনার উইকি বিন্যাস ঠিক করার জন্য <item type="menuitem">টুলস - পছন্দ - ইন্টারনেট - মিডিয়াউইকি</item> নির্বাচন করুন। নিচে &quot;একটি উইকিতে সংযোগ করতে&quot; দেখুন।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="bn" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ মুছে ফেলতে</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="bn" l10n="NEW">রাইটার উইন্ডোতে, <item type="menuitem">টুলস - এক্সটেন্সন ম্যানেজার</item> নির্বাচন করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="bn" l10n="NEW">আমার বর্ধিতাংশের সামনে যোগ চিহ্ন (+) ক্লিক করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="bn" l10n="NEW">বর্ধিতাংশ নির্বাচন করুন, &quot;মুছে ফেলুন&quot; এ ক্লিক করুন, এবং তারপর &quot;বন্ধ করুন&quot; এ ক্লিক করুন।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="bn" level="2" l10n="NEW">একটি উইকিতে সংযোগ করতে</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="bn" l10n="NEW">Note: You can store your user name and password for all respective dialogs inside %PRODUCTNAME. The password will be stored in a secure way, where access is maintained by a master password. To enable the master password, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="bn" l10n="NEW">নোট: আপনি যদি কোনো প্রক্সি সার্ভার ব্যবহার করে ওয়েবে সংযুক্ত হয়ে থাকেন, তাহলে প্রক্সির তথ্য এখানে দিন <item type="menuitem">টুলস - পছন্দ - ইন্টারনেট - প্রক্সি</item>, এবং সফটওয়্যারটি পুনরায় চালু করুন।</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="bn" l10n="NEW">একটি রাইটার নথি খুলুন, এবং <item type="menuitem">টুলস - পছন্দ - ইন্টারনেট - মিডিয়াউইকি</item> নির্বাচন করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="bn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">পছন্দ</link> সংলাপে &quot;যোগ করুন&quot; এ ক্লিক করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="bn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">মিডিয়াউইকি</link> সংলাপে, উইকির জন্য অ্যাকাউন্টের তথ্য দিন।</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="bn" l10n="NEW">URL পাঠ্যবাক্সে আপনি যে উইকির সঙ্গে সংযুক্ত হতে চান সেটির ঠিকানা দিন।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="bn" l10n="NEW">আপনি URL টি একটি ওয়েব ব্রাউজার থেকে অনুলিপি করে পাঠ্যবাক্সে প্রতিলেপন করতে পারেন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="bn" l10n="NEW">ব্যবহারকারী বক্সে আপনার উইকি অ্যাকউন্ট ব্যবহারকারী আইডি দিন।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="bn" l10n="NEW">যদি উইকি যে কাউকে লেখার অনুমতি দেয়, তাহলে আপনি ব্যবহারকারী এবং গুপ্তসংকেতের জায়গাগুলো খালি রাখতে পারেন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="bn" l10n="NEW">গুপ্তসংকেত বক্সে, আপনার উইকি অ্যাকাউন্টের গুপ্তসংকেতে দিন, তারপর &quot;ঠিক আছে&quot; ক্লিক করুন।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="bn" l10n="NEW">Optionally enable &quot;Save password&quot; to save the password between sessions. A master password is used to maintain access to all saved passwords. Choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> to enable the master password. &quot;Save password&quot; is unavailable when the master password is not enabled.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="bn" level="2" l10n="NEW">একটি নতুন উইকি পাতা তৈরি করতে</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="bn" l10n="NEW">একটি রাইটার নথি খুলুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="bn" l10n="NEW">উইকি পাতার বিষয়বস্তু লিখুন। আপনি টেক্সট বিন্যাসের মত বিন্যাস ব্যবহার করতে পারেন, হেডিং, ফুটনোট, এবং আরো অনেক কিছু। <link href="@WIKIEXTENSIONID@/wikiformats.xhp">সমর্থিত বিন্যাসের তালিকা</link> দেখুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="bn" l10n="NEW"><item type="menuitem"> ফাইল - পাঠান - মিডিয়াউইকি তে</item> নির্বাচন করুন।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="bn" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">মিডিয়াউইকিতে পাঠান</link> সংলাপে, আপনার এন্ট্রির বিন্যাস উল্লেখ করুন।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="bn" l10n="NEW"><emph>মিডিয়াউইকি সার্ভার</emph>: উইকি নির্বাচন করুন।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="bn" l10n="NEW"><emph>শিরোনাম</emph>: পাতার শিরোনাম লিখুন। একটি পুরানো পাতার জায়গায় আপনার বর্তমান পাঠ্য নথিটি স্থলাভিষিক্ত করতে ঐ পাতার শিরোনামটি লিখুন। উইকিতে একটি নতুন পাতা তৈরি করতে একটি নতুন শিরোনাম লিখুন।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="bn" l10n="NEW"><emph>সারসংক্ষেপ</emph>: আপনার পাতার একটি ঐচ্ছিক সারসংক্ষেপ লিখুন।</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="bn" l10n="NEW"><emph>এটি একটি ছোট সম্পাদনা</emph>: এটি একই শিরোনামের আগের পাতার সামান্য সম্পাদনা বুঝাতে এই বক্সটিতে চিহ্ন দিন।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="bn" l10n="NEW"><emph>ওয়েব ব্রাউজারে প্রদর্শন করুন</emph>: আপনার আপলোড করা উইকি পাতা দেখার জন্য সিস্টেম ওয়েব ব্রাউজার খুলতে এখানে চিহ্ন দিন।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="bn" l10n="NEW">&quot;প্রেরণ করুন&quot; এ ক্লিক করুন।</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="bn">মিডিয়াউইকিতে পাঠান</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="bn" level="1" l10n="NEW">মিডিয়াউইকিতে পাঠান</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="bn" l10n="NEW">মিডিয়াউইকিতে 'প্রেরণ করুন' সংলাপে, আপনার বর্তমান উইকি আপলোডের বিন্যাস উল্লেখ করুন।</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="bn" l10n="NEW"><ahelp hid=".">আপনি যেই মিডিয়াউইকি সার্ভারে আপনার নথি দিতে চান সেটি নির্বাচন করুন। তালিকায় একটি নতুন সার্ভার যোগ করার জন্য &quot;যোগ করুন&quot; ক্লিক করুন।</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="bn" l10n="NEW"><ahelp hid=".">আপনার উইকি এন্ট্রির শিরোনাম দিন। এটি আপনার উইকি এন্ট্রির সবচেয়ে উপরের শিরোনাম। একটি নতুন এন্ট্রির জন্য, শিরোনামটি অবশ্যই স্বতন্ত্র হতে হবে। আপনি যদি একটি পূর্ববর্তী শিরোনাম প্রবেশ করান, তাহলে আপনার নথিটি বর্তমানের উইকি এন্ট্রির স্থলাভিষিক্ত হবে।</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="bn" l10n="NEW"><ahelp hid=".">একটি ঐচ্ছিক সারসংক্ষেপ বা মন্তব্য লিখুন।</ahelp> <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link> দেখুন।</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="bn" l10n="NEW"><emph>এটি একটি ছোট সম্পাদনা</emph>: <ahelp hid=".">এটি একই শিরোনামের আগের পাতার সামান্য সম্পাদনা বুঝাতে এই বক্সটিতে চিহ্ন দিন।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="bn" l10n="NEW"><emph>ওয়েব ব্রাউজারে প্রদর্শন করুন</emph>: <ahelp hid=".">আপনার আপলোড করা উইকি পাতা দেখার জন্য সিস্টেম ওয়েব ব্রাউজার খুলতে এখানে চিহ্ন দিন।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

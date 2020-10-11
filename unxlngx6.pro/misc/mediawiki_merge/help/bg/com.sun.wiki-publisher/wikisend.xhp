@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="bg">Изпращане към MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="bg" level="1" l10n="NEW">Изпращане към MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="bg" l10n="NEW">В диалоговия прозорец „Изпращане към MediaWiki“ задайте настройките за изпращане.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="bg" l10n="NEW"><ahelp hid=".">Изберете MediaWiki сървъра, чрез който желаете да публикувате документа. Натиснете „Добавяне“, за да добавите нов сървър към списъка.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="bg" l10n="NEW"><ahelp hid=".">Въведете заглавието на статията. То ще се изписва най-горе при показването й. За нова статия заглавието трябва да бъде уникално за съответното Wiki. Ако въведете съществуващо заглавие, вашият текст ще замени този на съществуващата статия.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="bg" l10n="NEW"><ahelp hid=".">Ако желаете, въведете кратко резюме или коментар.</ahelp> Вижте <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="bg" l10n="NEW"><emph>Това е малка промяна</emph>: <ahelp hid="."> отметнете това поле, за да отбележите изпращаната страница като малка корекция на съществуващата страница със същото заглавие.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="bg" l10n="NEW"><emph>Показване в браузъра</emph>: <ahelp hid=".">отметнете това поле, за да видите изпратената към Wiki страница в уеббраузъра на системата.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

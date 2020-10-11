@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="eu">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="eu" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="eu" l10n="NEW">Erabili MediaWiki elkarrizketa-koadroa zure MediaWiki kontuaren ezarpenak gehitzeko edo editatzeko.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="eu" l10n="NEW"><ahelp hid="." visibility="hidden">Sartu MediaWiki zerbitzariaren URLa, 'http://'-rekin hasiz.</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="eu" l10n="NEW"><ahelp hid="." visibility="hidden">Sartu erabiltzaile-izena MediaWiki zerbitzarian. Utzi hutsik sarbide anonimoa erabiltzean.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="eu" l10n="NEW"><ahelp hid="." visibility="hidden">Sartu pasahitza MediaWiki zerbitzarian. Utzi hutsik sarbide anonimoa erabiltzean. </ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="eu" l10n="NEW"><ahelp hid="." visibility="hidden">Gaitu pasahitza saioen artean gordetzea. Pasahitz maisua gaitu behar da, ikusi <item type="menuitem">Tresnak - Aukerak - %PRODUCTNAME - Segurtasuna</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="eu" l10n="NEW">Sartu Wiki zerbitzariaren interneteko helbdiea (http://wiki.services.openoffice.org/wiki bezalako formatuan), edo kopiatu URLa web arakatzailetik.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="eu" l10n="NEW">Wiki-ak sarbide anonimoa baimentzen badu, utzi kontuaren testu-koadroak hutsik. Bestela, sartu erabiltzaile-izena eta pasahitza.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="eu" l10n="NEW">Tresnak - Aukerak - %PRODUCTNAME elkarrizketa-koadroko 'Segurtasuna' fitxan pasahitz maisuaren eginbidea gaitu baduzu, softwareak zure pasahitza gorde dezake eta datuak automatikoki txertatuko ditu behar den heinean. Gaitu &quot;Gorde pasahitza&quot; kontrol-koadroa zure pasahitza gordetzeko.</paragraph>
+</body>
+</helpdocument>

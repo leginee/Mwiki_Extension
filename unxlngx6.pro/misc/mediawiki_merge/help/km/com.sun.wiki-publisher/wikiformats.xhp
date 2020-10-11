@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="km">ទ្រង់ទ្រាយ MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="km" level="1" l10n="NEW">ទ្រង់ទ្រាយ MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="km" l10n="NEW">បញ្ជី​ខាងក្រោម​ផ្ដល់​នូវ​ទិដ្ឋភាព​ទូទៅ​របស់​ទ្រង់ទ្រាយ​អត្ថបទ​ដែល​ @WIKIEXTENSIONPRODUCTNAME@ អាច​ផ្ទុកឡើង​ទៅកាន់​ម៉ាស៊ីន​បម្រើ​វិគី ។</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="km" l10n="NEW">ទ្រង់ទ្រាយ OpenDocument បាន​ប្រើ​ដោយ Writer ហើយ​ទ្រង់ទ្រាយ WikiMedia គឺ​ខុស​គ្នា ។ មាន​តែ​សំណុំរង​របស់​លក្ខណសម្បត្តិ​ទាំងអស់​ទេ​ដែល​អាច​ត្រូវបាន​ផ្ទេរ​ពី​ទ្រង់ទ្រាយ​មួយ​ទៅ​ទ្រង់ទ្រាយ​មួយទៀត ។</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="km" level="2" l10n="NEW">ក្បាល</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="km" l10n="NEW">អនុវត្ត​រចនាប័ទ្ម​កថាខណ្ឌ​ក្បាល​ទៅ​ក្បាល​នៅ​ក្នុង​ឯកសារ Writer របស់​អ្នក ។ វិគី នឹង​បង្ហាញ​រចនាប័ទ្ម​ក្បាល​នៃ​កម្រិត​គ្រោង​ដូចគ្នា ដែល​បាន​ធ្វើទ្រង់ទ្រាយ​តាម​ដែល​បាន​កំណត់​ដោយ​ម៉ាស៊ីន​វិគី ។</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="km" level="2" l10n="NEW">តំណ​ខ្ពស់</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="km" l10n="NEW">តំណខ្ពស់ OpenDocument ដើម ត្រូវបានផ្ទេរ​ទៅ​ជា​តំណ​វិគី​&quot;ខាងក្រៅ&quot; ។ ដូច្នេះ ភាពងាយស្រួល​តំណ​មាន​ស្រាប់​នៃ OpenDocument គួរ​តែ​ត្រូវបាន​ប្រើ​ដើម្បី​បង្កើតតំណ​ដែល​ចង្អុល​ទៅ​តំបន់​បណ្ដាញ​ផ្សេង​នៅ​ក្រៅ​បណ្ដាញ​វិគី ។ សម្រាប់​បង្កើត​តំណ​វិគី ដែល​ចង្អុល​ទៅកាន់​ប្រធាន​ដែល​វីគី​ដូចគ្នា​ផ្សេងទៀត សូម​ប្រើតំណ​វិគី ។</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="km" level="2" l10n="NEW">បញ្ជី</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="km" l10n="NEW">បញ្ជី​អាច​ត្រូវបាន​នាំចេញ នៅពេលដែល​បញ្ជី​ទាំងមូល​ប្រើ​រចនាប័ទ្ម​បញ្ជី​មិនផ្លាស់ប្ដូរ ។ ប្រើ​រូបតំណាង លេខរៀង និង​ចំណុច ដើម្បី​បង្កើត​បញ្ជី​នៅ​ក្នុង Writer ។ ប្រសិន​បើ​អ្នក​ត្រូវការ​បញ្ជី​ដែល​គ្មាន​លេខរៀង និង​ចំណុច សូម​ប្រើ ទ្រង់ទ្រាយ - ចំណុច និង​លេខរៀង ដើម្បី​កំណត់ និង​អនុវត្ត​រចនាប័ទ្ម​បញ្ជី​នីមួយៗ ។</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="km" level="2" l10n="NEW">កថាខណ្ឌ</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="km" level="3" l10n="NEW">ការ​តម្រឹម</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="km" l10n="NEW">បញ្ជាក់​ការ​តម្រឹម​អត្ថបទ មិន​គួរ​ត្រូវបាន​ប្រើ​នៅ​ក្នុង​អត្ថបទ​វិគី​ទេ ។ យ៉ាង​ណា​ក៏ដោយ ការ​តម្រឹម​អត្ថបទ​ត្រូវបាន​គាំទ្រ​សម្រាប់​ការ​តម្រឹម​ខាង​ឆ្វេង កណ្ដាល និង​ស្ដាំ ។</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="km" level="3" l10n="NEW">អត្ថបទ​ដែលបាន​ធ្វើ​ទ្រង់ទ្រាយ​មុន</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="km" l10n="NEW">រចនាប័ទ្ម​កថាខណ្ឌ​ដែលមាន​ពុម្ពអក្សរ​ទទឹង​ថេរ គឺ​ត្រូវបាន​ប្លែងភាព​ជា​អត្ថបទ​ដែលបាន​ធ្វើ​ទ្រង់ទ្រាយ​មុន ។ អត្ថបទ​ដែល​បាន​ធ្វើ​ទ្រង់ទ្រាយ​មុន គឺ​ត្រូវបាន​បង្ហាញ​នៅលើ​វិគី ដែល​មាន​ស៊ុម​នៅ​ជុំវិញ​អត្ថបទ ។</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="km" level="2" l10n="NEW">រចនាប័ទ្ម​តួអក្សរ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="km" l10n="NEW">រចនាប័ទ្ម​តួអក្សរ​ កែប្រែ​រូបរាង​នៃ​ផ្នែក​កថាខណ្ឌ ។ ការ​ប្លែងភាព​គាំទ្រ ដិត ទ្រេត ដិត/ទ្រេត តួអក្សរ​តូច​លើ និង​អក្សរ​តូច​ក្រោម ។ ពុម្ពអក្សរ​​ទទឹង​ថេរ ត្រូវបាន​ប្លែង​ភាព​ទៅជា​រចនាប័ទ្ម​កម្មវិធី​វាយ​អត្ថបទ​វិគី ។</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="km" level="2" l10n="NEW">លេខ​យោង</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="km" l10n="NEW">ចំណាំ ៖ ការ​ប្លែង​ភាព ប្រើ​រចនាប័ទ្ម​ថ្មី​របស់​លេខយោង​ដែល​មានស្លាក &lt;ref&gt; និង &lt;references&gt; ដែល​តម្រូវ​ឲ្យ​ដំឡើង​ផ្នែក​បន្ថែម Cite.php ទៅកាន់ MediaWiki ។ ប្រសិន​បើ​ស្លាក​ទាំងនោះ​ជា​អត្ថបទ​ធម្មតា​នៅ​ក្នុង​លទ្ធផល​នៃ​ការ​ប្លែង​ភាព សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​វិគី ដើម្បី​ដំឡើង​ផ្នែក​បន្ថែម​នេះ ។</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="km" level="2" l10n="NEW">រូបភាព</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="km" l10n="NEW">មិនអាច​នាំចេញ​រូបភាព​តាម​ការ​ប្លែង​ភាព ដោយ​បង្កើត​ឯកសារ​​អត្ថបទ​វិគី​ទោល ។ ទោះជាយ៉ាងណា ប្រសិន​បើ​បាន​ផ្ទុក​ឡើង​រូបភាព​ទៅ​ដែន​វិគី​ទិសដៅ​រួចហើយ (ឧ. WikiMedia Commons) នោះ​ការ​ប្លែងភាព​នឹង​បង្កើត​នូវ​ស្លាក​រូបភាព​ត្រឹមត្រូវ​ដែល​រួមបញ្ចូល​ទាំង​រូបភាព ។ ចំណងជើង​រូបភាព ក៏​ត្រូវបាន​គាំទ្រ​ដែរ ។</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="km" level="2" l10n="NEW">តារាង</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="km" l10n="NEW">តារាង​ធម្មតា គឺ​ដំណើរការ​ល្អណាស់ ។ បឋមកថា​តារាង គឺ​ត្រូវបាន​បកប្រែ​ទៅជា​បឋមកថា​តារាង​រចនាប័ទ្ម​វិគី​ដែល​ត្រូវ​គ្នា ។ ទោះ​ជា​យ៉ាង​ណា ការ​ធ្វើទ្រង់ទ្រាយ​ស៊ុម​តារាង​ផ្ទាល់ខ្លួន ទំហំ​ជួរ​ឈរ និង​ពណ៌​ផ្ទៃខាងក្រោយ គឺ​ត្រូវបាន​មិន​អើពើ ។</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="km" level="3" l10n="NEW">ក្រឡា​ចូល​គ្នា</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="km" l10n="NEW">OpenDocument និង OpenOffice.org តំណាង​ឲ្យ​តារាង​ជា​ពិសេស ដែល​មាន​ក្រឡា​បញ្ចូល​ចូល​គ្នា ដែល​​បញ្ចូល​ជួរ​ដេក​ចូល​គ្នា ជា​តារាង​ដែល​មាន​តារាង​ដែលបាន​ផ្ដុំ​គ្នា ។ ម៉ូដែល​តារាង​វិគី គឺ​ដើម្បី​បង្ហាញ​ជួរឈរ និង​ជួរ​ដេក​ដែល​បញ្ចូល​ចូល​គ្នា​សម្រាប់​ក្រឡា​ដែលបាន​បញ្ចូល​ចូល​គ្នា ។ </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="km" l10n="NEW">ប្រសិន​បើ​ជួរ​ឈរ​នៃ​ជួរ​ដេក​តែ​មួយ​ត្រូវបាន​បញ្ចូល​ចូល​គ្នា នោះ​លទ្ធផល​នៃ​ការ​ប្លែង​គឺ​​ធ្វើ​ដូច​ឯកសារ​ដើម​យ៉ាង​ល្អ ។</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="km" level="3" l10n="NEW">ស៊ុម</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="km" l10n="NEW">រចនាប័ទ្ម​តារាង​ផ្ទាល់​ដែល​គ្មាន​ការ​កំណត់​សម្រាប់​ស៊ុម និង​ផ្ទៃខាងក្រោយ តារាង​ត្រូវបាន​នាំចេញ​ជា &quot;<emph>តារាង​ស្អាតបាត&quot;</emph>ជា​និច្ច ដែល​បង្ហាញ​នៅក្នុង​​វីគី​ដោយ​មាន​ស៊ុម និង​ក្បាល​ដិត​ធម្មតា ។</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="km" level="2" l10n="NEW">សំណុំ​តួអក្សរ និង​តួអក្សរ​ពិសេស</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="km" l10n="NEW">សំណុំតួអក្សរ​នៃ​លទ្ធផល​ប្លែង​ភាព គឺ​ត្រូវបាន​ដាក់​ឲ្យ​ត្រូវ​ទៅនឹង UTF-8 ។ ដោយ​អាស្រ័យ​លើ​ប្រព័ន្ធ​របស់​អ្នក វា​ប្រហែល​ជា​មិនមែន​ជា​សំណុំតួអក្សរ​លំនាំដើម​ទេ ។ វា​អាច​បណ្ដាល​ឲ្យ &quot;តួអក្សរ​ពិសេស&quot; ខូច នៅពេល​ដែល​បាន​មើល​ដោយប្រើ​ការ​កំណត់​លំនាំដើម ។ ទោះ​ជា​យ៉ាង​ណា អ្នក​អាច​ប្ដូរ​កម្មវិធី​កែសម្រួល​ទៅ​ការ​អ៊ិនកូដ UTF-8 ដើម្បី​កែសម្រួល​នេះ ។ ប្រសិន​បើ​កម្មវិធី​កែសម្រួល​របស់​អ្នក​មិន​គាំទ្រ​ការ​ប្ដូរ​ការ​អ៊ិនកូដ អ្នក​អាច​បង្ហាញលទ្ធផល​នៃ​ការ​ប្លែងភាព​នៅ​ក្នុង​កម្មវិធី​រុករក Firefox និង​ប្ដូរ​ការ​អ៊ិនកូដ​ទៅ UTF-8 នៅ​ទីនេះ ។ ឥឡូវ អ្នក​អាច​កាត់ ហើយ​បិទភ្ជាប់​លទ្ធផល​ប្លែង​ភាព​ទៅ​កម្មវិធី​ជម្រើស​របស់​អ្នក ។</paragraph>
+</body>
+</helpdocument>

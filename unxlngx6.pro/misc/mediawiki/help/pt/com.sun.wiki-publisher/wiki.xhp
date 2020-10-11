@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="pt">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="pt" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>extensões;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="pt" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="pt" l10n="NEW"><ahelp hid=".">Se usar o Wiki Publisher pode transferir o documento de texto actual do Writer para um servidor MediaWiki. Após transferir o documento, todos os utilizadores da wiki podem ler o mesmo na wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="pt" l10n="NEW"><ahelp hid=".">Escolha <item type="menuitem">Ficheiro - Enviar - Para MediaWiki</item> para transferir o documento actual do Writer para um servidor MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="pt" level="2" l10n="NEW">Requisitos do sistema</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="pt" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="pt" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="pt" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="pt" l10n="NEW">Uma conta da wiki num servidor <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> suportado</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="pt" level="2" l10n="NEW">Instalar o Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="pt" l10n="NEW">Antes de instalar o Wiki Publisher, certifique-se que o %PRODUCTNAME usa um Java Runtime Environment (JRE). Para verificar o estado do JRE, escolha <item type="menuitem">Ferramentas - Opções - %PRODUCTNAME - Java</item>. Certifique-se que a opção &quot;Usar um Java runtime environment&quot; está marcada e que está seleccionada uma pasta Java runtime na caixa de lista grande. Se não estiver activado qualquer JRE, active um JRE 1.4 ou posterior e reinicie o %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="pt" level="3" l10n="NEW">Para instalar o Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="pt" l10n="NEW">Numa janela do Writer, escolha <item type="menuitem">Ferramentas - Gestor de extensões</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="pt" l10n="NEW">No diálogo Gestor de extensões, clique em Adicionar.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="pt" l10n="NEW">Localize o ficheiro wiki-publisher.oxt, clique em Abrir e clique em Fechar. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="pt" l10n="NEW">Feche o %PRODUCTNAME e feche também o início rápido, caso esteja activado.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="pt" l10n="NEW">Reinicie o programa, abra um documento de texto e escolha <item type="menuitem">Ferramentas - Opções - Internet - MediaWiki</item> para inserir as definições da wiki. Consulte o tópico &quot;Para estabelecer ligação a uma wiki&quot; abaixo.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="pt" level="3" l10n="NEW">Para remover o Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="pt" l10n="NEW">Numa janela do Writer, escolha <item type="menuitem">Ferramentas - Gestor de extensões</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="pt" l10n="NEW">Clique no sinal de mais (+) em frente a As minhas extensões.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="pt" l10n="NEW">Seleccione a extensão, clique em Remover e clique em Fechar.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="pt" level="2" l10n="NEW">Para estabelecer ligação a uma wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="pt" l10n="NEW">Nota: pode armazenar os respectivos nome de utilizador e a senha de todos os diálogos no %PRODUCTNAME. A senha será armazenada de forma segura, na qual o acesso é mantido através de uma senha principal. Para activar a senha principal, escolha <item type="menuitem">Ferramentas - Opções - %PRODUCTNAME - Segurança</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="pt" l10n="NEW">Nota: se estabelecer ligação à Web através de um servidor proxy, insira as informações do proxy em <item type="menuitem">Ferramentas - Opções - Internet - Proxy</item> e reinicie o programa.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="pt" l10n="NEW">Abra um documento do Writer e escolha <item type="menuitem">Ferramentas - Opções - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="pt" l10n="NEW">No diálogo <link href="com.sun.wiki-publisher/wikisettings.xhp">Opções</link>, clique em Adicionar.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="pt" l10n="NEW">No diálogo <link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link>, insira as informações da conta da wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="pt" l10n="NEW">Na caixa de texto URL, insira o endereço de uma wiki à qual se queira ligar.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="pt" l10n="NEW">Pode copiar o URL a partir de um navegador Web e colar o mesmo na caixa de texto.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="pt" l10n="NEW">Na caixa Utilizador, insira o ID de utilizador para a conta da wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="pt" l10n="NEW">Se a wiki permitir o acesso de escrita anónimo, pode deixar as caixas Utilizador e Senha em branco.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="pt" l10n="NEW">Na caixa Senha, insira a senha da conta da wiki e clique em Aceitar.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="pt" l10n="NEW">Opcionalmente, pode activar a opção &quot;Guardar senha&quot; para guardar a senha entre sessões. É usada uma senha principal para manter o acesso a todas as senhas guardadas. Escolha <item type="menuitem">Ferramentas - Opções - %PRODUCTNAME - Segurança</item> para activar a senha principal. A opção &quot;Guardar senha&quot; não está disponível, se a senha principal não estiver activada.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="pt" level="2" l10n="NEW">Para criar uma nova página da wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="pt" l10n="NEW">Abra um documento do Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="pt" l10n="NEW">Escreva o conteúdo da página wiki. Pode usar formatação como por exemplo, formatos do texto, títulos, notas de rodapé, entre outros. Consulte a <link href="com.sun.wiki-publisher/wikiformats.xhp">lista de formatos suportados</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="pt" l10n="NEW">Escolha <item type="menuitem">Ficheiro - Enviar - Para MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="pt" l10n="NEW">No diálogo <link href="com.sun.wiki-publisher/wikisend.xhp">Enviar para MediaWiki</link>, especifique as definições da entrada.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="pt" l10n="NEW"><emph>Servidor MediaWiki</emph>: seleccione a wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="pt" l10n="NEW"><emph>Título</emph>: escreva o título da página. Escreva o título de uma página existente para substituir a página pelo documento de texto actual. Escreva um novo título para criar uma nova página na wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="pt" l10n="NEW"><emph>Resumo</emph>: insira um breve resumo opcional da página.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="pt" l10n="NEW"><emph>Esta é uma edição menor</emph>: marque esta caixa para enviar a página transferida como uma edição secundária da página já existente com o mesmo título.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="pt" l10n="NEW"><emph>Mostrar no navegador Web</emph>: marque esta caixa para abrir o navegador Web do sistema e mostrar a página da wiki transferida.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="pt" l10n="NEW">Clique em Enviar.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="uz">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="uz" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>kengaytmalar;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="uz" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="uz" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ yordamida Writer matn hujjatini MediaWiki serveriga joylashtirishingiz mumkin. Hujjat joylashtirilgandan keyin uni barcha Wiki foydalanuvchilari oʻqishlari mumkin.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="uz" l10n="NEW"><ahelp hid=".">Joriy Writer hujjatini MediaWiki serveriga joylashtirish uchun <item type="menuitem">Fayl - Joʻnatish - MediaWiki'ga</item> bandini tanlang.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="uz" level="2" l10n="NEW">Tizim talabi</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="uz" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="uz" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="uz" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="uz" l10n="NEW">Wiki hisobini qoʻllaydigan <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> serveri</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="uz" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ oʻrnatilmoqda</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="uz" l10n="NEW">Before you install the @WIKIEXTENSIONPRODUCTNAME@, ensure that %PRODUCTNAME uses a Java Runtime Environment (JRE). To check the status of the JRE, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item>. Ensure that &quot;Use a Java runtime environment&quot; is marked and that a Java runtime folder is selected in the big listbox. If no JRE was activated, then activate a JRE 1.4 or later and restart %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="uz" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ni oʻrnatish uchun</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="uz" l10n="NEW">Writer oynasidan <item type="menuitem">Vositalar -Kengaytma boshqaruvchisi</item> bandini tanlang.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="uz" l10n="NEW">Kengaytma boshqaruvchisi dialogidan Qoʻshish tugmasini bosing.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="uz" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt faylini toping, Ochish soʻngra esa Yopish tugmalarini bosing. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="uz" l10n="NEW">Close %PRODUCTNAME, and close also the Quickstarter if enabled.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="uz" l10n="NEW">Wiki moslamalarini kiritish uchun dasturni qaytadan ishga tushiring, bitta matn hujjati oching va menyudan <item type="menuitem">Vositalar - Parametrlar - Internet - MediaWiki</item> bandini tanlang. Quyida &quot;Wiki bilan boʻglanish uchun&quot; boʻlimiga qarang.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="uz" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ni olib tashlash uchun</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="uz" l10n="NEW">Writer oynasidan <item type="menuitem">Vositalar - Kengaytma boshqaruvchisi</item> bandini tanlang.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="uz" l10n="NEW">Mening kengaytmalarim oldidagi qoʻshish ishorasini (+) bosing.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="uz" l10n="NEW">Kengaytmani tanlang va Olib tashlash tugmasini, soʻngra Yopish tugmasini bosing.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="uz" level="2" l10n="NEW">Wiki bilan boʻglanish uchun</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="uz" l10n="NEW">Izoh: StarOffice/OpenOffice.org dialoglari uchun foydalanuvchi va maxfiy soʻzni saqlashingiz mumkin. Maxfiy soʻz master maxfiy soʻz bilan himoyalangan xavfsiz joyda saqlanadi. Master maxfiy soʻzni yoqish uchun menyudan <item type="menuitem">Vositalar - Parametrlar - StarOffice/OpenOffice.org - Xavfsizlik</item> bandini tanlang.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="uz" l10n="NEW">Izoh: Agar siz internetga proxy orqali ulansangiz, menyudan <item type="menuitem">Vositalar - Parametrlar - Internet - Proxi</item> bandida proxi maʻlumtorlarini kiriting va dasturni qaytadan ishga tushiring.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="uz" l10n="NEW">Writer hujjatini oching va menyudan <item type="menuitem">Vositalar - Parametrlar - Internet - MediaWiki</item> bandini tanlang.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="uz" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Parametrlar</link> dialogida Qoʻshish tugmasini bosing.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="uz" l10n="NEW">Wiki uchun hisob maʻlumotlarin <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> dialogi orqali kiriting.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="uz" l10n="NEW">URL maydoniga ulanish kerak boʻlgan Wiki manzilini kiriting.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="uz" l10n="NEW">Veb brauzerdan URL nusxasini olib ushbu maydonga qoʻyishingiz mumkin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="uz" l10n="NEW">Wiki hisobingiz nomini foydalanuvchi maydoniga kiriting.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="uz" l10n="NEW">Agar Wiki anonim yozish huquqini bersa, foydalanuvchi va maxfiy soʻz oʻrnini boʻsh qoldirishingiz mumkin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="uz" l10n="NEW">Wiki hisobingiz maxfiy soʻzini maxfiy soʻz maydoniga kiriting va OK tugmasini bosing.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="uz" l10n="NEW">Optionally enable &quot;Save password&quot; to save the password between sessions. A master password is used to maintain access to all saved passwords. Choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> to enable the master password. &quot;Save password&quot; is unavailable when the master password is not enabled.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="uz" level="2" l10n="NEW">Yangi Wiki sahifasi yaratish uchun</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="uz" l10n="NEW">Writer hujjatini ochish.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="uz" l10n="NEW">Write the content of the Wiki page. You can use formatting like text formats, headings, footnotes, and more. See the <link href="@WIKIEXTENSIONID@/wikiformats.xhp">list of supported formats</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="uz" l10n="NEW"><item type="menuitem">Fayl - Joʻnatish - MediaWiki</item> bandini tanlang.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="uz" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWiki'ga joʻnatish</link> dialogiga moslamalarni kiriting.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="uz" l10n="NEW"><emph>MediaWiki server</emph>: Wiki ni tanlang.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="uz" l10n="NEW">
+<emph>Title</emph>: Type the title of your page. Type the title of an existing page to overwrite the page with your current text document. Type a new title to create a new page on the Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="uz" l10n="NEW">
+<emph>Summary</emph>: Enter an optional short summary of your page.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="uz" l10n="NEW">
+<emph>This is a minor edit</emph>: Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="uz" l10n="NEW">
+<emph>Show in web browser</emph>: Check this box to open your system web browser and show the uploaded Wiki page.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="uz" l10n="NEW">Joʻnatishni bosing.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

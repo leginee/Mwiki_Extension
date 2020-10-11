@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="pl">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="pl" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>rozszerzenia;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="pl" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="pl" l10n="NEW"><ahelp hid=".">Za pomocą @WIKIEXTENSTIONPRODUCTNAME@ możesz przesłać bieżący dokument tekstowy Writer do serwera MediaWiki. Po przesłaniu wszyscy użytkownicy Wiki będą mogli wyświetlać Twój dokument na stronie Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="pl" l10n="NEW"><ahelp hid=".">Wybierz <item type="menuitem">Plik - Wyślij - Do MediaWiki</item>, aby przesłać bieżący dokument Writer do serwera MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="pl" level="2" l10n="NEW">Wymagania systemowe</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="pl" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="pl" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="pl" l10n="NEW">Środowisko Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="pl" l10n="NEW">Konto Wiki na obsługiwanym serwerze <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="pl" level="2" l10n="NEW">Instalowanie @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="pl" l10n="NEW">Przed zainstalowaniem programu @WIKIEXTENSIONPRODUCTNAME@ upewnij się, że pakiet %PRODUCTNAME używa środowiska Java Runtime Environment (JRE). Aby sprawdzić stan środowiska JRE, wybierz opcję <item type="menuitem">Narzędzia – Opcje – %PRODUCTNAME – Java</item>. Upewnij się, że zaznaczone jest pole Używaj środowiska Java, a w dużym polu listy wybrany jest folder pliku uruchamiania Java. Jeśli nie aktywowano żadnego środowiska JRE, aktywuj środowisko JRE 1.4 lub nowsze i uruchom ponownie program %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="pl" level="3" l10n="NEW">Aby zainstalować @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="pl" l10n="NEW">W oknie programu Writer wybierz <item type="menuitem">Narzędzia - Menedżer rozszerzeń</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="pl" l10n="NEW">Kliknij Dodaj w oknie dialogowym Menedżer rozszerzeń.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="pl" l10n="NEW">Znajdź plik @WIKIEXTENSIONFILENAME@.oxt, kliknij Otwórz, a następnie kliknij Zamknij. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="pl" l10n="NEW">Zamknij program %PRODUCTNAME oraz moduł Szybkie uruchamianie, jeśli jest włączony.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="pl" l10n="NEW">Uruchom oprogramowanie ponownie, otwórz dokument tekstowy, a następnie wybierz <item type="menuitem">Narzędzia - Opcje - Internet - MediaWiki</item>, aby wprowadzić swoje ustawienia strony Wiki. Patrz &quot;Aby połączyć się ze stroną Wiki&quot; poniżej.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="pl" level="3" l10n="NEW">Aby usunąć @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="pl" l10n="NEW">W oknie programu Writer wybierz <item type="menuitem">Narzędzia - Menedżer rozszerzeń</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="pl" l10n="NEW">Kliknij znak plusa (+) obok opcji Moje rozszerzenia.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="pl" l10n="NEW">Wybierz rozszerzenie, kliknij Usuń, a następnie kliknij Zamknij.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="pl" level="2" l10n="NEW">Aby połączyć się ze stroną Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="pl" l10n="NEW">Uwaga: Istnieje możliwość zapisania w programie %PRODUCTNAME nazwy użytkownika i hasła do wszystkich okien dialogowych. Hasła będą bezpiecznie przechowywane, a dostęp będzie zabezpieczony przez hasło główne. Aby włączyć hasło główne, wybierz opcję <item type="menuitem">Narzędzia – Opcje – %PRODUCTNAME – Bezpieczeństwo</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="pl" l10n="NEW">Uwaga: W przypadku łączenia z Internetem za pomocą serwera proxy, wprowadź informacje serwera proxy w oknie <item type="menuitem">Narzędzia - Opcje - Internet - Proxy</item>, po czym uruchom program ponownie.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="pl" l10n="NEW">Otwórz dokument Writer i wybierz <item type="menuitem">Narzędzia - Opcje - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="pl" l10n="NEW">Kliknij Dodaj w oknie dialogowym <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opcje</link>. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="pl" l10n="NEW">W oknie dialogowym <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> wprowadź informacje konta dla serwera Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="pl" l10n="NEW">W polu tekstowym adresu URL wprowadź adres strony Wiki, z którą chcesz się połączyć.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="pl" l10n="NEW">Adres URL można skopiować z przeglądarki internetowej i wkleić go w pole tekstowe.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="pl" l10n="NEW">W polu Nazwa użytkownika wprowadź swój identyfikator użytkownika dla konta Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="pl" l10n="NEW">Jeśli strona Wiki zezwala na dostęp anonimowy, pola Nazwa użytkownika i Hasło mogą pozostać puste.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="pl" l10n="NEW">W polu Hasło wprowadź hasło dla konta Wiki, a następnie kliknij OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="pl" l10n="NEW">Opcjonalnie wybierz opcję Zapisz hasło, aby zapamiętać hasło między sesjami. Dostępu do wszystkich zapisanych haseł broni hasło główne. Aby włączyć hasło główne, wybierz opcję <item type="menuitem">Narzędzia – Opcje – %PRODUCTNAME – Bezpieczeństwo</item>. Opcja Zapisz hasło nie jest dostępna, jeśli hasło główne nie jest włączone.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="pl" level="2" l10n="NEW">Aby utworzyć nową stronę Wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="pl" l10n="NEW">Otwórz dokument Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="pl" l10n="NEW">Wpisz zawartość strony Wiki. Możesz korzystać przy tym z funkcji formatowania, takich jak formatowanie tekstu, nagłówki, przypisy dolne itp. Patrz <link href="@WIKIEXTENSIONID@/wikiformats.xhp">lista obsługiwanych formatów</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="pl" l10n="NEW">Wybierz opcję <item type="menuitem">Plik - Wyślij - Do MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="pl" l10n="NEW">W oknie dialogowym <link href="@WIKIEXTENSIONID@/wikisend.xhp">Wyślij do MediaWiki</link> określ ustawienia dla swojego wpisu.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="pl" l10n="NEW"><emph>Serwer MediaWiki</emph>: Wybierz stronę Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="pl" l10n="NEW"><emph>Tytuł</emph>: Wprowadź tytuł strony. Wprowadź tytuł istniejącej strony, aby zastąpić ją swoim bieżącym dokumentem tekstowym. Wprowadź nowy tytuł, aby utworzyć nową stronę na serwerze Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="pl" l10n="NEW"><emph>Podsumowanie</emph>: Wpisz opcjonalnie krótkie podsumowanie dla strony.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="pl" l10n="NEW"><emph>Wprowadzono drobne zmiany</emph>: Zaznacz to pole wyboru, aby oznaczyć przesyłaną stronę jako stronę już istniejącą pod tym samym tytułem, z niewielkimi zmianami.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="pl" l10n="NEW"><emph>Wyświetl w przeglądarce internetowej</emph>: Zaznacz to pole, aby otworzyć systemową przeglądarkę internetową i wyświetlić wysłaną stronę Wiki.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="pl" l10n="NEW">Kliknij Wyślij.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

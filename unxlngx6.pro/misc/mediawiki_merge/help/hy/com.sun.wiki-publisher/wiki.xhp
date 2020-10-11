@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hy">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="hy" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="hy" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="hy" l10n="NEW"><ahelp hid=".">Օգտագործելով @WIKIEXTENSIONPRODUCTNAME@ դու կարող ես վերբեռնել Writer-ի քո ընթացիկ տեքստային փաստաթուղթը MediaWiki կայանում։ Վերբեռնելուց հետո, բոլոր Wiki օգտվողները Wiki-ում կարող են կարդալ քո փաստաթուղթը։</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="hy" l10n="NEW"><ahelp hid=".">Ընտրեք <item type="menuitem">Նիշք - Ուղարկել - Դեպի MediaWiki</item> ընթացիկ Writer փաստաթուղթը վերբեռնելու համար MediaWiki կայանում։</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="hy" level="2" l10n="NEW">Համակարգային պահանջներ</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="hy" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="hy" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="hy" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="hy" l10n="NEW">Wiki հաշիվ աջակցվող <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> կայանում</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="hy" level="2" l10n="NEW">Տեղադրվում է @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="hy" l10n="NEW">Մինչ դու կտեղադրես @WIKIEXTENSIONPRODUCTNAME@, վստահ եղիր որ %PRODUCTNAME օգտագործում է Java Runtime Environment (JRE). JRE-ի վիճակը ստուգելու համար, ընտրեք <item type="menuitem">Գործիքներ - Ընտրանքներ - %PRODUCTNAME - Java</item>։ Վստահ եղիր, որ &quot;Օգտագործիր Java runtime environment&quot; նշված է և որ Java runtime թղթապանակը ընտրված է մեծ ցուցակային վանդակում։ Եթե JRE ակտիվացված չէ, ապա ակտիվացրեք JRE 1.4 կամ ավելի ուշը և վերսկսեք %PRODUCTNAME -ը։</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="hy" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ տեղադրելու համար</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="hy" l10n="NEW">Writer -ի պատուհանում, ընտրեք <item type="menuitem">Գործիքներ - Ընդլայնման կառավարիչ</item>։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="hy" l10n="NEW">Ընդլայնման կառավարիչի երկխոսությունում, սեղմեք Ավելացնել։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="hy" l10n="NEW">Տեղորոշեք @WIKIEXTENSIONFILENAME@.oxt նիշքը, սեղմեք Բացել, ապա սեղմեք Փակել։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="hy" l10n="NEW">Փակեք %PRODUCTNAME, և նաև փակեք Quickstarter -ը, եթե թույլատրված է։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="hy" l10n="NEW">Վերագործարկեք ծրագիրը, բացեք տեքստային փաստաթուղթը, ապա ընտրեք <item type="menuitem">Գործիքներ - Ընտրանքներ - Համացանց - MediaWiki</item> ձեր Wiki կարգաբերումները մուտք անելու համար։ Տես ստորև &quot;Միանալ Wiki -ին&quot;։</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="hy" level="3" l10n="NEW">Հեռացնելու համար @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="hy" l10n="NEW">Writer -ի պատուհանում, ընտրեք <item type="menuitem">Գործիքներ - Ընդլայնման կառավարիչ</item>։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="hy" l10n="NEW">Սեղմեք պլյուս նշանը (+) Իմ Ընդլայնումների առջևից։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="hy" l10n="NEW">Ընտրեք հավելումը, սեղմեք Հեռացնել, և ապա սեղմեք Փակել։</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="hy" level="2" l10n="NEW">Wiki -ին միանալու համար</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="hy" l10n="NEW">Նշում. Դուք կարող եք պահել օգտվողի  ձեր անունն ու գաղտնաբառը բոլոր համապատասխան երկխոսությունների համար %PRODUCTNAME- ի ներսում: Գաղտնաբառը կպահվի անվտանգ կերպով, և մուտքը կվերահսկվի վարպետ գաղտնաբառով: Վարպետ գաղտնաբառն արտոնելու համար ընտրեք <item type="menuitem">Գործիքներ - Ընտրանքներ - %PRODUCTNAME - Անվտանգություն</item>։</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="hy" l10n="NEW">Նշում. Եթե ոստայնի կայանի միջոցով միանաք համացանցին, մուտքագրեք վստահված անձի տեղեկատվությունն այստեղ <item type="menuitem">Գործիքներ - Ընտրանքներ - Համացանց - Միջնորդ</item>, և վերագործարկեք ծրագիրը։</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="hy" l10n="NEW">Բացեք Writer -ի փաստաթուղթը, և ընտրեք <item type="menuitem">Գործիքներ - Ընտրանքներ - Համացանց - MediaWiki</item>։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="hy" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Ընտրանքներ</link> երկխոսությունում, սեղմեք Ավելացնել։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="hy" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> երկխոսությունում, մուտք արեք Wiki -ի հաշվի տեղեկատվությունը։</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="hy" l10n="NEW">URL -ի տեքստային վանդակում, մուտք արեք այն Wiki -ի հասցեն, որին ցանկանում եք միանալ։</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="hy" l10n="NEW">Դուք կարող եք պատճենել URL -ը ոստայնի դիտակից, և հետ գրել այն տեքստային վանդակում։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="hy" l10n="NEW">Օգտվողի անվան վանդակում, մուտք արեք ձեր ID -ն, ձեր Wiki հաշվի համար։</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="hy" l10n="NEW">Եթե Wiki -ն թույլ է տալիս գրելու անանուն մուտք, ապա կարող եք Օգտվողի անունի և Գաղտնաբառի վանդակները թողնել դատարկ:</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="hy" l10n="NEW">Գաղտնաբառի վանդակում մուտքագրեք ձեր Wiki հաշվի գաղտնաբառը, այնուհետև սեղմեք ԼԱՎ:</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="hy" l10n="NEW">Ընտրովի թույլատրեք «Հիշել գաղտնաբառը»` սեսիաների միջև գաղտնաբառը պահելու համար: Վարպետի գաղտնաբառը օգտագործվում է հիշված բոլոր գաղտնաբառերի մուտքը կառավարելու համար: Ընտրեք <item type="menuitem">Գործիքներ - Ընտրանքներ - %PRODUCTNAME - Անվտանգություն</item> թույլատրելու վարպետ գաղտնաբառը: «Պահպանել գաղտնաբառը» հասանելի չէ, երբ վարպետի գաղտնաբառը թույլատրված չէ:</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="hy" level="2" l10n="NEW">Նոր Wiki էջ ստեղծելու համար</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="hy" l10n="NEW">Բացեք Writer փաստաթուղթը։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="hy" l10n="NEW">Գրեք Wiki էջի բովանդակությունը։ Կարող եք օգտագործել ձևավորումը, ասենք տեքստային ձևաչափեր, գլխագրեր, տողատակեր և ավելին։ Տես <link href="@WIKIEXTENSIONID@/wikiformats.xhp">աջակցվող ձևաչափերի ցուցակը</link>։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="hy" l10n="NEW">Ընտրեք <item type="menuitem">Նիշք - Ուղարկել - Դեպի MediaWiki</item>։</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="hy" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">Ուղարկեք դեպի MediaWiki</link> երկխոսությունում, հատկորոշեք ձեր մուտքի կարգաբերումնեը։</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="hy" l10n="NEW"><emph>MediaWiki server</emph>: Ընտրեք Wiki -ին։</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="hy" l10n="NEW"><emph>Վերնագիր</emph>: Մուտքագրեք էջի վերնագիրը։ Մուտքագրեք առկա էջի վերնագիրը, որպեսզի վերագրեք ընթաքցիկ տեքստային փաստաթղթով էջը։ Մուտքագրեք նոր վերնագիրը, Wiki -ում նոր էջ ստեղծելու համար։</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="hy" l10n="NEW"><emph>Ամփոփում</emph>: Մուտքագրեք ձեր էջի լրացուցիչ ամփոփ նկարագիրը:</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="hy" l10n="NEW"><emph>Սա փոքրիկ խմբագրում է</emph>: Ընտրեք այս վանդակը, որպեսզի վերբեռնված էջը նշեք որպես  նույն վերնագրով գոյություն ունեցող էջի փոքր խմբագրում:</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="hy" l10n="NEW"><emph>Ցուցադրեք ոստայնի դիտակում</emph>: Ընտրեք այս վանդակը, որպեսզի բացեք ձեր համակարգի ոստայնի դիտակը և ցուցադրեք վերբեռնված Wiki էջը։</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="hy" l10n="NEW">Սեղմեք Ուղարկել։</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

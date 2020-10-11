@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ru">Форматы MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ru" level="1" l10n="NEW">Форматы MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ru" l10n="NEW">Следующий список дает общее представление о текстовых форматах, которые можно загружать на сервер Wiki при помощи Wiki Publisher.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ru" l10n="NEW">Формат OpenDocument, используемый в Writer и формат WikiMedia являются разными. Не все возможности могут быть переведены из одного формата в другой.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ru" level="2" l10n="NEW">Заголовки</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ru" l10n="NEW">Примените стиль заголовка к заголовку текстового документа Writer. Wiki будет отображать стили заголовков соответствующего уровня, отформатированные в соответствии с правилами Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ru" level="2" l10n="NEW">Гиперссылки</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ru" l10n="NEW">Гиперссылки OpenDocument преобразуются во внешние гиперссылки Wiki. Поэтому следует использовать встроенную возможность гиперссылок OpenDocument только для создания ссылок на внешние сайты. Для создания ссылок, которые ссылаются на другие статьи текущего домена используйте Wiki-ссылки.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ru" level="2" l10n="NEW">Списки</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ru" l10n="NEW">Списки будут экспортированы достаточно достоверно в случаях, когда используется последовательная нумерация. Используйте символы нумерации или маркеры для создания списка в Writer'е. Если требуется создать список без нумерации или маркеров, используйте Формат - Маркеры и нумерация для применения соответствующего стиля списка</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ru" level="2" l10n="NEW">Абзацы</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ru" level="3" l10n="NEW">Выравнивание</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ru" l10n="NEW">Явное выравнивание не должно использоваться в статьях Wiki. Тем не менее, выравнивание текста поддерживается для выравнивания по левому, правому краю и по центру.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ru" level="3" l10n="NEW">Форматированный текст</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ru" l10n="NEW">Стили абзаца с моноширинными шрифтами преобразовывается в форматированный текст. Форматированный текст отображается в Wiki с обрамлением вокруг текста.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ru" level="2" l10n="NEW">Стили символа</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ru" l10n="NEW">Стили символов изменяют вид отдельных частей абзаца. Поддерживается преобразование для следующих начертаний: полужирное, курсивное, полужирное курсивное, подстрочное и надстрочное. Все шрифты фиксированной ширины будут преобразованы в машинописный Wiki-стиль.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ru" level="2" l10n="NEW">Сноски</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ru" l10n="NEW">Примечание: преобразование использует новый стиль для сносок при помощи тэгов «ref» и «references», что требует установленного расширения MediaWiki Cite.php. Если эти тэги отображаются как простой текст, обратитесь к администратору Wiki для установки указанного расширения.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ru" level="2" l10n="NEW">Изображения</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ru" l10n="NEW">Изображения не могут быть экспортированы для использования в Wiki. Однако, если изображение заранее загружено на целевой домен Wiki (например, WikiMedia Commons), тогда изображения будут преобразованы в соответствующий тэг изображения. Так же поддерживаются названия изображений.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ru" level="2" l10n="NEW">Таблицы</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ru" l10n="NEW">Простые таблицы поддерживаются хорошо. Заголовки таблиц преобразовываются в соответствующие стили заголовков таблиц Wiki. Однако, особое форматирование обрамления таблиц, размеры колонок и фон будут игнорированы.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ru" level="3" l10n="NEW">Объединённые ячейки</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ru" l10n="NEW">OpenDocument и OpenOffice.org представляют таблицы с объединёнными ячейками как вложенные таблицы. В отличии от этого, модель Wiki-таблиц использует преставление объединённых ячеек как совокупности строк и колонок. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ru" l10n="NEW">Если столбцы в строке объединены, результат преобразования будет достаточно близок к оригиналу.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ru" level="3" l10n="NEW">Обрамление</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ru" l10n="NEW">Вне зависимости от пользовательских стилей обрамления и фона таблиц, таблицы всегда экспортируются как таблицы <emph>«prettytable»</emph>, которые отображаются в Wiki с простым обрамлением и выделенным заголовком.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ru" level="2" l10n="NEW">Кодировка и особые символы</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ru" l10n="NEW">Результат преобразования будет отображаться в кодировке символов UTF-8. Если в вашей системе по умолчанию используется другая кодировка символов, некоторые специальные символы отображаются некорректно. В этом случае вы можете переключить ваш редактор в кодировку символов UTF-8. А если ваш редактор не поддерживает отображение символов в кодировке UTF-8, можно посмотреть результат преобразования в браузере Firefox, определив в нем кодировку UTF-8. Сейчас вы можете вырезать и вставить результат преобразования в вашу программу.</paragraph>
+</body>
+</helpdocument>

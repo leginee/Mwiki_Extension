@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ca-XR">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ca-XR" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ca-XR" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ca-XR" l10n="NEW"><ahelp hid=".">Utilisant el Wiki Publisher pot enviar el seu document actual de Writer a un servidor MediaWiki. En acabant, tots els usuaris del Wiki podran llegir el seu document en el Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ca-XR" l10n="NEW"><ahelp hid=".">Trie <item type="menuitem">Archiu - Enviar - a Mediawiki</item> Per a enviar el document actual de Writer al servidor de MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ca-XR" level="2" l10n="NEW">Requisits del sistema</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ca-XR" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ca-XR" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ca-XR" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ca-XR" l10n="NEW">Un conte Wiki en un servidor <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> soportat</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ca-XR" level="2" l10n="NEW">Instalant Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ca-XR" l10n="NEW">Abans d'instalar el Wiki Publisher, assegure's que %PRODUCTNAME utilisa un entorn Java Runtime Environment (JRE). Per a verificar l'estatus del JRE, seleccione <item type="menuitem">Ferramentes - Opcions - %PRODUCTNAME - Java</item>. Assegure's que &quot;Usar un entorn d'eixecució de Java&quot; està marcat i que un directori d'un entorn d'eixecució de Java està seleccionat en la casella de selecció gran. Si cap JRE estava activat, llavors active un JRE 1.4 o més recent i reinicie %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ca-XR" level="3" l10n="NEW">Per a instalar l'extensió Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ca-XR" l10n="NEW">En una finestra de Writer, trie, <item type="menuitem">Ferramentes - Gestor d'extensions</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ca-XR" l10n="NEW">Punche afegir en el diàlec d'Administrador d'Extensions.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ca-XR" l10n="NEW">Localise l'archiu wiki-publisher.oxt, faça clic en Obrir, i faça clic en Tancar. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ca-XR" l10n="NEW">Tancar %PRODUCTNAME, i també tancar el Llançador ràpit si està activat.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ca-XR" l10n="NEW">Reinicie el programa, òbriga un document de text, i trie <item type="menuitem">Ferramentes - Opcions - Internet - MediaWiki</item> per a introduir la configuració del Wiki. Veja més avall &quot;Conectar en el Wiki&quot;.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ca-XR" level="3" l10n="NEW">Per a eliminar l'extensió Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ca-XR" l10n="NEW">En una finestra de Writer, trie <item type="menuitem">Ferramentes - Administrador d'extensions</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ca-XR" l10n="NEW">Faça clic en el signe més (+) en el front de Les Meues Extensions.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ca-XR" l10n="NEW">Seleccione l'extensió, faça clic en Eliminar, i a continuació faça clic en Tancar.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ca-XR" level="2" l10n="NEW">Per a conectar al Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ca-XR" l10n="NEW">Nota: Pot almagasenar el seu nom d'usuari i contrasenya per a tots els respectius diàlecs dins de %PRODUCTNAME. La contrasenya s'almagasenarà d'una forma segura, a on l'accés se mantindrà per una contrasenya mestra. Per a habilitar la contrasenya mestra, trie <item type="menuitem">Ferramentes - Opcions - %PRODUCTNAME - Seguritat</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ca-XR" l10n="NEW">Nota: Si es conecta a una pàgina web utilisant un servidor proxy, introduïxca l'informació del proxy en <item type="menuitem">Ferramentes - Opcions - Internet - Proxy</item>, i reinicie el programa.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ca-XR" l10n="NEW">Obrir un document Write, i triar <item type="menuitem">Ferramentes - Opcions - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ca-XR" l10n="NEW">Faça clic en Afegir del diàlec <link href="com.sun.wiki-publisher/wikisettings.xhp">Opcions</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ca-XR" l10n="NEW">Introduïxca l'informació del conte del Wiki en el diàlec <link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ca-XR" l10n="NEW">En el quadro d'URL, introduïxca la direcció del Wiki al que vol conectar.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ca-XR" l10n="NEW">Pot copiar l'URL des d'un navegador i apegar-la en la caixa de text.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ca-XR" l10n="NEW">En el quadro de nom d'usuari, introduïxca l'identificació d'usuari del seu conte en el Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ca-XR" l10n="NEW">Si el Wiki permet l'accés d'escritura anònim, pot deixar buits els quadros de nom d'usuari i la contrasenya.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ca-XR" l10n="NEW">En el quadro de contrasenya, introduïxca la contrasenya del seu conte Wiki, i punche en Acceptar.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ca-XR" l10n="NEW">Opcionalment pot activar &quot;Guardar clau&quot; per a guardar la clau entre sessions. Una clau mestra és amprada per a mantindre accés a totes les claus guardades. Trie <item type="menuitem">Ferramentes - Opcions - %PRODUCTNAME- Seguritat</item> per a activar la clau mestra. &quot;Guardar clau&quot; no estarà disponible quan la clau mestra no estiga activada.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ca-XR" level="2" l10n="NEW">Per a crear una nova plana del Wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ca-XR" l10n="NEW">Obrir un document de Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ca-XR" l10n="NEW">Escriga el contingut de la pàgina Wiki. Pot utilisar formats com formats de text, capçaleres, peus de pàgina i més. Mire en <link href="com.sun.wiki-publisher/wikiformats.xhp"> llista de formats soportats</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ca-XR" l10n="NEW">Trie <item type="menuitem">Archiu - Enviar - Al MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ca-XR" l10n="NEW">Indique la configuracio de la seua entrada en el diàlec <link href="com.sun.wiki-publisher/wikisend.xhp">Enviar a MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ca-XR" l10n="NEW"><emph>Servidor MediaWiki</emph>: Seleccione el Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ca-XR" l10n="NEW"><emph>Títul</emph>: Introduïxca el títul de la pàgina. Entre el títul d'una pàgina existent per a sobreescriure la pàgina en el seu document actual. Introduïxca un nou títul per a crear una nova pàgina en el Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ca-XR" l10n="NEW"><emph>Resum</emph>: Introduïxca un resum curt per la seua pàgina.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ca-XR" l10n="NEW"><emph>Esta és una edició menor</emph>: Marque este quadro per a indicar que la pàgina serà enviada com una revisió menor d'una pàgina existent en el mateix títul.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ca-XR" l10n="NEW"><emph>Mostrar en el navegador web</emph>: Seleccione este quadro per a obrir el seu navegador web per defecte i mostrar la pàgina enviada al Wiki.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ca-XR" l10n="NEW">Punche Enviar.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

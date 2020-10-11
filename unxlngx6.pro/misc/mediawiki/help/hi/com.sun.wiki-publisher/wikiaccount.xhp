@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hi">मीडियाविकी</title>
+<filename>/com.sun.wiki-publisher/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="hi" level="1" l10n="NEW">मीडियाविकी</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="hi" l10n="NEW">अपने मीडिया विकी खाता विन्यास में जोड़ने व संपादित करने के लिए मीडियाविकी संवाद का प्रयोग करें।</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="hi" l10n="NEW"><ahelp hid="." visibility="hidden">मीडियाविकी सर्वर का URL प्रविष्ट करें, http:// से शुरू होकर</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="hi" l10n="NEW"><ahelp hid="." visibility="hidden">मीडियाविकि सर्वर के लिए अपना उपयोक्तानाम प्रविष्ट करें। अनाम अभिगम्य के लिए रिक्त छोड़ दें।</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="hi" l10n="NEW"><ahelp hid="." visibility="hidden"> मीडियाविकि सर्वर के लिए अपना कूटशब्द प्रविष्ट करें। अनाम अभिगम्य के लिए रिक्त छोड़ दें।</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="hi" l10n="NEW"><ahelp hid="." visibility="hidden">सत्र के मध्य अपने कूटशब्द जमा करने के लिए सक्रिय करें। मुख्य कूटशब्द जरूर सक्रिय किया जाना चाहिए, देखें <item type="menuitem">औज़ार - विकल्प - %PRODUCTNAME - सुरक्षा</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="hi" l10n="NEW">विकी सर्वर का इंटरनेट पता http://wiki.services.openoffice.org/wiki की तरह प्रविष्ट करें या वेब ब्राउजर से URL की प्रतिलिपि बनाएँ।</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="hi" l10n="NEW">यदि विकी बेनामी अभिगम्य की स्वीकृति देता है, आप खाता बाक्स को रिक्त छोड़ सकते हैं। अपना उपयोक्तानाम व कूटशब्द प्रविष्ट करें।</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="hi" l10n="NEW">यदि आपने मुख्य कूटशब्द फीचर को औज़ार - विकल्प - %PRODUCTNAME संवाद के सुरक्षा टैब पृष्ठ पर सक्रिय किया है, तब साफ्टवेयर आपके कूटशब्द को स्वचालित रूप से जमा करेगा और स्वचालित रूप से आँकड़ा डालेगा जब कभी जरूरी हो। &quot;कूटशब्द सहेजें&quot; जाँचपेटी को अपना कूटशब्द जमा करने के लिए सक्रिय करें।</paragraph>
+</body>
+</helpdocument>

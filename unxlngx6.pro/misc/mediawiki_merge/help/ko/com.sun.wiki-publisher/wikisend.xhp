@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ko">MediaWiki로 보내기</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="ko" level="1" l10n="NEW">MediaWiki로 보내기</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="ko" l10n="NEW">MediaWiki로 보내기 대화 상자에서는 현재 위키 업로드에 관한 설정을 지정합니다.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="ko" l10n="NEW"><ahelp hid=".">문서를 발행하기를 희망하는 MediaWiki 서버를 선택합니다. 목록에 새 서버를 추가하려면 추가를 클릭하십시요.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="ko" l10n="NEW"><ahelp hid=".">위키 입력값의 주제를 입력합니다. 이것은 위키 입력값의 상단 제목입니다. 새 입력값을 위해서 주제는 위키에서 유일해야 합니다. 존재하는 주제로 입력한다면, 업로드하는 것이 존재하는 위키 입력값을 덮어쓸 것입니다.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="ko" l10n="NEW"><ahelp hid=".">간단한 요약이나 댓글을 입력합니다.</ahelp> <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>를 참조하십시요.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="ko" l10n="NEW"><emph>사소한 수정</emph>: <ahelp hid=".">이미 같은 이름으로 존재하는 페이지에 업로드할 때 사소한 수정임을 표시하려면 이 상자에 체크하십시요.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="ko" l10n="NEW"><emph>웹브라우저로 보기</emph>: <ahelp hid=".">시스템의 웹브라우저를 열어서 업로드된 위키페이지를 보려면 이 상자를 체크하십시요.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="cy">Fformatau MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="cy" level="1" l10n="NEW">Fformatau MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="cy" l10n="NEW">Mae'r rhestr ganlynol yn rhoi trosolwg o'r fformatiau testun mae @WIKIEXTENSIONPRODUCTNAME@ yn gallu eu llwytho i fyny i'r gweinydd Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="cy" l10n="NEW">Mae fformat OpenDocument sy'n cael ei ddefnyddio gan Writer a fformat WikiMedia format yn wahanol iawn. Dim ond lleiafswm o'r holl nodweddion y mae modd eu trosi o un fformat i'r llall.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="cy" level="2" l10n="NEW">Penawdau</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="cy" l10n="NEW">Gosod arddull paragraff pennawd i'r penawdau yn eich doggfen Writer. Bydd y Wiki'n dangos yr arddull pennawd o'r un lefel amlinell, wedi ei fformatio yn ôl diffiniad peiriant y Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="cy" level="2" l10n="NEW">Hypergysylltiadau</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="cy" l10n="NEW">Mae hypergysylltiadau OpenDocument yn cael eu trosi i'r cysylltiadau Wiki &quot;allanol&quot; . Felly dylai swyddogaeth cysylltiadau mewnol OpenDocument gael ei ddefnyddio'n unig ar gyfer creu cysylltiadau sy'n pwyntio i wefannau eraill y tu allan i we'r Wiki. Defnyddiwch gysylltiadau'r Wiki ar gyfer cyfeirio at bynciau eraill o fewn parth y Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="cy" level="2" l10n="NEW">Rhestrau</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="cy" l10n="NEW">Mae modd allforio cysylltiadau pan mae'r rhestr gyfan yn defnyddio arddull rhestru cyson. Defnyddiwch yr eicon Rhifo neu Bwledi i gynhyrchu rhestr yn Writer. Os ydych angen rhestr heb rifo neu fwledi, defnyddiwch Fformat - Bwledi a Rhifo i ddiffinio a gosod yr arddull rhestri perthnasol.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="cy" level="2" l10n="NEW">Paragraffau</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="cy" level="3" l10n="NEW">Aliniad</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="cy" l10n="NEW">Ni ddylai aliniad testun penodol gael ei ddefnyddio mewn erthyglau Wiki. Er hynny, mae alinio testun yn cael ei gynnal ar gyfer aliniad testun i'r dde, chwith a chanoli.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="cy" level="3" l10n="NEW">Testun rhagfformatiwyd</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="cy" l10n="NEW">Mae arddull paragraff gyda ffont lled-osodedig y cael ei drosi i destun wedi ei rag fformatio. Mae testun rhag fformatedig yn cael ei ddangos yn y Wiki gyda border o amgylch y testun.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="cy" level="2" l10n="NEW">Arddulliau Nod</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="cy" l10n="NEW">Mae arddull nodau yn newid golwg rhannau o baragraffau. Mae'r trawsnewid yn cynnal trwm, italig, italig/trwm, isysgrif ac uwchysgrif. Mae ffontiau lled sefydlog yn cael eu trosi i arddull teipiadur Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="cy" level="2" l10n="NEW">Troednodau</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="cy" l10n="NEW">Nodyn: Mae'r trawsnewid yn defnyddio arddull newydd o droednodiadau gyda thagiau &lt;ref&gt; a &lt;references&gt; sy'n gofyn am estyniad Cite.php gael eu gosod yn MediaWiki. Os yw'r tagiau yn digwydd fel testun plaen yng nghanlyniad y trawsnewid, gofynnwch i weinyddwr y Wiki i osod yr estyniad.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="cy" level="2" l10n="NEW">Delweddau</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="cy" l10n="NEW">Nid oes modd allforio delweddau drwy drawsnewidiad sy'n cynhyrchu ffeil unigol o destun Wiki. Er hynny, os yw'r ddelwedd eisoes wedi ei llwytho i fyny i borth Wiki targed (e.e. WikiMedia Commons), yna mae'r trawsnewid yn cynhyrchu tag delwedd ddilys sy'n cynnwys y ddelwedd. Mae teitlau delwedd hefyd yn cael eu cynnal.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="cy" level="2" l10n="NEW">Tablau</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="cy" l10n="NEW">Mae tablau syml yn cael eu cynnal hefyd. Mae penawdau tabl yn cael eu trawsnewid i benawdau cyfatebol tabl arddull Wiki. Er hynny, mae fformatio arbenigol o forderi tablau, maint ansafonol a lliwiau cefndir yn cael eu hanwybyddu.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="cy" level="3" l10n="NEW">Celloed wedi eu Huno</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="cy" l10n="NEW">Mae OpenDocument ac yn arbennig OpenOffice.org yn cyflwyno tablau sydd â chelloedd wedi eu huno sy'n  pontio rhesi fel tablau gyda thablau nythu. Mewn gwrthgyferbyniad, model Wiki o dablau yw datgan pontio colofnau a rhesi ar gyfer celloedd unedig o'r fath. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="cy" l10n="NEW">Os mai dim ond colofnau o'r un rhes sy'n cael eu huno, bydd canlyniad y trawsnewid yn edrych yn debyg iawn i'r ddogfen wreiddiol.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="cy" level="3" l10n="NEW">Borderi</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="cy" l10n="NEW">Beth bynnag yw'r arddull tabl unigryw ar gyfer borderi a chefndir, mae tabl bob tro'n cael ei allforio fel &quot;<emph>prettytable&quot;</emph>, sy'n cael eu cynhyrchu gan y peiriant Wiki gyda borderi syml a phennawd trwm.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="cy" level="2" l10n="NEW">Set nodau a nodau arbennig</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="cy" l10n="NEW">Mae set nod canlyniad y trosglwyddiad wedi ei osod yn UTF-8. Yn ddibynnol ar eich system, efallai nad hwn yw'r set nod ragosodedig. Gall hyn achosi i  &quot;nodau arbennig&quot; edrych wedi eu torri wrth eu darllen yn y gosodiadau rhagosodedig. Os nad yw eich golygydd yn cynnal newid yr encodio, gallwch ddangos y canlyniad y trosglwyddo yn y porwr Firefox a newid yr amgodiad i UTF-8 yno. Nawr gallwch dorri a gludo canlyniad y trosglwyddo i'r rhaglen o'ch dewis.</paragraph>
+</body>
+</helpdocument>

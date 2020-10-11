@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="as">MediaWiki লৈ পঠিয়াওক</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="as" level="1" l10n="NEW">MediaWiki লৈ পঠিয়াওক</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="as" l10n="NEW">MediaWiki লৈ পঠিয়াওক সম্বাদত, আপোনাৰ ৱিকি আপ-ল'ডৰ পছন্দ দিয়ক ।</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="as" l10n="NEW"><ahelp hid=".">আপোনাৰ আলেখ্যন প্ৰকাশ কৰিবলৈ MediaWiki সেৱক বাচি লওক । তালিকালৈ যোগ দিবলৈ এটা নতুন সেৱক বাচি লওক ।</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="as" l10n="NEW"><ahelp hid=".">আপোনাৰ ৱিকিৰ শিৰোনাম দিয়ক । এইটো আপোনাৰ ৱিকি নিবেশৰ ওপৰৰ হেডিং । নতুন নিবেশৰ কাৰণে, এই ৱিকিত শিৰোনাম অদ্বিতীয় হ'ব লাগিব । ইতিমধ্য থকা শিৰোনাম দিলে, আপোনাৰ আপ-ল'ডে বৰ্ত্তমানৰ ৱিকি নিবেশ অভাৰৰাইট কৰিব ।</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="as" l10n="NEW"><ahelp hid=".">এটা বৈকল্পিক সৰু সাৰাংশ বা মন্তব্য দিয়ক ।</ahelp><link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link> চাওক ।</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="as" l10n="NEW">
+<emph>This is a minor edit</emph>: <ahelp hid=".">Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="as" l10n="NEW">
+<emph>Show in web browser</emph>: <ahelp hid=".">Check this box to open your system web browser and show the uploaded Wiki page.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

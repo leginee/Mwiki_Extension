@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="km">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="km" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="km" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="km" l10n="NEW"><ahelp hid=".">ដោយ​ប្រើ @WIKIEXTENSIONPRODUCTNAME@ អ្នក​អាច​ផ្ទុក​ឡើង​ឯកសារ​អត្ថបទ​ Writer បច្ចុប្បន្ន​របស់​អ្នក​ទៅ​ម៉ាស៊ីន​មេ MediaWiki ។ បន្ទាប់​ពី​ផ្ទុក​ឡើង អ្នក​ប្រើ Wiki ទាំងអស់​អាច​អាន​ឯកសារ​របស់​អ្នក​នៅ​លើ Wiki ។</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="km" l10n="NEW"><ahelp hid="."><item type="menuitem"> MediaWiki</item> MediaWiki</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="km" level="2" l10n="NEW">តម្រូវការ​ប្រព័ន្ធ</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="km" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="km" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="km" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="km" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki"> MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="km" level="2" l10n="NEW">ការ​ដំឡើង @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="km" l10n="NEW">មុន​ពេល​អ្នក​ដំឡើង @WIKIEXTENSIONPRODUCTNAME@ ប្រាកដថា %PRODUCTNAME ប្រើ Java Runtime Environment (JRE) ។ ដើម្បីពិនិត្យ​មើល​ស្ថានភាព​របស់ JRE ជ្រើស <item type="menuitem">ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - Java</item> ។ សូមប្រាកដ​ថា &quot;ប្រើ Java runtime environment&quot; ត្រូវ​បានគូស​ធីក ហើយ​ថត Java runtime ត្រូវ​បាន​​ជ្រើស​នៅ​ក្នុង​ប្រអប់​បញ្ជី​ធំ ។ ប្រសិនបើ​គ្មាន JRE ត្រូវបាន​ធ្វើ​ឲ្យ​សកម្ម​ទេ នោះ​ធ្វើ​ឲ្យ JRE ១.៤ ឬ​​ខ្ពស់​ជាង​នេះ​សកម្ម ហើយ​ចាប់ផ្ដើម %PRODUCTNAME ឡើង​វិញ ។</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="km" level="3" l10n="NEW">ដើម្បី​ដំឡើង @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="km" l10n="NEW">នៅ​ក្នុង​បង្អួច​ Writer ​សូម​ជ្រើស <item type="menuitem">ឧបករណ៍ - កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម</item> ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="km" l10n="NEW">នៅ​​ក្នុង​ប្រអប់​កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម ត្រូវ​ចុច បន្ថែម ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="km" l10n="NEW">រក​ទីតាំង​ឯកសារ @WIKIEXTENSIONFILENAME@.oxt ចុច​បើក ហើយ​ចុច​បិទ ។ </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="km" l10n="NEW">បិទ %PRODUCTNAME និង​បិទ Quickstarter ផង​ដែរ បើ​បើក ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="km" l10n="NEW"><item type="menuitem"> MediaWiki</item>.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="km" level="3" l10n="NEW">ដើម្បី​យក @WIKIEXTENSIONPRODUCTNAME@ ចេញ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="km" l10n="NEW">នៅ​ក្នុង​បង្អួច Writer ជ្រើស <item type="menuitem">ឧបករណ៍ - កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម</item> ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="km" l10n="NEW">ចុច​សញ្ញា​បូក (+) នៅ​ពី​មុខ ផ្នែក​បន្ថែម​របស់​ខ្ញុំ ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="km" l10n="NEW">ជ្រើស​ផ្នែក​បន្ថែម បន្ទាប់​មក​ចុច យក​ចេញ ហើយ​ចុច បិទ ។</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="km" level="2" l10n="NEW">ដើម្បី​តភ្ជាប់​ទៅ​វិគី</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="km" l10n="NEW">ចំណាំ ៖ អ្នក​អាច​ទុក​ឈ្មោះ​អ្នកប្រើ និង​ពាក្យ​សម្ងាត់​របស់​អ្នក​សម្រាប់​ប្រព័ន្ធ​នីមួយៗ​នៅ​ក្នុង %PRODUCTNAME ។ ពាក្យ​សម្ងាត់​នឹង​ត្រូវបាន​ទុក​តាម​វិធី​ដ៏​មាន​សុវត្ថិភាព ដែល​​ការ​ចូលដំណើរការ​ត្រូវបាន​ថែទាំ​ដោយ​ពាក្យ​សម្ងាត់​មេ ។ ដើម្បី​បើក​ពាក្យ​សម្ងាត់​មេ ជ្រើស <item type="menuitem">ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - សុវត្ថិភាព</item> ។</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="km" l10n="NEW">ចំណាំ ៖ ប្រសិនបើ​អ្នក​តភ្ជាប់​ទៅកាន់​បណ្ដាញ ដោយ​ប្រើ​ម៉ាស៊ីនបម្រើប្រូកស៊ី បញ្ចូល​ព័ត៌មាន​ប្រូកស៊ី​នៅ​ក្នុង <item type="menuitem">ឧបករណ៍ - ជម្រើស - អ៊ីនធឺណិត - ប្រូកស៊ី</item> ហើយ​ចាប់ផ្ដើម​កម្មវិធី​ឡើង​វិញ ។</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="km" l10n="NEW"><item type="menuitem"> MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="km" l10n="NEW">នៅ​ក្នុង​ប្រអប់ <link href="@WIKIEXTENSIONID@/wikisettings.xhp">ជម្រើស</link> ចុច​ បន្ថែម ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="km" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp"> MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="km" l10n="NEW">នៅ​ក្នុង​ប្រអប់​អត្ថបទ URL ត្រូវ​បញ្ចូល​អាសយដ្ឋាន​វិគី ដែល​អ្នក​ចង់​តភ្ជាប់​ទៅ ។</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="km" l10n="NEW">អ្នក​អាច​ចម្លង URL ពី​កម្មវិធី​រុករក​បណ្ដាញបាន ហើយ​បិទភ្ជាប់​ទៅ​ក្នុង​ប្រអប់​អត្ថបទ ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="km" l10n="NEW">នៅ​ក្នុង​ប្រអប់ ឈ្មោះ​អ្នកប្រើ ត្រូវ​បញ្ចូល​លេខ​សម្គាល់​អ្នក​ប្រើ​របស់​អ្នក​សម្រាប់គណនី​វិគី ។</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="km" l10n="NEW">ប្រសិន​បើ​វិគី អនុញ្ញាត​សិទ្ធិ​ចូល​ដំណើរការ​អនាមិក អ្នក​អាច​ទុក​ឲ្យ​ប្រអប់​ឈ្មោះ​អ្នកប្រើ និង​ពាក្យ​សម្ងាត់​នៅ​ទទេ​បាន ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="km" l10n="NEW">នៅ​ក្នុង​ប្រអប់​ពាក្យ​សម្ងាត់ ត្រូវ​បញ្ចូល​ពាក្យ​សម្ងាត់​សម្រាប់​គណនី​វិគី​របស់​អ្នក បន្ទាប់​មក​ចុច យល់ព្រម ។</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="km" l10n="NEW">ជា​ជម្រើស បើក &quot;រក្សាទុក​ពាក្យ​សម្ងាត់&quot; ដើម្បី​រក្សាទុក​ពាក្យ​សម្ងាត់​រវាង​សម័យ​នីមួយៗ ។ ពាក្យ​សម្ងាត់​មេ​ត្រូវបាន​ប្រើ​ ដើម្បី​ថែទាំ​កា​រចូលដំណើរការ​ពាក្យ​សម្ងាត់​ដែលបានរក្សាទុក​ទាំងអស់ ។ ជ្រើស <item type="menuitem">ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - សុវត្ថិភាព</item> ដើម្បី​បើក​ពាក្យ​សម្ងាត់​មេ ។ &quot;រក្សាទុក​ពាក្យ​សម្ងាត់&quot; មិនអាច​ប្រើ​បាន នៅពេល​ពាក្យ​សម្ងាត់​មេ​មិន​ត្រូ​វបាន​បើក​នោះ​ទេ ។</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="km" level="2" l10n="NEW">ដើម្បី​បង្កើត​ទំព័រ​វិគី​ថ្មី</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="km" l10n="NEW">បើក​ឯកសារ Writer ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="km" l10n="NEW">សរសេរ​មាតិកា​របស់​ទំព័រ​វីគី ។ អ្នក​អាច​ប្រើ​ការ​ធ្វើ​ទ្រង់ទ្រាយ ដូច​ជា​ទ្រង់ទ្រាយ​អត្ថបទ ក្បាល លេខ​យោង និង​ផ្សេងៗ​ទៀត ។ សូម​មើល <link href="@WIKIEXTENSIONID@/wikiformats.xhp">បញ្ជី​របស់​ទ្រង់ទ្រាយ​ដែល​បាន​គាំទ្រ</link> ។</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="km" l10n="NEW"><item type="menuitem"> MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="km" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp"> MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="km" l10n="NEW"><emph> MediaWiki</emph>.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="km" l10n="NEW"><emph>ចំណង​ជើង</emph> ៖ វាយ​ចំណង​ជើង​ទំព័រ​របស់​អ្នក ។ វាយ​ចំណង​ជើង​ទំព័រ​ដែលមាន​ស្រាប់​ ដើម្បី​សរសេរ​ជាន់​លើ​ទំព័រ​ដែល​មាន​ឯកសារ​អត្ថបទ​បច្ចុប្បន្ន ។ វាយ​ចំណង​ជើង​ថ្មី ដើម្បិ​បង្កើត​ទំព័រ​ថ្មី​នៅ​លើ​វីគី ។</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="km" l10n="NEW"><emph>សេចក្ដីសង្ខេប</emph> ៖ បញ្ជូល​សេចក្ដី​សង្ខេប​ខ្លី​ជា​ជម្រើស​សម្រាប់​ទំព័រ​របស់​អ្នក ។</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="km" l10n="NEW"><emph>នេះ​ជា​ការ​កែសម្រួល​តិចតួច</emph> ៖ គូស​ធីក​ប្រអប់​នេះ ដើម្បី​សម្គាល់​ទំព័រ​ដែល​បានផ្ទុក​ឡើង​ជា​ការ​កែសម្រួលតិចតួច​នៃ​ទំព័រ​ដែលមាន​ស្រាប់​រួច​ហើយ​មាន​ចំណង​ជើង​ដូច​គ្នា ។</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="km" l10n="NEW"><emph>បង្ហាញ​ក្នុង​កម្មវិធី​រុករក​បណ្ដាញ</emph> ៖ គូស​ធីក​ប្រអប់នេះ ដើម្បី​បើក​កម្មវិធី​រុករក​បណ្ដាញ​ប្រព័ន្ធ​របស់​អ្នក ហើយ​បង្ហាញ​ទំព័រ​វីគី​ដែល​បានផ្ទុក​ឡើង ។</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="km" l10n="NEW">ចុច ផ្ញើ ។</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

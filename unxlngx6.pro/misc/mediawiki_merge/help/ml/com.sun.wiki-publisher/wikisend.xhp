@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ml">മീഡിയാവിക്കിയിലേക്ക് അയയ്ക്കുക</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="ml" level="1" l10n="NEW">മീഡിയാവിക്കിയിലേക്ക് അയയ്ക്കുക</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="ml" l10n="NEW">മീഡിയാവിക്കിയിലേക്ക് അയയ്ക്കുക എന്ന ഡയലോഗില്‍, നിങ്ങളുടെ ഇപ്പോഴുള്ള വിക്കി അപ്‌ലോഡില്‍ സജ്ജീകരണങ്ങള്‍ വ്യക്തമാക്കുക.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="ml" l10n="NEW"><ahelp hid=".">നിങ്ങളുടെ രേഖ പ്രസിദ്ധീകരിക്കുന്നതിനുള്ള മീഡിയാസര്‍വര്‍ തെരഞ്ഞെടുക്കുക.പട്ടികയിലേക്ക് പുതിയൊരു സര്‍വര്‍ ചേര്‍ക്കുന്നതിനായി ചേര്‍ക്കുക ക്ലിക്ക് ചെയ്യുക.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="ml" l10n="NEW"><ahelp hid=".">നിങ്ങളുടെ വിക്കി എന്‍ട്രിയ്ക്കുള്ള തലക്കെട്ട് നല്‍കുക. ഇതാണു് നിങ്ങളുടെ വിക്കി എന്‍ട്രിയുടെ മുകളിലുള്ള തലക്കെട്ട്. പുതിയ എന്‍ട്രിയ്ക്കായി, ഈ വിക്കിയില്‍ തലക്കെട്ട് ഒരു തവണമാത്രമേ ഉപയോഗിക്കുവാന്‍ പാടുള്ളൂ. നിലവിലുള്ള ഒരു തലക്കെട്ട് നല്‍കിയാല്‍, നിലവിലുള്ള ഒരു വിക്കി എന്‍ട്രി മാറ്റിയെഴതപ്പെടുന്നു.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="ml" l10n="NEW"><ahelp hid=".">ഒരു ലഘു വിവരണം അല്ലെങ്കില്‍ അഭിപ്രായം നല്‍കുക (ആവശ്യമെങ്കില്‍).</ahelp> <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link> കാണുക.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="ml" l10n="NEW"><emph>ഇതൊരു ചെറിയ തിരുത്തലാണു്</emph>: <ahelp hid=".">ഒരേ തലക്കെട്ടില്‍ നിലവിലുള്ള താളിനുള്ള ഒരു ചെറിയ തിരുത്തലായി അപ്‌ലോഡ് ചെയ്ത താള്‍ അടയാളപ്പെടുത്തുന്നതിനായി ഈ ബോക്സ് ചെക്ക് ചെയ്യുക.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="ml" l10n="NEW"><emph>വെബ് ബ്രൌസര്‍ കാണിക്കുക</emph>: <ahelp hid=".">നിങ്ങളുടെ സിസ്റ്റം വെബ് ബ്രൌസര്‍ തുറന്നു് അപ്‌ലോഡ് ചെയ്ത വിക്കി താള്‍ കാണിക്കുന്നതിനായി ഈ ബോക്സ് ചെക്ക് ചെയ്യുക.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

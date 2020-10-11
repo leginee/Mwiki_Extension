@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sk">Formáty MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sk" level="1" l10n="NEW">Formáty MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sk" l10n="NEW">Nasledujúci zoznam poskytuje prehľad textových formátov, ktoré môže @WIKIEXTENSIONPRODUCTNAME@ odoslať na server Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sk" l10n="NEW">Formát OpenDocument používaný Writer-om a WikiMedia formát sú dosť rozdielne. Iba určité podmnožina všetkých vlastností môže transformovaná z jedného formátu do druhého formátu.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sk" level="2" l10n="NEW">Nadpisy</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sk" l10n="NEW">Použiť štýl nadpisu odseku pre nadpisy vo vašom dokumente Writer. Wiki zobrazí všetky štýly nadpisu rovnakej úrovne osnovy, formátované rovnako ako je definované v nastaveniach Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sk" level="2" l10n="NEW">Hypertextové odkazy</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sk" l10n="NEW">Natívne OpenDocument hypertextové odkazy sú transformované na &quot;externé&quot; Wiki odkazy a preto by zabudovaná funkcionalita OpenDocumentu pre vytváranie odkazov mala byť používaná len pre vytváranie odkazov ukazujúcich na iné stránky mimo Wiki webu. Pre vytváranie Wiki odkazov ukazujúcich na iné subjekty v rámci rovnakej Wiki domény použite Wiki odkazy.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sk" level="2" l10n="NEW">Zoznamy</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sk" l10n="NEW">Zoznamy môžu byť spoľahlivo exportované, keď celý zoznam používa konzistentný štýl. Pre vytvorenie zoznamu vo Writeri použite Číslovanie alebo Odrážky. V prípade, že potrebujete zoznam bez číslovania alebo odrážok použite Formát - Odrážky a číslovanie pre definovanie a použitie požadovaného štýlu zoznamu.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sk" level="2" l10n="NEW">Odseky</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sk" level="3" l10n="NEW">Zarovnanie</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sk" l10n="NEW">Explicitné zarovnávanie textu by nemalo byť používane v článkoch Wiki. Napriek tomu je podporované zarovnanie textu vľavo, vpravo a na stred.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sk" level="3" l10n="NEW">Predformátovaný text</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sk" l10n="NEW">Štýl odseku obsahujúci písmo s pevnou šírkou je transformovaný ako predformátovaný text. Predformátovaný text je vo Wiki zobrazený s orámovaním okolo textu.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sk" level="2" l10n="NEW">Štýly znakov</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sk" l10n="NEW">Štýly znakov upravujú zobrazenie častí odseku. Transformácia podporuje tučné, kurzíva, tučné/kurzíva, dolný index a horný index. Všetky písma s pevnou šírkou sú transformované do štýlu Wiki typewriter.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sk" level="2" l10n="NEW">Poznámky pod čiarou</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sk" l10n="NEW">Poznámka: Tranformácia požíva nový štýl poznámok pod čiarou tagmi &lt;ref&gt; a &lt;references&gt;, ktorý vyžaduje inštaláciu rozšírenia Cite.php do MediaWiki. V prípade, že sa tieto tagy objavia vo výsledku transformácie ako jednoduchý text, požiadajte správcu Wiki o inštaláciu tohto rozšírenia.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sk" level="2" l10n="NEW">Obrázky</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sk" l10n="NEW">Obrázky nemôžu byť exportované formou transformácie, ktorá dáva jeden Wiki textový súbor. Ale v prípade ak je obrázok už umiestnený na cieľovej Wiki doméne (napr. WikiMedia Commons), transformácia vytvorí platný tag obrázka, ktorý tento obrázok zahrňuje. Podporované sú tiež popisy obrázkov.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sk" level="2" l10n="NEW">Tabuľky</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sk" l10n="NEW">Jednoduché tabuľky sú taktiež podporované. Hlavičky tabuliek sú preložené ako odpovedajúce hlavičky tabuliek štýlu Wiki. Žiaľ vlastné formátovanie orámovania tabuliek, veľkosti stĺpcov a farby pozadia sú ignorované.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sk" level="3" l10n="NEW">Zlúčené bunky</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sk" l10n="NEW">OpenDocument a obzvlášť OpenOffice.org pracuje s tabuľkami, ktoré majú zlúčené bunky ako s tabuľkami, do ktorých sú vložené tabuľky. Naopak Wiki model tabuľky pracuje s definíciou rozpätia stĺpcov a riadkov pre takéto zlúčené bunky.  </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sk" l10n="NEW">Ak sú zlúčené len stĺpce v jednom riadku, výsledok transformácie je veľmi podobný zdrojovému dokumentu.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sk" level="3" l10n="NEW">Orámovanie</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sk" l10n="NEW">Nezávisle od vlastného štýlu tabuliek pre orámovanie a pozadie, tabuľka je vždy exportovaná ako &quot;<emph>prettytable&quot;</emph>, ktorá sa vo Wiki vykreslí s jednoduchým orámovaním a s tučnou hlavičkou.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sk" level="2" l10n="NEW">Znaková sada a špeciálne znaky</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sk" l10n="NEW">Znaková sada výsledku transformácie je pevne nastavená na UTF-8. V závislosti na vašom systéme toto nemusí byť aj východzia znaková sada. Toto môže spôsobiť, že špeciálne znaky budú vyzerať zvláštne, keď sa budú zobrazovať pomocou východzích nastavení. Pre opravu takéhoto zobrazenia môžete nastaviť váš editor na kódovanie UTF-8. V prípade, že váš editor nepodporuje zmenu kódovania, môžete zobraziť výsledok transformácie v prehliadači Firefox a prepnúť kódovanie na UTF-8 v ňom. Potom môžete skopírovať výsledok transformácie do programu podľa vašeho výberu.</paragraph>
+</body>
+</helpdocument>

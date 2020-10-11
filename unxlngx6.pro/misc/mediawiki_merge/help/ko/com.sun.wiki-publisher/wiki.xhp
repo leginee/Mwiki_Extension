@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ko">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ko" branch="index" id="bm_id3154408"><bookmark_value>위키;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>확장;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ko" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ko" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@을 사용함으로써 현재의 Writer 텍스트 문서를 MediaWiki 서버로 올릴 수 있습니다. 올린 후에는 모든 위키 사용자들이 위키에서 문서를 읽을 수 있게 됩니다.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ko" l10n="NEW"><ahelp hid="."><item type="menuitem">파일 - 보내기 - MediaWiki로</item>를 선택하면 현재의 Writer 문서가 MediaWiki 로 업로드합니다.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ko" level="2" l10n="NEW">시스템 요구사항</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ko" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ko" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ko" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ko" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> 서버의 위키 계정</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ko" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ 설치 과정</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ko" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ 을 설치하기 전에, %PRODUCTNAME 에서 Java Runtime Environment (JRE)를 사용하는지 확인하여 주십시오. JRE의 상태를 확인하려면, <item type="menuitem">도구 - 옵션 - %PRODUCTNAME - Java</item> 를 선택하여 주십시오. &quot;Java runtime environment 사용&quot;의 체크 여부와 목록상자에 Java 런타임 폴더가 선택되어 있는지 확인하여 주십시오. JRE가 안 보이면, JRE 1.4 또는 그 이상의 버전을 활성화 시킨 후 %PRODUCTNAME 을 다시 실행하여 주십시오.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ko" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ 설치하기</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ko" l10n="NEW">라이터 창에서 <item type="menuitem">도구 - 확장 관리자</item>를 선택하십시오.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ko" l10n="NEW">확장 관리자 대화 상자에서 추가를 클릭하십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ko" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt 파일의 위치를 지정한 후, 열기를 클릭하고 닫기를 클릭합니다. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ko" l10n="NEW">%PRODUCTNAME 을 닫고 빠른 시작이 활성화 되어 있다면 그것도 같이 닫습니다.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ko" l10n="NEW">소프트웨어를 재시작한 다음, 텍스트 문서를 열고 <item type="menuitem">도구 - 옵션 - 인터넷 - MediaWiki</item>를 열어 위키 개인 설정 내용을 입력합니다. &quot;위키에 연결하기&quot; 항목을 참조하십시요.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ko" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ 제거하기</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ko" l10n="NEW">Writer 창에서 <item type="menuitem">도구 - 확장 관리자</item>를 선택하십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ko" l10n="NEW">내 확장 앞에 있는 더하기 기호(+)를 클릭하십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ko" l10n="NEW">확장을 선택한 후, 제거를 클릭하고 닫기를 클릭합니다.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ko" level="2" l10n="NEW">위키에 연결하기</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ko" l10n="NEW">참고: 각각의 모든 대화 상자에 사용되는 사용자 이름과 비밀번호는 %PRODUCTNAME 내부에 저장할 수 있습니다. 비밀번호는 안전한 방법으로 저장되며, 마스터 비밀번호를 통해서만 접근이 관리됩니다. 마스터 비밀번호 기능을 활성화 하려면, <item type="menuitem">도구 - 옵션 - %PRODUCTNAME - 보안</item> 에서 선택하여 주십시오.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ko" l10n="NEW">참고: 프록시 서버를 통해 웹에 접속한다면, 프록시 정보를 <item type="menuitem">도구 - 정보 - 인터넷 - 프록시</item>를 선택하여 입력하고, 소프트웨어를 재시작해주십시요.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ko" l10n="NEW">Writer 문서를 연 뒤, <item type="menuitem">도구 - 옵션 - 인터넷 - MediaWiki</item>를 선택하십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ko" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">옵션</link> 대화 상자에서 추가를 누르십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ko" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>대화 상자에서 위키에 관한 계정 정보를 입력하십시요.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ko" l10n="NEW">URL 텍스트 상자에 연결하고자 하는 위키의 주소를 입력하십시요.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ko" l10n="NEW">웹브라우저에서 URL을 복사해서 텍스트 상자에 붙여넣을 수 있습니다.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ko" l10n="NEW">사용자 이름 상자에 위키 계정의 사용자 ID를 입력합니다.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ko" l10n="NEW">위키가 익명으로 기록을 할 수 있을 때에는 사용자 이름과 암호를 입력하는 상자를 비워둘 수 있습니다.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ko" l10n="NEW">암호 상자에 위키 계정의 암호를 입력하고, OK 를 클릭합니다.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ko" l10n="NEW">부가적으로 세션에 암호를 넣고자 할 경우 &quot;비밀번호 저장&quot; 기능을 활성화 시킬 수 있습니다. 마스터 비밀번호는 저장된 모든 비밀번호에 접근하는 데에 사용됩니다. <item type="menuitem">도구 - 옵션 - %PRODUCTNAME - 보안</item> 을 선택하면 마스터 비밀번호를 활성화할 수 있습니다. &quot;비밀번호 저장&quot; 기능은 마스터 비밀번호가 활성화되지 않은 경우 사용할 수 없습니다.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ko" level="2" l10n="NEW">새 위키 페이지 만들기</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ko" l10n="NEW">Writer 문서를 엽니다.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ko" l10n="NEW">위키 페이지의 내용을 씁니다. 텍스트 형식이나 제목, 설명 등의 형식을 사용할 수 있습니다. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">지원되는 형식 목록</link>을 참조하십시요.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ko" l10n="NEW"><item type="menuitem">파일 - 보내기 - MediaWiki로</item>를 선택합니다.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ko" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWiki로 보내기</link> 대화 상자에 설정 사항을 입력합니다.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ko" l10n="NEW"><emph>MediaWiki 서버</emph>: 위키를 선택합니다.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ko" l10n="NEW"><emph>주제</emph>: 페이지의 주제를 입력하십시요. 현재 텍스트 문서로 이루어진 페이지로 덮어쓰려면 존재하는 주제를 입력하십시요. 위키에 새 페이지를 만드려면 새 주제를 입력하십시요.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ko" l10n="NEW"><emph>요약</emph>: 페이지에 대한 선택적인 간단한 요약을 입력합니다.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ko" l10n="NEW"><emph>사소한 수정</emph>: 이미 같은 이름으로 존재하는 페이지에 업로드할 때 사소한 수정임을 표시하려면 이 상자에 체크하십시요.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ko" l10n="NEW"><emph>웹브라우저로 보기</emph>: 시스템의 웹브라우저를 열어서 업로드된 위키페이지를 보려면 이 상자를 체크하십시요.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ko" l10n="NEW">보내기를 누릅니다.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

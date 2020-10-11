@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="nn">MediaWiki-format</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="nn" level="1" l10n="NEW">MediaWiki-format</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="nn" l10n="NEW">Den følgjande lista er ei oversikt over tekstformateringane @WIKIEXTENSIONPRODUCTNAME@ kan lasta opp til wikitenaren.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="nn" l10n="NEW">OpenDocument-formatet som blir brukt av Writer er ganske ulikt frå MediaWiki- formatet. Berre visse funksjonar kan overførast frå det eine formatet til det andre.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="nn" level="2" l10n="NEW">Overskrifter</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="nn" l10n="NEW">Bruk ein avsnittsstil på overskriftene i Writer-dokumentet. Overskriftene vert brukte med same nivå på wikien, og i wikiformat.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="nn" level="2" l10n="NEW">Hyperlenkjer</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="nn" l10n="NEW">OpenDokument-hyperlenkjer vert gjorde om til eksterne wikilenkjer. Difor må den innebygde lenkjefunksjonen i OpenDocument-formatet berre brukast til å laga lenkjer til sider utanfor den gjeldande wikien. For å laga lenkjer som peikar til andre sider på same wiki, bruk wikilenkjer ([[sidenamn]]).</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="nn" level="2" l10n="NEW">Lister</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="nn" l10n="NEW">Du kan trygt eksportera lister dersom heile lista brukar same listestil. Bruk ikona for nummerering og punktmerking for å laga ei liste i Writer. Dersom du treng ei liste utan nummerering eller punktmerking, bruk <emph>Format → Punkt og nummerering</emph> for å laga og bruka andre listestilar.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="nn" level="2" l10n="NEW">Avsnitt</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="nn" level="3" l10n="NEW">Tekstjustering</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="nn" l10n="NEW">Vanleg tekstjustering bør ikkje brukast på wikisider. Likevel er justering støtta for venstre-, midt- og høgrejustering av tekst.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="nn" level="3" l10n="NEW">Førehandsformatert tekst</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="nn" l10n="NEW">Ein avsnittsstil der ei fastbreidde-skrift er brukt, vert formatert som pre-tekst på wikien. Pre-formatert tekst er tekst som vert vist på wikien med ei ramme rundt.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="nn" level="2" l10n="NEW">Teiknstilar</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="nn" l10n="NEW">Teiknstilar endrar utsjånaden på ein del av eit avsnitt. Støtta teiknstilar er feit skrift, kursiv skrift, feit kursiv skrift, heva tekst og senka tekst. Alle fastbreidde-skrifter som vert brukte, vert gjorde om til pre-formatert tekst på wikien.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="nn" level="2" l10n="NEW">Fotnotar</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="nn" l10n="NEW">Merk: Bruken av fotnotar vert gjort med ny type fotnotar, altså med ref- og references-taggar som krev at utvidinga «Cite» er installert på den aktuelle wikien. Dersom desse taggane dukkar opp som vanleg tekst i resultatet av overføringa, må du spørja dei som administrerer wikien om å få denne utvidinga installert.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="nn" level="2" l10n="NEW">Bilete</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="nn" l10n="NEW">Bilete kan ikkje eksporterast, sidan overføringa berre brukar éi enkelt tekstfil. Men dersom biletet allereie ligg på målwikien (t.d. Wikimedia Commons), vert det laga ein gyldig bilettagg, slik at ein kan bruke biletet. Bilettekstar er òg støtta.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="nn" level="2" l10n="NEW">Tabellar</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="nn" l10n="NEW">Enkle tabellar er godt støtta. Tabelloverskrifter vert gjorde om til tabelloverskrifter i wikikode. Formatering av kantlinjer, cellestorleikar og bakgrunnsfarge er ikkje støtta.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="nn" level="3" l10n="NEW">Samanslåtte celler</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="nn" l10n="NEW">OpenDocument, og spesielt OpenOffice.org, kan bruka tabellar som har samanslåtte celler som går over fleire rader. Dette blir gjort ved å bruka nøsta tabellar. Wikiar, derimot, brukar HTML-funksjonen «span» til dette. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="nn" l10n="NEW">Dersom berre kolonnar som er i same rad er samanslåtte blir resultatet av overføringa likt kjeldedokumentet.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="nn" level="3" l10n="NEW">Kantlinjer</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="nn" l10n="NEW">Uansett tabellstil i Writer, vert alltid tabellar eksporterte som «<emph>prettytable/fin tabell</emph>», som er ein tabell med enkle kantlinjer og feit overskrift.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="nn" level="2" l10n="NEW">Teiknsett og spesialteikn</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="nn" l10n="NEW">Teiknsettet som vert brukt i overførina er UTF-8. Avhenging av kva system du nyttar, er det ikkje sikkert at dette er standard teiknsett for deg. Dette kan gjera til at «spesialteikn» ikkje vert viste rett når du ser dei med standardinnstillingar. Løysinga på dette er å byte til UTF-8-koding i redigeringsprogrammet. Dersom dette ikkje går an i programmet du brukar, kan du visa resultatet av overføringa i nettlesaren Firefox, og byta til UTF-8-koding der. No kan du klippa ut og lima inn resultatet til det programmet du ønskjer å bruka.</paragraph>
+</body>
+</helpdocument>

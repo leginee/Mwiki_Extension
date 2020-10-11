@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hu">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="hu" branch="index" id="bm_id3154408"><bookmark_value>wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>kiterjesztések;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="hu" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="hu" l10n="NEW"><ahelp hid=".">A @WIKIEXTENSIONPRODUCTNAME@ használatával az aktuális szöveges dokumentumot feltöltheti egy MediaWiki-kiszolgálóra. A feltöltés után minden wikifelhasználó olvashatja az Ön dokumentumát a wikin.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="hu" l10n="NEW"><ahelp hid=".">Válassza a <item type="menuitem">Fájl - Küldés - MediaWikire</item> menüparancsot, ha az aktuális Writer-dokumentumot fel akarja tölteni egy MediaWiki-kiszolgálóra.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="hu" level="2" l10n="NEW">Rendszerkövetelmények</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="hu" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="hu" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="hu" l10n="NEW">Java-futtatókörnyezet 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="hu" l10n="NEW">Wikifiók egy támogatott<link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link>-kiszolgálón</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="hu" level="2" l10n="NEW">A @WIKIEXTENSIONPRODUCTNAME@ telepítése</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="hu" l10n="NEW">A @WIKIEXTENSIONPRODUCTNAME@ kiterjesztés telepítése előtt gondoskodjon arról, hogy az %PRODUCTNAME Java-futtatókörnyezetet (JRE) használjon. A JRE állapotának ellenőrzéséhez nézze meg az <item type="menuitem">Eszközök - Beállítások - %PRODUCTNAME - Java</item> panelt. Ellenőrizze, hogy a „Java-futtatókörnyezet használata” négyzet be van-e jelölve, és hogy ki van-e választva egy Java-futtatókörnyezet a nagy listamezőben. Ha egyik JRE sincs aktiválva, akkor aktiváljon egy JRE 1.4-et vagy frissebbet, és indítsa újra az %PRODUCTNAME programot.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="hu" level="3" l10n="NEW">A @WIKIEXTENSIONPRODUCTNAME@ telepítéséhez:</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="hu" l10n="NEW">Egy Writer-ablakban válassza az <item type="menuitem">Eszközök - Kiterjesztéskezelő</item> menüparancsot.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="hu" l10n="NEW">A Kiterjesztéskezelő párbeszédablakban kattintson a Hozzáadás gombra.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="hu" l10n="NEW">Keresse meg a @WIKIEXTENSIONFILENAME@.oxt fájlt, kattintson a Megnyitás, majd a Bezárás gombra. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="hu" l10n="NEW">Zárja be az %PRODUCTNAME programot, és ha engedélyezve van, zárja be a gyorsindítót is.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="hu" l10n="NEW">Indítsa újra a szoftvert, nyisson meg egy szöveges dokumentumot, majd az <item type="menuitem">Eszközök - Beállítások - Internet - MediaWiki</item> panelen írja be a wiki beállításait. Lásd alább: „Kapcsolódás egy wikihez”.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="hu" level="3" l10n="NEW">A @WIKIEXTENSIONPRODUCTNAME@ eltávolításához:</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="hu" l10n="NEW">Egy Writer-ablakban válassza az <item type="menuitem">Eszközök - Kiterjesztéskezelő</item> menüparancsot.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="hu" l10n="NEW">Kattintson a Saját kiterjesztések előtt lévő plusz (+) jelre.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="hu" l10n="NEW">Válassza ki a kiterjesztést, kattintson az Eltávolítás gombra, majd kattintson a Bezárás gombra.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="hu" level="2" l10n="NEW">Kapcsolódás egy wikihez</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="hu" l10n="NEW">Megjegyzés: Az %PRODUCTNAME különböző párbeszédablakaiba beírt felhasználóneveket és jelszavakat mentheti. A jelszót a rendszer biztonságosan tárolja, olyan helyen, amelynek eléréséhez mesterjelszó szükséges. Engedélyezze a mesterjelszó használatát az <item type="menuitem">Eszközök - Beállítások - %PRODUCTNAME - Biztonság</item> panelen.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="hu" l10n="NEW">Megjegyzés: Ha proxykiszolgáló használatával csatlakozik az internetre, adja meg a proxyadatokat az <item type="menuitem">Eszközök - Beállítások - Internet - Proxy</item> panelen, majd indítsa újra a szoftvert.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="hu" l10n="NEW">Nyisson meg egy Writer-dokumentumot, majd válassza az <item type="menuitem">Eszközök - Beállítások - Internet - MediaWiki</item> lehetőséget.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="hu" l10n="NEW">A <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Beállítások</link> párbeszédablakban kattintson a Hozzáadás gombra.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="hu" l10n="NEW">A <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> párbeszédablakban adja meg a wikihez tartozó fiókadatait.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="hu" l10n="NEW">Az URL szövegmezőben adja meg annak a wikinek a címét, amelyhez csatlakozni kíván.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="hu" l10n="NEW">Az URL-t webböngészőből is átmásolhatja a szövegmezőbe.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="hu" l10n="NEW">A Felhasználónév mezőben adja meg a wikifiókjának felhasználói azonosítóját.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="hu" l10n="NEW">Ha a wiki engedélyezi az anonim írási hozzáférést, a Felhasználónév és Jelszó, mezőket üresen hagyhatja.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="hu" l10n="NEW">A Jelszó mezőben adja meg a wikifiókjának jelszavát, majd kattintson az OK gombra.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="hu" l10n="NEW">Opcionálisan engedélyezheti a „Jelszó mentése” lehetőséget is, hogy a munkamenetek között mentse a jelszót. A mentett jelszavak elérését a mesterjelszó védi. A mesterjelszó használatát engedélyezze az <item type="menuitem">Eszközök - Beállítások - %PRODUCTNAME - Biztonság</item> panelen. A „Jelszó mentése” lehetőség nem áll rendelkezésre, ha a mesterjelszó nincs engedélyezve.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="hu" level="2" l10n="NEW">Új wikioldal létrehozása</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="hu" l10n="NEW">Nyisson meg egy Writer-dokumentumot.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="hu" l10n="NEW">Írja meg a wikioldal tartalmát. Használhat formázást, többek között szövegformázást, címsorokat, lábjegyzeteket. Lásd: <link href="@WIKIEXTENSIONID@/wikiformats.xhp">a támogatott formátumok listája</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="hu" l10n="NEW">Válasza a <item type="menuitem">Fájl - Küldés - MediaWikire</item> menüparancsot.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="hu" l10n="NEW">A <link href="@WIKIEXTENSIONID@/wikisend.xhp">Küldés MediaWikire</link> párbeszédablakban adja meg a bejegyzésének beállításait.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="hu" l10n="NEW"><emph>MediaWiki-kiszolgáló</emph>: Válassza ki a wikit.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="hu" l10n="NEW"><emph>Cím</emph>: Írja be az oldal címét. Ha egy meglévő oldal címét írja be, akkor az felülíródik az aktuális szöveges dokumentum tartalmával. Ha új címet ír be, akkor egy új oldal jön létre a wikin.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="hu" l10n="NEW"><emph>Összegzés</emph>: Írjon egy rövid összefoglalót az oldalról, de ez nem kötelező.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="hu" l10n="NEW"><emph>Ez egy kis módosítás</emph>: Ha a feltöltött dokumentum egy meglévő, ugyanilyen című oldal kis mértékű módosítása, jelölje be ezt a mezőt.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="hu" l10n="NEW"><emph>Megjelenítés a böngészőben</emph>: Ha bejelöli ezt a négyzetet, megnyílik a rendszer webböngészője, és megjeleníti a feltöltött wikioldalt.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="hu" l10n="NEW">Kattintson a Küldés gombra.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

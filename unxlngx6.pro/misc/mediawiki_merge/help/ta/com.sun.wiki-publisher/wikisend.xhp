@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ta">MediaWikiவுக்கு அனுப்பு</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="ta" level="1" l10n="NEW">MediaWikiவுக்கு அனுப்பு</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="ta" l10n="NEW">MediaWiki உரையாடலுக்கு அனுவதில், உங்களுடைய தற்போதைய Wiki புதுப்பித்தல் அமைவுகளை குறிப்பிடவும்.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="ta" l10n="NEW"><ahelp hid=".">உங்கள் ஆவணத்தில் MediaWiki சேவையகத்தை எங்கே வெளியிட விரும்புகிறீர்கள் என தேர்ந்தெடுக்கவும். பட்டியலில் புதிய சேவையகத்தை சேர்க்க சேர் என்பதை க்ளிக் செய்யவும்.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="ta" l10n="NEW"><ahelp hid=".">உங்கள் விகி உள்ளிட்டின் தலைப்பு உள்ளிடவும். இது உங்கள் விகி உள்ளிடின் மேல் தலைப்பாகும். ஒரு புதிய உள்ளிட்டிற்கு, தலைப்பானது இந்த Wikiம் ஒன்றாக இருக்கும். ஏற்கனவே உள்ள தலைப்பை நீங்கள் உள்ளிட்டால், உள்ளிருக்கும் Wiki உள்ளிடு ஏற்கனவே உள்ளவற்றின் மேலெழுதும்.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="ta" l10n="NEW"><ahelp hid=".">ஒரு விருப்பமான குறுகிய சுருக்கத்தை ஆல்லது கட்டளையை உள்ளிடு.</ahelp> See <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="ta" l10n="NEW"><emph>இது ஒரு சிறிய திருத்தம்</emph>: <ahelp hid=".">அதை தலைப்புடன் ஏற்கனவே உள்ள புதுப்பிக்கப்பட்ட பக்கத்திலுள்ள ஒரு சிறிய திருத்தத்தை இநுத பெட்டியில் சரிபார்க்கவும்.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="ta" l10n="NEW"><emph>இணைய உலாவியில் காட்டு</emph>: <ahelp hid=".">உங்கள் கணினி இணைய உலாவி திறப்பதற்கு மற்றும் புதுப்பிக்கப்பட்ட Wiki பக்கத்தில் காட்டுவதற்கு இந்த பெட்டியை சரிபார்க்கவும்.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

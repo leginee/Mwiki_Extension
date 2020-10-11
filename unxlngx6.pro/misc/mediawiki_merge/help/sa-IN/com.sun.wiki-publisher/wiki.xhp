@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sa-IN">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sa-IN" branch="index" id="bm_id3154408">&lt;पुस्तकचिह्न_मूल्यम्&gt;विकि;@WIKIEXTENSIONPRODUCTNAME@&lt;/पुस्तकचिह्न_मूल्यम्&gt;&lt;पुस्तकचिह्न_मूल्यम्&gt;@WIKIEXTENSIONPRODUCTNAME@&lt;/पुस्तकचिह्न_मूल्यम्&gt;&lt;पुस्तकचिह्न_मूल्यम्&gt;विस्तारणानि;मीडिया विकि&lt;/पुस्तकचिह्न_मूल्यम्&gt;</bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sa-IN" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sa-IN" l10n="NEW">&lt;aसाहायम् आच्छादितम्=&quot;.&quot;&gt; @WIKIEXTENSIONPRODUCTNAME@ उपयोगेन मीडियाविकि सर्वर् त्वं तव वर्तमानलेखकविषयलेख्यपत्रम् अप्लोड् कर्तुं शक्णोषि।अप्लोड्करणानन्तरं, सर्वे विकि प्रयोक्तारः विकि मध्ये तव लेख्यपत्रं पठितुं शक्नुवन्ति।&lt;/aसहायम्&gt;</paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot;&gt; मीडियासर्वर्कृते वर्तमानलेखकलेख्यपत्रम् अप्लोड् कर्तुं&lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;सञ्चिकाप्रेषणं -मीडियाविकिवस्तुने वृणु -&lt;/&gt;।&lt;/aसहायम्&gt;</paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sa-IN" level="2" l10n="NEW">सिस्टम् आवश्यकाः </paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sa-IN" l10n="NEW">स्टार् ओफीस्/स्टार् सूट् 8 10 नवीकुरु </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sa-IN" l10n="NEW">ओपेन् ओफीस्.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sa-IN" l10n="NEW">जावा चालनसमयवातावरणम् 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sa-IN" l10n="NEW">समर्थितलिङ्क्मध्ये विकि उपयोजकसंज्ञा&lt; href=&quot;http://www.mediawiki.org/विकि/मीडियाविकि&quot;&gt;मीडियाविकि&lt;/लिङ्क्&gt; सर्वर्</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sa-IN" level="2" l10n="NEW"> @WIKIEXTENSIONPRODUCTNAME@ संस्थापयति</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sa-IN" l10n="NEW"> @WIKIEXTENSIONPRODUCTNAME@ एतत् संस्थापनात् पूर्वं,स्टार् ओफीस् अथवा ओपेन् ओफीस्.org जावा चालनसमयवातावरणम् (JRE) उपयोजयति इति निश्चयं कुरु।JRE अस्य स्थितिं परीक्षितुं, &lt;वस्तुवर्गं =&quot;मेनुवस्तु&quot;&gt;टूल्स् - विकल्पान् - स्टार् ओफीस्/ओपेन् ओफीस्.org - जावा&lt;/वस्तु&gt;वृणु।&quot;जावाचालनसमयवातावरणम् उपयोगं&quot; चिह्नितमिति निश्चयं कुरु तथा च बृहत्सूचीपेटिकायां जावाचालनसमयफोल्डर् वृतम्।यदि   JRE न क्रियावत् कृतं,तर्हि JRE 1.4  क्रियावत् कुरु अथवा अनन्तरं स्टार् ओफीस्/ओपेन् ओफीस्.org च पुनः प्रारम्भस्व।</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sa-IN" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ एतत् संस्थापितुम् </paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sa-IN" l10n="NEW">लेखकविण्डो मध्ये,&lt;वस्तुवर्गं=&quot;मेनुवर्गं&quot;&gt;टूल्स् -विस्तारणप्रबन्धकवस्तु&lt;/&gt; वृणु। </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sa-IN" l10n="NEW">विस्तारणप्रबन्धकसंवादः, सङ्लनं क्लिक् कुरु।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sa-IN" l10n="NEW"> @WIKIEXTENSIONFILENAME@.oxt सञ्चिकां स्थानीकं कुरु, उद्घाटनं क्लिक् कुरु, ततः च पिधानं क्लिक् कुरु।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sa-IN" l10n="NEW">स्टार् ओफीस्/स्टार् सूट्/ओपेन् ओफीस्.org, प्रकार्तञ्चेत् शीघ्रप्रारम्भकमपि पिधत्स्व।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sa-IN" l10n="NEW">सोफ्ट्वेर् पुनः प्ररम्भस्व,विषयलेख्यपत्रम् उद्घाटय,ततः तव विकिनिर्धारणानि निवेशयितुं&lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;टूल्स् - विकल्पाः - इण्डेर्नेट् - मीडियाविकि&lt;/वस्तु&gt; वृणु।अधः &quot;विकि कृते संयोजितुं&quot; पश्य।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sa-IN" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ इति एतत् अपनेतुम् </paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sa-IN" l10n="NEW">लेखनविणडो मध्ये, choose &lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;टूल्स् -विस्तारणप्रबन्धकः&lt;/वस्तु&gt; वृणु।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sa-IN" l10n="NEW">मम विस्तारणस्य अग्रे प्लस् सङ्केतं क्लिक् कुरु (+)।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sa-IN" l10n="NEW">विस्तारणं वृणु,अपनयनं क्लिक् कुरु,ततः च पिधानं क्लिक् कुरु।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sa-IN" level="2" l10n="NEW">विकि कृते संयोजितुम् </paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sa-IN" l10n="NEW">टिप्पणी:स्टार् ओफीस्/ओपेन ओफीस्.org अन्तर्गतं यथाक्रमं सर्वस्मै संवादाय त्वं तव प्रयोक्तृनाम गुह्यपदं च सञ्चयितुं शक्नोषि।गुह्यपदं सुरक्षितमार्गे सञ्चितं भविष्यति, यत्र प्रवेशः मुख्यगुह्यपदेन पालयति।मुख्यगुह्यपदं प्रकारयितुं,&lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;टूल्स् -विकल्पान् - स्टार्ओफीस्/ओपेन्ओफीस्.org - सुरक्षा&lt;/वस्तु&gt;वृणु।</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sa-IN" l10n="NEW">टिप्पणी: त्वं प्रोक्सी सर्वर् उपयुज्य वेब् प्रति संयोजयसि चेत्, enter the proxy information to &lt;वस्तुवर्गाय=&quot;मेनुवस्तुने&quot;&gt;टूल्स् - विकल्पाः - इण्टेर्नेट् - प्रोक्सी&lt;/वस्तुने&gt;प्रोक्सीसर्वर् सूचनां निवेशय,तथा सोफ्ट्वेर् पुनः प्ररभस्व।</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sa-IN" l10n="NEW">लेखकलेख्यपत्रम् उद्घाटय, &lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;टूल्स् - विकल्पाः - इण्टेर्नेट् - मीडियाविकिवस्तु&lt;/&gt; च वृणु। </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sa-IN" l10n="NEW"> &lt; href लिङ्क्=&quot;@WIKIEXTENSIONID@/विकिनिर्धारणानि.xhp&quot;&gt;विकल्पाः&lt;/लिङ्क्&gt; संवादे, सङ्कलनं क्लिक् कुरु।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sa-IN" l10n="NEW">&lt;लिङ्क् href=&quot;@WIKIEXTENSIONID@/विकिउपयोजकसंज्ञा.xhp&quot;&gt;मीडियाविकि&lt;/लिङ्क्&gt;संवादे, विकि कृते उपयोजकसंज्ञासूचनां निवेशय।</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sa-IN" l10n="NEW">URL विषयपेटिकायां, विकि अस्य पत्रसङ्केतं निवेशय यत् त्वं संयोजितुम् इच्छसि।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sa-IN" l10n="NEW">त्वं वेब्ब्रौसर्तः URL कापी कर्तुं शक्नोषि तथा च तत् विषयपेटिकायां लेपितुं शक्नोषि।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sa-IN" l10n="NEW">प्रयोक्तृनामपेटिकायां,तव विकि उपयोजकसंज्ञायै तव प्रयोक्तृ ID निवेशय।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sa-IN" l10n="NEW">विकि अज्ञातप्रवेशम् अनुमोदयति चेत्,त्वं प्रयोक्तृनाम गुह्यपदपेटिकाः च रिक्तं त्यक्तुं शक्णोषि।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sa-IN" l10n="NEW">गुह्यपदपेटिकायां, तव विकि उपयोजकसंज्ञायै गुह्यपदं निवेशय,ततः OK क्लिक् कुरु।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sa-IN" l10n="NEW">वैकल्पिकया संसदोः अन्तरे गुह्यपदं सञ्चयितुं &quot;गुह्यपदं सञ्चयनं&quot;प्रकारय।सर्वेभ्यः सञ्चितगुह्यपदेभ्यः प्रवेशं पालयितुं मुख्यगुह्यपदम् उपयुक्तम्।मुख्यगुह्यपदं प्रकारयितुं,&lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;टूल्स् -विकल्पान् - स्टार्ओफीस्/ओपेन्ओफीस्.org - सुरक्षा&lt;/वस्तु&gt;वृणु।\यदा मुख्यपदं न प्रकारितं तदा &quot;गुह्यपदसञ्चयनम्&quot; अनुपलब्धम्।</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sa-IN" level="2" l10n="NEW">नूतनविकि पृष्ठम् उत्पादयितुम्</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sa-IN" l10n="NEW">लेखकलेख्यपत्रम् उदघाटय।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sa-IN" l10n="NEW">विकिपृष्ठस्य विषयः लिख।त्वं विषयरचनाः,शीर्षकाः,फुट्नोट्स् अधिकं च उपयोजितुं शक्नोषि।&lt;लिङ्क् href पश्य=&quot;@WIKIEXTENSIONID@/विकिरचनाः.xhp&quot;&gt;समर्थितरचनाः लिङ्क् एषां सूची&lt;/&gt;।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sa-IN" l10n="NEW">&lt;वस्तुवर्गं=&quot;मेनुवस्तु&quot;&gt;सञ्चिका - - मीडियाविकिवस्तुने प्रेषणं वृणु&lt;/&gt;।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sa-IN" l10n="NEW"> &lt;लिङ्क् href=&quot;@WIKIEXTENSIONID@/विकिप्रेषणे.xhp&quot;&gt;मीडियाविकिलिङ्क्संवादाय प्रेषय&lt;/&gt;, तव निवेशनाय विर्धारणानि निर्दिश।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sa-IN" l10n="NEW"><emph>मीडियाविकि</emph>: विकि वृणु।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sa-IN" l10n="NEW"><emph>शीर्षकः</emph>: तव पृष्ठस्य शीर्षकं टङ्कनं कुरु।तव वर्तमानविषयलेख्यपत्रेण सह पृष्ठम् आलेखितुं विद्यमानपृष्ठस्य शीर्षकं टङ्कनं कुरु।विकि मध्ये नूतनपृष्ठम् उत्पादितुं नूतनशीर्षकं टङ्कनं कुरु।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sa-IN" l10n="NEW"><emph>सारांशः</emph>:तव पृष्ठस्य वैकल्पिकलघुसारांशं निवेशय।</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sa-IN" l10n="NEW"><emph>इदं गौणसम्पादनम्</emph>:समानशीर्षकेन पूर्वमेव विद्यमानपृष्ठस्य गौण्सम्पादनमिव अप्लोडड् पृष्ठं चिह्नितुम् इमां पेटिकां परीक्षस्व।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sa-IN" l10n="NEW"><emph>वेब् ब्रौसर् दर्शय</emph>: तव सिस्टम् वेब् ब्रौसर् उद्घाटितुम् इमां पेटिकां परीक्षस्व तथा अप्लोडड् विकिपृष्ठं च दर्शय।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sa-IN" l10n="NEW">प्रेषणं क्लिक् कुरु। </paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

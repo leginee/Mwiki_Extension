@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="vi">Gửi cho MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="vi" level="1" l10n="NEW">Gửi cho MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="vi" l10n="NEW">Trong hộp thoại <emph>Gửi cho MediaWiki</emph>, ghi rõ thiết lập cho việc tải lên Wiki hiện thời.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="vi" l10n="NEW"><ahelp hid=".">Chọn máy phục vụ MediaWiki trên đó bạn muốn công bố tài liệu của bạn. Nhấn vào nút <emph>Thêm</emph> để thêm một máy phục vụ mới vào danh sách.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="vi" l10n="NEW"><ahelp hid=".">Gõ tựa đề của mục nhập Wiki của bạn. Đối với một bài mới, tựa đề này phải duy nhất trên Wiki này. Nếu bạn dùng một tựa đề đã có, bài của bạn sẽ ghi đè lên bài Wiki đã có.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="vi" l10n="NEW"><ahelp hid=".">Gõ một bản tóm tắt hay ghi chú (tùy chọn).</ahelp> Xem <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="vi" l10n="NEW"><emph>Sửa đổi nhỏ</emph>: <ahelp hid=".">Đánh dấu trong hộp này để ngụ ý dữ liệu được tải lên là một bản sửa đổi nhỏ của trang đã có cùng tên.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="vi" l10n="NEW"><emph>Hiện trong trình duyệt Web</emph>: <ahelp hid=".">Bật tùy chọn này để mở trình duyệt Web trên máy của bạn và hiển thị trang mới tải lên.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="it">Formati MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="it" level="1" l10n="NEW">Formati MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="it" l10n="NEW">L'elenco seguente fornisce una panoramica dei formati di testo che Wiki Publisher è in grado di caricare nel server wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="it" l10n="NEW">Il formato OpenDocument utilizzato da Writer e quello utilizzato da WikiMedia sono abbastanza diversi. Solo una parte delle caratteristiche possono essere trasformate da un formato all'altro.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="it" level="2" l10n="NEW">Intestazioni</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="it" l10n="NEW">Applica uno stile di paragrafo intestazione alle intestazioni del documento Writer. Il Wiki mostrerà gli stili di intestazione dello stesso livello di struttura, formattati in base alla definizione del motore wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="it" level="2" l10n="NEW">Collegamenti</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="it" l10n="NEW">I collegamenti nativi di OpenDocument sono trasformati in collegamenti wiki &quot;esterni&quot;. La funzione incorporata per i collegamenti di OpenDocument deve essere utilizzata, quindi, solo per la creazione di collegamenti a siti al di fuori dell'area web wiki. Per creare collegamenti wiki che puntano ad altri oggetti dello stesso dominio wiki, utilizzate i collegamenti wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="it" level="2" l10n="NEW">Elenchi</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="it" l10n="NEW">Potete esportare in modo affidabile gli elenchi se l'intero elenco utilizza uno stile di elenco coerente. Per creare un elenco in Writer, fate clic sull'icona degli elenchi numerati o puntati. Se vi serve un elenco non numerato o puntato, usate l'opzione Formato - Elenchi puntati e numerati... per definire e applicare il relativo stile di elenco.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="it" level="2" l10n="NEW">Paragrafi</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="it" level="3" l10n="NEW">Allineamento</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="it" l10n="NEW">L'allineamento esplicito del testo non dovrebbe essere usato negli articoli wiki. E' supportato, tuttavia, l'allineamento sinistro, destro e centrato.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="it" level="3" l10n="NEW">Testo preformattato</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="it" l10n="NEW">Uno stile di paragrafo con carattere di larghezza fissa viene trasformato in testo preformattato. Il testo preformattato viene mostrato nel wiki con un bordo intorno al testo.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="it" level="2" l10n="NEW">Stili di carattere</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="it" l10n="NEW">Gli stili di carattere modificano l'aspetto di parti di un paragrafo. La trasformazione supporta grassetto, corsivo, grassetto e corsivo, apice e pedice. Tutti i caratteri a larghezza fissa vengono trasformati nello stile di scrittura wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="it" level="2" l10n="NEW">Note a piè pagina</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="it" l10n="NEW">Nota: la trasformazione utilizza il nuovo stile delle note a piè pagina con i tag &lt;ref&gt; e &lt;references&gt;, che richiedono l'installazione dell'estensione Cite.php all'interno di MediaWiki. Se tali tag appaiono come normale testo dopo la trasformazione, chiedete di installare questa estensione all'amministratore del wiki.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="it" level="2" l10n="NEW">Immagini</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="it" l10n="NEW">Le immagini non possono essere esportate tramite trasformazione che produca un singolo file di testo wiki. Tuttavia, se l'immagine è già caricata nel dominio wiki di destinazione (ad es. WikiMedia Commons), allora la trasformazione produce un tag immagine valido che include l'immagine. Sono supportate anche le didascalie immagine.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="it" level="2" l10n="NEW">Tabelle</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="it" l10n="NEW">Le tabelle semplici sono pienamente supportate. Le intestazioni delle tabelle sono tradotte nelle corrispondenti tabelle in stile wiki. Viene ignorata, tuttavia, la formattazione personalizzata di bordi, dimensione delle colonne e colori di sfondo.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="it" level="3" l10n="NEW">Unione di celle</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="it" l10n="NEW">OpenDocument e in special modo OpenOffice.org rappresentano come tabelle con tabelle nidificate le tabelle contenenti unioni di celle che contengono righe. Al contrario, il modello wiki di tabella è dichiarare gli intervalli di colonna e riga per tali unioni di celle. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="it" l10n="NEW">Se vengono unite solo le colonne della stessa riga, il risultato della trasformazione rispecchierà fedelmente il documento di origine.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="it" level="3" l10n="NEW">Bordi</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="it" l10n="NEW">Indipendentemente dagli stili personalizzati del bordo e dello sfondo, la tabella è sempre esportata come &quot;<emph>prettytable&quot;</emph>, e viene interpretata dal motore wiki con bordi semplici e intestazione in grassetto.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="it" level="2" l10n="NEW">Set di caratteri e caratteri speciali</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="it" l10n="NEW">Il set di caratteri della trasformazione stabilito è UTF-8. A seconda del sistema, questo potrebbe non essere il set di caratteri predefinito. Ciò potrebbe determinare la visualizzazione corrotta dei &quot;caratteri speciali&quot; se utilizzate le impostazioni predefinite. Potete, comunque, impostare la codifica UTF-8 nel vostro editor per risolvere questo problema. Se l'editor non supporta la modifica della codifica, potete visualizzare il risultato della trasformazione nel browser Firefox e qui cambiare la codifica in UTF-8. A questo punto, potete copiare e incollare il risultato della trasformazione nel programma da voi scelto.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sl">Vrste datotek MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sl" level="1" l10n="NEW">Vrste datotek MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sl" l10n="NEW">Spodnji seznam podaja pregled vrst besedilnih besedilnih datotek, ki jih lahko razširitev @WIKIEXTENSIONPRODUCTNAME@ prenese na strežnik Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sl" l10n="NEW">Zapis OpenDocument, ki ga uporablja Writer, in zapis WikiMedia sta zelo različna. Le podmnožico vseh značilnosti je mogoče prenesti iz enega zapisa v drugega.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sl" level="2" l10n="NEW">Naslovi</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sl" l10n="NEW">Za naslove v dokumentu programa Writer uporabite slog odstavka naslova. Wiki bo pokazal sloge naslovov na isti orisni ravni, oblikovane v skladu s funkcijami Wikija.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sl" level="2" l10n="NEW">Hiperpovezave</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sl" l10n="NEW">Hiperpovezave OpenDocument se preoblikujejo v &quot;zunanje&quot; povezave wikija. Zato je vgrajeno povezovalno funkcijo zapisa OpenDocument smiselno uporabljati le za ustvarjanje povezav, ki vodijo na druga spletna mesta zunaj spletišča wikija. Če želite ustvariti povezave wiki, ki kažejo na druge predmete v isti domeni wiki, uporabite povezave wikija.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sl" level="2" l10n="NEW">Seznami</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sl" l10n="NEW">Sezname je mogoče izvoziti, če celoten seznam uporablja konsistenten seznamski slog. Če želite v modulu Write ustvariti seznam, uporabite ikono Oštevilčevanje ali Oznake. Če želite seznam brez oštevilčevanja ali oznak, uporabite Oblika - Oznake in oštevilčevanje, da določite in uporabite ustrezen slog seznama.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sl" level="2" l10n="NEW">Odstavki</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sl" level="3" l10n="NEW">Poravnava</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sl" l10n="NEW">Izrecne poravnave besedila ni dovoljeno uprabiti v člankih Wiki. Ne glede na to je podprta leva, sredinska in desna poravnava besedila.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sl" level="3" l10n="NEW">Vnaprej oblikovano besedilo</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sl" l10n="NEW">Slog odstavka s pisavo z nespremenljivo širino se pretvori v vnaprej oblikovano besedilo. Vnaprej oblikovano besedilo se v wikiju prikaže z obrobo.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sl" level="2" l10n="NEW">Znakovni slogi</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sl" l10n="NEW">Znakovni slogi spremenijo videz dela odstavka. Preoblikovanje podpira krepko, ležečo, krepko in ležečo, nadpisano in podpisano pisavo. Vse pisave z nespremenljivo širino se spremenijo v wikijev slog pisalnega stroja.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sl" level="2" l10n="NEW">Sprotne opombe</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sl" l10n="NEW">Opomba: Preoblikovanje uporablja nov slog sprotnih opomb z značkama &lt;ref&gt; in &lt;references&gt;, za kar je potrebna namestitev razširitve Cite.php v MediaWiki. Če se te značke pokažejo kot navadno besedilo v rezultatu preoblikovanja, prosite skrbnika Wikija, da namesti to razširitev.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sl" level="2" l10n="NEW">Slike</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sl" l10n="NEW">Slik ni mogoče izvoziti s preoblikovanjem, ki ustvari posamezno datoteko z besedilom wiki. A če je slika že prenesena v ciljno domeno wikija (npr. WikiMedia Commons), preoblikovanje ustvari veljavno značko slike, ki vključuje sliko. Naslovi slik so tudi podprti.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sl" level="2" l10n="NEW">Tabele</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sl" l10n="NEW">Prav tako so podprte enostavne tabele. Glave tabel so prevedene v ustrezne glave tabel sloga wikija. Vendar pa je oblikovanje obrob tabele, velikosti stolpcev in barv ozadja prezrto.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sl" level="3" l10n="NEW">Spojene celice</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sl" l10n="NEW">OpenDocument in še posebej OpenOffice.org predstavljajo tabele s spojenimi celicami, ki se lahko raztezajo čez vrstice, kot tabele z gnezdenimi tabelami. Nasprotno s tem modeli tabel wiki vsebujejo deklaracije razpona stolpcev in vrstic v tako spojenih celicah. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sl" l10n="NEW">Če so spojeni le stolpci iste vrstice, je rezultat transformacije podoben izvornemu dokumentu.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sl" level="3" l10n="NEW">Obrobe</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sl" l10n="NEW">Ne glede na prilagojene sloge obrob in ozadja tabele se ta vedno izvozi kot &quot;<emph>prettytable&quot;</emph>, ki jo Wiki upodobi z enostavnimi obrobami in krepko glavo.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sl" level="2" l10n="NEW">Nabor znakov in posebni znaki</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sl" l10n="NEW">Nabor znakov preoblikovanja je nastavljen na UTF-8. Glede na vrsto sistema to morda ni vaš privzeti nabor znakov. Zgodi se lahko, da so &quot;posebni znaki&quot; videti okvarjeni, če jih gledate s privzetimi nastavitvami. Vendar lahko v svojem urejevalniku spremenite kodiranje znakov na UTF-8, da to odpravite. Če vaš urejevalnik ne podpira preklopa med kodnimi tabelami, lahko rezultat preoblikovanja prikažete v brskalniku Firefox in tam spremenite kodiranje znakov na UTF-8. Seveda lahko rezultat preoblikovanja izrežete in prilepite v program po svoji izbiri.</paragraph>
+</body>
+</helpdocument>

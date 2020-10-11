@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="uk">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="uk" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>розширення;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="uk" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="uk" l10n="NEW"><ahelp hid=".">Використовуючи @WIKIEXTENSIONPRODUCTNAME@ ви можете вивантажувати текстовий документ Writer на сервер MediaWiki. Після вивантаження, усі користувачі Wiki зможуть читати Ваш документ у Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="uk" l10n="NEW"><ahelp hid=".">Для вивантаження документу Writer до сервера MediaWiki виберіть <item type="menuitem">Файл - Надіслати - До MediaWiki</item>.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="uk" level="2" l10n="NEW">Системні вимоги</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="uk" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="uk" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="uk" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="uk" l10n="NEW">Обліковий рахунок Wiki на підтримуваному сервері <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="uk" level="2" l10n="NEW">Встановлення @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="uk" l10n="NEW">Перед встановленням @WIKIEXTENSIONPRODUCTNAME@, перевірте, що StarOffice чи OpenOffice.org використовує Java Runtime Environment (JRE). Для цього виберіть <item type="menuitem">Сервіс - Параметри - StarOffice/OpenOffice.org - Java</item>. Перевірте, що позначено &quot;Використовувати Java&quot; та що теку середовища Java вибрано у великому полі списку. Якщо JRE не активовано, активуйте JRE 1.4 або старшу версію ти перезапустіть StarOffice/OpenOffice.org.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="uk" level="3" l10n="NEW">Для встановлення @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="uk" l10n="NEW">В вікні Writer виберіть <item type="menuitem">Сервіс - Менеджер розширень</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="uk" l10n="NEW">В діалоговому вікні менеджера розширень натисніть Додати.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="uk" l10n="NEW">Знайдіть файл @WIKIEXTENSIONFILENAME@.oxt, натисніть Open, та натисніть на Закрити. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="uk" l10n="NEW"> Закрийте %PRODUCTNAME, а також Швидкий Запуск, якщо він увімкнений</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="uk" l10n="NEW">Перезапустіть програму, відкрийте текстовий документ, потім виберіть <item type="menuitem">Сервіс - Параметри - Інтернет - MediaWiki</item> введіть параметри Wiki. Див. далі &quot;Для з'єднання з Wiki&quot;.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="uk" level="3" l10n="NEW">Для видалення @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="uk" l10n="NEW">У Writer виберіть <item type="menuitem">Сервіс - Керування розширеннями</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="uk" l10n="NEW">Клацніть на значку плюс (+) перед «Мої розширення».</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="uk" l10n="NEW">Виберіть розширення, потім натисніть «Видалити», і потім «Закрити».</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="uk" level="2" l10n="NEW">Для з'єднання з Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="uk" l10n="NEW">Примітка: Ви можете зберегти своє ім'я користувача та пароль для всіх відповідних діалогів StarOffice/OpenOffice.org. Пароль буде збережено у захищеному місці, доступ до якого обмежений за допомогою майстер-паролю. Для вмикання майстер-пароля виберіть <item type="menuitem">Сервіс - Параметри - StarOffice/OpenOffice.org - Безпека</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="uk" l10n="NEW">Примітка: Якщо ви використовуєте проксі-сервер для з'єднання з інтернетом, введіть відомості про проксі-сервер у <item type="menuitem">Сервіс - Параметри - Інтернет - Проксі</item> та перезапустіть програму.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="uk" l10n="NEW">Відкрийте документ Writer та виберіть <item type="menuitem">Сервіс - Параметри - Інтернет - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="uk" l10n="NEW">У діалозі <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Параметри</link> натисніть «Додати».</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="uk" l10n="NEW">У діалозі <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> введіть інформацію про обліковий запис Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="uk" l10n="NEW">У текстовому полі URL введіть адресу сервера Wiki, до якого треба приєднатися.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="uk" l10n="NEW">Можна скопіювати адресу з веб-навігатора та вставити його у текстове поле.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="uk" l10n="NEW">У полі Ім'я користувача введіть ідентифікатор вашого облікового запису Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="uk" l10n="NEW">Якщо Wiki дозволяє анонімний запис, то поля і'мя користувача та пароль можна не заповнювати.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="uk" l10n="NEW">У полі Пароль введіть пароль облікового запису Wiki та натисніть «Гаразд».</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="uk" l10n="NEW">Увімкніть функцію «Зберегти пароль» для запам'ятовування паролю між сеансами. Майстер-пароль забезпечує доступ до усіх збережених паролів. Виберіть <item type="menuitem">Сервіс - Параметри - StarOffice/OpenOffice.org - Безпека</item> для вмикання майстер-паролю. Якщо майстер-пароль не введений, функція «Зберегти пароль» недоступна.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="uk" level="2" l10n="NEW">Для створення нової сторінки Wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="uk" l10n="NEW">Відкрийте новий документ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="uk" l10n="NEW">Введіть зміст Wiki-сторінки. Ви можете використовувати різне форматування тексту, верхні та нижні колонтитули та ін. Див. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">список підтримуваних форматів</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="uk" l10n="NEW">Виберіть <item type="menuitem">Файл - Надіслати - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="uk" l10n="NEW">У діалозі <link href="@WIKIEXTENSIONID@/wikisend.xhp">Надіслати до MediaWiki</link> вкажіть параметри для цього запису.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="uk" l10n="NEW"><emph>Сервер MediaWiki</emph>: виберіть Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="uk" l10n="NEW"><emph>Заголовок</emph>: введіть заголовок сторінки. Для перезапису тексту вже наявної сторінки введіть її заголовок. Для створення нової сторінки Wiki введіть новий заголовок.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="uk" l10n="NEW"><emph>Короткий опис</emph>: Введіть необов'язковий короткий опис сторінки.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="uk" l10n="NEW"><emph>Незначна зміна</emph>: Виберіть цей параметр для позначення завантаженої сторінки як незначної зміни вже наявної сторінки.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="uk" l10n="NEW"><emph>Показати у веб-навігаторі</emph>: Позначте цей параметр для відкриття веб-навігатора та показу завантаженої Wiki-сторінки.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="uk" l10n="NEW">Натисніть «Надіслати».</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

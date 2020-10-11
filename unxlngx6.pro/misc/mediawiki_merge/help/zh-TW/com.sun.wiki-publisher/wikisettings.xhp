@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="zh-TW">MediaWiki 選項</title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="zh-TW" level="1" l10n="NEW">MediaWiki 選項</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="zh-TW" l10n="NEW">您可以增加、編輯和移除 MediaWiki 伺服器。從 <item type="menuitem">[工具] - [選項] - [Internet] - [MediaWiki]</item> 開啟對話方塊；或選擇 <item type="menuitem">[工具] - [擴充軟體管理程式]</item>，選取 [@WIKIEXTENSIONPRODUCTNAME@]，然後按一下 [選項] 按鈕。</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="zh-TW" l10n="NEW"><ahelp hid=".">按一下 [增加] 以新增 Wiki 伺服器。<br/>選取項目，再按一下 [編輯] 以編輯帳號設定。<br/>選取項目，再按一下 [移除] 以從清單中移除項目。</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">開啟 [MediaWiki] 對話方塊將項目新增至清單。</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">開啟 [MediaWiki] 對話方塊以編輯選取的項目。</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">從清單中移除選取的項目。</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="zh-TW" l10n="NEW">當您按一下 [增加] 或 [編輯] 時，[<link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>] 對話方塊會隨即開啟。</paragraph>
+</body>
+</helpdocument>

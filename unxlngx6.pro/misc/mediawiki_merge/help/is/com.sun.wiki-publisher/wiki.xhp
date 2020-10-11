@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="is">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="is" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="is" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="is" l10n="NEW"><ahelp hid=".">Með því að nota @WIKIEXTENSIONPRODUCTNAME@ geturðu sent Writer textaskjalið sem þú ert að vinna í inn á MediaWiki-þjón. Eftir innsendinguna geta allir notendur kvikunnar (Wiki) lesið skjalið þitt á kvikuvefnum.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="is" l10n="NEW"><ahelp hid=".">Veldu <item type="menuitem">Skrá - Senda - Á MediaWiki</item> til að senda þetta Writer skjal á MediaWiki miðlara.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="is" level="2" l10n="NEW">Kerfiskröfur</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="is" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="is" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="is" l10n="NEW">Java keyrsluumhverfi 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="is" l10n="NEW">Wiki aðgangur á studdum <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> þjóni</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="is" level="2" l10n="NEW">Setja upp @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="is" l10n="NEW">Áður en þú setur inn @WIKIEXTENSIONPRODUCTNAME@, gakktu þá úr skugga um að %PRODUCTNAME sé að nota Java keyrsluumhverfni (JRE). Til að athuga stöðu JRE, veldu <item type="menuitem">Verkfæri - Valkostir - %PRODUCTNAME - Java</item>. Gakktu úr skugga um að hakað sé við &quot;Nota Java keyrsluumhverfi&quot; og að mappa fyrir Java keyrsluumhverfi sé valin í stóra listaboxinu. Ef engin JRE er virkur, virkjaðu þá JRE 1.4 eða nýrri útgáfu og endurræstu %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="is" level="3" l10n="NEW">Hvernig á að setja upp @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="is" l10n="NEW">Í Writer glugga, veldu, veldu <item type="menuitem">Verkfæri - Viðbótastjóri</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="is" l10n="NEW">Í viðbótastjóra glugganum, smelltu á bæta við.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="is" l10n="NEW">Finndu @WIKIEXTENSIONFILENAME@.oxt skrána, smelltu á Opna, og smelltu síðan á Loka. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="is" l10n="NEW">Lokaðu %PRODUCTNAME, og lokaðu einnig flýtiræsi ef hann er virkur.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="is" l10n="NEW">Endurræstu forritið, opnaðu textaskjal, veldu síðan <item type="menuitem">Verkfæri - Valkostir - Internetið - MediaWiki</item> til að setja inn Wiki stillingar. Skoðaðu &quot;Hvernig á að tengjast við Wiki&quot; hér fyrir neðan.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="is" level="3" l10n="NEW">Til að fjarlægja @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="is" l10n="NEW">Í Writer glugga, veldu, veldu <item type="menuitem">Verkfæri - Viðbótastjóri</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="is" l10n="NEW">Smelltu á plús táknið (+) fyrir framan 'Viðbæturnar mínar'.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="is" l10n="NEW">Veldu viðbótina, smelltu á Fjarlægja, og smelltu síðan á Loka.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="is" level="2" l10n="NEW">Hvernig á að tengjast við Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="is" l10n="NEW">Athugið: Þú getur geymt notandanafn og lykilorð fyrir alla glugga í %PRODUCTNAME. Lykilorðin verða geymd á öruggan hátt, þannig að aðgangur er háður aðallykilorði. Til að virkja aðallykilorðið, veldu <item type="menuitem">Verkfæri - Valkostir - %PRODUCTNAME - Öryggi</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="is" l10n="NEW">Athugaðu: Ef þú tengist vefnum í gegnum vefsel/milliþjón, settu þá inn slíkar upplýsingar í <item type="menuitem">Verkfæri - Valkostir - Internetið - Milliþjónn</item>, og endurræstu hugbúnaðinn.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="is" l10n="NEW">Opnaðu Writer skjal og veldu <item type="menuitem">Verkfæri - Valkostir - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="is" l10n="NEW">Í glugganum fyrir <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Valkosti</link>, smelltu á bæta við.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="is" l10n="NEW">Í <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> glugganum, sláðu þar inn upplýsingar um reikninginn fyrir Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="is" l10n="NEW">Settu í slóðareitinn slóðina (URL) á Wiki-svæðið sem þú vilt tengjast.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="is" l10n="NEW">Þú getur afritað vefslóð frá vafra og límt hana í textasvæðið.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="is" l10n="NEW">Í svæðinu fyrir notandanafna, sláðu inn notandaauðkennið fyrir Wiki reikninginn þinn.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="is" l10n="NEW">Ef Wiki leyfir nafnlausan aðgang, þá geturðu haft notandanafn og lykilorð tóm.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="is" l10n="NEW">Í svæðinu fyrir lykilorð, sláðu inn lykilorðið fyrir Wiki reikninginn þinn, smelltu svo á Í lagi.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="is" l10n="NEW">Þú getur líka virkjað &quot;Vista lykilorð&quot; til að vista lykilorð á milli seta. Þá er notað aðallykilorð til að halda utan um öll vistuð lykilorð. Veldu <item type="menuitem">Verkfæri - Valkostir - %PRODUCTNAME - Öryggi</item> til að virkja aðallykilorðið. &quot;Vista lykilorð&quot; er ekki tiltækt nema þegar aðallykilorð er virkt.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="is" level="2" l10n="NEW">Hvernig á að búa til nýja Wiki síðu</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="is" l10n="NEW">Opna Writer textaskjal.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="is" l10n="NEW">Skrifaðu meginefni Wiki-síðunnar. Þú getur notað ýmis snið á borð við textasnið, fyrirsagnir, neðanmálsgreinar og fleira. Skoðaðu <link href="@WIKIEXTENSIONID@/wikiformats.xhp">listann yfir þau snið sem eru studd</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="is" l10n="NEW">Veldu <item type="menuitem">Skrá - Senda - Á MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="is" l10n="NEW">Í <link href="@WIKIEXTENSIONID@/wikisend.xhp">Senda á MediaWiki</link> glugganum, tiltaktu stillingarnar fyrir færsluna.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="is" l10n="NEW"><emph>MediaWiki þjónn</emph>: Veldu Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="is" l10n="NEW"><emph>Titill</emph>: Settu inn titil á síðuna þína. Ef þú setur inn titil sem þegar er til staðar muntu skrifa yfir þá Wiki-síðu með innihaldi textaskjalsins þíns. Settu inn nýjan titil til að búa til nýja síðu á Wiki-svæðinu.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="is" l10n="NEW"><emph>Yfirlit</emph>: Settu ef til vill inn stutt yfirlit um hvert efni síðunnar er.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="is" l10n="NEW"><emph>Þetta er minniháttar breyting</emph>: Hakaðu við þennan reit til að merkja síðuna sem minniháttar breytingu á síðu með sama titli sem þegar er til staðar.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="is" l10n="NEW"><emph>Birta í vafra</emph>: Hakaðu við þennan reit til að ræsa kerfisstillta vefskoðarann og sýna upphlöðnu kvikusíðuna í honum.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="is" l10n="NEW">Smelltu á senda.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

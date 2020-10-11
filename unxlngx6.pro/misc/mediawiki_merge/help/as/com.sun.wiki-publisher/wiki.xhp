@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="as">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="as" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="as" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="as" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ ব্যৱহাৰ কৰি আপুনি বৰ্ত্তমানৰ Writer text document ক এটা MediaWiki সেৱকলৈ তুলি দিব পাৰে । তাৰ পিছত, সকলো ৱিকি ব্যৱহাৰকৰোঁতাই আপোনাৰ আলেখ্যনক ৱিকিত পঢ়িব পাৰিব ।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="as" l10n="NEW"><ahelp hid="."><item type="menuitem">File - Send - To MediaWiki</item> নিৰ্ব্বাচন কৰক বৰ্ত্তমানৰ Writer আলেখ্যনক এটা MediaWiki সেৱকলৈ তুলিবলৈ ।</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="as" level="2" l10n="NEW">ব্যৱস্থাপ্ৰণালীৰ প্ৰয়োজন</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="as" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="as" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="as" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="as" l10n="NEW">এটা সমৰ্থিত <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> সেৱকত এটা ৱিকি হিচাপ ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="as" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ সংস্থাপ কৰা</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="as" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ সংস্থাপন কৰাৰ আগতে, StarOffice বা OpenOffice.org এ এটা Java Runtime Environment (JRE) ব্যৱহাৰ কৰা নিশ্চিত কৰকৰ । JRE ৰ অৱস্থা পৰীক্ষা কৰিবলৈ, <item type="menuitem">Tools - Options - StarOffice/OpenOffice.org - Java</item> বাচি লওক । নিশ্চিত কৰক যে &quot;এটা Java runtime environment ব্যৱহাৰ কৰক&quot; চিহ্ননিত কৰা হৈছে আৰু ডাঙৰ তালিকাবক্সত এটা Java runtime পঞ্জিকা নিৰ্বাচিত কৰা হৈছে । যদি কোনো JRE সক্ৰিয় নহয়, তেতিয়াহ'লে এটা JRE 1.4 বা তাৰ পিছৰ সংস্কৰণ আৰম্ভ কৰক আৰু StarOffice/OpenOffice.org পুনৰাৰম্ভ কৰক ।</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="as" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ সংস্থাপন কৰিবলৈ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="as" l10n="NEW">এটা Writer সংযোগক্ষেত্ৰত, <item type="menuitem">Tools - Extension Manager</item> নিৰ্ব্বাচন কৰক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="as" l10n="NEW">Extension Manager সম্বাদত, যোগ কৰক টিপক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="as" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt নথিপত্ৰ বিচাৰক, খোলক টিপক, আৰু তাৰ পিছত বন্ধ কৰক টিপক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="as" l10n="NEW">Close %PRODUCTNAME, and close also the Quickstarter if enabled.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="as" l10n="NEW">চালনাজ্ঞান পুনৰাৰম্ভ কৰক, এটা টেক্সট আলেখ্যন খোলক, তাৰ পিছত <item type="menuitem">Tools - Options - Internet - MediaWiki</item> নিৰ্ব্বাচন কৰক আপোনাৰ ৱিকিৰ পছন্দ দিবলৈ । তলৰ &quot;এটা ৱিকিলৈ সংযোগ কৰক&quot; চাওক ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="as" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ আঁতৰাবলৈ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="as" l10n="NEW">এটা Writer সংযোগক্ষেত্ৰত, <item type="menuitem">Tools - Extension Manager</item> নিৰ্ব্বাচন কৰক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="as" l10n="NEW">My Extensions ৰ সন্মুখৰ যোগ চিহ্ন (+) টিপক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="as" l10n="NEW">সম্প্ৰসাৰণ নিৰ্ব্বাচন কৰক, আঁতৰাওক টিপক, আৰু তাৰ পিছত বন্ধ কৰক টিপক ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="as" level="2" l10n="NEW">এটা ৱিকিলৈ সংযোগ কৰিবলৈ</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="as" l10n="NEW">মন কৰিব: StarOffice/OpenOffice.org তসকলো সম্বাদৰ কাৰণে আপুনি নিজৰ ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দ থ'ব পাৰে । গুপ্তশব্দক সুৰক্ষিত ভাবে ৰখা হ'ব, য'ত এটা প্ৰমূখ গুপ্তশব্দৰেহে অভিগম কৰিব পাৰি । প্ৰমূখ গুপ্তশব্দ সক্ৰিয় কৰিবলৈ, <item type="menuitem">Tools - Options - StarOffice/OpenOffice.org - Security</item> নিৰ্ব্বাচন কৰক ।</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="as" l10n="NEW">মন কৰিব: যদি আপুনি নিযুক্তক সেৱকেৰে ৱেবলৈ সংযোগ কৰে, <item type="menuitem">Tools - Options - Internet - Proxy</item> নিযুক্তকৰ তথ্য দিয়ক, আৰু চালনাজ্ঞান পুনৰাৰম্ভ কৰক ।</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="as" l10n="NEW">এটা Writer আলেখ্যন খেলক, আৰু <item type="menuitem">Tools - Options - Internet - MediaWiki</item> নিৰ্ব্বাচন কৰক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="as" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Options</link> সম্বাদত, যোগ কৰক টিপক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="as" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> সম্বাদত, ৱিকিৰ কাৰণে হিচাপৰ তথ্য দিয়ক ।</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="as" l10n="NEW">URL টেক্সট বাকচত, আপুনি সংযোগ কৰিব বিচৰা এটা ৱিকিৰ ঠিকনা দিয়ক ।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="as" l10n="NEW">আপুনি এটা ৱেব চৰকৰ পৰা URL নকল কৰি টেক্সটবাকচত আঠা লগাব পাৰে ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="as" l10n="NEW">ব্যৱহাৰকৰোঁতাৰ বাকচত, আপোনাৰ ৱিকি হিচাপৰ ব্যৱহাৰকৰোঁতাৰ ID দিয়ক ।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="as" l10n="NEW">ৱিকিয়ে বেনামীভাবে লিখাৰ অনুমতি দিলে, আপুনি ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দৰ বাকচ্‌ ৰিক্ত ৰাখিব পাৰে ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="as" l10n="NEW">গুপ্তশব্দৰ বাকচত, আপোনাৰ ৱিকি হিচাপৰ গুপ্তশব্দ দিয়ক, আৰু তাৰ পিছত ঠিক আছে টিপক ।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="as" l10n="NEW">বৈকল্পিকভাবে &quot;গুপ্তশব্দ ৰক্ষা কৰক&quot; সক্ৰিয় কৰক অধিবেশনত গুপ্তশব্দ ৰক্ষা কৰিবলৈ । ৰক্ষা কৰা সকলো গুপ্তশব্দক অভিগম কৰিবলৈ এটা মূখ্য গুপ্তশব্দ ৰখা হয় । মূখ্য গুপ্তশব্দ সক্ৰিয় কৰিবলৈ<item type="menuitem">Tools - Options - StarOffice/OpenOffice.org - Security</item> নিৰ্ব্বাচন কৰক । মূখ্য গুপ্তশব্দ সক্ৰিয় ন'হ'লে &quot;গুপ্তশব্দ ৰক্ষা কৰক&quot; পোৱা নাযায় ।</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="as" level="2" l10n="NEW">এটা নতুন ৱিকি পৃষ্টা সৃষ্টি কৰা</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="as" l10n="NEW">এটা Writer আলেখ্যন খেলক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="as" l10n="NEW">ৱিকি পৃষ্ঠাৰ বিষয়বস্তু লিখক । আপুনি টেক্সট ফৰ্মেটিং, হেডাৰ, ফুট-ন'ট, আৰু অন্যান্যৰ নিচিনা ফৰ্মেটিং ব্যৱহাৰ কৰিব পাৰে । <link href="@WIKIEXTENSIONID@/wikiformats.xhp">list of supported formats</link> চাওক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="as" l10n="NEW"><item type="menuitem">File - Send - To MediaWiki</item> নিৰ্ব্বাচন কৰক ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="as" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">Send to MediaWiki</link> সম্বাদত, আপোনাৰ নিবেশৰ কাৰণে পছন্দ নিৰ্ধাৰণ কৰক ।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="as" l10n="NEW"><emph>MediaWiki সেৱক</emph>: ৱিকি নিৰ্ব্বাচন কৰক ।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="as" l10n="NEW"><emph>শিৰোনাম</emph>: আপোনাৰ পৃষ্ঠাৰ শিৰোনাম লিখক । আপোনাৰ বৰ্ত্তমানৰ লিপিৰ আলেখ্যন থকা পৃষ্ঠাৰ ওপৰত পুনঃ লিখিবলৈ ইতিমধ্যে থকা পৃষ্ঠাৰ শিৰোনাম লিখক । ৱিকিত নতুন পৃষ্ঠা সৃষ্টি কৰিবলৈ এটা নতুন শিৰোনাম লিখক ।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="as" l10n="NEW">
+<emph>Summary</emph>: Enter an optional short summary of your page.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="as" l10n="NEW"><emph>এইটো এটা সৰু সম্পাদন</emph>: আপ-ল'ড কৰা পৃষ্ঠা একে নামেৰে ইতিমধ্যে থকা পৃষ্ঠাৰ এটা সৰু সম্পাদন হিচাপে চিহ্নিত কৰিবলৈ এই বক্স চিহ্নিত কৰক ।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="as" l10n="NEW"><emph>ৱেব চৰকত দেখুৱাওক</emph>: আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ ৱেব চচৰক খউলিবলে আৰু আপ-ল'ড কৰা ৱিকি পৃষ্ঠা দেখুৱাবলৈ এই বাকচ টিপক ।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="as" l10n="NEW">পথাওক টিপক ।</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

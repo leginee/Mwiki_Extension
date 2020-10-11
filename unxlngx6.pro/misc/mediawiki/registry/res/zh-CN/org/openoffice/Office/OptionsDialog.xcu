@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" oor:name="OptionsDialog" oor:package="org.openoffice.Office">
+  <node oor:name="Nodes">
+    <node oor:name="Internet">
+      <node oor:name="Leaves">
+        <node oor:name="com.sun.star.wiki.options">
+          <prop oor:name="Label">
+            <value xml:lang="zh-CN">MediaWiki</value>
+          </prop>
+        </node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>

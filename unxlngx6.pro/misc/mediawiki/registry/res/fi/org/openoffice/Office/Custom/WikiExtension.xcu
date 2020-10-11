@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="fi">'Lähetä MediaWikiin' -toiminto ei onnistunut.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="fi">MediaWikin vientisuodatinta ei löydy. Valitse 'Työkalut - XML-suodattimien asetukset' asentaaksesi suodattimen tai asenna komponentti asetuksista.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="fi">Yhteyttä MediaWiki-järjestelmään '$ARG1' ei voitu luoda.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="fi">Käyttäjätunnus tai salasana on virheellinen. Yritä uudestaan tai jätä kentät tyhjiksi yhdistäessäsi nimettömänä.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="fi">Yhteyttä ei voitu luoda kelpaamattoman URL-osoitteen vuoksi.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="fi">Määritä MediaWiki-palvelin antamalla URL-osoite.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="fi">Siirto on keskeytynyt. Tarkista wiki-artikkelin eheys.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="fi">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="fi">~Käyttäjätunnus</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="fi">~Salasana</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="fi">Lähetä MediaWikiin</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="fi">Wiki-artikkeli</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="fi">Ei</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="fi">OK</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="fi">Kyllä</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="fi">~Lisää...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="fi">~Muokkaa...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="fi">~Lähetä</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="fi">~Poista</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="fi">'$ARG1' -otsikoitua wiki-artikkelia ei ole olemassa. Haluatko luoda uuden artikkelin tällä nimellä?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="fi">Media~Wiki-palvelin</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="fi">~Otsikko</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="fi">Y~hteenveto</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="fi">~Tämä on täydennys</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="fi">~Näytä www-selaimessa</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="fi">Valitun sivuston varmenne on tuntematon.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="fi">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="fi">Tunnus</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="fi">MediaWiki-palvelin</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="fi">~Tallenna salasana</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="fi">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="fi">'$ARG1' -otsikoitu wiki-artikkeli on jo olemassa.&amp;#13;&amp;#13;Haluatko korvata sen uudella artikkelillasi?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

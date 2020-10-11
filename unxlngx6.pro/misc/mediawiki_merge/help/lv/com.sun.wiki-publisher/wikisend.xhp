@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="lv">Sūtīt uz MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="lv" level="1" l10n="NEW">Sūtīt uz MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="lv" l10n="NEW">'Sūtīt uz MediaWiki' dialogā, norādiet pašreizējā Wiki augšupielādēšanas iestatījumus.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="lv" l10n="NEW"><ahelp hid=".">Izvēlieties MediaWiki serveri, kurā vēlaties publicēt savu dokumentu. Spiediet 'Pievienot', lai pievienotu serveri sarakstam.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="lv" l10n="NEW"><ahelp hid=".">Ievadiet sava Wiki ieraksta virsrakstu. Šis ir augšējais virsraksts jūsu Wiki ierakstā. Jauna ieraksta virsrakstam ir jābūt unikālam. Ja ievadīsiet eksistējošu virsrakstu, augšupielādētais raksts pārrakstīs esošo Wiki ierakstu.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="lv" l10n="NEW"><ahelp hid=".">Varat ievadīt īsu apkopojumu vai komentāru.</ahelp> Skatīt <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="lv" l10n="NEW"><emph>Šīs ir mazsvarīgas izmaiņas</emph>: <ahelp hid=".">Atzīmējiet šo lodziņu, lai atzīmētu augšupielādēto lapu kā mazsvarīgas izmaiņas jau eksistējošai lapai ar tādu pašu virsrakstu.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="lv" l10n="NEW"><emph>Rādīt pārlūkā</emph>: <ahelp hid=".">Atzīmējiet šo lodziņu, lai atvērtu savu sistēmas tīmekļa pārlūku un parādītu augšupielādēto Wiki lapu.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

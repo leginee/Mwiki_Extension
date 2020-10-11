@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="kab">Azen ɣer MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="kab" level="1" l10n="NEW">Azen ɣer MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="kab" l10n="NEW">Di tnaka n udiwenni Azen ɣer MediaWiki, mel iɣewwaren n tuzna n uwiki amiran.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="kab" l10n="NEW"><ahelp hid=".">Fren aqeddac MediaWiki anida tebɣiḍ ad d-tsuffeɣeḍ attaftar. Ssed ɣef Rnu aqeddac amaynut ɣer tebdart.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="kab" l10n="NEW"><ahelp hid=".">Sekcem azwel n unekcum-inek n uwiki. D azwel agejdan n unekcum-inek n uwiki. Ma d anekcum amaynut, azwel ilaq ad yili d asuf ɣef uwiki-agi. Ma tsekcmeḍ azwel yellan, afaylu-inek ad isefsex anekcum n uwiki i yellan.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="kab" l10n="NEW"><ahelp hid=".">Sekcem agzul awezlan neɣ awennit.</ahelp> Ẓer<link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="kab" l10n="NEW"><emph>Tagi d taẓrigt tameẓyant</emph> : <ahelp hid=".">fren taxxamt-agi iwakken ad tcerḍeḍ asebtar yettwaznen d taẓrigt tameẓyant n usebtar i yellan s uzwel-agi. </ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="kab" l10n="NEW"><emph>Beqqepḍ deg iminig n web</emph> : <ahelp hid=".">fren taxxamt-agi iwakken ad teldiḍ iminig n web n unagraw yerna ad tbeqqeḍeḍ asebtar awiki yettwznen.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sv">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sv" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>paket;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sv" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sv" l10n="NEW"><ahelp hid=".">Med hjälp av @WIKIEXTENSIONPRODUCTNAME@ kan du ladda upp ditt aktuella Writer-textdokument till en MediaWiki-server. När du har laddat upp dokumentet kan samtliga wikianvändare läsa det på wikiservern.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sv" l10n="NEW"><ahelp hid=".">Välj <item type="menuitem">Arkiv - Skicka - Till MediaWiki</item> om du vill ladda upp det aktuella Writer-dokumentet till en MediaWiki-server.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sv" level="2" l10n="NEW">Systemkrav</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sv" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sv" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sv" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sv" l10n="NEW">Ett wikikonto på en kompatibel <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link>-server</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sv" level="2" l10n="NEW">Installera @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sv" l10n="NEW">Kontrollera att %PRODUCTNAME använder JRE (Java Runtime Environment) innan du installerar @WIKIEXTENSIONPRODUCTNAME@. Kontrollera status för JRE genom att välja <item type="menuitem">Verktyg - Alternativ - %PRODUCTNAME - Java</item>. Kontrollera att &quot;Använd Java Runtime Environment&quot; har markerats och att en mapp för JRE har markerats i den stora listrutan. Om ingen JRE aktiverats, aktiverar du JRE 1.4 eller senare och startar om %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sv" level="3" l10n="NEW">Så här installerar du @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sv" l10n="NEW">Välj <item type="menuitem">Verktyg - Tillägg</item> i ett Writer-fönster.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sv" l10n="NEW">Klicka på Lägg till... i dialogrutan Tillägg</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sv" l10n="NEW">Leta reda på @WIKIEXTENSIONFILENAME@.oxt-filen, klicka på Öppna och sedan på Stäng. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sv" l10n="NEW">Stäng %PRODUCTNAME och stäng även Snabbstart om det är aktivt.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sv" l10n="NEW">Ange MediaWiki-inställningarna genom att starta om programmet, öppna ett textdokument och sedan välja <item type="menuitem">Verktyg - Alternativ - Internet - MediaWiki</item>. Se Så här ansluter du till en wiki nedan.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sv" level="3" l10n="NEW">Så här tar du bort @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sv" l10n="NEW">Välj <item type="menuitem">Verktyg - Tillägg</item> i ett Writer-fönster.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sv" l10n="NEW">Klicka på plustecknet (+) framför Mina tillägg.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sv" l10n="NEW">Markera tillägget, klicka på Ta bort och sedan på Stäng.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sv" level="2" l10n="NEW">Så här ansluter du till en wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sv" l10n="NEW">Obs! Du kan spara användarnamn och lösenord för de olika dialogrutorna i %PRODUCTNAME. Lösenordet sparas på ett säkert sätt och kan nås via ett huvudlösenord. Om du vill aktivera huvudlösenordet, väljer du <item type="menuitem">Verktyg - Alternativ - %PRODUCTNAME - Säkerhet</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sv" l10n="NEW">OBS! Om du ansluter till webben med en proxyserver, anger du proxyinformationen i <item type="menuitem">Verktyg - Alternativ- Internet - Proxy</item> och startar om programmet.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sv" l10n="NEW">Öppna ett Writer-dokument och välj <item type="menuitem">Verktyg - Alternativ - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sv" l10n="NEW">Klicka på Lägg till i dialogrutan <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Alternativ</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sv" l10n="NEW">Ange informationen för wikikontot i dialogrutan <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sv" l10n="NEW">Ange adressen till en wiki du vill ansluta till i URL-textrutan.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sv" l10n="NEW">Du kan kopiera URL:en från en webbläsare och klistra in den i textrutan.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sv" l10n="NEW">I fältet för användarnamn anger du användar-ID för wikikontot.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sv" l10n="NEW">Om det är tillåtet att vara anonym och skriva till wikin du valt, behöver du inte fylla i användarnamn och lösenord.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sv" l10n="NEW">Ange lösenord för wikikontot i lösenordsfältet och klicka sedan på OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sv" l10n="NEW">Om du vill att lösenordet sparas mellan sessionerna aktiverar du &quot;Spara lösenord&quot; (valfritt). Ett huvudlösenord används för att skydda alla sparade lösenord. Om du vill aktivera huvudlösenordet väljer du <item type="menuitem">Verktyg - Alternativ - %PRODUCTNAME - Säkerhet</item>. &quot;Spara lösenord&quot; är inte tillgängligt när huvudlösenordet inte har aktiverats.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sv" level="2" l10n="NEW">Så här skapar du en ny wikisida</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sv" l10n="NEW">Öppna ett Writer-dokument.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sv" l10n="NEW">Skriv innehållet för wikisidan. Det går bra att använda formatering som textformatering, rubriker, fotnoter o.s.v. Se <link href="@WIKIEXTENSIONID@/wikiformats.xhp">listan över format som stöds</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sv" l10n="NEW">Välj <item type="menuitem">Arkiv - Skicka - Skapa HTML dokument</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sv" l10n="NEW">Ange inställningar för sidan i dialogrutan <link href="@WIKIEXTENSIONID@/wikisend.xhp">Skicka till MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sv" l10n="NEW"><emph>MediaWiki-server</emph>: Markera wikin.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sv" l10n="NEW"><emph>Rubrik</emph>: Skriv in sidans rubrik. Om du vill skriva över en befintlig sida med det aktuella dokumentet anger du den befintliga sidans rubrik. Om du vill skapa en ny wikisida skriver du in en ny rubrik.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sv" l10n="NEW"><emph>Sammanfattning</emph>: Skriv en kort sammanfattning av din sida (valfritt).</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sv" l10n="NEW"><emph>Det här är en mindre redigering</emph>: Markera den här rutan om du vill ange att den uppladdade sidan är en mindre ändring av en befintlig sida med samma rubrik.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sv" l10n="NEW"><emph>Visa i webbläsare</emph>: Markera den här rutan om du vill att standardwebbläsaren ska öppnas och visa uppladdade wikisidan.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sv" l10n="NEW">Klicka på Skicka.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

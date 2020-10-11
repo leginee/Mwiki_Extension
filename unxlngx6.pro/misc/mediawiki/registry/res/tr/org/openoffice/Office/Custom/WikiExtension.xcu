@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="tr">'MediaWiki'ye Gönder' işlemi başarılı olarak tamamlanamadı.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="tr">MediaWiki dışa aktarma süzgeci bulunamadı. Süzgeci yüklemek için 'Araçlar - XML Süzgeç Ayarları' seçeneğini seçin ya da bileşeni yüklemek için kur programını kullanın.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="tr">'$ARG1' konumundaki MediaWiki sistemine bir bağlantı oluşturulamadı.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="tr">Kullanıcı adı ya da parola yanlış. Lütfen tekrar deneyin ya da isimsiz bir bağlantı için alanları boş bırakın.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="tr">Bir bağlantı oluşturulamadı, çünkü URL geçersiz.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="tr">Bir URL vererek MediaWiki sunucusunu belirleyin.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="tr">Aktarım yarıda kesildi. Lütfen wiki makalesinin bütünlüğünü kontrol edin.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="tr">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="tr">K~ullanıcı Adı</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="tr">~Parola</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="tr">MediaWiki'ye Gönder</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="tr">Wiki makalesi</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="tr">Hayır</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="tr">TAMAM</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="tr">Evet</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="tr">~Ekle...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="tr">~Düzenle...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="tr">~Gönder</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="tr">~Kaldır</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="tr">'$ARG1' başlığıyla bir wiki makalesi henüz mevcut değil. Bu isimle yeni bir makale oluşturmak istiyor musunuz?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="tr">Medi~Wiki Sunucusu</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="tr">~Başlık</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="tr">Ö~zet</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="tr">Bu küçük bir düzenle~medir</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="tr">We~b tarayıcısında göster</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="tr">Seçilen sitenin sertifikası bilinmiyor.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="tr">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="tr">Hesap</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="tr">MediaWiki Sunucusu</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="tr">P~arolayı kaydet</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="tr">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="tr">'$ARG1' başlığıyla bir wiki makalesi zaten mevcut.&amp;#13;&amp;#13;Makalenizle şu anki makaleyi değiştirmek istiyor musunuz?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

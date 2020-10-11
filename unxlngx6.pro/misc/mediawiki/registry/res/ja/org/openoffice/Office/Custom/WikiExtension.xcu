@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="ja">「MediaWiki へ送信」を正常に完了できませんでした。</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="ja">MediaWiki エクスポートフィルタが見つかりません。「ツール」→「XML フィルタ設定」を選択してフィルタをインストールするか、セットアップを実行してコンポーネントをインストールしてください。</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="ja">'$ARG1' の MediaWiki システムへの接続を作成できませんでした。</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="ja">ユーザー名またはパスワードが正しくありません。もう一度入力してください。匿名で接続する場合は両方のフィールドを空白にしてください。</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="ja">接続を作成できませんでした。URL が正しくありません。</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="ja">URL を入力して MediaWiki サーバーを指定してください。</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="ja">転送が中断されました。Wiki 記事が完全であることを確認してください。</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="ja">URL(~R)</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="ja">ユーザー名(~U)</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="ja">パスワード(~P)</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="ja">MediaWiki へ送信</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="ja">Wiki 記事</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="ja">いいえ</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="ja">OK</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="ja">はい</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="ja">追加(~A)...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="ja">編集(~E)...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="ja">送信(~S)</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="ja">削除(~R)</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="ja">'$ARG1' というタイトルの wiki 記事は存在しません。この名前の記事を新規作成しますか ?  </value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="ja">MediaWiki サーバー(~W)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="ja">タイトル(~T)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="ja">概要(~U)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="ja">これは小さな編集です(~M)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="ja">ウェブブラウザで表示(~B)</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="ja">選択されているサイトの証明書が不明です。</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="ja">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="ja">アカウント</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="ja">MediaWiki サーバー</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="ja">パスワードの保存(~S)</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="ja">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="ja">タイトル '$ARG1' の wiki 記事はすでに存在します。&amp;#13;&amp;#13;現在の記事を置き換えますか。&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

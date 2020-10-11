@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ku">Vebijêrkên MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="ku" level="1" l10n="NEW">Vebijêrkên MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="ku" l10n="NEW">Hun dikarin pêşkêşkerên MediaWiki lêzêde bikin, sererast bikin û rakin. Pace li vir e, <item type="menuitem">Amûr - Vebijêrk - Înternet - MediaWiki</item>. An jî, ji <item type="menuitem">Amûr - Rêvebirê Pêvekan</item> @WIKIEXTENSIONPRODUCTNAME@ hilbijêrin û paşê pêl Vebijêrk bikin.</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="ku" l10n="NEW"><ahelp hid=".">Ji bo lêzêdekirina pêşkêşkerekî nû ya Wiki pêl Lê Zêde Bike bikin.<br/>Têketinekî hilbijêrin û pêl Sererast Bike bikin û mîhengên hisabê sererast bikin.<br/>Têketinekî hilbijêrin û pêl Rake bikin û têketinê ji lîsteyê rakin.</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="ku" l10n="NEW"><ahelp hid="." visibility="hidden">Ji bo lêzêdekirina têketinekî paceya MediaWiki vedike.</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="ku" l10n="NEW"><ahelp hid="." visibility="hidden">Ji bo sererastkirina têketina hilbijartî paceya MediaWiki vedike.</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="ku" l10n="NEW"><ahelp hid="." visibility="hidden">Têketinên hilbijartî ji lîsteyê radike.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="ku" l10n="NEW">Wextê hun pêlê Lê Zêde Bike an Sererast Bike dikin, paceya <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> vedibe.</paragraph>
+</body>
+</helpdocument>

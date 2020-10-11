@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="id">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="id" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>ekstensi;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="id" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="id" l10n="NEW"><ahelp hid=".">Dengan menggunakan @WIKIEXTENSIONPRODUCTNAME@ Anda dapat mengirim dokumen teks Writer Anda ke server MediaWiki, sehingga seluruh pengguna Wiki dapat membaca dokumen tersebut.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="id" l10n="NEW"><ahelp hid=".">Pilih <item type="menuitem">Berkas - Kirim - Ke MediaWiki</item> untuk mengirim dokumen Writer Anda ke server MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="id" level="2" l10n="NEW">Sistem yang Diperlukan</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="id" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="id" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="id" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="id" l10n="NEW">Akun Wiki di server <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="id" level="2" l10n="NEW">Memasang @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="id" l10n="NEW">Sebelum Anda memasang @WIKIEXTENSIONPRODUCTNAME@, pastikan bahwa %PRODUCTNAME menggunakan Java Runtime Environment (JRE). Untuk memeriksa status JRE, pilih <item type="menuitem">Perkakas - Opsi - %PRODUCTNAME - Java</item>. Pastikan bahwa &quot;Gunakan Java runtime environment&quot; tercentang dan folder Java runtime terpilih dalam kotak daftar besar. Jika tidak ada JRE yang aktif, maka aktifkan JRE 1.4 atau yang lebih baru dan mulai ulang %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="id" level="3" l10n="NEW">Untuk Memasang @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="id" l10n="NEW">Di dalam jendela Writer, pilih <item type="menuitem">Perkakas - Manajer Ekstensi</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="id" l10n="NEW">Dalam dialog Manajer Ekstensi, klik Tambah.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="id" l10n="NEW">Cari berkas @WIKIEXTENSIONFILENAME@.oxt, klik Buka, lalu klik Tutup. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="id" l10n="NEW">Tutup %PRODUCTNAME, dan tutup juga Pelancar jika aktif.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="id" l10n="NEW">Mulai ulang aplikasinya, buka sebuah dokumen teks, lalu pilih <item type="menuitem">Perkakas - Opsi - Internet - MediaWiki</item> untuk mulai pengaturan Wiki Anda. Lihat &quot;Untuk Terhubung ke Wiki&quot; di bawah.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="id" level="3" l10n="NEW">Untuk Membuang @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="id" l10n="NEW">Dalam jendela Writer, pilih <item type="menuitem">Perkakas - Manajer Ekstensi</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="id" l10n="NEW">Klik tanda tambah (+) di depan Ekstensiku.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="id" l10n="NEW">Pilih ekstensinya, klik Buang, lalu klik Tutup.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="id" level="2" l10n="NEW">Untuk Terhubung ke Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="id" l10n="NEW">Catatan: Anda dapat menyimpan nama dan sandi Anda untuk seluruh dialog yang berkaitan dalam %PRODUCTNAME. Sandi tersebut akan disimpan dengan aman, di mana akses terhadapnya diatur menggunakan sandi utama. Untuk mengaktifkan sandi utama, pilih <item type="menuitem">Perkakas - Opsi - %PRODUCTNAME - Keamanan</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="id" l10n="NEW">Catatan: Jika Anda terhubung ke jaringan menggunakan server proksi, masukkan informasi proksi ke <item type="menuitem">Perkakas - Opsi - Internet - Proksi</item>, lalu mulai ulang perangkat lunak ini.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="id" l10n="NEW">Buka dokumen Writer, dan pilih <item type="menuitem">Perkakas - Opsi - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="id" l10n="NEW">Dalam dialog <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opsi</link>, klik Tambah.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="id" l10n="NEW">Dalam dialog <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, masukkan informasi akun untuk Wiki tersebut.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="id" l10n="NEW">Dalam kotak teks URL, masukkan alamat Wiki yang ingin Anda hubungi.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="id" l10n="NEW">Anda dapat menyalin URL dari penelusur web dan menempelkannya ke kotak tersebut.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="id" l10n="NEW">Dalam kotak Nama Pengguna, masukkan ID pengguna Anda untuk akun Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="id" l10n="NEW">Jika Wiki tersebut mengizinkan siapa pun memiliki akses tulis, Anda dapat membiarkan kosong kotak Nama Pengguna dan Sandi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="id" l10n="NEW">Dalam kotak Sandi, masukkan sandi untuk akun Wiki Anda, lalu klik Oke.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="id" l10n="NEW">Anda bisa pula mengaktifkan &quot;Simpan sandi&quot; untuk menyimpan sandi antarsesi. Sebuah sandi utama digunakan untuk mengatur akses ke seluruh sandi yang tersimpan. Pilih <item type="menuitem">Perkakas - Opsi - %PRODUCTNAME - Keamanan</item> untuk mengaktifkan sandi utama. &quot;Simpan sandi&quot; tidak tersedia ketika sandi utama tidak diaktifkan.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="id" level="2" l10n="NEW">Untuk Membuat Halaman Wiki Baru</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="id" l10n="NEW">Buka dokumen Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="id" l10n="NEW">Tulis isi halaman Wiki. Anda dapat menggunakan format seperti format teks, tajuk, catatan kaki, dan banyak lagi. Lihat <link href="@WIKIEXTENSIONID@/wikiformats.xhp">daftar format yang didukung</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="id" l10n="NEW">Pilih <item type="menuitem">Berkas - Kirim - Ke MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="id" l10n="NEW">Dalam dialog <link href="@WIKIEXTENSIONID@/wikisend.xhp">Kirim ke MediaWiki</link>, tentukan pengaturan untuk entri Anda.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="id" l10n="NEW"><emph>Server MediaWiki</emph>: Pilih Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="id" l10n="NEW"><emph>Judul</emph>: Ketik judul untuk halaman Anda. Ketik judul halaman yang telah ada untuk menimpa halaman tersebut dengan dokumen teks Anda. Ketik judul baru untuk membuat halaman baru pada Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="id" l10n="NEW"><emph>Ringkasan</emph>: Masukkan deskripsi singkat mengenai halaman Anda.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="id" l10n="NEW"><emph>Ini adalah sunting minor</emph>: Centang kotak ini untuk menandai halaman yang dikirim sebagai hasils sunting minor terhadap halaman yang telah ada dengan judul yang sama.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="id" l10n="NEW"><emph>Lihat di penelusur web</emph>: Centang kotak ini untuk membuka penelusur web di sistem Anda untuk melihat halaman Wiki yang diunggah.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="id" l10n="NEW">Klik Kirim.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

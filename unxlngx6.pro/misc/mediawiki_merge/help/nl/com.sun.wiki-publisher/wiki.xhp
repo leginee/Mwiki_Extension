@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="nl">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="nl" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensies;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="nl" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="nl" l10n="NEW"><ahelp hid=".">Door de @WIKIEXTENSIONPRODUCTNAME@ te gebruiken kunt u uw huidige Writer-tekstdocument uploaden naar een MediaWiki-server. Na het uploaden kunnen alle wiki-gebruikers uw document op de wiki lezen.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="nl" l10n="NEW"><ahelp hid=".">Kies<item type="menuitem">Bestand- Verzenden- Naar MediaWiki</item> om uw huidige Writerdocument te uploaden naar een MediaWiki-server.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="nl" level="2" l10n="NEW">Systeemvereisten</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="nl" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="nl" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="nl" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="nl" l10n="NEW">Een wiki-account op een ondersteunde <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link>-server</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="nl" level="2" l10n="NEW">Installeren van @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="nl" l10n="NEW">Vóórdat u de @WIKIEXTENSIONPRODUCTNAME@ installeert, dient u er voor te zorgen dat %PRODUCTNAME een Java Runtime Environment (JRE) gebruikt. Kies <item type="menuitem">Extra - Opties - %PRODUCTNAME - Java</item> om de status van de JRE te controleren. Zorg er voor dat &quot;Een Java runtime environment gebruiken&quot; is gemarkeerd en dat een Java runtime-map is geselecteerd in het grote lijstvak. Indien er geen JRE werd geactiveerd, activeer dan een JRE 1.4 of later en herstart %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="nl" level="3" l10n="NEW">De @WIKIEXTENSIONPRODUCTNAME@ installeren</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="nl" l10n="NEW">Kies <item type="menuitem">Extra- Extensiebeheer</item> in een venster van Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="nl" l10n="NEW">Klik op Toevoegen in het dialoogvenster van Extensiebeheer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="nl" l10n="NEW">Zoek het @WIKIEXTENSIONFILENAME@.oxt bestand op, klik op Openen en klik dan op Sluiten. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="nl" l10n="NEW">Sluit %PRODUCTNAME af en sluit ook de SnelStarter af als die is ingeschakeld.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="nl" l10n="NEW">Herstart de software, open een tekstdocument en kies dan <item type="menuitem">Extra - Opties - Internet - MediaWiki</item> om uw wiki-instellingen op te geven. Zie &quot;Met een wiki verbinden&quot; hieronder.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="nl" level="3" l10n="NEW">De @WIKIEXTENSIONPRODUCTNAME@ verwijderen</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="nl" l10n="NEW">Kies <item type="menuitem">Extra - Extensiebeheer</item> in een venster van Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="nl" l10n="NEW">Klik op het plusteken (+) vóór Mijn extensies.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="nl" l10n="NEW">Selecteer de extensie, klik op Verwijderen en klik dan op Sluiten.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="nl" level="2" l10n="NEW">Met een wiki verbinden</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="nl" l10n="NEW">Opmerking: U kunt uw gebruikersnaam en wachtwoord voor alle afzonderlijke dialoogvensters binnen %PRODUCTNAME opslaan. Het wachtwoord zal op een beveiligde wijze worden opgeslagen, waarbij de toegang wordt beheerd door een hoofdwachtwoord. Kies <item type="menuitem">Extra - Opties - %PRODUCTNAME - Beveiliging</item> om het hoofdwachtwoord in te schakelen.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="nl" l10n="NEW">Opmerking: Indien u verbinding maakt met het web door middel van een proxy-server, voer de proxy-informatie dan in bij <item type="menuitem">Extra- Opties - Internet - Proxy</item> en herstart de software.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="nl" l10n="NEW">Open een Writerdocument en kies <item type="menuitem">Extra- Opties - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="nl" l10n="NEW">Klik op Toevoegen in het dialoogvenster <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opties</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="nl" l10n="NEW">Voer in het dialoogvenster <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> de accountinformatie voor de wiki in.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="nl" l10n="NEW">Voer, in het tekstvak URL, het adres van een wiki in, waarmee u verbinding wilt maken.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="nl" l10n="NEW">U kunt de URL uit een webbrowser kopiëren en die in het tekstvak plakken.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="nl" l10n="NEW">Voer, in het vak Gebruikersnaam, uw gebruikers-ID in voor uw wiki-account.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="nl" l10n="NEW">U kunt de vakken Gebruikersnaam en Wachtwoord leeg laten als de wiki anonieme schrijftoegang toestaat.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="nl" l10n="NEW">Voer, in het vak Wachtwoord, het wachtwoord voor uw wiki-account in en klik dan op OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="nl" l10n="NEW">Schakel, optioneel, &quot;Wachtwoord opslaan&quot; in om het wachtwoord tussen sessies op te slaan. Een hoofdwachtwoord wordt gebruikt om de toegang te beheren tot alle opgeslagen wachtwoorden. Kies <item type="menuitem">Extra - Opties - %PRODUCTNAME - Beveiliging</item> om het hoofdwachtwoord in te schakelen. &quot;Wachtwoord opslaan&quot; is niet beschikbaar als het hoofdwachtwoord niet is ingeschakeld.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="nl" level="2" l10n="NEW">Een nieuwe wikipagina maken</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="nl" l10n="NEW">Open een Writerdocument.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="nl" l10n="NEW">Schrijf de inhoud van de wikipagina. U kunt opmaak gebruiken zoals tekstformats, koppen, voetnoten en meer. Kijk op de lijst<link href="@WIKIEXTENSIONID@/wikiformats.xhp"> van ondersteunde opmaak</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="nl" l10n="NEW">Kies <item type="menuitem">Bestand- Verzenden - Naar MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="nl" l10n="NEW">In het dialoogvenster <link href="@WIKIEXTENSIONID@/wikisend.xhp">Verzenden naar MediaWiki</link> specificeert u de instellingen voor uw item.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="nl" l10n="NEW"><emph>MediaWiki-server</emph>: Selecteer de wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="nl" l10n="NEW"><emph>Titel</emph>: Typ de titel van uw pagina. Typ de titel van een bestaande pagina om die pagina te overschrijven met de inhoud van uw huidige tekstdocument. Typ een nieuwe titel om een nieuwe pagina op de wiki te maken.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="nl" l10n="NEW"><emph>Samenvatting</emph>: Voer een optionele korte samenvatting van uw pagina in.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="nl" l10n="NEW"><emph>Dit is een kleine bewerking</emph>: Markeer dit vak om de geüploadde pagina te markeren als een kleine bewerking van de reeds bestaande pagina met dezelfde titel.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="nl" l10n="NEW"><emph>In webbrowser tonen</emph>: Markeer dit vakje om uw systeemwebbrowser te openen en de geüploadde wikipagina weer te geven.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="nl" l10n="NEW">Klik op Verzenden.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

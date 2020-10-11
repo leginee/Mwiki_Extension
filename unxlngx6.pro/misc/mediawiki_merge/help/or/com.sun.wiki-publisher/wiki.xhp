@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="or">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="or" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="or" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="or" l10n="NEW"><ahelp hid="."> @WIKIEXTENSIONPRODUCTNAME@ କୁ ବ୍ୟବହାର କରି ଆପଣ ଆପଣଙ୍କର ପ୍ରଚଳିତ ଲିଖିତ ପାଠ୍ୟକୁ ମାଧ୍ୟମ ୱିକି ସର୍ରଭରେ ଅବରୋହଣ କରିପାରିବେ। ଅବରୋହଣ କରିସାରିବା ପରେ, ସମସ୍ତ ୱିକି ଚାଳକ ମାନେ ୱିକିରେ ଆପଣଙ୍କର ଦଲିଲକୁ ପଢ଼ି ପାରିବେ।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="or" l10n="NEW"><ahelp hid="."> ପ୍ରଚଳିତ ଲେଖକ ଦଲିଲକୁ ମାଧ୍ଯମ ୱିକି ସର୍ଭରରେ ଅବରୋହଣ କରିବା ପାଇଁ ମାଧ୍ୟମ ୱିକିକୁ ପଠାଯାଇଥିବା <item type="menuitem">ଫାଇଲକୁ </item> ବାଛନ୍ତୁ।</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="or" level="2" l10n="NEW">ତନ୍ତ୍ର ଆବଶ୍ୟକତା</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="or" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="or" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="or" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="or" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">ମାଧ୍ଯମ ୱିକି</link> ସର୍ଭରରେ ସମର୍ଥିତ ୱିକି ଖାତା</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="or" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ସ୍ଥାପନ କରୁଅଛି</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="or" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ କୁ ସ୍ଥାପନ କରିବା ପୂର୍ବରୁ, ନିଶ୍ଚିତ କରନ୍ତୁ ଯେStarOffice ଅଥବା OpenOffice.org Java Runtime Environment (JRE)କୁ ବ୍ୟବହାର କରିଥାଏ। JRE ର ସ୍ଥିତି ଯାଞ୍ଚ କରିବା ପାଇଁ, <item type="menuitem">Tools - Options - StarOffice/OpenOffice.org - Java</item>କୁ ବାଛନ୍ତୁ। ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ &quot;Use a Java runtime environment&quot; କୁ ଚିହ୍ନଟ କରାହୋଇଛି ଏବଂ ଗୋଟିଏ Java runtime ଫୋଲଡରକୁ ବଡ଼ ତାଲିକା ବାକ୍ସରେ ବଛାହୋଇଛି। ଯଦି JRE କୁ ସକ୍ରିୟ କରାହୋଇଥାଏ, ତେବେ ଗୋଟିଏ JRE 1.4 ଅଥବା ପରବର୍ତ୍ତୀକୁ ସକ୍ରିୟ କରନ୍ତୁ ଏବଂ StarOffice/OpenOffice.orgକୁ ପୁନପ୍ରାରମ୍ଭ କରନ୍ତୁ।</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="or" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ କୁ ସ୍ଥାପନ କରିବା ପାଇଁ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="or" l10n="NEW">ଗୋଟିଏ ଲେଖକ ୱିଣ୍ଡୋରେ, <item type="menuitem">ଉପକରଣ - ଅନୁଲଗ୍ନ ପରିଚାଳକକୁ ବାଛନ୍ତୁ</item>।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="or" l10n="NEW">ଅନୁଲଗ୍ନ ପରିଚାଳକ ସଂଳାପରେ, ଯୋଗକରନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="or" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ଫାଇଲର ସ୍ଥାନ ନିରୁପଣ କରନ୍ତୁ, ଖୋଲନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ, ଏବଂ ତାପରେ ବନ୍ଦକରନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="or" l10n="NEW">%PRODUCTNAME କୁ ବନ୍ଦ କରନ୍ତୁ, ଏବଂ Quickstarterକୁ ମଧ୍ଯ ବନ୍ଦ କରନ୍ତୁ ଯଦି ସକ୍ରିୟ ଥାଏ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="or" l10n="NEW">ଆପଣଙ୍କର ୱିକି ବିନ୍ୟାସକୁ ଭରଣ କରିବା ପାଇଁ ସଫ୍ଟୱେରକୁ ପୁନଃଚାଳନ କରନ୍ତୁ, ଗୋଟିଏ ପାଠ୍ୟ ଦଲିଲ ଖୋଲନ୍ତୁ, ତାପରେ <item type="menuitem">ଉପକରଣ - ବିକଳ୍ପ - ଇଣ୍ଟରନେଟ - ମେଡ଼ିଆ ୱିକି</item> କୁ ବାଛନ୍ତୁ। ନିମ୍ନରେ ଥିବା &quot;To Connect To a Wiki&quot; କୁ ଦେଖନ୍ତୁ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="or" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ କାଢ଼ିବା ପାଇଁ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="or" l10n="NEW">ଗୋଟିଏ ଲେଖକ ୱିଣ୍ଡୋରେ, <item type="menuitem">ଉପକରଣ - ଅନୁଲଗ୍ନ ପରିଚାଳକକୁ ବାଛନ୍ତୁ</item>।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="or" l10n="NEW">ମୋର ଅନୁଲଗ୍ନ ସାମ୍ନାରେ (+) କୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="or" l10n="NEW">ଅନୁଲଗ୍ନକୁ ବାଛନ୍ତୁ, କାଢ଼ନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ, ଏବଂ ତାପରେ ବନ୍ଦକରନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="or" level="2" l10n="NEW">ୱିକି ସହିତ ସଂଯୋଗ କରିବା ପାଇଁ</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="or" l10n="NEW">ଟିପ୍ପଣୀ: ଆପଣ ଆପଣଙ୍କର ଚାଳକ ନାମ ଏବଂ ପ୍ରବେଶ ସଂକେତକୁ ସମସ୍ତ ସଂଳାପ ପାଇଁ %PRODUCTNAME ମଧ୍ଯରେ ରଖିପାରିବେ। ପ୍ରବେଶ ସଂକେତଟି ଗୋଟିଏ ସୁରକ୍ଷିତ ପଦ୍ଧତିରେ ରଖାଯାଇପାରିବ, ଯେଉଁଠି ଅଭିଗମ୍ୟତା ଗୋଟିଏ ମୂଖ୍ଯ ପ୍ରବେଶ ସଂକେତ ମାଧ୍ଯମରେ ରଖାଯାଇ ପାରିବ। ସେହି ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>କୁ ବାଛନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="or" l10n="NEW">ଟିପପ୍ଣୀ ସରବର୍<item type="menuitem"> ଟୁଲ୍ଗୁଡିକ ବିକଳ୍ପଗୁଡିକ ଇଣ୍ଟରନେଟ ପ୍ରକ୍ସି</item> ଏବଂ.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="or" l10n="NEW">ଖୋଲ ଏବଂ<item type="menuitem"> ଟୁଲ୍ଗୁଡିକ ବିକଳ୍ପଗୁଡିକ ଇଣ୍ଟରନେଟ ମାଧ୍ଯମ ୱିକି</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="or" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">ବିକଳ୍ପଗୁଡ଼ିକର</link> ସଂଳାପରେ, ଯୋଗକରନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="or" l10n="NEW">ରେ<link href="@WIKIEXTENSIONID@/wikiaccount.xhp"> ମାଧ୍ଯମ ୱିକି</link> ସଂଳାପ ପାଇଁ.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="or" l10n="NEW">URL ପାଠ୍ୟବାକ୍ସରେ, ଆପଣ ସଂଯୋଗ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଥିବା ୱିକିର ଠିକଣା ଭରଣ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="or" l10n="NEW">ୱେବ ବ୍ରାଉଜରରୁ ଆପଣ URLକୁ ନକଲ କରିପାରିବେ ଏବଂ ପାଠ୍ୟ ବାକ୍ସରେ ଲଗାଇ ପାରିବେ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="or" l10n="NEW">ଚାଳକ ନାମ ବାକ୍ସରେ, ୱିକି ଖାତା ପାଇଁ ଆପଣଙ୍କର ଚାଳକ ID ଭରଣ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="or" l10n="NEW">ଯଦି ୱିକି ସମସ୍ତଙ୍କୁ ଲେଖା ଅନୁମତି ପ୍ରଦାନ କରେ, ତେବେ ଆପଣ ସେହି ଚାଳକ ନାମ ଏବଂ ପ୍ରବେଶ ସଂକେତ ବାକ୍ସକୁ ଖାଲି ଛାଡ଼ିପାରିବେ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="or" l10n="NEW">ପ୍ରବେଶ ସଂକେତ ବାକ୍ସରେ, ଆପଣଙ୍କର ୱିକି ଖାତା ପାଇଁ ପ୍ରବେଶ ସଂକେତକୁ ଭରଣ କରନ୍ତୁ, ତାପରେ OK କୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="or" l10n="NEW">&quot;Save password&quot; କୁ ଅଧିବେଶନଗୁଡ଼ିକ ମଧ୍ଯରେ ବୈକଳ୍ପିକ ଭାବରେ ସକ୍ରିୟ କରାହୋଇଛି। ସମସ୍ତ ସଂରକ୍ଷିତ ପ୍ରବେଶସ ସଂକେତଗୁଡ଼ିକୁ ଅଭିଗମ୍ୟତା ପ୍ରଦାନ କରିବା ପାଇଁ ଗୋଟିଏ ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ବ୍ୟବହାର କରାଯାଇଥାଏ। ସେହି ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ସକ୍ରିୟ କରିବା ପାଇଁ <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> କୁ ସକ୍ରିୟ କରନ୍ତୁ। ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତଟି ସକ୍ରିୟ ନଥିବା ସମୟରେ &quot;Save password&quot; ଟି ଉପଲବ୍ଧ ହୋଇନଥାଏ।</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="or" level="2" l10n="NEW">ଗୋଟିଏ ନୂତନ ୱିକି ପୃଷ୍ଠା ନିର୍ମାଣ କରିବା ପାଇଁ</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="or" l10n="NEW">ଲେଖକ ଦଲିଲ ଖୋଲନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="or" l10n="NEW">ୱିକି ପୃଷ୍ଠାର ବିଷୟ ବସ୍ତୁ ଲେଖନ୍ତୁ। ଆପଣ ପାଠ୍ୟ ସଜ୍ଜିକରଣ ଶୈଳୀ, ଶୀର୍ଷକ, ପାଦିକା ଟିପ୍ପଣୀ ଏବଂ ସେହିପରି ଅଧିକ ସଜ୍ଜିକରଣ ବ୍ୟବହାର କରିପାରିବେ। <link href="@WIKIEXTENSIONID@/wikiformats.xhp"> ସମର୍ଥିତ ସଜ୍ଜିକରଣ ଶୈଳୀର ତାଲିକା</link>କୁ ଦେଖନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="or" l10n="NEW"><item type="menuitem">ମେଡ଼ିଆ ୱିକିକୁ - ପଠାଯାଇଥିବା - ଫାଇଲ</item> କୁ ବାଛନ୍ତୁ।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="or" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp"> ମେଡିଆ ୱିକିକୁ ପଠାନ୍ତୁ</link> ସଂଳାପରେ,  ଆପଣଙ୍କର ଭରଣଗୁଡ଼ିକ ପାଇଁ ସଂରଚନା ଉଲ୍ଲେଖ କରନ୍ତୁ।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="or" l10n="NEW"><emph> ମାଧ୍ଯମ ୱିକି ସର୍ଭର</emph>: ୱିକି ବାଛନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="or" l10n="NEW"><emph> ଶୀର୍ଷକ</emph>: ଆପଣଙ୍କ ପୃଷ୍ଠାର ଶୀର୍ଷକ ଟାଇପ କରନ୍ତୁ। ଆପଣଙ୍କର ପ୍ରଚଳିତ ପାଠ୍ୟ ଦଲିଲ ସହିତ ନବଲିଖନ କରିବା ପାଇଁ ଗୋଟିଏ ସ୍ଥିତବାନ ପୃଷ୍ଠାର ଶୀର୍ଷକ ଟାଇପ କରନ୍ତୁ। ୱିକିରେ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠା ନିର୍ମାଣ କରିବା ପାଇଁ ଗୋଟିଏ ନୂତନ ଶୀର୍ଷକ ଟାଇପ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="or" l10n="NEW"><emph> ସାରାଂଶ</emph>: ଆପଣଙ୍କର ପୃଷ୍ଠା ପାଇଁ ଗୋଟିଏ ସଂକ୍ଷିପ୍ତ ସାରାଂଶ ଭରଣ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="or" l10n="NEW"><emph>ଏହା ଗୋଟିଏ ଛୋଟ ସମ୍ପାଦନ</emph>: ଆହରଣ କରାଯାଇଥିବା ସମାନ ନାମ ବିଶିଷ୍ଟ ପୃଷ୍ଠାଗୁଡ଼ିକ ପୂର୍ବରୁ ଅବସ୍ଥିତ ପୃଷ୍ଠାର ଛୋଟ ସମ୍ପାଦନ ପରି ଚିହ୍ନିତ କରିବା ପାଇଁ ଏହି ବାକ୍ସରେ ଚିହ୍ନ ଦିଅନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="or" l10n="NEW"><emph>ୱେବ ବ୍ରାଉଜରରେ ଦର୍ଶାନ୍ତୁ</emph>: ଆପଣଙ୍କର ତନ୍ତ୍ର ୱେବ ବ୍ରାଉଜରକୁ ଖୋଲିବା ପାଇଁ ଏବଂ ୱିକି ପୃଷ୍ଠାକୁ ଆହରଣ କରିବା ପାଇଁ ଏହି ବାକ୍ସକୁ ଚିହ୍ନଟ କରନ୍ତୁ।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="or" l10n="NEW">ପଠାନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

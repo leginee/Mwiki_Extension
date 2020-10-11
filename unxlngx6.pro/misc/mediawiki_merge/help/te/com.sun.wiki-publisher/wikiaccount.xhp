@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="te">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="te" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="te" l10n="NEW">మీ MediaWiki ఖాతా అమరికలను సరికూర్చుటకు లేదా జతచేయుటకు MediaWiki డైలాగ్ వుపయోగించుము.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="te" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki సేవిక యొక్క URL ప్రవేశపెట్టుము, http:// తో ప్రారంభించి</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="te" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki సేవికపై మీ వినియోగదారి నామము ప్రవేశపెట్టుము. పేరులేని యాక్సెస్ కొరకు ఖాళీగా వదిలివేయుము.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="te" l10n="NEW"><ahelp hid="." visibility="hidden">మీ సంకేతపదమును MediaWiki సేవికపై ప్రవేశపెట్టుము.పేరులేని యాక్సెస్ కొరకు ఖాళీగా వదిలివేయుము.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="te" l10n="NEW"><ahelp hid="." visibility="hidden">మీ సంకేతపదమును సెషన్ల మద్యన నిల్వవుంచుటకు చేతనము చేయుము ముఖ్య సంకేతపదము తప్పక చేతనముచేయాలి, <item type="menuitem">సాధనములు - ఐచ్చికములు - %PRODUCTNAME - రక్షణ</item> చూడుము.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="te" l10n="NEW">వికి సేవిక యొక్క యింటర్నెట్ చిరునామాను http://wiki.services.openoffice.org/wiki వంటి ఫార్మాట్‌లో ప్రవేశపెట్టుము లేదా వెబ్‌బ్రౌజర్‌నుండి URL నకలుతీయుము.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="te" l10n="NEW">వికి పేరులేని యాక్సెస్‌ను అనుమతిస్తే, మీరు ఖాతా పాఠ్యపు పెట్టెలను ఖాళీగా వదిలివేయవచ్చును. లేదా మీ వినియోగదారి నామము లేదా సంకేతపదమును ప్రవేశపెట్టుము.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="te" l10n="NEW">మీరు సాధనములు - ఐచ్చికములు - %PRODUCTNAME డైలాగ్ యొక్క రక్షణ టాబ్ పైని ముఖ్య సంకేతపదము సౌలబ్యాన్ని చేతనము చేస్తే, అప్పుడు సాఫ్టువేర్ మీ సంకేతపదమును నిల్వచేయగలదు మరియు అవసరమైనచోట డాటాను స్వయంచాలకంగా ప్రవేశపెట్టగలదు. మీ సంకేతపదమును నిల్వవుంచుటకు &quot;సంకేతపదము దాయి&quot; చెక్‌బాక్స్‌ను చేతనముచేయండి.</paragraph>
+</body>
+</helpdocument>

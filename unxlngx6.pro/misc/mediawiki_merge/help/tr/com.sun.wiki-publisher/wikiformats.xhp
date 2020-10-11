@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="tr">MediaWiki Biçimleri</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="tr" level="1" l10n="NEW">MediaWiki Biçimleri</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="tr" l10n="NEW">Aşağıdaki liste, @WIKIEXTENSIONPRODUCTNAME@ uygulamasının Wiki sunucusuna gönderebildiği metin biçimlerinin genel görünümünü verir.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="tr" l10n="NEW">Writer tarafından kullanılan OpenDocument biçimi ile WikiMedia biçimi oldukça farklıdır. Tüm özelliklerin sadece bir altkümesi bir biçimden diğerine dönüştürülebilir.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="tr" level="2" l10n="NEW">Üst Başlıklar</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="tr" l10n="NEW">Writer belgenizdeki üst başlıklara bir üst başlık paragraf stili uygulayın. Wiki, aynı anahat düzeyinin üst başlığı stilini, Wiki motoru tarafından tanımlandığı gibi biçimlendirilmiş olarak gösterecek.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="tr" level="2" l10n="NEW">Köprüler</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="tr" l10n="NEW">Yerel OpenDocument köprüleri &quot;harici&quot; Wiki bağlantısına dönüştürülür. Bundan dolayı, OpenDocument'in bütünleşik bağlantılama kolaylığı sadece Wiki web sayfası dışındaki diğer siteleri gösteren bağlantılar oluşturmak için kullanılabilir. Aynı Wiki etki alanın diğer konularını gösteren Wiki bağlantıları oluşturmak için Wiki bağlantılarını kullanın.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="tr" level="2" l10n="NEW">Listeler</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="tr" l10n="NEW">Bütün liste, uyumlu bir liste stili kullandığında, listeler güvenilir bir şekilde dışa aktarılabilir. Writer içinde bir liste oluşturmak için Numaralandırma ya da Madde İşaretleri kullanın. Eğer numaralandırma ve madde işaretleri olmadan bir listeye ihtiyacınız olursa, ilgili liste stilini tanımlamak ve uygulamak için Biçim - Numaralandırma ve Madde İşaretleri seçeneğini kullanın.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="tr" level="2" l10n="NEW">Paragraflar</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="tr" level="3" l10n="NEW">Hizalama</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="tr" l10n="NEW">Belirgin metin hizalama Wiki makalelerinde kullanılmamalıdır. Bununla birlikte metin hizalama, metnin sola, ortaya ve sağa hizalanması için desteklenir.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="tr" level="3" l10n="NEW">Ön biçimlendirilmiş metin</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="tr" l10n="NEW">Sabit genişlikte bir yazı tipi olan paragraf stili ön biçimlendirilmiş metne dönüştürülür. Ön biçimlendirilmiş metin Wiki'de metni çevreleyen bir kenarlıkla birlikte gösterilir.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="tr" level="2" l10n="NEW">Karakter stilleri</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="tr" l10n="NEW">Karakter stilleri bir paragrafın kısımlarının görünümünü değiştirir. Dönüştürme kalın, italik, kalın/italik, alt simge ve üst simge destekler. Tüm sabit genişlikteki yazı tipleri Wiki daktilo stiline dönüştürülür.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="tr" level="2" l10n="NEW">Dipnotlar</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="tr" l10n="NEW">Not: Dönüştürme, MediaWiki içine yüklenmiş Cite.php uzantısını gerektiren &lt;ref&gt; ve &lt;references&gt; etiketleri olan dipnotların yeni stilini kullanır. Eğer bu etiketler dönüştürme sonucunda düz metine neden oluyorsa, bu uzantıyı yüklemesi için Wiki yöneticinize sorun.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="tr" level="2" l10n="NEW">Resimler</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="tr" l10n="NEW">Resimler, Wiki metni için tek dosya üreten bir dönüştürme tarafından dışa aktarılamaz. Ancak, eğer resim zaten hedef Wiki etki alanına (örn. WikiMedia Çevreleri) gönderildiyse, o zaman dönüştürme resmin dahil olduğu geçerli bir resim etiketi üretir. Resim başlıkları ayrıca desteklenir.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="tr" level="2" l10n="NEW">Tablolar</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="tr" l10n="NEW">Basit tablolar da desteklenir. Tablo başlıkları ilgili Wiki stili tablo başlıklarına çevirilir. Ancak, tablo kenarlıkları, sütun boyutları ve arka plan renklerinin özel biçimlendirmesi yoksayılır.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="tr" level="3" l10n="NEW">Birleştirilmiş Hücreler</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="tr" l10n="NEW">OpenDocument ve özellikle OpenOffice.org, iç içe tabloları olan tablolar gibi satırları kapsayan birleştirilmiş hücrelere sahip tabloları temsil eder. Bunun tersine, Wiki tablo modeli, böyle birleştirilmiş hücreler için sütun ve satır kapsamalarını bildirmek içindir. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="tr" l10n="NEW">Eğer sadece aynı satırın sütunları birleştirilmişse, dönüştürme sonucu kaynak belgeye çok benzer.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="tr" level="3" l10n="NEW">Kenarlıklar</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="tr" l10n="NEW">Kenarlık ve arka plan için özel tablo stillerine bakmaksızın, basit kenarlıklar ve kalın başlıkla Wiki motorunda işlenen, bir tablo daima <emph>&quot;özeltablo&quot;</emph> olarak dışa aktarılır.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="tr" level="2" l10n="NEW">Karakter grubu ve özel karakterler</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="tr" l10n="NEW">Dönüştürme sonucunun karakter grubu UTF-8'e sabitlenmiştir. Sisteminize bağlı olarak, bu, varsayılan karakter grubu olmayabilir. Bu, &quot;özel karakterlerin&quot; varsayılan ayarlarla görüntülendiğinde bozuk görünmesine neden olabilir. Ancak, bunu düzeltmek için düzenleyicinizi UTF-8 kodlamasına değiştirebilirsiniz. Eğer düzenleyiciniz kodlamayı değiştirmeyi desteklemiyorsa, dönüştürme sonucunu Firefox tarayıcısında gösterebilir ve kodlamayı burada UTF-8'e değiştirebilirsiniz. Şimdi, dönüştürme sonucunu kesebilir ve seçtiğiniz programa yapıştırabilirsiniz.</paragraph>
+</body>
+</helpdocument>

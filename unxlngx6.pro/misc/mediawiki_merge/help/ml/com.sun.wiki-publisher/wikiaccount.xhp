@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ml">മീഡിയാവിക്കി</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="ml" level="1" l10n="NEW">മീഡീയാവിക്കി</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="ml" l10n="NEW">നിങ്ങളുടെ മീഡിയാവിക്കി അക്കൌണ്ട് സജ്ജീകരണങ്ങള്‍ ചേര്‍ക്കുന്നതിനോ ചിട്ടപ്പെടുത്തുന്നതിനോ മീഡിയാവിക്കി ഡയലോഗ് ഉപയോഗിക്കുക.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="ml" l10n="NEW"><ahelp hid="." visibility="hidden">http:// എന്നാരംഭിക്കുന്ന ഒരു മീഡിയാവിക്കി സര്‍വറിനുള്ള യുആര്‍എല്‍ നല്‍കുക</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="ml" l10n="NEW"><ahelp hid="." visibility="hidden">മീഡിയാവിക്കിസര്‍വറില്‍ നിങ്ങളുടെ ഉപയോക്തൃനാമം നല്‍കുക. അജ്ഞാതമായ പ്രവേശനത്തിനു് ഇതു് നല്‍കേണ്ടതില്ല.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="ml" l10n="NEW"><ahelp hid="." visibility="hidden">മീഡിയാവിക്കി സര്‍വറില്‍ നിങ്ങളുടെ രഹസ്യവാക്ക് നല്‍കുക. അജ്ഞാതമായി പ്രവേശിക്കുന്നതിനായി ഇതു് ശൂന്യമായിടുക.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="ml" l10n="NEW"><ahelp hid="." visibility="hidden">സെഷനുകളില്‍ നിങ്ങളുടെ രഹസ്യവാക്ക് സൂക്ഷിക്കുന്നതിനായി പ്രവര്‍ത്തന സജ്ജമാക്കുക. പ്രധാന രഹസ്യവാക്ക് സജ്ജമാക്കുക, <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - %PRODUCTNAME - സുരക്ഷ</item>.</ahelp> കാണുക.</paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="ml" l10n="NEW">http://wiki.services.openoffice.org/wiki എന്ന രീതിയില്‍ ഒരു വിക്കി സര്‍വറിനുള്ള ഇന്റര്‍നെറ്റ് വിലാസം നല്‍കുക അല്ലെങ്കില്‍ ഒരു വെബ് ബ്രൌസറില്‍ നിന്നും യുആര്‍എല്‍ പകര്‍ത്തുക.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="ml" l10n="NEW">വിക്കി അജ്ഞാതമായ അനുമതി അനുവദിക്കുന്നുണ്ടെങ്കില്‍, അക്കൌണ്ട് ടെക്സ്റ്റ് ബോക്സുകള്‍ ശൂന്യമായിടുക. അല്ലെങ്കില്‍, ഉപയോക്തൃനാമവും രഹസ്യവാക്കും നല്‍കുക.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="ml" l10n="NEW">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - %PRODUCTNAME ഡയലോഗിന്റെ സുരക്ഷ റ്റാബിനുള്ള താളില്‍പ്രധാന രഹസ്യവാക്കിനുള്ള വിശേഷത സജ്ജമാക്കിയിട്ടുണ്ടെങ്കില്‍, സോഫ്റ്റ്‌വെയര്‍ നിങ്ങളുടെ രഹസ്യവാക്ക് സൂക്ഷിച്ചു്, ആവശ്യമുള്ളപ്പോള്‍ ഡേറ്റാ സ്വയം ചേര്‍ക്കുന്നു. നിങ്ങളുടെ രഹസ്യവാക്ക് സൂക്ഷിക്കുന്നതിനായി &quot;രഹസ്യവാക്ക് സൂക്ഷിക്കുക&quot; പ്രവര്‍ത്തന സജ്ജമാക്കുക.</paragraph>
+</body>
+</helpdocument>

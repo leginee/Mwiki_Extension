@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="eu">MediaWiki formatuak</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="eu" level="1" l10n="NEW">MediaWiki formatuak</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="eu" l10n="NEW">Honako zerrendan @WIKIEXTENSIONPRODUCTNAME@(e)k Wiki zerbitzarira igo ditzakeen testu-formatuen gainbegiraketa agertzen da.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="eu" l10n="NEW">Writer-ek erabiltzen duen OpenDocument formatua eta WikiMedia-k erabiltzen duena nahiko desbderinak dira. Eginbide guztietatik azpimultzo bat bakarrik eralda daiteke formatu batetik bestera.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="eu" level="2" l10n="NEW">Goiburuak</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="eu" l10n="NEW">Aplikatu goiburuen paragrafo-estiloa Writer dokumentuko goiburukoei. Wiki-ak eskema-maila berdinaren goiburukoen estiloa bistaratuko du, Wiki motorean definitutako formatuarekin.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="eu" level="2" l10n="NEW">Hiperestekak</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="eu" l10n="NEW">OpenDokument jatorriko hiperestekak Wiki &quot;kanpoko&quot; esteketan bihurtuko dira. Honela, OpenDocument-ek barneratua duen estekatzeko funtzionalitatea kasu honetan bakarrik erabili beharko litzateke: Wiki webgunetik kanpo dauden beste gune batzuei erreferentzia egingo dien estekak sortzeko. Wiki domeinu berdineko beste eduki batzuetara estekak sortzeko, erabili Wiki estekak.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="eu" level="2" l10n="NEW">Zerrendak</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="eu" l10n="NEW">Zerrendak fidagarritasun handiarekin esporta daitezke zerrenda osoak zerrenda-estilo tinko bat erabiltzen duenean. Erabili 'Numerazioa' edo 'Bulletak' ikonoa zerrenda bat sortzeko Writer-en. Numeraziorik edo bulletik gabeko zerrenda bat behar baduzu, erabili 'Formatua - Bulletak eta numerazioa' dagokion zerrenda-estiloa definitzeko eta aplikatzeko.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="eu" level="2" l10n="NEW">Paragrafoak</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="eu" level="3" l10n="NEW">Lerrokatzea</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="eu" l10n="NEW">Testuaren lerrokadura esplizitoa ez litzateke erabili beharko Wiki artikuluetan. Hala ere, testua ezkerrera, zentratuta eta eskuinera lerrokatzea onartuta dago.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="eu" level="3" l10n="NEW">Aurreformatua emandako testua</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="eu" l10n="NEW">Paragrafo-estilo bat (finkatutako letra-zabalerarekin) aurrez formatua emandako testuan eraldatzen da. Aurrez formatua emandako testua erakutsiko da Wiki-an, testuaren inguruan ertza agertuz.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="eu" level="2" l10n="NEW">Karaktere-estiloak</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="eu" l10n="NEW">Karaktere-estiloa paragrafo bateko zatien itxura aldatzen du. Eraldaketak onartutakoak honakoak dira: lodia, etzana, lodia/etzana, azpindizea eta goi-indizea. Finkatutako letra-zabalera guztiak Wiki-aren idazmakina estilora eraldatzen dira.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="eu" level="2" l10n="NEW">Oin-oharrak</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="eu" l10n="NEW">Oharra: eraldaketak &lt;ref&gt; eta &lt;references&gt; etiketak dituzten oin-oharren estilo berria erabiltzen du, eta MediaWiki-an Cite.php hedapena instalatuta egotea eskatzen du. Etiketa hauek testu soil gisa agertzen badira eraldaketaren emaitzean, eskatu Wiki-aren administratzaileari hedapen hau instalatzeko.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="eu" level="2" l10n="NEW">Irudiak</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="eu" l10n="NEW">Eraldaketa batek ezin ditu irudiak esportatu, eta ondorioz Wiki testuko fitxategi bat soilik sortuko du. Hala ere, irudia helburuko Wiki domeinura igo bada, (adib. WikiMedia Commons), gero eraldaketa baliozko irudiaren etiketa sortzen du (irudia barnean duela). Irudien epigrafeak ere onartuta daude.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="eu" level="2" l10n="NEW">Taulak</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="eu" l10n="NEW">Taula bakunak ongi onartuta daude. Taulako goiburukoak dagokien Wiki estiloko taulen goiburukoetara eraldatzen dira. Hala ere, taularen ertzen formatu pertsonalizatuak, zutabeen tamaina eta atzeko planoko koloreei ez ikusi egingo zaie.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="eu" level="3" l10n="NEW">Batutako gelaxkak</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="eu" l10n="NEW">OpenDocument-ek, eta bereziki OpenOffice.org-ek, batutako gelaxkak dituzten taulak habiaratutako taulak dituzten taulen gisa adierazten dituzte. Taularen wiki ereduak ordea batutako gelaxkak zabaldutako zutabe eta errenkadetan adierazten dituzte.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="eu" l10n="NEW">Errenkada berdineko zutabeak bakarrik batzen badira, eraldaketaren emaitza jatorriko dokumentuaren oso antzekoa izango da.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="eu" level="3" l10n="NEW">Ertzak</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="eu" l10n="NEW">Ertzen eta atzeko planoen pertsonalizatutako taulen estiloa kontutan hartu gabe, taula bat beti &quot;<emph>taulatxoa&quot;</emph> gisa esportatzen da, azken hau ertz bakunekin eta goiburuko lodiarekin errendatzen da Wiki motorean.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="eu" level="2" l10n="NEW">Karaktere-multzoa eta karaktere bereziak</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="eu" l10n="NEW">Eraldaketako emaitzaren karaktere-multzoa UTF-8 kodeketara finkatu da. Sistemaren arabera, baliteke hau karaktere-multzo lehenestia ez izatea. Hori dela eta, baliteke &quot;karaktere berezien&quot; itxura hondatuta egon balira bezala agertzea ezarpen lehenetsiekin bistaratzean. Hala ere, editorea UTF-8 kodeketara alda dezakezu hau zuzentzeko. Editoreak ez badu onartzen kodeketa aldatzea, eraldaketaren emaitzak Firefox arakatzailearekin bistara dezakezu, eta hor UTF-8 kodeketara aldatu. Orain, eraldaketaren emaitza ebaki eta itsatsi dezakezu gogokoen duzun programan.</paragraph>
+</body>
+</helpdocument>

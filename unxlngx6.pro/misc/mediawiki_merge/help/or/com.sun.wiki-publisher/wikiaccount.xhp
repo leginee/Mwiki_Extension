@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="or">ମାଧ୍ଯମ ୱିକି</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="or" level="1" l10n="NEW">ମାଧ୍ଯମ ୱିକି</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="or" l10n="NEW">ଆପଣଙ୍କର ମାଧ୍ଯମ ୱିକି ଖାତା ସଂରଚନାକୁ ଯୋଗ କରିବା କିମ୍ବା ସମ୍ପାଦନ କରିବା ପାଇଁ ମାଧ୍ଯମ ୱିକି ସଂଳାପକୁ ବ୍ୟବହାର କରନ୍ତୁ।</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="or" l10n="NEW"><ahelp hid="." visibility="hidden">http://ରୁ ଆରମ୍ଭ ହୋଇଥିବା, ମାଧ୍ଯମ ୱିକି ସର୍ଭରର URL ଭରଣ କରନ୍ତୁ</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="or" l10n="NEW"><ahelp hid="." visibility="hidden">ମେଡ଼ିଆ ୱିକି ସର୍ଭରରେ ଆପଣଙ୍କର ଚାଳକ ନାମକୁ ଭରଣ କରନ୍ତୁ। ଅଜଣା ଅଭିଗମ୍ୟତା ପାଇଁ ଖାଲି ରଖନ୍ତୁ।</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="or" l10n="NEW"><ahelp hid="." visibility="hidden">ମେଡ଼ିଆ ୱିକି ସର୍ଭରରେ ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତକୁ ଭରଣ କରନ୍ତୁ। ଅଜଣା ଅଭିଗମ୍ୟତା ପାଇଁ ଖାଲି ରଖନ୍ତୁ।</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="or" l10n="NEW"><ahelp hid="." visibility="hidden">ଅଧିବେଶନ ମଧ୍ଯରେ ଆପଣଙ୍କ ପ୍ରବେଶ ସଂକେତକୁ ରଖିବା ପାଇଁ ସକ୍ରିୟ କରନ୍ତୁ। ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ସକ୍ରିୟ କରାଯିବା ଉଚିତ, <item type="menuitem">Tools - Options - %PRODUCTNAME - Security </item>.</ahelp>କୁ ଦେଖନ୍ତୁ </paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="or" l10n="NEW">ଗୋଟିଏ ୱିକି ସର୍ଭରର ଇଣ୍ଟରନେଟ ଠିକଣାକୁ http://wiki.services.openoffice.org/wiki ଶୈଳୀରେ ଭରଣ କରନ୍ତୁ କିମ୍ବା ୱେବ ବ୍ରାଉଜରରୁ URLକୁ ନକଲ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="or" l10n="NEW">ଯଦି ୱିକି ଅଜଣା ଅଭିଗମ୍ୟତା ପ୍ରଦାନ କରୁଥାଏ, ତେବେ ଆପଣ ଖାତା ପାଠ୍ୟ ବାକ୍ସଗୁଡ଼ିକୁ ଖାଲି ଛାଡ଼ି ପାରିବେ। ଅନ୍ୟଥା ଆପଣଙ୍କର ଚାଳକ ନାମ ଏବଂ ପ୍ରବେଶ ସଂକେତ ଭରଣ କରନ୍ତୁ।</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="or" l10n="NEW">ଯଦି ଆପଣ Tools - Options - %PRODUCTNAME ସଂଳାପ ପୃଷ୍ଠାର ସୁରକ୍ଷା ଟ୍ୟାବରେ ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ସକ୍ରିୟ କରିଛନ୍ତି, ତେବେ ସଫ୍ଟୱେର ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତକୁ ସଂରକ୍ଷଣ କରିବ ଏବଂ ଆବଶ୍ୟକତା ଅନୁସାରେ ସ୍ୱୟଂଚାଳିତ ଭବାରେ ତଥ୍ୟ ଭରଣ କରିବ। ଆପଣହ୍କ ପ୍ରବେଶ ସଂକେତକୁ ସଂରକ୍ଷଣ କରିବା ପାଇଁ &quot;Save password&quot; ଚେକବାକ୍ସକୁ ସକ୍ରିୟ କରନ୍ତୁ।</paragraph>
+</body>
+</helpdocument>

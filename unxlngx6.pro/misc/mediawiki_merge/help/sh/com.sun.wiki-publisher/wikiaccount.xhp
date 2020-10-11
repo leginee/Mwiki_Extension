@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sh">Medija Viki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="sh" level="1" l10n="NEW">Medija Viki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="sh" l10n="NEW">Koristite Medija Viki prozorče za dodavanje i uređivanje svog Medija Viki naloga.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="sh" l10n="NEW"><ahelp hid="." visibility="hidden">Unesite adresu Medija Viki servera koja počinje sa http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="sh" l10n="NEW"><ahelp hid="." visibility="hidden">Unesite korisničko ime za Medija Viki server. Ostavite prazno za anoniman pristup.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="sh" l10n="NEW"><ahelp hid="." visibility="hidden">Unesite lozinku za Medija Viki server. Ostavite prazno za anoniman pristup.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="sh" l10n="NEW"><ahelp hid="." visibility="hidden">Omogućite da biste sačuvali lozinku između sesija. Najpre morate uneti glavnu lozinku, pogledajte <item type="menuitem">Alatke - Podešavanja - %PRODUCTNAME - Sigurnost</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="sh" l10n="NEW">Unesite Internet adresu Viki servera u formatu kao što je http://wiki.services.openoffice.org/wiki ili kopirajte adresu iz veb preglednika.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="sh" l10n="NEW">Ukoliko Viki dozvoljava anoniman pristup, možete ostaviti prazne podatke o nalogu. U suprotnom, unesite svoje korisničko ime i lozinku.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="sh" l10n="NEW">Ukoliko je glavna lozinka uključena u prozorčetu „Alatke - Podešavanja - %PRODUCTNAME - Sigurnost“, program može sačuvati vašu lozinku i sam je uneti gde je potrebno. Uključite „Sačuvaj lozinku“ za pamćenje vaše lozinke.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mr">MediaWiki कडे पाठवा</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="mr" level="1" l10n="NEW">MediaWiki कडे पाठवा</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="mr" l10n="NEW">मिडीया विकी संवादाकडे पाठवण्याच्या मध्ये, आपल्या चालू विकी अपलोडसाठी नियंत्रणे निर्देशित करा.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="mr" l10n="NEW"><ahelp hid=".">दस्तऐवज प्रकाशीत करण्याजोगी MediaWiki सर्वर निवडा. यादीत नविन सर्वर जोडायचे असल्यास जोडावर क्लिक करा.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="mr" l10n="NEW"><ahelp hid=".">Wiki नोंदणीचे शिर्षक प्रविष्ट करा. हे Wiki नोंदणीचे उच्च शिर्षक आहे. नविन नोंदणी करीता, Wiki वरील शिर्षक एकमेव असायला हवे. अस्तित्वातील शिर्षक प्रविष्ट केल्यास, अपलोड वर्तमान Wiki नोंदणीला खोडून पुन्हा लिहीतो.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="mr" l10n="NEW"><ahelp hid=".">एक वैक्लपीक लहानसे सारांश किंवा टिपण्णी प्रविष्ट करा.</ahelp> <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link> पहा.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="mr" l10n="NEW"><emph>हे किर्कोळ संपादन आहे</emph>: <ahelp hid=".">अपलोड केलेल्या पानास आधिपासूनच अस्तित्वातील समान शिर्षक असलेले पानाशी किर्कोळ संपादन नुरूप चिन्हाकृत करण्याकरीता हा पर्याय निवडा.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="mr" l10n="NEW"><emph>वेब ब्राऊजर अंतर्गत दर्शवा</emph>: <ahelp hid=".">प्रणाली वेब ब्राऊजर उगडण्याकरीता व अपलोड केलेले Wiki पान दर्शविण्याकरीता या पर्याय निवडा.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

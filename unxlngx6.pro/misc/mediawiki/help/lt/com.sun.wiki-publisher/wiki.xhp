@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="lt">„Wiki Publisher“</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="lt" branch="index" id="bm_id3154408"><bookmark_value>Vikis;„Wiki Publisher“</bookmark_value><bookmark_value>„Wiki Publisher“</bookmark_value><bookmark_value>plėtiniai;„MediaWiki“</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="lt" level="1" l10n="NEW">„Wiki Publisher“</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="lt" l10n="NEW"><ahelp hid=".">Naudodami „Wiki Publisher“, galėsite įkelti esamą rašinį į „MediaWiki“ tarnybinę stotį. Įkeltą dokumentą galės skaityti visi vikio naudotojai.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="lt" l10n="NEW"><ahelp hid=".">Esamą rašinį į „MediaWiki“ tarnybinę stotį galite įkelti, atvėrę langą <item type="menuitem">„Byla &gt; Siųsti &gt; į „MediaWiki“</item> .</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="lt" level="2" l10n="NEW">Reikalavimai sistemai</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="lt" l10n="NEW">„StarOffice“ arba „StarSuite 9“</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="lt" l10n="NEW">„OpenOffice.org 3.0“</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="lt" l10n="NEW">Javos vykdymo terpė 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="lt" l10n="NEW">Vikio paskyra numatytoje <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> tarnybinėje stotyje</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="lt" level="2" l10n="NEW">Diegiamas „Wiki Publisher“</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="lt" l10n="NEW">Prieš diegdami „Wiki Publisher“, pasirūpinkite, kad programa „%PRODUCTNAME“ naudotų javos vykdymo terpę (JRE). JRE būseną patikrinsite, atvėrę langą <item type="menuitem">„Priemonės &gt; Nuostatos &gt; „%PRODUCTNAME“ &gt; Java</item>. Lange turi būti pažymėta nuostata „Naudoti javos vykdymo terpę“, o didžiajame sąrašo langelyje turi būti pasirinktas javos vykdymo aplankas. Jei JRE neįjungta, įjunkite JRE 1.4 arba naujesnę laidą ir paleiskite iš naujo „%PRODUCTNAME“.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="lt" level="3" l10n="NEW">Norėdami diegti „Wiki Publisher“,</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="lt" l10n="NEW">rašyklės lange rinkitės <item type="menuitem">„Priemonės &gt; Plėtinių tvarkytuvė“</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="lt" l10n="NEW">Plėtinių tvarkytuvės dialogo metu spustelėkite „Pridėti“.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="lt" l10n="NEW">Nurodykite bylos „wiki-publisher.oxt“ vietą, spustelėkite „Atversti“, o po to „Užversti“. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="lt" l10n="NEW">Stabdykite programą „%PRODUCTNAME“ ir jos sparčiąją paleistį, jei ši yra įjungta.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="lt" l10n="NEW">Paleidę iš naujo programą, atsivertę rašinį ir atvėrę langą <item type="menuitem">„Priemonės &gt; Nuostatos &gt; Internetas &gt; „MediaWiki““</item>, įveskite vikio nuostatas. Žr. toliau „Kaip jungtis prie vikio“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="lt" level="3" l10n="NEW">Norėdami šalinti „Wiki Publisher“,</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="lt" l10n="NEW">rašyklės lange rinkitės <item type="menuitem">„Priemonės &gt; Plėtinių tvarkytuvė“</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="lt" l10n="NEW">Spustelėkite priešais „Naudotojo plėtinius“ esantį pliuso (+) ženklą.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="lt" l10n="NEW">Rinkitės plėtinį, spustelėkite „Šalinti“, o tada – „Užversti“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="lt" level="2" l10n="NEW">Norėdami jungtis prie vikio,</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="lt" l10n="NEW">Įsidėmėtina, kad programoje „%PRODUCTNAME“ galima saugoti visų susijusių dialogų naudotojo vardą ir slaptažodį. Slaptažodis saugomas saugiai, kreiptį valdant bendruoju slaptažodžiu. Bendrasis slaptažodis įjungiamas, atvėrus langą <item type="menuitem">„Priemonės &gt; Nuostatos &gt; „%PRODUCTNAME“ &gt; Saugumas</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="lt" l10n="NEW">Įsidėmėtina, kad jungiantis prie tinklo per įgaliotąją tarnybinę stotį, lange <item type="menuitem">„Priemonės &gt; Nuostatos &gt; Internetas &gt; Įgaliotoji tarnybinė stotis“</item> įvedus įgaliotosios tarnybinės stoties informaciją, būtina perleisti programinę įrangą.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="lt" l10n="NEW">atsiverskite rašinį ir rinkitės <item type="menuitem">„Priemones &gt; Nuostatas &gt; Internetą &gt; „MediaWiki““</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="lt" l10n="NEW">Dialoge <link href="com.sun.wiki-publisher/wikisettings.xhp">Nuostatos</link>, spustelėkite „Pridėti“.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="lt" l10n="NEW">Dialoge <link href="com.sun.wiki-publisher/wikiaccount.xhp">„MediaWiki“</link>, įveskite vikio paskyros informaciją.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="lt" l10n="NEW">URL teksto langelyje įveskite vikio adresą, kuriuo norite jungtis.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="lt" l10n="NEW">URL adresą į teksto langelį galite įklijuoti, nukopijavę iš tinklo naršyklės.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="lt" l10n="NEW">Naudotojo vardo langelyje įveskite vikio paskyros naudotojo atpažiniklį (ID).</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="lt" l10n="NEW">Jei vikis jums suteikęs anoniminio rašymo teises, naudotojo ir slaptažodžio langelius galite palikti tuščius.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="lt" l10n="NEW">Slaptažodžio langelyje įvedę vikio paskyros slaptažodį, spustelėkite „Vykdyti“.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="lt" l10n="NEW">Įjungę pasirenkamą tarnybą „Saugoti slaptažodį“, slaptažodį saugosite tarp seansų. Kreipimuisi į visus saugomus slaptažodžius naudojamas bendrasis slaptažodis. Slaptažodį įjungsite, pasirinkę <item type="menuitem">Priemones &gt; Nuostatas &gt; „%PRODUCTNAME“ &gt; Saugumą“</item>. Neįjungus bendrojo slaptažodžio, tarnyba „Saugoti slaptažodį“ neveikia.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="lt" level="2" l10n="NEW">Norėdami kurti naują vikio puslapį,</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="lt" l10n="NEW">atsiverskite rašinį.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="lt" l10n="NEW">Surašykite vikio puslapio turinį. Formuodami tekstą, galite naudoti teksto formatus, antraštes, puslapines išnašas ir pan. Žr. <link href="com.sun.wiki-publisher/wikiformats.xhp">numatytų formatų sąrašą</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="lt" l10n="NEW">Rinkitės <item type="menuitem">„Byla &gt; Siųsti &gt; į „MediaWiki““</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="lt" l10n="NEW">Dialoge <link href="com.sun.wiki-publisher/wikisend.xhp">Siųsti į „MediaWiki“</link>, nurodykite savo įrašo nuostatas.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="lt" l10n="NEW"><emph>„MediaWiki“ tarnybinė stotis</emph>: rinkitės vikį.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="lt" l10n="NEW"><emph>Antraštė</emph>: įveskite puslapio antraštę. Įvedę esamo puslapio antraštę, puslapį keisite esamu rašiniu. Įvedę naują antraštę, kursite naują vikio puslapį.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="lt" l10n="NEW"><emph>Santrauka</emph>: įveskite pasirenkamą glaustą puslapio santrauką.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="lt" l10n="NEW"><emph>Nedidelė pataisa</emph>: pažymėję šį langelį, paženklinsite, kad įkeltas puslapis sudaro nedidelę jau esamo puslapio su antrašte pataisą.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="lt" l10n="NEW"><emph>Rodyti tinklo naršyklėje</emph>: pažymėję šį langelį, paleisite sistemos tinklo naršyklę įkeltajam vikio puslapiui rodyti.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="lt" l10n="NEW">Spustelėkite „Siųsti“.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

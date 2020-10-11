@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hi">मीडियाविकि प्रारूप</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="hi" level="1" l10n="NEW">मीडियाविकि प्रारूप</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="hi" l10n="NEW">यदि निम्नलिखित सूची पाठ प्रारूप का सार देता है जो @WIKIEXTENSIONPRODUCTNAME@ विकी सर्वर में अभिभारित कर सकता है।</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="hi" l10n="NEW">राइटर के द्वारा प्रयुक्त OpenDocument प्रारूप और विकीमीडिया प्रारूप पूरी तरह से भिन्न है। सभी फीचर का उपसमुच्चय को किसी एक प्रारूप से दूसरे में रूपांतरित किया जा सकता है।</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="hi" level="2" l10n="NEW">शीर्षक</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="hi" l10n="NEW">अपने राइटर दस्तावेज़ में शीर्षक अनुच्छेद शैली लागू करें। विकी समान खाका स्तर के शीर्षक शैली को दिखाएगा, जैसा कि विकी इंजन द्वारा परिभाषित रूप में प्रारूपित है।</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="hi" level="2" l10n="NEW">हाइपरलिंक</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="hi" l10n="NEW">नेटिव ओपनडाक्यूमेंट हाइपरलिंक को &quot;बाहरी&quot; विकी कड़ी में रूपांतरित किया जाता है। इसलिए, ओपनडाक्यूमेंट की अंतर्निमित लिंकिंग सुविधा को कड़ी बनाने के लिए बनाया जाना चाहिए जो विकी वेब के बाहर दूसरे किनारे इंगित करता है। विकी लिंक को बनाने के लिए जो समान विकी डोमेन के दूसरे विषयों को इंगित करता है, विकी कड़ी का प्रयोग करें।</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="hi" level="2" l10n="NEW">सूची</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="hi" l10n="NEW">सूची को विश्वसनीय रूप से निर्यात किया जा सकता है जब पूरी सूची समरूप सूची शैली का प्रयोग करता है। क्रमांकण या बुलेट प्रतीक का प्रयोग राइटर में सूची बनाने के लिए करें। यदि आपको बिना क्रमांकण या बुलेट के सूची चाहिए, प्रारूप - बुलेट और क्रमांकण का प्रयोग संबंधित सूची शैली को लागू करने के लिए करें।</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="hi" level="2" l10n="NEW">अनुच्छेद</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="hi" level="3" l10n="NEW">संरेखण</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="hi" l10n="NEW">विशेष पाठ संरेखण को विकी आलेखों में प्रयोग किया जाता है। हालांकि, पाठ संरेखण को बायाँ, केंद्र, और दाहिना संरेखण के लिए करें।</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="hi" level="3" l10n="NEW">पूर्व प्रारूपित पाठ</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="hi" l10n="NEW">स्थिर चौड़ाई मुद्रलिपि के साथ एक अनुच्छेद शैली को किसी पूर्व प्रारूपित पाठ के रूप में बदला जाता है। पूर्व प्रारूपित पाठ को विकी पर पाठ के गिर्द विकी पर दिखाया जाता है।</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="hi" level="2" l10n="NEW">वर्ण शैली</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="hi" l10n="NEW">वर्ण शैली किसी अनुच्छेद के हिस्से के प्रकटन को रूपांतरित करता है। रूपांतरण गहरा, तिरछा, गहरा/तिरछा, अधोलिपि और उर्ध्वलिपि का समर्थन करता है। सभी स्थिर चौड़ाई मुद्रलिपि को विकी टाइपराइटर शैली में बदला जाता है।</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="hi" level="2" l10n="NEW">पादटीका</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="hi" l10n="NEW">नोट: रूपांतरण &lt;ref&gt; and &lt;references&gt; टैग के साथ पादटीका के साथ नई शैली का प्रयोग करता है जो Cite.php विस्तार की जरूरत होती है जिसे मीडिया विकी में संस्थापित किया जाना है। यदि वे टैग रूपांतरण परिणाम में किसी सादे पाठ के रूप में आते हैं, विकी प्रशासक को इस विस्तार को संस्थापित करने के लिए पूछें।</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="hi" level="2" l10n="NEW">चित्र</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="hi" l10n="NEW">विकी पाठ के एकल फ़ाइल को उत्पन्न करके चित्र को रूपांतरण के द्वारा निर्यात नहीं किया जा सकता है। हालांकि, यदि चित्र लक्षित विकी डोमेन में पहले से अभिभारित किया हुआ है (उदाहरण. विकीमीडिया कॉमन्स), तब रूपांतरण एक वैध चित्र टैग देता है जो कि चित्र को शामिल करता है। चित्र अनुशीर्षक साथ ही समर्थित है।</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="hi" level="2" l10n="NEW">सारणी</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="hi" l10n="NEW">सरल सारणी अच्छी तरीके से समर्थित है। सारणी शीर्षिका को संबंधित विकी शैली सारणी शीर्षिका में बदला जाता है। हालांकि, सारणी किनारे, कालम आकार और पृष्ठभूमि रंग का मनपसंद प्रारूपण अनदेखा किया जाता है।</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="hi" level="3" l10n="NEW">जुड़ा कोष्ठ</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="hi" l10n="NEW">ओपनडॉक्यूमेंट और विशेष रूप से OpenOffice.org वैसे सारणियों का प्रतिनिधित्व करता है जो नेस्टेड सारणियों के साथ टेबल के रूप में पंक्तियों कि कोष्ठों शामिल हो जाते हैं। इसके विपरीत, सारणी के विकि मॉडल इस तरह शामिल हो गए कोष्ठों के लिए स्तंभ और पंक्ति फैला घोषित करने के लिए है। </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="hi" l10n="NEW">यदि समान पंक्ति का सिर्फ स्तंभ जोड़ा गया है, रूपांतरण का परिणाम स्रोत दस्तावेज़ से बहुत अधिक समान है।</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="hi" level="3" l10n="NEW">किनारा</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="hi" l10n="NEW">किनारे व पृष्ठभूमि के मनपसंद सारणी शैली से अलग, सारणी को हमेशा &quot;<emph>prettytable&quot;</emph> के रूप में निर्यात किया जाता है, जो कि विकी इंजन में सरल किनारा और गहरा शीर्षिका के साथ रेंडर करता है।</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="hi" level="2" l10n="NEW">चारसेट व विशेष वर्ण</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="hi" l10n="NEW">रूपांतरण परिणाम का चारसेट UTF-8 में स्थिर है। अपने तंत्र पर निर्भर करते हुए, यह तयशुदा चारसेट नहीं हो सकता है। यह &quot;विशेष वर्ण&quot; के टूटे दिखने का कारण हो सकता है जब तयशुदा विन्यास के साथ देखा जाता है। हालांकि, आप अपने संपादक को UTF-8 ऐन्कोडिंग में इसे फिक्स करने के लिए बदल सकते हैं। यदि आपका संपादक कूट लेखन का समर्थन नहीं करता है, आप फायरफॉक्स ब्राउजर में रूपांतरण का परिणाम दिखा सकते हैं और वहाँ कूट लेखन UTF-8 में बदल सकते हैं। अब, आप अपनी पसंद के रूपांतरण परिणाम को काट और चिपका सकते हैं।</paragraph>
+</body>
+</helpdocument>

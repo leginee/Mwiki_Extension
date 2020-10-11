@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="uk">Формати MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="uk" level="1" l10n="NEW">Формати MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="uk" l10n="NEW">Цей список дає загальне представлення про текстові формати, які можна завантажувати на сервер Wiki, користуючись @WIKIEXTENSIONPRODUCTNAME@.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="uk" l10n="NEW">Формат OpenDocument, що використовується у Writer та формат WikiMedia відрізняються. Не всі можливості можна перевести з одного формату у інший.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="uk" level="2" l10n="NEW">Заголовки</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="uk" l10n="NEW">Застосуйте стиль заголовка до заголовку текстового документа Writer. Wiki буде відображати стилі заголовків відповідного рівня, форматовані у відповідності до правилам Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="uk" level="2" l10n="NEW">Гіперпосилання</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="uk" l10n="NEW">Гіперпосилання OpenDocument перетворюються на &quot;зовнішні&quot; посилання у Wiki. Тож, вбудовані функції створення посилань OpenDocument слід використовувати лише для створення посилань на інші сайти у мережі Wiki. Для створення Wiki-посилань, що вказують на інші теми у тому ж домені Wiki, користуйтесь Wiki-посиланнями.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="uk" level="2" l10n="NEW">Списки</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="uk" l10n="NEW">Списки надійно експортуються коли весь список складено з використанням одного стилю списків. Для створення списків у Writer користуйтесь значками нумерованого та маркірованого списків. Якщо треба створити список без нумерації чи маркерів, для вибору та застосування відповідного стилю списку виберіть Формат - Маркери та нумерація.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="uk" level="2" l10n="NEW">Абзаци</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="uk" level="3" l10n="NEW">Вирівнювання</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="uk" l10n="NEW">У статтях Wiki не слід використовувати явно вказане вирівнювання тексту. Проте, підтримується вирівнювання тексту ліворуч, у центрі та праворуч.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="uk" level="3" l10n="NEW">Форматований текст</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="uk" l10n="NEW">Стиль абзацу з моноширинним шрифтом перетворюється на форматований текст. Форматований текст відображається у Wiki з рамкою навколо тексту.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="uk" level="2" l10n="NEW">Стилі символу</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="uk" l10n="NEW">Стилі символу змінюють зовнішній вигляд частин абзацу. Підтримується перетворення для жирного, курсиву, жирного/курсиву, верхнього індексу та нижнього індексу. Усі шрифти з сталою шириною перетворюються на машинописний стиль Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="uk" level="2" l10n="NEW">Виноски</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="uk" l10n="NEW">Примітка: При перетворенні використовується новий стиль виносок з тегами &lt;ref&gt; та &lt;references&gt;, що потребує встановлення розширення Cite.php на сайт MediaWiki. Якщо після перетворення ці теги зустрічаються у звичайному тексті, попросіть адміністратора Wiki становити це розширення.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="uk" level="2" l10n="NEW">Зображення</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="uk" l10n="NEW">Зображення неможливо експортувати шляхом перетворення з виводом результату у єдиний файл Wiki-тексту. Проте, якщо зображення вже завантажене у цільовий Wiki-домен (наприклад WikiMedia Commons), тоді при перетворенні створюється коректний тег включення зображення. Також підтримуються підписи до зображень.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="uk" level="2" l10n="NEW">Таблиці</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="uk" l10n="NEW">Прості таблиці добре підтримуються. Заголовки таблиць перетворюються на відповідні заголовки таблиці у Wiki-стилі. Проте, індивідуальне форматування рамок таблиці, розмірів стовпчиків та кольору тла ігнорується.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="uk" level="3" l10n="NEW">Об'єднані комірки'</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="uk" l10n="NEW">OpenDocument та OpenOffice.org представляє таблиці, які містять об'єднані комірки у вигляді таблиць з вкладеними таблицями. Натомість, вікі-модель таблиці декларує об'єднані рядки та стовпчики як об'єднані комірки. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="uk" l10n="NEW">При об'єднанні стовпчиків з одного рядка, результат перетворення дуже схожий на первинний документ.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="uk" level="3" l10n="NEW">Обрамлення</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="uk" l10n="NEW">Незалежно від власних стилів таблиці для рамки та тла, таблиця завжди експортується як &quot;<emph>prettytable&quot;</emph>, і відображається Wiki сайтом з простими рамками та жирним заголовком.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="uk" level="2" l10n="NEW">Кодування та особливі символи</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="uk" l10n="NEW">Кодування результату перетворення завжди UTF-8. Залежно від вашої системи, це може відрізнятись від типового кодування системи. Це може призвести до того, що &quot;спеціальні символи&quot; виглядатимуть зіпсованими при перегляді з типовим кодуванням. Проте, для виправлення цієї ситуації можна перемикнути редактор у кодування UTF-8. Якщо редактор не підтримує це кодування, результат перетворення можна переглянути у веб-навігаторі Firefox та вибрати у ньому кодування UTF-8. Тепер, ви можете вирізати та вставити результат перетворення у обрану вами програму.</paragraph>
+</body>
+</helpdocument>

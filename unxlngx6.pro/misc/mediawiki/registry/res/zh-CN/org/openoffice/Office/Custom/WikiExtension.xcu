@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="zh-CN">无法成功完成“发送至 MediaWiki”操作。</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="zh-CN">找不到 MediaWiki 输出筛选器。请选择“工具 - XML 筛选器设置”来安装筛选器，或使用安装程序来安装此组件。</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="zh-CN">无法创建与 '$ARG1' 上的 MediaWiki 系统的连接。</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="zh-CN">用户名或密码不正确。请重试，或者将这些字段保留为空，以便进行匿名连接。</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="zh-CN">无法创建连接，因为 URL 无效。</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="zh-CN">通过提供 URL 来指定 MediaWiki 服务器。</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="zh-CN">传输已中断。请检查 Wiki 文章的完整性。</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="zh-CN">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="zh-CN">用户名(~U)</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="zh-CN">密码(~P)</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="zh-CN">发送至 MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="zh-CN">Wiki 文章</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="zh-CN">否</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="zh-CN">确定</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="zh-CN">是</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="zh-CN">添加(~A)...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="zh-CN">编辑(~E)...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="zh-CN">发送(~S)</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="zh-CN">删除(~R)</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="zh-CN">尚无标题为 '$ARG1' 的 Wiki 文章。是否要以该标题创建新的文章？</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="zh-CN">MediaWiki 服务器(~W)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="zh-CN">标题(~T)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="zh-CN">摘要(~U)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="zh-CN">这是次要编辑(~M)</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="zh-CN">在 Web 浏览器中显示(~B)</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="zh-CN">选定站点的证书未知。</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="zh-CN">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="zh-CN">帐户</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="zh-CN">MediaWiki 服务器</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="zh-CN">保存密码(~S)</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="zh-CN">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="zh-CN">已经退出标题为 '$ARG1'  的 Wiki 文章。&amp;#13;&amp;#13; 您想用你的文章覆盖现有的文章吗？&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sh">Medija Viki formati</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sh" level="1" l10n="NEW">Medija Viki formati</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sh" l10n="NEW">Oblikovanja teksta koje @WIKIEXTENSIONPRODUCTNAME@ može da otpremi na Viki server su navedena u sledećem spisku.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sh" l10n="NEW">Viki Medija format i otvoreni dokument-format koje koristi Pisac su prilično različiti. Samo deo opcija može biti preveden iz jednog formata u drugi.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sh" level="2" l10n="NEW">Zaglavlja</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sh" l10n="NEW">Primenite stil pasusa za zaglavlje u zaglavlju Piščevog dokumenta. Viki će prikazati stil zaglavlja istog nivoa, onako kako je podešeno u Vikiju.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sh" level="2" l10n="NEW">Hiperveze</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sh" l10n="NEW">Izvorne veze u otvorenom dokument-formatu (ODF) se prevode u „spoljne“ veze na vikiju. Zbog toga koristite veze u ODF-u samo za veze koje vode do stranica van vikija. Za izradu viki veza koje vode na druge članke unutar istog viki domena, koristite viki veze.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sh" level="2" l10n="NEW">Liste</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sh" l10n="NEW">Liste mogu biti pravilno izvezene kada cela lista koristi dosledan stil. Koristite ikonicu za nabrajanje i numerisanje u Piscu za izradu spiska ili liste. Ukoliko vam je potrebna lista bez nabrajanja, koristite „Format - Numerisanje i nabrajanje“ kako biste izabrali željeni stil.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sh" level="2" l10n="NEW">Pasusi</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sh" level="3" l10n="NEW">Poravnanje</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sh" l10n="NEW">Zadato poravnanje teksta nije poželjno u Viki člancima. Ipak, levo, centrirano i desno poravnanje teksta je podržano.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sh" level="3" l10n="NEW">Preformatirani tekst</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sh" l10n="NEW">Stil pasusa sa zadatom širinom fonta se prevodi u preformatirani tekst. Preformatirani tekst se prikazuje na Vikiju sa ivicom oko teksta.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sh" level="2" l10n="NEW">Stil znakova</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sh" l10n="NEW">Stil znakova menja izgled delova pasusa. Podržan je podebljan tekst, kurziv, podebljani kurziv, tekst u eksponentu i tekst u indeksu. Sve zadate širine fontova se prevode u Viki stil.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sh" level="2" l10n="NEW">Fusnote</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sh" l10n="NEW">Primedba: Prevođenje koristi novi stil fusnota sa oznakama &lt;ref&gt; i &lt;references&gt; koje zahtevaju da  na Medija Viki bude instalirano proširenje Cite.php. Ukoliko se ove oznake pojave kao običan tekst u prevedenom rezultatu, zahtevajte od administratora Viki stranice da instalira proširenje.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sh" level="2" l10n="NEW">Slike</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sh" l10n="NEW">Slike se ne mogu izvesti transformacijom u datoteku Viki teksta. Međutim, ukoliko je slika već otpremljena na ciljni Viki domen (npr. WikiMedia Commons) biće napravljena ispravna oznaka za uključivanje slike. Naslovi slika su takođe podržani.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sh" level="2" l10n="NEW">Tabele</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sh" l10n="NEW">Jednostavne tabele su dobro podržane. Zaglavlja tabele se prevode u odgovarajući Viki stil zaglavlja. Međutim, proizvoljno formatirane ivice tabela, veličina kolona i boja pozadine će biti zanemarene.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sh" level="3" l10n="NEW">Spojene ćelije</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sh" l10n="NEW">Otvoreni dokument format (ODF), a pre svega OpenOffice.org, predstavlja tabele sa spojenim ćelijama kao tabele sa ugneždenim tabelama. S druge strane, Viki definiše spajanje kolona i redova za takve ćelije.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sh" l10n="NEW">Ukoliko su spojene samo kolone istog reda, rezultat prevođenja će biti sličan izvornom dokumentu.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sh" level="3" l10n="NEW">Ivice</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sh" l10n="NEW">Zanemarujući prilagođene stilove tabele za granice i pozadinu tabele, ona se uvek izvozi kao „<emph>lepa tabela</emph>“, što se u Vikiju prikazuje kao tabela sa jednostavnim ivicama i podebljanim zaglavljem.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sh" level="2" l10n="NEW">Kodiranje i posebni znaci</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sh" l10n="NEW">Znaci prevedenog rezultata su zadati kao UTF-8. U zavisnosti od vašeg sistema, ovo ne mora biti podrazumevano kodiranje, pa „posebni znaci“ mogu izgledati drugačije. U uređivaču teksta možete prebaciti kodiranje na UTF-8. Ukoliko uređivač ne podržava promenu kodiranja, možete otvoriti rezultat transformacije u Fajerfoks pregledniku i odatle prebaciti kodiranje na UTF-8. Tada u željeni program možete ubaciti rezultat transformacije.</paragraph>
+</body>
+</helpdocument>

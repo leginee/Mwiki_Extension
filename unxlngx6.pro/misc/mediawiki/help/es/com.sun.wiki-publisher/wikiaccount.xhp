@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="es">MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="es" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="es" l10n="NEW">Utilizar el dialogo de MediaWiki para agregar o editar la configuración de su cuenta en MediaWiki.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Introducir el URL de un servidor MediaWiki, empezando con http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Introducir el nombre de usuario en el servidor MediaWiki. Dejarlo vacío para acceso anónimo.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Entrar su clave en el servidor de MediaWiki. Dejarlo vacío para acceso anónimo.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Habilitar para guardar la clave entre sesiones. La clave maestra tiene que estar habilitada, vea <item type="menuitem">Herramientas - Opciones - %PRODUCTNAME - Seguridad</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="es" l10n="NEW">Entra la dirección de Internet de un servidor Wiki en un formato como, http://wiki.services.openoffice.org/wiki o copiar un URL desde un navegador de Internet.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="es" l10n="NEW">Si el Wiki permite acceso anónimo, puede dejar vacías las casillas de texto de la cuenta. En caso contrario ingrese su nombre de usuario y su clave.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="es" l10n="NEW">Si esta habilitado la característica de la clave maestra, en el diálogo de la ficha de Seguridad en Herramientas &gt; Opciones &gt; %PRODUCTNAME, entonces, el software puede guardar el clave y insertarlo automáticamente cuando sea requerida. Habilitar la casilla &quot;Guardar clave&quot; para guardar el clave.</paragraph>
+</body>
+</helpdocument>

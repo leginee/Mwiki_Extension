@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ca-XV">Formats MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ca-XV" level="1" l10n="NEW">Formats MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ca-XV" l10n="NEW">La llista següent proporciona una visió general dels formats de text que l'extensió @WIKIEXTENSIONPRODUCTNAME@ pot pujar al servidor Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ca-XV" l10n="NEW">El format OpenDocument que utilitza el Writer i el format WikiMedia són força diferents. Només un subconjunt de característiques es pot transformar d'un format a l'altre.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ca-XV" level="2" l10n="NEW">Encapçalaments</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ca-XV" l10n="NEW">Apliqueu un estil de paràgraf d'encapçalament als encapçalaments del document del Writer. La Wiki mostrarà els estils d'encapçalament del mateix nivell d'esquema, formatats segons definisca el motor Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ca-XV" level="2" l10n="NEW">Enllaços</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ca-XV" l10n="NEW">Els enllaços natius de l'OpenDocument es transformen en enllaços Wiki &quot;externs&quot;. Per tant, les característiques d'enllaçat pròpies de l'OpenDocument només s'haurien de fer servir per crear enllaços a altres llocs fora de la Wiki. Per crear enllaços Wiki que apuntin a altres temes del mateix domini Wiki, utilitzeu enllaços Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ca-XV" level="2" l10n="NEW">Llistes</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ca-XV" l10n="NEW">Les llistes es poden exportar fidelment si tota la llista utilitza un estil de llista consistent. Utilitzeu la icona Numeració o Pics per generar una llista al Writer. Si necessiteu una llista sense numeració ni pics, utilitzeu Format - Pics i numeració per definir i aplicar l'estil de llista corresponent.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ca-XV" level="2" l10n="NEW">Paràgrafs</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ca-XV" level="3" l10n="NEW">Alineació</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ca-XV" l10n="NEW">L'alineació explícita del text no s'ha d'utilitzar en els articles Wiki. Tot i així, es pot fer servir l'alineació de text a l'esquerra, centrada o a la dreta.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ca-XV" level="3" l10n="NEW">Text preformatat</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ca-XV" l10n="NEW">Un estil de paràgraf amb un tipus de lletra d'amplada fixa es transforma en text preformatat. A la Wiki, el text preformatat es mostra amb una vora al voltant del text.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ca-XV" level="2" l10n="NEW">Estils de caràcter</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ca-XV" l10n="NEW">Els estils de caràcter modifiquen l'aparença de parts d'un paràgraf. La transformació permet l'ús de negreta, cursiva, negreta i cursiva a la vegada, subíndex i superíndex. Tots els tipus de lletra d'amplada fixa es transformen en l'estil mecanografiat de la Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ca-XV" level="2" l10n="NEW">Notes al peu</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ca-XV" l10n="NEW">Nota: La transformació utilitza el nou estil de notes al peu amb les etiquetes &lt;ref&gt; i &lt;references&gt;, que necessiten que l'extensió Cite.php estiga instal·lada a la MediaWiki. Si estes etiquetes apareixen com a text en el resultat de la transformació, demaneu a l'administrador de la Wiki que instal·le esta extensió.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ca-XV" level="2" l10n="NEW">Imatges</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ca-XV" l10n="NEW">Les imatges no es poden exportar amb una transformació de manera que el resultat siga un únic fitxer de text Wiki. Malgrat això, si la imatge ja ha estat pujada al domini Wiki de destinació (p. ex. WikiMedia Commons), la transformació produeix una etiqueta d'imatge vàlida que inclou la imatge. També es poden utilitzar textos al peu.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ca-XV" level="2" l10n="NEW">Taules</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ca-XV" l10n="NEW">Les taules senzilles es transformen correctament. Les capçaleres de taula es tradueixen a les corresponents capçaleres de taula d'estil Wiki. En canvi, s'ignoren el format personalitzat de les vores de la taula, la mida de les columnes i els colors de fons.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ca-XV" level="3" l10n="NEW">Cel·les fusionades</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ca-XV" l10n="NEW">L'OpenDocument, i especialment l'OpenOffice.org, representen les taules amb cel·les fusionades que ocupen files senceres com a taules amb taules imbricades. En canvi, el model wiki de taula declara extensions de columna i de fila per a cel·les fusionades d'este estil.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ca-XV" l10n="NEW">Si només es fusionen columnes de la mateixa fila, el resultat de la transformació és molt paregut al document original.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ca-XV" level="3" l10n="NEW">Vores</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ca-XV" l10n="NEW">Independentment dels estils personalitzats per a vora i fons, una taula sempre s'exporta com a estil Wiki <emph>&quot;prettytable&quot;</emph>, que es representa en el motor Wiki amb vores simples i capçalera en negreta.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ca-XV" level="2" l10n="NEW">Joc de caràcters i caràcters especials</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ca-XV" l10n="NEW">El joc de caràcters del resultat de la transformació està fixat a UTF-8. Segons el sistema, pot ser que este no siga el joc de caràcters per defecte. Això podria provocar que certs &quot;caràcters especials&quot; es mostren incorrectament en visualitzar-los amb la configuració per defecte. Malgrat això, podeu canviar la codificació de l'editor a UTF-8 per solucionar-ho. Si l'editor no permet canviar la codificació, podeu mostrar el resultat de la transformació en el navegador Firefox i canviar la codificació a UTF-8 allà. Llavors, talleu i enganxeu el resultat de la transformació al programa que vulgueu.</paragraph>
+</body>
+</helpdocument>

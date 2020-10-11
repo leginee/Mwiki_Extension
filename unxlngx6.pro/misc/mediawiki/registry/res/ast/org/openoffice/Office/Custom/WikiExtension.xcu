@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="ast">la operación 'Unviar a MediaWiki' nun pudo completase correcho.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="ast">La peñaera d'esportación de MediaWiki nun puede alcontrase. Esbille "Ferramienta-Configuración de peñera XML" pa instalar la peñera, o usa la configuracion pa instalar los componentes.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="ast">Nun pudo crease una conexón al sistema de MediaWiki en '$ARG1' .</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="ast">Nome d'usuariu o contraseña incorreutos. Por favor téntelo otra vegada, o dexe los campos ermos pa una conexón anonima.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="ast">Nun pudo afitase una conexón, porque la URL ye inválida.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="ast">Especifica'l sirvidor MediaWiki otorgando una URL.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="ast">La tresferencia encaboxóse. Por favor, verifique la integridad de los artículos del Wiki.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="ast">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="ast">Nome d'us~uariu</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="ast">~Contraseña</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="ast">Unviar a MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="ast">Articulu del wiki</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="ast">Non</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="ast">Aceutar</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="ast">Sí</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="ast">~Amestar...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="ast">~Editar...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="ast">~Unviar</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="ast">Desanicia~r</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="ast">Entá nun esiste un artículu col títulu '$ARG1' ¿Quies crear un artículu nuevu con esi nome?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="ast">Sirvidor Media~Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="ast">~Títulu</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="ast">Re~sume</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="ast">Esta ye una edición ~menor</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="ast">Amosar nel restolador we~b</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="ast">Desconózse'l certificáu del sitiu esbilláu.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="ast">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="ast">Cuenta</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="ast">Sirvidor mediawiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="ast">~Guardar contraseña</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="ast">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="ast">Yá esiste un artículu wiki col títulu '$ARG1' .&amp;#13;&amp;#13;Quies trocar l'artículu esistente col to artículu?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

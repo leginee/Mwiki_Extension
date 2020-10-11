@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="om">MiidiyaaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="om" level="1" l10n="NEW">MiidiyaaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="om" l10n="NEW">Qindaa'ina eenyummeessa MiidiyaaWiki keetii dabluuf ykn gulaaluuf qaaqa MiidiyaaWiki fayyadami.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="om" l10n="NEW"><ahelp hid="." visibility="hidden">URL kaadimaa MiidiyaaWiki http://n eegalu galchi</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="om" l10n="NEW"><ahelp hid="." visibility="hidden">Maqaa fayyadamaa kee kan kaadimaa MiidiyaaWiki irraa galchi. Gahiinsa maqadhableef duwaa dhiisi.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="om" l10n="NEW"><ahelp hid="." visibility="hidden">Iggita kee kan kaadimaa MiidiyaaWiki irraa galchi. Gahiinsa maqadhableef duwaa dhiisi.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="om" l10n="NEW"><ahelp hid="." visibility="hidden">Iggtni kee gidduu turtiiwwaniitti akka kuufamu dandeessisi. Iggitni hundataan dandeessifamuu qaba, <item type="menuitem">Meeshaalee - Dirqalaalee - %PRODUCTNAME - Ittisa</item> ilaali.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="om" l10n="NEW">Teessooo Intarneetii kaadimaa Wiki dhangii akka http://wiki.services.openoffice.org/wiki galchi ykn URL iyyaafataa irraa garagalchi.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="om" l10n="NEW">Yoo Wikin gahiinsa maqadhablee kan hayyamu ta'e, saanduqoota barruu eenyummeessa duwwaa dhiisuu dandeessa. Yoo hin taane maqaa fayyadamaa fi iggita kee galchi.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="om" l10n="NEW">Yoo fuula qaaqa Meeshaalee - Dirqalaalee - %PRODUCTNAME irratti iggita hundataa dandeessisteerta ta'e, mosajichi iggita kee kuusee ofumaa deetaa bakka barbaachisutti saaguu danda'a. Iggitni kee akka kuufamuuf saanduqa &quot;Iggita olkaa'i&quot; dandeessisi.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="om">Dhangiiwwan MiidiyaaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="om" level="1" l10n="NEW">Dhangiiwwan MiidiyaaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="om" l10n="NEW">Tarreen armaan gadii dhangiiwwan barruu kaadimaa @WIKIEXTENSIONPRODUCTNAME@tti olfe'amuu danda'anii agarsiisa.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="om" l10n="NEW">Dhangiin OpenDocument Barreessaa fi dhangiin WikiMiidiyaa garagarummaa guddaa qaba. Amaloota mara keessaa muraasa qofatu dhangii tokkoa irraa gara kaanitti dabarfamuu danda'a.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="om" level="2" l10n="NEW">Matadureewwan</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="om" l10n="NEW">Matadureewwan galmee barreessaa kee keessatti haalata mataduree keewwataa fayyadami. Wikichi haalata mataduree sadarkaa walfakkaatuu fi dhangii injinii Wikichaan murtaayee agarsiisa.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="om" level="2" l10n="NEW">Geessituuwwan</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="om" l10n="NEW">Geessituuwwan OpenDocument gara geessituuwwan &quot;alaa&quot; Wikitti muuxatu. Kanaafuu, mijatni geessituu waljaartuu OpenDocument geessituuwwan gara fuulota Wikin alatti xiyyeeffatan qofaaf fayyaduu qaba. Geessituuwwan Wiki dhimmoota Wiki qayee walfakkaaataniitti xiyyeeffatan uumuuf geessituuwwan Wiki fayyadami.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="om" level="2" l10n="NEW">Tarreewwan</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="om" l10n="NEW">Tarree marti yoo haalata tarree walsimaa fayyadamaniiru ta'e tarreewwan haala amansiisaa ta'een alergamuu danda'u. Barreessaa keessatti tarree uumuuf sajoo Lakkaawwii ykn Rasaasaa kana fayyadami. Yoo tarree lakkaawwii ykn rasaasa malee feete, haalata tarree fayyadamtuu Dhangii - Rasaasaa fi Lakkaawwii gargaaramuun murteessi.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="om" level="2" l10n="NEW">Keewwatoota</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="om" level="3" l10n="NEW">Hiriira</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="om" l10n="NEW">Barreeffamoota Wiki keessatti hirirri barruu ifatti faayidarra ooluu hin qabu. Ta'uyyuu, hirirri barruu bitaa, wiirtahaa, fi mirgaa ni deeggarama.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="om" level="3" l10n="NEW">Barruu dura-dhangifame</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="om" l10n="NEW">Haalatni keewwataa bocquu yabbina-dhaabbataa qbauu gara barruu dura-dhangifameetti muxata. Barruun dura-dhangifame Wikirratti barruu naannoonsaa handaara qabu ta'ee mul'ifama.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="om" level="2" l10n="NEW">Haalatoota arfiilee</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="om" l10n="NEW">Haalatootni arfii danaa gamisa keewwataa jijjiiru. Muxachuun kuni yabbuu, migada, yabbuu/mirgada, jalarfii fi irrarfii ni deeggara. Bocquuwwan yabbina-dhaabbataa marti gara haalata Wiki typewriter tti muuxatu.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="om" level="2" l10n="NEW">Miiljaleewwan</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="om" l10n="NEW">Yaadadhu: Muaxachuun haalata haaraa miiljaleewwanii iyyaatoo &lt;ref&gt; fi &lt;references&gt; waliin fayyadamu dheertoon Cite.php akka MiidiyaaWiki keessatti qidaawu barbaada. Yoo iyyaatowwan kanneen bu'aa muxataa keessatti akka barquutti mul'atan, bulchaan Wikichaa akka dheertoo kana akka qindeessu gaafadhu.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="om" level="2" l10n="NEW">Calaqqeewwan</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="om" l10n="NEW">Calaqqeewwan muxata faayilii tokko umuun gara barruu Wiki ala-hin-ergaman. Haata'u malee, yoo caliqqichi durumayyuu gara galtee qeyee Wikichaa (fkn. WikiMedia Commons) olfe'ameera ta'e, muxatichi iyyaatoo calaqqee sirrii kan calqqicha of keessaa qabu uuma. Goodayyaawwan calaqqees ni deeggaramu.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="om" level="2" l10n="NEW">Gabateewwan</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="om" l10n="NEW">Gabateewwan sasalphoon haalan deeggaramu. Matadureewwan gabatee gara haalata matadureewwn Wiki walfakkaataniitti geeddaramu. Haata'u malee, dhangiin maamiloo handaara gabatee, hammaamtaan tarjaa fi halluun dubbee ni tuffatamu.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="om" level="3" l10n="NEW">Man'eewwan Walqabatan</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="om" l10n="NEW">OpenDocument keessaahuu OpenOffice.org gabateewwan man'eelee walqabatan qabanii fi tarreewwan hedduu uwwisan akka gabatee xaxamaatti teechisa. Karaa biraatin, ilaallatni wiki uwwisa tarjaa fi tarree man'eelee walqabatanii dura ibsuu dha. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="om" l10n="NEW">Yoo tarjaaleen tarree walfakkaatanii qofti walqabatan, bu'aan muxataa madda galmee sirriitti fakkaata.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="om" level="3" l10n="NEW">Handaarota</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="om" l10n="NEW">Haalatoota maamiloo handaara fi dubbee gabatee dhhiisuun, gabateen yeroo mara akka &quot;<emph>prettytable&quot;</emph>tti alergama, kunis injinii Wiki keessatti akka handaara salphaa fi handaara yabbuutti ilaalama.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="om" level="2" l10n="NEW">Taattoowwanii fi arfiilee addayyaa</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="om" l10n="NEW">Gurmuun arfii bu'aa muxataa UTF-8 akka ta'utti mutaa'eera. Sirna keetirratti hundaa'uun, gurmuun arfii kun durtii kee ta'uu baachuu danda'a. Kun immoo &quot;arfiilee addayyaa&quot; kan ciccitan fakkaatanii akka mul'atan gochuu mala. Haa ta'u malee, gulaalaa barruu kee akka UTF-8 fayyadamu gochuu dandeessa. Yoo gulaalaan barruu kee UTF-8tti jijjiiruu hin deeggaru ta'e, muxaticha arguuf iyyaafataa firefox keessatti banuun achumatti jijjiiruu dandeessa. Kana booda, bu'aa muxatichaa murtee sagantaa barbaadde keessatti maxxansuu dandeessa.</paragraph>
+</body>
+</helpdocument>

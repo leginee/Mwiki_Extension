@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sv">MediaWiki-format</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sv" level="1" l10n="NEW">MediaWiki-format</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sv" l10n="NEW">Listan nedan ger en översikt över de textformat som kan laddas upp till wikiservern med @WIKIEXTENSIONPRODUCTNAME@.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sv" l10n="NEW">OpenDocument-formatet, som används i Writer, och MediaWiki-formatet är ganska olika. Endast vissa undergrupper av egenskaper kan överföras från det ena formatet till det andra.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sv" level="2" l10n="NEW">Rubriker</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sv" l10n="NEW">Använd en rubrikstyckesstil till rubrikerna i ditt i Writer-dokument. Wikin kommer att visa rubrikstilarna för samma dispositionsnivå, formaterade såsom definierats av wikimotorn.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sv" level="2" l10n="NEW">Hyperlänkar</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sv" l10n="NEW">Hyperlänkar i OpenDocument-format görs om till &quot;externa&quot; wikilänkar. Därför bör OpenDocument-formatets inbyggda länkningsfunktion endast användas för att länka till andra webbplatser utanför wikin. Använd wikilänkar om du vill länka till andra ämnen inom samma wikidomän.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sv" level="2" l10n="NEW">Listor</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sv" l10n="NEW">Det går att exportera en lista korrekt om ett listformat används konsekvent genom hela listan. Skapa en lista med ikonen Punktuppställningstecken i Writer. Om du vill ha en lista utan numrering eller punkter går du till Format - Punktuppställningstecken, och anger och tillämpar respektive listformat.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sv" level="2" l10n="NEW">Stycken</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sv" level="3" l10n="NEW">Justering</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sv" l10n="NEW">Explicit textjustering bör inte användas i wikiartiklar. Det finns dock stöd för vänsterställd, centrerad och högerställd textjustering.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sv" level="3" l10n="NEW">Förformaterad text</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sv" l10n="NEW">En styckeformatmall med ett teckensnitt med fast bredd omvandlas till förformaterad text. I wikin visas förformaterad text med en ram runt.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sv" level="2" l10n="NEW">Teckenformatmallar </paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sv" l10n="NEW">Teckenformatmallar ändrar utseende på delar av ett stycke. Omvandlingen till wikiformat stöder fet, kursiv, fet + kursiv, nedsänkt och upphöjd text. Alla teckensnitt med fast bredd omvandlas till wikins skrivmaskinsstil.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sv" level="2" l10n="NEW">Fotnoter</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sv" l10n="NEW">OBS! Vid omvandlingen används den nya sortens fotnoter med &lt;ref&gt;slut&lt;references&gt;taggar som kräver att paketet Cite.php har installerats på MediaWiki. Om taggarna visas som normal text på den omvandlade sidan, ber du den som administrerar wikin att installera paketet.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sv" level="2" l10n="NEW">Bilder</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sv" l10n="NEW">Det går inte att exportera bilder med hjälp av omvandling och skapa en enskild wikitextfil. Om bilden däremot redan finns uppladdad till wikidomänen där du laddar upp filen (t.ex. WikiMedia Commons), skapas en bildtagg vid omvandlingen och bilden inkluderas. Det finns också stöd för bildtexter.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sv" level="2" l10n="NEW">Tabeller</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sv" l10n="NEW">Enkla tabeller är välstödda. Tabellrubriker återges i samma stil som motsvarande wikitabellrubriker. Dock förkastas användardefinierade format för tabellkantlinjer, kolumnstorlekar och bakgrundsfärger.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sv" level="3" l10n="NEW">Kopplade celler</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sv" l10n="NEW">OpenDocument, och särskilt OpenOffice.org, visar tabeller som har kopplade celler som spänner över rader som tabeller med kapslade tabeller. Däremot är wikimodellen för tabeller att deklarera kolumn- och radomfång för sådana kopplade celler. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sv" l10n="NEW">Om endast kolumner från samma rad kopplas, återger resultatet av omvandlingen källdokumentet väl.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sv" level="3" l10n="NEW">Kantlinjer</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sv" l10n="NEW">Oavsett användardefinierade tabellstilar för kantlinje och bakgrund, exporteras en tabell alltid som “<emph>prettytable</emph>”, som återges i wikimotorn med enkla kantlinjer och fet rubrik.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sv" level="2" l10n="NEW">Teckenuppsättningar och specialtecken</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sv" l10n="NEW">Teckenuppsättningen för omvandlingsresultatet är fastställt till UTF-8. Beroende på systemet, är det här eventuellt inte standardteckenuppsättningen. Det här kan medföra att &quot;specialtecken&quot; kan få ett korrupt utseende när de visas med standardinställningar. Men du kan byta till UTF-8-kodning i redigeraren för att rätta till det här. Om du inte kan ändra kodning i redigeraren, kan du visa resultatet av omvandlingen i webbläsaren Firefox och byta till UTF-8-kodning där. Nu kan du klippa ut och klistra in omvandlingsresultatet i det program du föredrar.</paragraph>
+</body>
+</helpdocument>

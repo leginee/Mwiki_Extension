@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="zh-TW">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="zh-TW" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="zh-TW" l10n="NEW">使用 [MediaWiki] 對話方塊增加或編輯 MediaWiki 帳號設定。</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">輸入開頭為 http:// 的 MediaWiki 伺服器 URL</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">輸入 MediaWiki 伺服器的使用者名稱。若是匿名存取則留白。</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">輸入 MediaWiki 伺服器的密碼。若是匿名存取則留白。</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="zh-TW" l10n="NEW"><ahelp hid="." visibility="hidden">啟用此選項可在階段作業之間儲存密碼。主密碼必須啟用，請參閱 <item type="menuitem">[工具] - [選項] - [%PRODUCTNAME] - [安全性]</item>。</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="zh-TW" l10n="NEW">使用類似 http://wiki.services.openoffice.org/wiki 的格式輸入 Wiki 伺服器的網際網路網址，或從 Web 瀏覽器複製 URL。</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="zh-TW" l10n="NEW">如果 Wiki 允許匿名存取，則可將帳號文字方塊留白。否則請輸入您的使用者名稱和密碼。</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="zh-TW" l10n="NEW">若已在 [工具] - [選項] - [%PRODUCTNAME] 對話方塊的 [安全性] 標籤頁上，啟用了主密碼功能，則該軟體可儲存您的密碼，並視需要自動插入資料。啟用 [儲存密碼] 核取方塊可儲存您的密碼。</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="id">Format MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="id" level="1" l10n="NEW">Format MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="id" l10n="NEW">Daftar berikut adalah gambaran format teks yang dapat diunggah oleh @WIKIEXTENSIONPRODUCTNAME@ ke server Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="id" l10n="NEW">Format OpenDocument yang digunakan oleh Writer dan format WikiMedia cukup berbeda. Hanya sebagian dari fitur yang dapat ditransformasikan dari satu format ke format yang lain.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="id" level="2" l10n="NEW">Tajuk</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="id" l10n="NEW">Menerapkan gaya paragraf pada dokumen Writer Anda. Wiki akan menampilkan gaya tajuk dari tingkat susunan yang sama, sesuai format yang dipunyai oleh Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="id" level="2" l10n="NEW">Taut</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="id" l10n="NEW">Taut natif OpenDocument akan diubah menjadi taut &quot;eksternal&quot; Wiki. Oleh karenanya, fasilitas taut bawaan OpenDocument harus digunakan untuk membuat taut yang menunjuk pada situs lain di luar web Wiki. Untuk menciptakan taut Wiki yang mengarah pada subjek lain pada domain Wiki yang sama, gunakan taut Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="id" level="2" l10n="NEW">Senarai</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="id" l10n="NEW">Senarai atau daftar dapat diekspor dengan sangat baik apabila seluruh senarai menggunakan gaya yang konsisten. Pakailah Penomoran atau ikon Bulatan untuk menghasilkan sebuah senarai pada Writer. Apabila Anda memerlukan senarai tanpa penomoran atau bulatan, klik Format - Bulatan dan Penomoran untuk mendefinisikan dan menerapkan gaya senarai atau daftar yang Anda ingini.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="id" level="2" l10n="NEW">Paragraf</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="id" level="3" l10n="NEW">Perataan</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="id" l10n="NEW">Perataan teks secara eksplisit tidak seharusnya dipakai pada artikel Wiki. Hanya perataan kiri, tengah, dan kanan yang didukung.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="id" level="3" l10n="NEW">Teks praformat</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="id" l10n="NEW">Gaya paragraf dengan lebar fonta yang tetap akan diubah sebagai teks praformat. Teks praformat pada Wiki ditunjukkan dengan bingkai di sekeliling teks.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="id" level="2" l10n="NEW">Gaya karakter</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="id" l10n="NEW">Gaya karakter mengubah tampilan bagian dari paragraf. Gaya yang didukung adalah cetak tebal, miring, tebal/miring, subskrip, dan superskrip. Semua fonta berukuran tetap akan diubah ke gaya mesin ketik oleh Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="id" level="2" l10n="NEW">Catatan kaki</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="id" l10n="NEW">Catatan: Transformasi menggunakan gaya baru dari catatan kaki dengan tag &lt;ref&gt; dan &lt;references&gt; yang memerlukan ekstensi Cite.php yang harus dipasang pada MediaWiki. Jika tag tersebut muncul sebagai teks biasa dalam hasil transformasi, tanyakan administrator Wiki untuk memasang ekstensi ini.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="id" level="2" l10n="NEW">Gambar</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="id" l10n="NEW">Gambar tidak bisa diekspor sebagai berkas tunggal teks Wiki. Namun, jika gambar sudah diunggah pada domain Wiki yang dituju (mis. WikiMedia Commons), maka transformasi akan menghasilkan tag gambar yang benar yang menyertakan gambar. Keterangan gambar juga didukung.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="id" level="2" l10n="NEW">Tabel</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="id" l10n="NEW">Tabel sederhana juga didukung. Tajuk tabel diterjemahkan menjadi tajuk tabel gaya Wiki. Namun, format tambahan dari bingkai tabel, ukuran kolom, dan warna latar belakang akan diabaikan.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="id" level="3" l10n="NEW">Sel Gabungan</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="id" l10n="NEW">OpenDocument dan terutama OpenOffice.org merepresentasikan tabel yang memiliki sel gabungan sebagai baris yang memanjang sebagai tabel bertingkat. Sebaliknya, model tabel Wiki mendeklarasikan kolom dan baris untuk sel gabungan. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="id" l10n="NEW">Jika hanya kolom dari baris yang sama yang digabungkan, hasil dari transformasi mencerminkan sumber dokumen dengan baik.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="id" level="3" l10n="NEW">Bingkai</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="id" l10n="NEW">Terlepas dari gaya tabel yang dimodifikasi untuk bingkai dan latar belakang, sebuah tabel selalu diekspor sebagai &quot;<emph>prettytable&quot;</emph>, yang dirender oleh mesin Wiki dengan bingkai sederhana dan tajuk dicetak tebal.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="id" level="2" l10n="NEW">Set karakter dan karakter khusus</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="id" l10n="NEW">Set karakter dari hasil transformasi selalu UTF-8. Tergantung dari sistem Anda, mungkin saja bukan set karakter yang baku. Hal ini mungkin menimbulkan &quot;karakter khusus&quot; tampak rusak ketika dilihat dengan pengaturan baku. Namun, Anda bisa mengganti penyunting Anda ke enkode UTF-8 untuk memperbaiki hal ini. Apabila penyunting Anda tidak mendukung perubahan enkode, Anda bisa menampilkan hasil dari transformasi pada penelusur Firefox dan ganti enkodenya menjadi UTF-8. Sekarang, Anda bisa melakukan operasi potong dan tempel hasil transformasi pada program pilihan Anda.</paragraph>
+</body>
+</helpdocument>

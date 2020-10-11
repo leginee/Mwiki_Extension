@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mk">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="mk" branch="index" id="bm_id3154408"><bookmark_value>Вики;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>екстензии;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="mk" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="mk" l10n="NEW"><ahelp hid=".">Со користење на @WIKIEXTENSIONPRODUCTNAME@ можете да го испратите вашиот тековен текстуален документ од Writer до MediaWiki сервер. Откога ќе го испратите, сите корисници на вики ќе можат да го прочитат вашиот документ.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="mk" l10n="NEW"><ahelp hid=".">Изберете <item type="menuitem">Датотека - Испрати - До MediaWiki</item> за да го испратите вашиот тековен документ од Writer до MediaWiki сервер.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="mk" level="2" l10n="NEW">Системски побарувања</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="mk" l10n="NEW">StarOffice/StarSuite 8 ажурирана верзија 10</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="mk" l10n="NEW">OpenOffice.org 2.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="mk" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="mk" l10n="NEW">Вики сметка на поддржаниот <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> сервер</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="mk" level="2" l10n="NEW">Инсталирање на @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="mk" l10n="NEW">Пред да ја инсталирате @WIKIEXTENSIONPRODUCTNAME@, проверете дали StarOffice или OpenOffice.org користат Java Runtime Environment (JRE). За да го проверите статусот на JRE, изберете <item type="menuitem">Алатки - Опции - StarOffice/OpenOffice.org - Java</item>. Проверете дали е штикилирано „Користи Java runtime environment“ и дека папката за Java runtime е селектирана во големото поле. Ако JRE не е активирано, тогаш активирајте го JRE 1.4 или поновата верзија и рестартирајте го StarOffice/OpenOffice.org.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="mk" level="3" l10n="NEW">За да инсталирате @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="mk" l10n="NEW">Во прозорецот на Writer, изберете <item type="menuitem">Алатки - Менаџер на екстензии</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="mk" l10n="NEW">Во дијалогот на Менаџер на екстензии, кликнете на Додај.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="mk" l10n="NEW">Најдете ја датотеката @WIKIEXTENSIONFILENAME@.oxt, кликнете „Отвори“ и потоа кликнете на „Затвори“. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="mk" l10n="NEW">Затворете го StarOffice/StarSuite/OpenOffice.org и исто така затворете го и брзиот стартувач ако е овозможен.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="mk" l10n="NEW">Рестартирајте го софтверот, отворете текстуален документ, изберете <item type="menuitem">Алатки - Опции - Интернет - MediaWiki</item> за да ги внесете вашите поставувања за вики. Видете подолу „За да се поврзете на вики“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="mk" level="3" l10n="NEW">За да го отстраните @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="mk" l10n="NEW">Во прозорецот на Writer, изберете <item type="menuitem">Алатки - Менаџер на екстензии</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="mk" l10n="NEW">Кликнете на знакот (+) пред Мои екстензии.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="mk" l10n="NEW">Изберете ја екстензијата, кликнете „Отстрани“ и потоа клинете „Затвори“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="mk" level="2" l10n="NEW">За да се поврзете на вики</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="mk" l10n="NEW">Забелешка: Можете да ги зачувате вашето корисничко име и лозинка за сите соодветни дијалози внатре во StarOffice/OpenOffice.org. Лозинката ќе биде зачувана на сигурен начин, каде пристапот е одржуван со главна лозинка. За да ја овозможите главната лозинка изберете <item type="menuitem">Алатки - Опции - StarOffice/OpenOffice.org - Безбедност</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="mk" l10n="NEW">Забелешка: Ако се поврзувате на интернет преку прокси сервер, внесете ги информациите за прокси во <item type="menuitem">Алатки - Опции - Интернет - Прокси</item> и рестартирајте го софтверот.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="mk" l10n="NEW">Отворете документ во Writer и изберете <item type="menuitem">Алатки - Опции - Интернет - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="mk" l10n="NEW">Во дијалогот <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Опции</link>, кликнете „Додај“.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="mk" l10n="NEW">Во дијалогот <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, внесете ги информациите за сметката на вики.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="mk" l10n="NEW">Во полето за URL, внесете ја адресата на викито кон кое сакате да се поврзете.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="mk" l10n="NEW">Можете да го копирате URL од веб прелистувачот и да го вметнете во полето за текст.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="mk" l10n="NEW">Во полето за корисничко име, внесете го корисничкото име за вашата сметка на вики.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="mk" l10n="NEW">Ако викито дозволува анонимни права за пишување, можете да ги оставите празни полињата за корисничко име и лозинка.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="mk" l10n="NEW">Во полето за лозинка, внесете ја вашата лозинка за сметката на вики и потоа кликнете „Во ред“.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="mk" l10n="NEW">Ако сакате, можете да овозможите „Зачувај лозинка“ за да ја зачувате лозинката помеѓу сесиите. Главната лозинка се користи за одржување пристап до сите зачувани лозинки. Изберете <item type="menuitem">Алатки - Опции - StarOffice/OpenOffice.org - Безбедност</item> за да ја овозможите главната лозинка. „Зачувај лозика“ не е достапна кога не е овозможена главната лозинка.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="mk" level="2" l10n="NEW">За да создадете нова вики страница</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="mk" l10n="NEW">Отворете документ во Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="mk" l10n="NEW">Напишете ја содржината на Вики страницата. Можете да користите форматирање како текстуално форматирање, заглавија, фусноти и друго. Видете ја <link href="@WIKIEXTENSIONID@/wikiformats.xhp">листата на поддржани формати</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="mk" l10n="NEW">Изберете <item type="menuitem">Датотека - Испрати - До MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="mk" l10n="NEW">Во дијалогот <link href="@WIKIEXTENSIONID@/wikisend.xhp">Испрати до MediaWiki</link>, одредете ги поставките за вашиот запис.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="mk" l10n="NEW"><emph>MediaWiki сервер</emph>: Изберете вики.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="mk" l10n="NEW"><emph>Наслов</emph>: Напишете го насловот на вашата страница. напишете го насловот на постоечка страница за да ја препишете страницата со вашиот тековен текстуален документ. Напишете нов наслов за да создадете нова страница на викито.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="mk" l10n="NEW"><emph>Резиме</emph>: По избор, внесете кратко резиме на вашата страница.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="mk" l10n="NEW"><emph>Ова е мала промена</emph>: Изберете го ова поле за да ја означите страницата која ја испраќате како мала промена на веќе постоечката страница со истиот наслов.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="mk" l10n="NEW"><emph>Прикажи во веб прелистувач</emph>: Изберете го овоа поле за да го отворите вашиот системски веб прелистувач и да ја прикаже испратената Вики страница.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="mk" l10n="NEW">Кликнете „Испрати“.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

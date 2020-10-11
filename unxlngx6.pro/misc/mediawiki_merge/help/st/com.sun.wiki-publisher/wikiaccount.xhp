@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="st">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="st" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="st" l10n="NEW">Gebruik die MediaWiki-dialoog om by te voeg of jou MediaWiki-rekeninginstellings te redigeer.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="st" l10n="NEW"><ahelp hid="." visibility="hidden">Tik die URL van 'n MediaWiki-bediener in, en begin met http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="st" l10n="NEW"><ahelp hid="." visibility="hidden">Tik jou gebruikernaam op die MediaWiki-bediener in. Laat leeg vir anonieme toegang.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="st" l10n="NEW"><ahelp hid="." visibility="hidden">Tik u wagwoord op die MediaWiki-bediener. Laat oop vir anonieme toegang.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="st" l10n="NEW"><ahelp hid="." visibility="hidden">Aktiveer om jou wagwoord tussen sessies te stoor. Die meesterwagwoord moet geaktiveer word, kyk <item type="menuitem">Nuts - Opsies - %PRODUCTNAME - Sekuriteit</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="st" l10n="NEW">Tik die internetadres van 'n wikibediener in 'n formaat soos http://wiki.services.openoffice.org/wiki of kopieer die URL van 'n webblaaier.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="st" l10n="NEW">As die wiki anonieme skryftoegang toelaat, kan jy die gebruikernaam- en wagwoordvelde leeg laat. Of tik jou gebruikernaam en wagwoord.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="st" l10n="NEW">As jy die meesterwagwoordfunksie op die Sekuriteit-oortjie van die dialoog Nuts - Opsies - %PRODUCTNAME geaktiveer het, sal die sagteware jou wagwoord kan stoor en die inligting outomaties invoeg waar nodig. Aktiveer die &quot;Stoor wagwoord&quot;-merkblokkie om jou wagwoord te stoor.</paragraph>
+</body>
+</helpdocument>

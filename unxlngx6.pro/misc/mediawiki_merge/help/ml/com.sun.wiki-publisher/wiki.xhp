@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ml">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ml" branch="index" id="bm_id3154408"><bookmark_value>വിക്കി;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>എക്സ്റ്റെന്‍ഷനുകള്‍; മീഡിയാവിക്കി</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ml" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ml" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ ഉപയോഗിച്ചു് നിങ്ങളുടെ നിലവിലുള്ള റൈറ്റര്‍ ടെക്സ്റ്റ് രേഖ ഒരു മീഡിയാ സര്‍വറിലേക്ക് അപ്‌ലോഡ് ചെയ്യുവാന്‍ സാധിക്കുന്നു. ഇതിനു് ശേഷം, എല്ലാ വിക്കി ഉപയോക്താക്കള്‍ക്കും നിങ്ങളുടെ രേഖ ലഭ്യമാകുന്നു.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ml" l10n="NEW"><ahelp hid=".">ഇപ്പോഴുള്ള റൈറ്റര്‍ രേഖ ഒരു മീഡിയാവിക്കി സര്‍വറിലേക്ക് അപ്‌ലോഡ് ചെയ്യുന്നതിനായി <item type="menuitem">ഫയല്‍ - അയയ്ക്കുക - മീഡിയാവിക്കിയിലേക്ക്</item> തെരഞ്ഞെടുക്കുക.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ml" level="2" l10n="NEW">സിസ്റ്റം ആവശ്യമങ്ങള്‍</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ml" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ml" l10n="NEW">ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ml" l10n="NEW">ജാവാ റണ്‍ടൈം എന്‍വയോണ്മെന്റ് 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ml" l10n="NEW">പിന്തുണയുള്ള <link href="http://www.mediawiki.org/wiki/MediaWiki">മീഡിയാവിക്കി</link> സര്‍വറിലുള്ള ഒരു വിക്കി അക്കൌണ്ട്</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ml" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ml" l10n="NEW">നിങ്ങള്‍ @WIKIEXTENSIONPRODUCTNAME@ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനു് മുമ്പായി, %PRODUCTNAME ഒരു ജാവാ റണ്‍ടൈം എന്‍വയോണ്മെന്റ് (JRE) ഉപയോഗിക്കുന്നു എന്നുറപ്പാക്കുക. JRE-യുടെ അവസ്ഥ പരിശോധിക്കുന്നതിനായി, <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - %PRODUCTNAME - ജാവാ</item> തെരഞ്ഞെടുക്കുക. &quot;~ഒരു ജാവാ റണ്‍ടൈം എന്‍വയോണ്മെന്റ് ഉപയോഗിക്കുക&quot; അടയാളപ്പെടുത്തിയിട്ടുണ്ടെന്നും വലിയ ലിസ്റ്റബോക്സില്‍ ഒരു ജാവാ റണ്‍ടൈം തെരഞ്ഞെടുത്തിട്ടുണ്ടെന്നും ഉറപ്പുവരുത്തുക. JRE സജീവമല്ലെങ്കില്‍, JRE 1.4 അല്ലെങ്കില്‍ അതിനു് ശേഷമുള്ളതു് സജീവമാക്കി %PRODUCTNAME വീണ്ടും ആരംഭിക്കുക.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ml" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനു്</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ml" l10n="NEW">റൈറ്റര്‍ ജാലകത്തില്‍, <item type="menuitem">ഉപകരണങ്ങള്‍ - എക്സ്റ്റെന്‍ഷന്‍ മാനേജര്‍ </item> തെരഞ്ഞെടുക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ml" l10n="NEW">എക്സ്റ്റെന്‍ഷന്‍ മാനേജര്‍ ഡയലോഗില്‍, ചേര്‍ക്കുക ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ml" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ഫയല്‍ കണ്ടുപിടിച്ചു്, തുറക്കുക ക്ലിക്ക് ചെയ്യുക, എന്നിട്ട് അടയ്ക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ml" l10n="NEW">%PRODUCTNAME അടയ്ക്കുക, ക്വിക്ക്സ്റ്റാര്‍ട്ടര്‍ സജ്ജമെങ്കില്‍ അതും അടയ്ക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ml" l10n="NEW">സോഫ്റ്റ്‌വെയര്‍ വീണ്ടും ആരംഭിക്കുക, ഒരു ടെക്സ്റ്റ് രേഖ തുറക്കുക, ശേഷം നിങ്ങളുടെ വിക്കി സജ്ജീകരണങ്ങള്‍ നല്‍കുന്നതിനായി <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - ഇന്റര്‍നെറ്റ് - മീഡിയാവിക്കി </item> തെരഞ്ഞെടുക്കുക. താഴെകൊടുത്തിരിക്കുന്ന &quot;ഒരു വിക്കിയിലേക്ക് കണക്ട് ചെയ്യുന്നതിനു്&quot; കാണുക.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ml" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ നീക്കം ചെയ്യുന്നതിനു്</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ml" l10n="NEW">ഒരു റൈറ്റര്‍ ജാലകത്തില്‍, <item type="menuitem">ഉപകരണങ്ങള്‍ - എക്സ്റ്റെന്‍ഷന്‍ മാനേജര്‍</item> തെരഞ്ഞെടുക്കുക</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ml" l10n="NEW">എക്സ്റ്റെന്‍ഷനുകളുടെ മുമ്പിലുള്ള പ്ലസ് ചിഹ്നത്തില്‍ (+) ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ml" l10n="NEW">എക്സ്റ്റെന്‍ഷന്‍ തെരഞ്ഞെടുത്തു്, നീക്കം ചെയ്യുക ക്ലിക്ക് ചെയ്യുക, ശേഷം അടയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ml" level="2" l10n="NEW">ഒരു വിക്കിയിലേക്ക് കണക്ട് ചെയ്യുന്നതിനു്</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ml" l10n="NEW">കുറിപ്പു്: നിങ്ങള്‍ക്കു് എല്ലാ ഡയലോഗുകള്‍ക്കുമുള്ള ഉപയോക്തൃനാമവും രഹസ്യവാക്കും %PRODUCTNAME-ല്‍ സൂക്ഷിക്കുവാന്‍ സാധിക്കുന്നു. രഹസ്യവാക്ക് സുരക്ഷിതമായി സൂക്ഷിക്കുന്നു, ഇവിടെ പ്രവേശനം ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിച്ചു് മാത്രമേ സാധ്യമാകൂ. പ്രധാന രഹസ്യവാക്ക് സജ്ജമാക്കുന്നതിനായി <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - %PRODUCTNAME - സുരക്ഷ</item> തെരഞ്ഞെടുക്കുക.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ml" l10n="NEW">കുറിപ്പു്: നിങ്ങള്‍ വെബിലേക്ക് ഒരു പ്രോക്സി സര്‍വര്‍ വഴിയാണു് കണക്ട് ചെയ്യുന്നതെങ്കില്‍, <item type="menuitem">Tools - Options - Internet - Proxy</item>, and restart the software.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ml" l10n="NEW">ഒരു റൈറ്റര്‍ രേഖ തുറന്നു് <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - ഇന്റര്‍നെറ്റ് - മീഡിയാവിക്കി</item> തെരഞ്ഞെടുക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ml" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">ഉപാധികള്‍</link> എന്ന ഡയലോഗിലുള്ള ചേര്‍ക്കുക ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ml" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">മീഡിയാവിക്കി</link> ഡയലോഗില്‍, വിക്കിയുടെ അക്കൌണ്ട വിവരം നല്‍കുക.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ml" l10n="NEW">നിങ്ങള്‍ക്കു് കണക്ട് ചെയ്യേണ്ട വിക്കിയുടെ വിലാസം യുആര്‍എല്‍ ടെക്സ്റ്റ്ബോക്സില്‍ നല്‍കുക.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ml" l10n="NEW">ഒരു വെബ് ബ്രൌസറില്‍ നിന്നും യുആര്‍എല്‍ പകര്‍ത്തി ടെക്സ്റ്റ്ബോക്സിലേക്ക് ഒട്ടിക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ml" l10n="NEW">ഉപയോക്തൃനാമത്തിനുള്ള ബോക്സില്‍, നിങ്ങളുടെ വിക്കി അക്കൌണ്ടിന്റെ യൂസര്‍ ID നല്‍കുക.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ml" l10n="NEW">എഴുതുവാനുള്ള അജ്ഞാതമായ അനുമതി വിക്കി അനുവദിക്കുന്നെങ്കില്‍, ഉപയോക്തൃനാമവുംരഹസ്യവാക്കും നല്‍കേണ്ടതില്ല.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ml" l10n="NEW">രഹസ്യവാക്കിനുള്ള ബോക്സില്‍, വിക്കി അക്കൌണ്ടിന്റെ രഹസ്യവാക്ക്യം നല്‍കി, ശരി ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ml" l10n="NEW">കൂടാതെ സെഷനുകളുടെ ഇടയില്‍ രഹസ്യവാക്കു് സൂക്ഷിക്കുന്നതിനായി ആവശ്യമെങ്കില്‍ മാത്രം എന്ന രീതിയില്‍ &quot;രഹസ്യവാക്ക് സൂക്ഷിക്കുക&quot; പ്രവര്‍ത്തന സജ്ജമാക്കുക. എല്ലാ രഹസ്യവാക്കുകളും കൈകാര്യം ചെയ്യുന്നതിനായി ഒരു പ്രധാന രഹസ്യവാക്ക് ആവശ്യമുണ്ടു്. ഇതു് സജ്ജമാക്കുന്നതിനായി <item type="menuitem">ഉപകരണങ്ങള്‍ - ഉപാധികള്‍ - %PRODUCTNAME - സുരക്ഷ</item> തെരഞ്ഞെടുക്കുക. ഈ രഹസ്യവാക്ക് സജ്ജമല്ലാത്തപ്പോള്‍, &quot;രഹസ്യവാക്ക് സൂക്ഷിക്കുക&quot; ലഭ്യമല്ല.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ml" level="2" l10n="NEW">ഒരു പുതിയ വിക്കി താള്‍ ഉണ്ടാക്കുന്നതിനു്</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ml" l10n="NEW">ഒരു റൈറ്റര്‍ രേഖ തുറക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ml" l10n="NEW">വിക്കി താളിലുള്ളവ എഴുതുക. ടെക്സ്റ്റ് ശൈലി, തലക്കെട്ടുകള്‍, അടിക്കുറിപ്പുകള്‍ എന്നിങ്ങനെയുള്ള രീതികള്‍ നിങ്ങള്‍ക്കുപയോഗിക്കാം. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">പിന്തുണയ്ക്കുന്ന രീതികള്‍</link> കാണുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ml" l10n="NEW"><item type="menuitem">ഫയല്‍ - അയയ്ക്കുത - മീഡിയാവിക്കിയിലേക്ക്</item> തെരഞ്ഞെടുക്കുക.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ml" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">മീഡിയാവിക്കിയിലേക്ക് അയയ്ക്കുക</link> ഡയലോഗില്‍ നിങ്ങളുടെ എന്‍ട്രിയ്ക്കുള്ള സജ്ജീകരണങ്ങള്‍ വ്യക്തമാക്കുക.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ml" l10n="NEW"><emph>മീഡിയാവിക്കി സര്‍വര്‍</emph>: വിക്കി തെരഞ്ഞെടുക്കുക.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ml" l10n="NEW"><emph>തലക്കെട്ട്</emph>: നിങ്ങളുടെ താളിന്റെ തലക്കെട്ട് ടൈപ്പ് ചെയ്യുക. ഇപ്പോഴുള്ള് ടെക്സ്റ്റ് രേഖ ഉപയോഗിച്ചു് നിലവിലുള്ള താള്‍ തിരുത്തിസൂക്ഷിക്കുന്നതിനായി, ആ താളിന്റെ തലക്കെട്ട് നല്‍കുക. വിക്കിയില്‍ പുതിയൊരു താളുണ്ടാക്കുന്നതിനായി പുതിയ തലക്കെട്ട് നല്‍കുക.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ml" l10n="NEW"><emph>വിവരണം</emph>: നിങ്ങളുടെ താളിനുള്ള ലഘു വിവരണം നല്‍കുക.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ml" l10n="NEW"><emph>ഇതൊരു ചെറിയ തിരുത്തലാണു്</emph>: ഒരേ തലക്കെട്ടില്‍ നിലവിലുള്ള ഒരു താളിനുള്ള ഒരു ചെറിയ തിരുത്തലായി അപ്‌ലോഡ് ചെയ്ത താള്‍ അടയാളപ്പെടുത്തുന്നതിനായി ഈ ബോക്സ് ചെക്ക് ചെയ്യുക.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ml" l10n="NEW"><emph>വെബ് ബ്രൌസറില്‍ കാണിക്കുക</emph>: നിങ്ങളുടെ സിസ്റ്റം വെബ് ബ്രൌസര്‍ തുറന്നു് അപ്‌ലോഡ് ചെയ്ത വിക്കി താള്‍ കാണിക്കുന്നതിനായി ഈ ബോക്സ് ചെക്ക് ചെയ്യുക.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ml" l10n="NEW">അയയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

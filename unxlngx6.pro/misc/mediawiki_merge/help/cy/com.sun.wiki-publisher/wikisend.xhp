@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="cy">Anfon at MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="cy" level="1" l10n="NEW">Anfon at MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="cy" l10n="NEW">Yn y deialog Anfon at MediaWiki, pennwch osodiadau eich llwyth Wiki presennol.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="cy" l10n="NEW"><ahelp hid=".">Dewiswch y gweinydd MediaWiki lle rydych am gyhoeddi eich dogfen. Cliciwch Ychwanegu i ychwanegu gweinydd newydd i'r rhestr.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="cy" l10n="NEW"><ahelp hid=".">Rhowch deitl i'ch cofnod Wiki. Dyma brif bennawd eich cofnod Wiki. Ar gyfer cofnod newydd, rhaid i'r teitl fod yn unigryw i'r Wiki hwn. Os fyddwch yn cynnig teitl sy'n bodoli eisoes, bydd y llwytho i fyny'n ysgrifennu dros eich cofnod Wiki presennol.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="cy" l10n="NEW"><ahelp hid=".">Rhowch grynodeb neu sylw byr.</ahelp> Gw. <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="cy" l10n="NEW"><emph>Mân olygu yw hwn</emph>: <ahelp hid=".">Ticiwch y blwch i nodi'r dudalen wedi ei llwytho i fyny fel man olygu o ddogfen sydd eisoes yn bodoli gyda'r un teitl.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="cy" l10n="NEW"><emph>Dangos mewn porwr gwe</emph>: <ahelp hid=".">Ticiwch y blwch i agor eich porwr gwe a dangos y dudalen Wiki sydd wedi ei llwytho i fyny.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

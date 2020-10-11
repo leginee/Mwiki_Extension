@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hy">MediaWiki ձևաչափեր</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="hy" level="1" l10n="NEW">MediaWiki ձևաչափեր</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="hy" l10n="NEW">Հետևյալ ցանկը տալիս է տեքստային ձևաչափերի ակնարկը, որոնց @WIKIEXTENSIONPRODUCTNAME@ -ը կարող է վերբեռնել Wiki կայանում:</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="hy" l10n="NEW">Writer -ի կողմից օգտագորված OpenDocument ձևաչափը և WikiMedia ձևաչափը բավականին տարբեր են։ Միայն բոլոր ենթաբազմությունների հնարավորությունը կարող է փոխակերպվել մեկ ձևաչափից մեկ այլի:</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="hy" level="2" l10n="NEW">Գլխագրեր</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="hy" l10n="NEW">Writer -ի փաստաթղթում վերնագրերին կիրառեք պարագրաֆի ոճը: Wik i-ն կցուցադրի Wiki- ի շարժիչի կողմից ձևավորված նույն ուրվագծի մակարդակի գլխագրի ոճերը:</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="hy" level="2" l10n="NEW">Գերկապեր</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="hy" l10n="NEW">Բնիկ OpenDocument գերկապերը փոխանցված են &quot;արտաքին&quot; Wiki կապերի։ Հետեւաբար, OpenDocument-ի ներկառուցված կապող հնարավորությունը պետք է օգտագործվի միայն այնպիսի հղումներ ստեղծելու համար, որոնք մատնանշում են Wiki-ի վեբ կայքից դուրս գտնվող այլ կայքերին: Wiki հղումներ ստեղծելու համար, որոնք մատնանշում են նույն Wiki տիրույթում գտնվող այլ խորագրերի, օգտագործեք Wiki հղումներ:</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="hy" level="2" l10n="NEW">Ցուցակներ</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="hy" l10n="NEW">Ցանկերը կարող են հուսալիորեն արտահանվել, երբ ամբողջ ցուցակը օգտագործում է հաջորդական ցանկի ոճը: Օգտագործեք Համարակալման կամ Փամփուշտների պատկերիկը, Writer-ում ցուցակի ստեղծման համար: Եթե Ձեզ անհրաժեշտ է ցուցակ առանց համարակալման կամ փամփուշտների, ապա օգտագործեք Ձևաչափ - Փամփուշտներ և Համարակալում` համապատասխան ցուցակի ոճը սահմանելու և կիրառելու համար:</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="hy" level="2" l10n="NEW">Պարագրաֆներ</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="hy" level="3" l10n="NEW">Հավասարեցում</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="hy" l10n="NEW">Վիքի հոդվածներում չպետք է օգտագործվի տեքստի բացահայտ դասավորվածությունը: Այնուամենայնիվ, տեքստի հավասարեցումը աջակցվում է տեքստի ձախ, դեպի կենտրոն և աջ հավասարեցման համար:</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="hy" level="3" l10n="NEW">Նախձևավորված տեքստ</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="hy" l10n="NEW">Սևեռված լայնությամբ տառատեսակով պարագրաֆի ոճը վերափոխվում է որպես նախաձևաչափված տեքստ: Նախաձևաչափված տեքստը Wiki-ում ցուցադրվում է տեքստի շուրջը շրջանակով:</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="hy" level="2" l10n="NEW">Նիշի ոճեր</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="hy" l10n="NEW">Նիշերի ոճերը փոփոխում են պարագրաֆի հայտնվելու մասերը: Ձևափոխումը աջակցում է թավագիրը, շեղագիրը, թավ/շեղագիրը, ենթասկրիպտը և վերնասկրիպտը: Բոլոր սևեռված լայնքի տառատեսակները վերափոխվում են Wiki գրամեքենայի ոճի:</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="hy" level="2" l10n="NEW">Տողատակեր</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="hy" l10n="NEW">Նշում. Փոխակերպումը օգտագործում է նոր ծանոթագրության ոճը &lt;ref&gt; և &lt;references&gt; պիտակներով, որոնք պահանջում են Cite.php ընդլայնումը տեղադրել MediaWiki -ում: Եթե այդ պիտակները փոխակերպման արդյունքում պարզ տեքստ են լինում, խնդրեք Wiki -ի կառավարիչին տեղադրելու այս ընդլայնումը:</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="hy" level="2" l10n="NEW">Պատկերներ</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="hy" l10n="NEW">Պատկերները չեն կարող արտահանվել վերափոխման միջոցով, ստեղծելով Wiki տեքստի մեկ նիշք: Այնուամենայնիվ, եթե պատկերն արդեն վերբեռնվում է թիրախային Wiki տիրույթում (այսինքն WikiMedia Commons), ապա վերափոխումն արտադրում է վավեր պատկերի պիտակ, որը ներառում է պատկերը: Նյութերի նկարագրությունները նույնպես աջակցվում են:</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="hy" level="2" l10n="NEW">Աղյուսակներ</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="hy" l10n="NEW">Պարզ աղյուսակները լավ են աջակցվում։ Աղյուսակի վերնագրերը թարգմանվում են համապատասխան Wiki ոճի սեղանի վերնագրերում: Սակայն օգտվողի կողմից աղյուսակի սահմանների ձևաչափումը , սյունակների չափերը և հետնամասի գույներն անտեսվում են:</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="hy" level="3" l10n="NEW">Միավորված բջիջներ</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="hy" l10n="NEW">OpenDocument-ը և հատկապես OpenOffice.org-ը ներկայացնում են աղյուսակներ, որոնք միացրել են բջիջները, որոնք ընդգրկում են տողերը որպես աղյուսակում ներդրված աղյուսակներ: Ի տարբերություն աղյուսակի wiki  մոդելը` նման միացվող բջիջների համար պետք է հայտարարի սյունակի և տողեի միջակայքերը: </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="hy" l10n="NEW">Եթե միայն միացված են նույն շարքի սյունակները, վերափոխման արդյունքը շատ լավ հիշեցնում է սկզբնական փաստաթղթին:</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="hy" level="3" l10n="NEW">Սահմաններ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="hy" l10n="NEW">Անկախ սահմանների և հետնամասի համար օգտվողի աղյուսակի ոճերի, աղյուսակը միշտ արտահանվում է որպես &quot;<emph>prettytable&quot;</emph>, որը Wiki-ի շարժիչում մատնանշում է պարզ սահմաններով և թավ վերնագրով:</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="hy" level="2" l10n="NEW">Նիշերի բազմությունև հատուկ նիշեր։</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="hy" l10n="NEW">Փոխակերպման արդյունքի նիշերի բազմությունն ամրագրված է ոչրպես UTF-8: Կախված ձեր համակարգից, սա չի կարող լինել լռելյայն նիշերի բազմություն: Սա կարող է տպավորություն ստեղծել «հատուկ նիշերի» կոտրվելուն, երբ դիտվում են լռելյայն կարգավորումներով: Այնուամենայնիվ, դուք կարող եք փոխել ձեր խմբագրիչը UTF-8 կոդավորմամբ, որպեսզի դա շտկվի: Եթե ձեր խմբագիրը չի աջակցում կոդավորման անցումը, ապա փոփոխման արդյունքը կարող եք ցուցադրել Firefox դիտակում և այնտեղ փոխարկել կոդավորումը UTF-8 -ի: Այժմ, դուք կարող եք կտրել և տեղադրել վերափոխման արդյունքը քո ընտրած ծրագրում:</paragraph>
+</body>
+</helpdocument>

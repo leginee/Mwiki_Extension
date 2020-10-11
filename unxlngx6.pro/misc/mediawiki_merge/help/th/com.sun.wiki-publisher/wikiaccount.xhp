@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="th">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="th" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="th" l10n="NEW">ใช้กล่องโต้ตอบ MediaWiki เพื่อเพิ่มหรือแก้ไขการตั้งค่าบัญชี MediaWiki ของคุณ</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="th" l10n="NEW"><ahelp hid="." visibility="hidden">ป้อน URL ของเซิร์ฟเวอร์ MediaWiki ขึ้นต้นด้วย http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="th" l10n="NEW"><ahelp hid="." visibility="hidden">ป้อนชื่อผู้ใช้ของคุณบนเซิร์ฟเวอร์ MediaWiki เว้นว่างสำหรับการเข้าใช้แบบนิรนาม</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="th" l10n="NEW"><ahelp hid="." visibility="hidden">ป้อนรหัสผ่านของคุณบนเซิร์ฟเวอร์ MediaWiki เว้นว่างสำหรับการเข้าใช้แบบนิรนาม</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="th" l10n="NEW"><ahelp hid="." visibility="hidden">เปิดการทำงานเพื่อเก็บรหัสผ่านของคุณสำหรับใช้ในครั้งต่อไป จะต้องให้รหัสผ่านหลักทำงานด้วย ดูที่<item type="menuitem">เครื่องมือ - ตัวเลือก - %PRODUCTNAME - ความมั่นคง</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="th" l10n="NEW">ป้อนที่อยู่ทางอินเตอร์เน็ตของวิกิเซิร์ฟเวอร์ในรูปแบบทำนองต่อไปนี้ http://wiki.services.openoffice.org/wiki หรือคัดลอก URL จากเว็บเบราเซอร์</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="th" l10n="NEW">ถ้า Wiki ยอมให้เข้าใช้งานแบบนิรนาม คุณสามารถปล่อยให้กล่องข้อความว่าง หรือมิฉะนั้นก็ป้อนชื่อผู้ใช้และรหัสผ่านของคุณ</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="th" l10n="NEW">ถ้าคุณได้เปิดการใช้งานรหัสผ่านหลักในหน้าแท็บความมั่นคงของกล่องโต้ตอบ เครื่องมือ - ตัวเลือก - %PRODUCTNAME โปรแกรมก็จะสามารถเก็บรหัสผ่านของคุณไว้และป้อนข้อมูลโดยอัตโนมัติเมื่อจำเป็น ให้เปิดการใช้งานของ &quot;บันทึกรหัสผ่าน&quot; เพื่อเก็บรหัสผ่านของคุณ</paragraph>
+</body>
+</helpdocument>

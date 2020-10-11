@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="te">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="te" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="te" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="te" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ వుపయోగించి మీరు మీ ప్రస్తుత Writer పాఠ్యపు దస్త్రమును MediaWiki సేవికకు అప్‌లోడ్ చేయవచ్చును. అప్‌లోడ్ తర్వాత, వికి వినియోగదారులు మీ పత్రమును వికీనందు చదువగలరు.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="te" l10n="NEW"><ahelp hid=".">ప్రస్తుత Writer పత్రమును MediaWiki సేవికకు అప్‌లోడ్ చేయుటకు <item type="menuitem">ఫైల్ - పంపుము - MediaWikiనకు</item> యెంచుకొనుము.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="te" level="2" l10n="NEW">సిస్టమ్ అవసరాలు</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="te" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="te" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="te" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="te" l10n="NEW">మద్దతిచ్చు <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> సేవికనందు వికీ ఖాతా.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="te" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ సంస్థాపించుచున్నది</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="te" l10n="NEW">మీరు @WIKIEXTENSIONPRODUCTNAME@ సంస్థాపించుటకు ముందుగా, %PRODUCTNAME Java Runtime Environment (JRE) వుపయోగించునట్లు చూచుకొనుము. JRE స్థితిని పరిశీలించుటకు, <item type="menuitem">సాధనములు - ఐచ్చికములు - %PRODUCTNAME - Java</item> పరిశీలించుము. &quot;Java runtime environment వుపయోగించు&quot; గుర్తుంచబడి వుండునట్లు మరియు ఆ జావా రన్‌టైమ్ ఫోల్డర్ బిగ్ జాబితాపెట్టెనందు యెంపికకాబడునట్లు చూచుకొనుము. JRE క్రియాశీల పరచకపోతే, JRE 1.4 లేదా తరువాతది క్రియాశీలపరచి %PRODUCTNAME పునఃప్రారంభించుము.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="te" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ సంస్థాపించుటకు</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="te" l10n="NEW">లోపల<item type="menuitem"> పనిముట్లు పొడిగింపు</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="te" l10n="NEW">పొడిగింపు నిర్వాహిక డైలాగునందు, జతచేయి నొక్కుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="te" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt గుర్తించుము, తెరువుటను నొక్కి, అప్పుడు మూయము నొక్కండి.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="te" l10n="NEW">%PRODUCTNAME మూయుము, మరియు Quickstarter చేతనపరచబడి వుంటే దానినికూడా మూయుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="te" l10n="NEW">సాఫ్టువేర్‌ను పునఃప్రారంభించుము, పాఠ్యపు పత్రమును తెరువుము, అప్పుడు <item type="menuitem">సాధనములు - ఐచ్చికములు - ఇంటర్నెట్ - MediaWiki</item> ను యెంచుకొనుము వికి అమర్పులు ప్రవేశపెట్టుటకు. &quot;వికికు అనుసంధానించుటకు&quot; క్రింద చూడుము.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="te" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ తీసివేయుటకు</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="te" l10n="NEW">Writer విండోనందు, <item type="menuitem">సాధనములు - పొడిగింపు నిర్వాహిక</item> యెంచుకొనుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="te" l10n="NEW">నా పొడిగింపుల ముందలి (+) గుర్తును నొక్కండి.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="te" l10n="NEW">పొడిగింపును యెంపికచేయుము, తీసివేయి నొక్కుము, మరియు మూయుము నొక్కుము.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="te" level="2" l10n="NEW">వికికు అనుసంధానించుటకు</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="te" l10n="NEW">గమనిక: మీరు %PRODUCTNAME లోపల మీ వినియోగదారి నామము మరియు సంకేతపదముకు చెందిన అన్ని డైలాగులను నిల్వవుంచవచ్చును. సంకేతపదము సురక్షిత మార్గములో నిల్వవుంచబడుతుంది, యిచట యాక్సెస్ అనునది ముఖ్య సంకేతపదము ద్వారా నిర్వహించబడుతుంది. ఈ ముఖ్య సంకేతపదమును చేతనము చేయుటకు,<item type="menuitem">సాధనములు - ఐచ్చికములు - %PRODUCTNAME - రక్షణ</item> యెంచుకొనుము.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="te" l10n="NEW">గమనిక: మీరు ప్రోక్సీ సేవికను వుపయోగించి వెబ్‌నకు అనుసంధానమైతే, ప్రోక్సీ సమాచారమును <item type="menuitem">సాధనములు - ఐచ్చికములు - ఇంటర్నెట్ - ప్రోక్సీనకు</item> ప్రవేశపెట్టుము, మరియు సాఫ్టువేరును పునఃప్రారంభించుము.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="te" l10n="NEW">Writer పత్రమును తెరిచి, <item type="menuitem">సాధనములు - ఐచ్చికములు - యింటర్నెట్ - MediaWiki</item> యెంచుకొనుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="te" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">ఐచ్చికముల</link> డైలాగునందు, జతచేయి వత్తుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="te" l10n="NEW">వీకీ కొరకు <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> డైలాగ్‌నందు, ఖాతా సమాచారమును ప్రవేశపెట్టుము.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="te" l10n="NEW">URL టెక్స్టుబాక్సు నందు, మీరు అనుసంధానం కావాలని అనుకొనుచున్న వికి చిరునామాను ప్రవేశపెట్టుము.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="te" l10n="NEW">మీరు URLను వెబ్ బ్రౌజర్‌నుండి నకలుతీసి టెక్స్టుబాక్సునందు అతికించవచ్చును.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="te" l10n="NEW">వినియోగదారి పెట్టెనందు, వికి ఖాతా కొరకు మీరు వినియోగదారి ID ప్రవేశపెట్టుము.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="te" l10n="NEW">ఒకవేళ వికి పేరులేని యాక్సెస్‌కు అనుమతినిస్తే, మీరు వినియోగదారినామము మరియు సంకేతపదము పెట్టెలను ఖాళీగా విదిలివేయవచ్చును.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="te" l10n="NEW">సంకేతపదము పెట్టెనందు, వికీ ఖాతా కొరకు మీ సంకేతపదమును ప్రవేశపెట్టి, సరే నొక్కుము.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="te" l10n="NEW">సెషన్ల మద్యన సంకేతపదమును దాయుటకు ఐచ్చికముగా &quot;సంకేతపదము దాయి&quot; చేతనము చేయుము. అన్ని దాయబడిన సంకేతపదములను యాక్సెస్ చేయుటకు వొక ముఖ్య సంకేతపదము వుపయోగించబడుతుంది. సంకేతపదమును చేతనము చేయుటకు <item type="menuitem">సాధనములు - ఐచ్చికములు - %PRODUCTNAME - రక్షణను</item> యెంచుకొనుము ముఖ్య సంకేతపదమును చేతనము చేయుటకు. ముఖ్య సంకేతపదము చేతనము చేయకపోతే &quot;సంకేతపదమును దాయి&quot; అందుబాటులో వుండదు.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="te" level="2" l10n="NEW">నిర్మించు క్రొత్త పుట</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="te" l10n="NEW">Writer పత్రమును తెరువుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="te" l10n="NEW">వికి పేజీయొక్క సారమును వ్రాయుము. మీరు పాఠ్యము ఫార్మాట్, హెడ్డింగ్సు, ఫుట్‌నోట్స్, మరియు మరిన్న ఫార్మాట్సు వుపయోగించవచ్చును.<link href="@WIKIEXTENSIONID@/wikiformats.xhp">మద్దతిచ్చు ఫార్మాట్ల జాబితా</link> చూడండి.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="te" l10n="NEW"><item type="menuitem">దస్త్రము - పంపు - MediaWikiనకు</item> యెంచుకొనుము.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="te" l10n="NEW">లోపల<link href="@WIKIEXTENSIONID@/wikisend.xhp"> పంపుము MediaWiki</link> డైలాగ్ కొరకు.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="te" l10n="NEW"><emph>MediaWiki సేవిక</emph>: వికిని యెంపికచేయి.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="te" l10n="NEW"><emph>శీర్షిక</emph>: మీ పేజీయొక్క శీర్షికను టైపు చేయుము. మీ ప్రస్తుత పాఠ్యపు పత్రముతో యిప్పటికేవున్న పత్రమును తిరిగివ్రాయుటకు పత్రము శీర్షికను టైపు చేయుము. వికీనందు కొత్త పేజీను సృష్టించుటకు కొత్త శీర్షికను టైపు చేయుము.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="te" l10n="NEW"><emph>సంక్షిప్తసమాచారము</emph>: మీ పేజీ కొరకు వొక ఐచ్చిక క్లుప్త సమాచారమును ప్రవేశపెట్టుము.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="te" l10n="NEW"><emph>ఇది వొక చిన్న సరికూర్పు</emph>: అదే శీర్షకతో యిప్పటికే వున్న పేజీ యొక్క చిన్న సరికూర్పుగా అప్‌లోడ్ చేసిన పేజీను గుర్తించుటకు యీ బాక్స్‌ను చెక్ చేయుము.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="te" l10n="NEW"><emph>వెబ్‌బ్రౌజర్‌నందు చూపుము</emph>: మీ సిస్టమ్ వెబ్‌బ్రౌజర్‌ను తెరుచుటకు ఈ పెట్టెను పరిశీలించుము మరియు అప్‌లోడ్ చేసిన వికి పేజీను చూపుము.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="te" l10n="NEW">పంపుము నొక్కుము.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

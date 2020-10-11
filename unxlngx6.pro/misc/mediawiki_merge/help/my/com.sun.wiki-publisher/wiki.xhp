@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="my">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="my" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="my" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="my" l10n="NEW"><ahelp hid="."> မီဒီယာဝီကီဆာဗာသို့ သင့်လက်ရှိ စာသားမှတ်တမ်းမှတ်ရာရေးသားသူ၏ သတင်းအချက်အလက်များပေးပို့နိုင်ရန် @WIKIEXTENSIONPRODUCTNAME@ ကိုအသုံးပြုပါ။ ပေးပို့မှုများပြုပြီးနောက် ဝီကီပေါ်တွင် သင့်မှတ်တမ်းမှတ်ရာများကို ဝီကီအသုံးပြုသူအားလုံးဖတ်နိုင်သည်။ </ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="my" l10n="NEW"><ahelp hid="."> ရွေးချယ်ပါ။ မီဒီယာဝီကီဆာဗာသို့ လက်ရှိမှတ်တမ်းမှတ်ရာရေးသားသူ၏ အချက်အလက်များလွှဲပြောင်းပေးပို့ရန် &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ဖိုင် - ပေးပို့ပါ - မီဒီယာဝီကီသို့&lt;/အချက်အလက်&gt; ကိုရွေးချယ်ပါ။ </ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="my" level="2" l10n="NEW">စနစ် လိုအပ်ချက်များ</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="my" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="my" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="my" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="my" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> ဆာဗာကိုထောက်ပံ့မှုပြုရန် ဝီကီစာရင်း</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="my" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ထည့်သွင်းနေသည်</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="my" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ အားသင်ထည့်သွင်းမှုမပြုမီ %PRODUCTNAMEအနေဖြင့် ဂျာဗားလုပ်ဆောင်မှုဝန်းကျင် (JRE) ကိုအသုံးပြုသည်မှာ သေချာသည်။ JRE၏ အခြေအနေများကို စစ်ဆေးမှုပြုရန် &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - %PRODUCTNAME - ဂျာဗား&lt;/အချက်အလက်&gt; ကိုရွေးချယ်ပါ။ ရွေးချယ်မှုသေတ္တာရှိ ဂျာဗားလုပ်ဆောင်မှု ဖိုဒါကို ရွေးချယ်ပြီး&quot;ဂျာဗားလုပ်ဆောင်မှုဝန်းကျင်&quot;ကို အသုံးပြုမှတ်သားပါ။ JRE လုပ်ဆောင်မှုမပြုလျှင်JRE 1.4(သို့)နောက်ပိုင်းဗားရှင်းတစ်ခုကိုလုပ်ဆောင်မှုပြုပါ။ပြီးလျှင် %PRODUCTNAMEပြန်လည်စတင်ပါ။</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="my" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ကိုထည့်သွင်းရန်</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="my" l10n="NEW">ဝင်းဒိုးရေးသားသူတစ်ယောက်တွင် &lt;အချက်အလက်အမျိုးအစား=&quot;အမျိုးအစားမီနူး&quot;&gt;ရွေးပိုင်ခွင့်များ -မန်နေဂျာတိုးချဲ့မှု&lt;/အချက်အလက်&gt; ရွေးချယ်ပါ</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="my" l10n="NEW">မန်နေဂျာတိုးချဲ့မှု ဒိုင်ယာလော့ခ်တွင် ထပ်ဖြည့်ပါကိုကလစ်နှိပ်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="my" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ဖိုင်တည်ရှိသည်။ ဖွင့်ပါ ကိုကလစ်နှိပ်ပါ။ ပြီးလျှင် ပိတ်ပါကို ကလစ်နှိပ်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="my" l10n="NEW">%PRODUCTNAME ကိုပိတ်ပြီး လုပ်ဆောင်မှုပြုရန် လျင်မြန်စွာစတင်သူကိုလည်း ပိတ်ပေးပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="my" l10n="NEW">စာသားမှတ်တမ်းမှတ်ရာတစ်ခုဖွင့်ရန် ဆော့ဖ်ဝဲ ပြန်လည်စတင်ပါ။ ထို့နောက် သင့်ဝီကီပြင်ဆင်ချိန်ညှိမှုများသို့ဝင်ရောက်ရန် &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - အင်တာနက် - မီဒီယာဝီကီ&lt;/အချက်အလက်&gt; ကိုရွေးချယ်ပါ။ အောက်ဖက်ရှိ ဝီကီတစ်ခုသို့ ချိတ်ဆက်မှုပြုရန် ကြည့်ရှုပါ။</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="my" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ကို ဖယ်ရှားရန်</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="my" l10n="NEW">ဝင်းဒိုးရေးသားသူတစ်ယောက်တွင် &lt;အချက်အလက်အမျိုးအစား=&quot;အမျိုးအစားမီနူး&quot;&gt;ရွေးပိုင်ခွင့်များ -မန်နေဂျာတိုးချဲ့မှု&lt;/အချက်အလက်&gt; ရွေးချယ်ပါ</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="my" l10n="NEW">ကျွန်ုပ်၏တိုးချဲ့မှုများရှေ့တွင် အပေါင်းသင်္ကေတ(+)ကိုကလစ်နှိပ်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="my" l10n="NEW">တိုးချဲ့မှုများရွေးချယ်ပါ။ ဖယ်ရှားပါကို ကလစ်နှိပ်ပြီး ပိတ်ပါကို ကလစ်နှိပ်ပါ။</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="my" level="2" l10n="NEW">ဝီကီသို့ ချိတ်ဆက်ပါ</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="my" l10n="NEW">မှတ်ချက်- %PRODUCTNAMEအတွင်းရှိ ဒိုင်ယာလော့ခ်များအတွက် သင်၏အသုံးပြုသူအမည်နှင့်စကားဝှက် သိမ်းဆည်းနိုင်သည်။ ပင်မစကားဝှက်တစ်ခုအနေဖြင့် ရယူသုံးစွဲနိုင်ရန် လုံခြုံမှုရှိသည့်နည်းလမ်းဖြင့် စကားဝှက်အား သိမ်းဆည်းမှုပြုလိမ့်မည်။ ပင်မစကားဝှက်အား အသုံးပြု နိုင်ရန် &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး’’&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - %PRODUCTNAME - လုံခြုံရေးဆိုင်ရာ&lt;/အချက်အလက်&gt; ရွေးချယ်ပါ။</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="my" l10n="NEW">မှတ်ချက်- ပရောက်ဇီဆာဗာအသုံးပြုထားသည့် ကွန်ယက်သို့ သင်ချိတ်ဆက်လိုလျှင် ပရောက်ဇီနှင့်ပတ်သက်သည့် သတင်းအချက်အလက်များကို&lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - အင်တာနက် - ပရောက်ဇီ&lt;/အချက်အလက်&gt;တွင်ရယူပြီး ဆော့ဖ်ဝဲပြန်လည်စတင်ပါ။</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="my" l10n="NEW">မှတ်တမ်းမှတ်ရာရေးသားသူကိုဖွင့်ပြီး &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - အင်တာနက် - မီဒီယာဝီကီ&lt;/အချက်အလက်&gt;ကိုရွေးချယ်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="my" l10n="NEW">In the <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Options</link> dialog, click Add.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="my" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> ဒိုင်ယာလော့ခ်တွင် ဝီကီအတွက် စာရင်းသတင်းအချက် အလက်ရိုက်ထည့်ပါ။</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="my" l10n="NEW">URL စာသားသေတ္တာတွင် သင်ဆက်သွယ်လိုသည့် ဝီကီလိပ်စာကို ရိုက်ထည့်ပါ။</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="my" l10n="NEW">URL ကို ကွန်ယက်ဘရောက်ဇာမှ ကူးယူပြီး စာသားသေတ္တာတွင် ပြန်ထည့်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="my" l10n="NEW">အသုံးပြုသူအမည်သေတ္တာတွင် ဝီကီစာရင်းအတွက် သင့်အိုင်ဒီကို ရိုက်ထည့်ပါ။</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="my" l10n="NEW">ဝီကီမှ ရေးသားသူအမည်မပါဘဲ ရေးသားခွင့်ရလျှင် အသုံးပြုသူအမည်နှင့်စကားဝှက်သေတ္တာများတွင် နေရာလွတ်ထားခဲ့နိုင်သည်။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="my" l10n="NEW">စကားဝှက်သေတ္တာတွင် သင့်ဝီကီစာရင်းအတွက် စကားဝှက် ရိုက်ထည့်ပါ. ပြီးလျှင် အိုကေကို ကလစ်နှိပ်ပါ။</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="my" l10n="NEW">အပိုင်းများကြားရှိ စကားဝှက်သိမ်းဆည်းမှုပြုရန် &quot;စကားဝှက်သိမ်းဆည်းပါ&quot; ကိုလုပ်ဆောင်မှုပြုပါ။ သိမ်းဆည်းထားသည့် စကားဝှက်များအားလုံးကို ရယူထိန်းသိမ်းနိုင်ရန် ပင်မစကားဝှက်တစ်ခုအသုံးပြုပါ။ ပင်မစကားဝှက်တစ်ခုအသုံးပြု နိုင်ရန် &lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး &quot;&gt;ကိရိယာများ - ရွေးပိုင်ခွင့်များ - %PRODUCTNAME - လုံခြုံရေးဆိုင်ရာ&lt;/အချက်အလက်&gt;ကိုရွေးချယ်ပါ။ ပင်မစကားဝှက်အသုံးမပြုသောအခါ&quot;စကားဝှက်သိမ်းဆည်းပါ&quot;ကို အသုံးမပြုပါနှင့်။ </paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="my" level="2" l10n="NEW">ဝီကီစာမျက်နှာ အသစ် တည်ဆောက်ရန်</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="my" l10n="NEW">မှတ်တမ်းမှတ်ရာရေးသားသူဖွင့်ပါ</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="my" l10n="NEW">ဝီကီစာမျက်နှာ၏ မာတိကာများ ရေးသားပါ။ စာသားစီစဉ်ဖွဲ့စည်းမှုပုံစံကဲ့သို့ ဖွဲ့စည်းမှုပုံစံများ၊ ခေါင်းစဉ်များ၊ အောက်ခြေမှတ်စုများနှင့် အခြားအရာများ အသုံးပြု နိုင်သည်။ စီစဉ်ဖွဲ့စည်းမှုပုံစံစာရင်းများကို <link href="@WIKIEXTENSIONID@/wikiformats.xhp"> တွင်ကြည့်ပါ။ </link></paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="my" l10n="NEW">&lt;အချက်အလက်အမျိုးအစား=&quot;အချက်အလက်မီနူး&quot;&gt;ဖိုင် - ပေးပို့ပါ - မီဒီယာဝီကီသို့ &lt;/အချက်အလက်&gt; ရွေးချယ်ပါ။</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="my" l10n="NEW">သင်၏ ဝင်ရောက်မှုများအတွက် အထူးပြင်ဆင်ချိန်ညှိမှုများပြုရန် <link href="@WIKIEXTENSIONID@/wikisend.xhp">တွင် MediaWiki</link>ဒိုင်ယာလော့ခ်ကို ပေးပို့ပါ။</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="my" l10n="NEW"><emph>MediaWiki ဆာဗာ</emph>: ဝီကီရွေးချယ်ပါ</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="my" l10n="NEW"><emph>ခေါင်းစဉ်</emph>: သင့်စာမျက်နှာ၏ ခေါင်းစဉ်အမျိုးအစား။ လက်ရှိစာသားမှတ်တမ်းမှတ်ရာနှင့်အတူ ရှိပြီးသားစာမျက်နှာ၏ ခေါင်းစဉ်အမျိုးအစားများကို ဖျက်ပြီးအသစ်ဖြင့်အစားထိုးပါ။ ဝီကီပေါ်တွင် စာမျက်နှာအသစ်တစ်ခုဖန်တီးရန် ခေါင်းစဉ်အမျိုးအစားသစ်တစ်ခု။</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="my" l10n="NEW"><emph>အကျဉ်းချုပ်</emph>း သင့်စာမျက်နှာ၏ ရွေးပိုင်ခွင့် အတိုချုပ်ကို ရိုက်ထည့်ပါ။</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="my" l10n="NEW"><emph>အသေးစားတည်းဖြတ်မှုဖြစ်သည်</emph>: တူညီသော ခေါင်းစဉ်များနှင့်အတူ ရှိပြီးသားစာမျက်နှာ၏ အသေးစားတည်းဖြတ်မှုများအဖြစ် စာမျက်နှာတွင် မှတ်သားမှုပြုရန် ဤသေတ္တာအား ရွေးချယ်မှုပြုပါ။</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="my" l10n="NEW"><emph>ကွန်ယက်ဘရောက်ဇာတွင် ပြသပါ</emph>: သင့်ကွန်ပျူတာရှိ ကွန်ယက်ဘရောက်ဇာကို ဖွင့်ရန် ဤသေတ္တာအား ရွေးချယ်မှုပြုပါ။ ပြီးလျှင် ဝီကီ စာမျက်နှာရှိ သတင်းအချက်အလက်များ လွှဲပြောင်းပေးပို့မှုအား ပြသပါ။ </paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="my" l10n="NEW">ပို့ပါ ကို နှိပ်ပါ။</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

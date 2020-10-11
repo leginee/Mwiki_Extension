@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="oc">Formats MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="oc" level="1" l10n="NEW">Formats MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="oc" l10n="NEW">La lista seguenta balha un apercebut dels formats de tèxte que @WIKIEXTENSIONPRODUCTNAME@ pòt metre en linha sul servidor Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="oc" l10n="NEW">Lo format OpenDocument utilizat per Writer e lo de  WikiMedia son un briu diferents. Sonque de sosensemble de totas las foncionalitats pòt èsser transformat d'un format cap a l'autre.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="oc" level="2" l10n="NEW">Títols</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="oc" l10n="NEW">Aplicatz un estil de paragraf títol als títols dins lo document Writer. Lo Wiki aficharà los estils de títols al meteis nivèl de plan, formatat coma definit pel motor del Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="oc" level="2" l10n="NEW">Iperligams</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="oc" l10n="NEW">Los iperligams OpenDocument natius son transformats en ligams Wiki &quot;extèrnes&quot;. E mai la facilitat intèrna de ligam oferta per OpenDocument deu èsser utilizada sonque per crear de ligams que puntan sus d'autres sites en defòra del web Wiki. Per crear de ligams Wiki que puntan cap a d'autres subjèctes del meteis domeni Wiki, utilizatz los ligams Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="oc" level="2" l10n="NEW">Listas</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="oc" l10n="NEW">Las listas se pòdon exportar en tota fisança quora la lista complèta utiliza un estil de lista coerent. Utilizatz l'icòna Piuses e numerotacions per generir una lista dins Writer. S'avètz besonh d'una lista sens numerotacions o piuses, utilizatz Format - Piuses e numerotacions per definir e aplicar l'estil de lista respectiu.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="oc" level="2" l10n="NEW">Paragrafes</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="oc" level="3" l10n="NEW">Alinhament</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="oc" l10n="NEW">L'alinhament de tèxte explicit deu pas èsser utilizat dins los articles de Wiki. Pasmens, l'alinhament del tèxte es suportat per l'alinhament a esquèrra, central e a drecha del tèxte.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="oc" level="3" l10n="NEW">Tèxte preformatat</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="oc" l10n="NEW">Un estil de paragraf amb una poliça de largor fixa es transformada en tèxte preformatat. Lo tèxte preformatat es afichat sul Wiki amb un bordadura a l'entorn del tèxte.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="oc" level="2" l10n="NEW">Estils de caractèrs</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="oc" l10n="NEW">Los estils de caractèr modifican l'aparéncia de las partidas d'un paragraf. La transformacion supòrta lo gras, l'italica, l'italica gras, l'expausant e l'indici. Totas las poliças fixas son transformadas dins l'estil maquina d'escriure Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="oc" level="2" l10n="NEW">Nòtas de pè de pagina</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="oc" l10n="NEW">Nòta : La transformacion utiliza l'estil de nòta de pè de pagina novèl amb las etiquetas &lt;ref&gt; e &lt;references&gt; qu'an besonh de l'extension Cite.php installada dins MediaWiki. S'aquestas etiquetas apareisson coma tèxte plen dins lo resultat transformat, vos cal demandar l'installacion d'aquesta extension per l'administrator del Wiki.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="oc" level="2" l10n="NEW">Imatges</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="oc" l10n="NEW">Las imatges se  pòdon pas exportar per una transformacion que produirà un sol fichièr de tèxte Wiki. Mas se l'imatge ja es cargada del domeni Wiki (ex. WikiMedia Commons), alara la transformacion produtz una etiqueta d'imatge valida que inclutz l'imatge ela metaissa. Las legendas de l'imatge tanben son suportadas.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="oc" level="2" l10n="NEW">Tablèus</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="oc" l10n="NEW">Los tablèus simples son preses en carga plan. Las entèstas de tablèus son transformadas en entèstas que correspondon amb l'estil Wiki. Totun, lo formatatge personalizat de las taulas per las bordaduras, la talha de colomas e las colors de fons son ignoradas.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="oc" level="3" l10n="NEW">Cellulas juntas</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="oc" l10n="NEW">OpenDocument e especialament OpenOffice.org representan los tablèus qu'an de cellulas juntas qu'espandisson las linhas coma de tablèus amb de tablèus imbricats. Al contrari, lo modèl wiki d'un tablèu es de declarar las colomnas e las linhas espandidas per de talas cellulas juntas. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="oc" l10n="NEW">Se sonque las colomnas d'una meteissa linha son juntas, lo resultat de la transformacion se sembla fòrça al document font.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="oc" level="3" l10n="NEW">Bordaduras</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="oc" l10n="NEW">Sens respectar los estils de tablèus personalizats per las bordaduras e lo rèire plan, un tablèu es totjorn exportat coma &quot;<emph>prettytable&quot;</emph>, aquò balha rendut de bordaduras simple e d'entèsta en gras pel motor Wiki.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="oc" level="2" l10n="NEW">Jòc de caractèrs e caractèrs especials</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="oc" l10n="NEW">Lo jòc de caractèrs del resultat de la transformacion es fixat en UTF-8. En foncion de vòstre sistèma operatiu, benlèu qu'aqueste darrièr es pas lo jòc de caractèrs per defaut. Los &quot;caractèrs especials&quot; semblaràn copats quand seràn afichats amb los paramètres per defaut. Çaquelà, podètz reglar vòstre editor sus un encodatge UTF-8 per corregir aquò. Se vòstre editor supòrta pas un cambiament d'encodatge, podètz afichar lo resultat de la transformacion dins lo navigador Firefox e reglar l'encodatge sus UTF-8 ici. Ara, podètz copar e empegar lo resultat de la transformacion dins lo programa qu'auretz causit.</paragraph>
+</body>
+</helpdocument>

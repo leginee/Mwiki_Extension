@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="om">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="om" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>dheertowwan;MiidiyaaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="om" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="om" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ fayyadamuun galmee Barreessaa kee ammaa gara kaadimaa miidiyaawiki olfe'achuu dandeessa. Erga ol feetee booda, fayyadamtootni wiki marti galmee Wikirrtti dubbisuu danda'u.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="om" l10n="NEW"><ahelp hid=".">Galmee Barreessaa kee ammaa gara kaadimaa miidiyaawiki ol fe'uuf <item type="menuitem">Faayilii - Ergi - Gara MiidiyaaWiki</item> fili.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="om" level="2" l10n="NEW">Fedhiilee Sirnaa</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="om" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="om" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="om" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="om" l10n="NEW">Eenyumeessaa Wiki kaadimaa <link href="http://www.mediawiki.org/wiki/MediaWiki">miidiyaawiki</link> deeggarmaarrattii</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="om" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ Qindeessaara</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="om" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ qindeessaauu kee dura, %PRODUCTNAME Java Runtime Environment (JRE) akka fayyadamu mirkaneeffadhu. Haalata JRE mirkaneeffachuuf, <item type="menuitem">Meeshaalee - Dirqalaalee - %PRODUCTNAME - Java</item> fili. &quot;Java runtime environment fayyadami&quot; mallatteeffamuusaafi unkaan Java runtime saanduqa tarree guddicha keessaa filamuu isaa hubadhu. Yoo JREn homaatuu hin kaafamin, JRE 1.4 kaasi ykn %PRODUCTNAME lamkaasi.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="om" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ Qindeessuuf</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="om" l10n="NEW">Fooddaa Barreessaa keessatti, <item type="menuitem">Meeshaalee - Taligaa Dheertoo</item> fili.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="om" l10n="NEW">Qaaqa Taligaa Dheertoo keessatti, Ida'i cuqaasi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="om" l10n="NEW">Bakka faayiliin @WIKIEXTENSIONFILENAME@.oxt jiru deemuun, Bani cuqaasi, kana booda Cufi cuqaasi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="om" l10n="NEW">%PRODUCTNAME cufi, yoo DafeeKaasaa dandeessifamee jiraate isas cufi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="om" l10n="NEW">Qindaa'ina Wiki keetii galchuuf, Mosajicha lamkaasi, galmee barruu baniitii, <item type="menuitem">Meeshaalee - Dirqalaalee - Intarneetii - MiidiyaaWiki</item> fili. &quot;Gara Wikitti Wliindhuuf&quot; armaan gadii ilaali.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="om" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ haquuf</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="om" l10n="NEW">Fooddaa Barreessaa keessatti, <item type="menuitem">Meeshaalee - Taligaa Dheertoo</item> fili.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="om" l10n="NEW">Fuuldura Dheertoowwan Koo irraa mallttoo ida'u (+) cuqaasi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="om" l10n="NEW">Dheertoo fili, Haqi cuqaasii, booda Cufi cuqaasi.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="om" level="2" l10n="NEW">Wikitti Waliindhuuf</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="om" l10n="NEW">Yaadadhu: Maqaa fayyadamaa fi iggita qaaqawwan %PRODUCTNAME keessaa maraaf adda addatti olkaa'achuu dandeessa. Iggitichi haala amnsiisaan kuufama, gahiinsi isaas iggita hundataan too'atama. Iggita hundataa dandeessisuuf, <item type="menuitem">Meeshaalee - Dirqalaalee - %PRODUCTNAME - Ittisa</item> fili.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="om" l10n="NEW">Yaadadhu: Yoo iddoolatti kaadimaa walsimsiisaa fayyadamuun walhiita ta'e, odeeffannoo kaadimaa walsimsiisaa <item type="menuitem">Meeshaalee - Dirqalaalee - Intarneetii - Walsimsiisaa</item> keessatti galchiitii mosajicha lamkaasi.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="om" l10n="NEW">Galmee Barreessaa baniitii, <item type="menuitem">Meeshaalee - Dirqalaalee - Intarneetii - MiidiyaaWiki</item> fili.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="om" l10n="NEW">Qaaqa <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Dirqalaalee</link> keessaa, Ida'i cuqaasi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="om" l10n="NEW">Qaaqa <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MiidiyaaWiikii</link> keessatti, odeeffannoo eenyummeessa Wikichaa galchi.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="om" l10n="NEW">Saanduqa barruu URL keessatti, teessoo Wiki ati itti walhidhuu barbaadduu galchi.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="om" l10n="NEW">URL iyyaafataa saphaphuurraa garagalchuun saanduqa barruu keessatti maxxansuu dandeessa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="om" l10n="NEW">Saanduqa Maqaa Fayyadamaa keessatti, eenyummeessa Wiki keetif ID kee galchi.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="om" l10n="NEW">Yoo Wikichi gahiinsa barreessuu maqadhablee kan hayyamu ta'e, saanduqoota Maqaa Fayyadamaa fi Iggitaa duwwaa dhiisuu dandeessa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="om" l10n="NEW">Saanduqa Iggitaa keessatti, eenyummeessa Wiki keetiif iggita galchitii Tole cuqaasi.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="om" l10n="NEW">Yoo barbaadde &quot;Iggita olkaa'i&quot; dandeessisuun iggita turtiiwwan gidduu olkaa'uu dandeessa. Iggitni Hundataa iggitoota olkaa'aman mara gahuuf fayyada. Iggita hundataa dandeessisuuf <item type="menuitem">Meeshaalee - Dirqalaalee - %PRODUCTNAME - Ittisa</item> fili. Yoo iggitni hundataa hin danddeessifamin &quot;Iggita olkaa'i&quot;n hin jiraatu.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="om" level="2" l10n="NEW">Fuula Wiki Haaraa Uumuuf</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="om" l10n="NEW">Galmee Barreessaa bani.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="om" l10n="NEW">Qabeentaa fuula Wikichaa barreessi. Dhangiiwwan akka dhangii barruu, matadureewwanii, miiljaleewwanii, fi kan biroo fayyadamuu dandeessa. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">Tarree dhangiiwwan deeggarmanii</link> ilaali.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="om" l10n="NEW"><item type="menuitem">Faayila - Ergi - Gara MiidiyaaWiki</item> fili.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="om" l10n="NEW">Qaaqa <link href="@WIKIEXTENSIONID@/wikisend.xhp">Gara MiidiyaaWiikii Ergi</link> keessatti, qindaa'ina galfata keetii ifteessi.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="om" l10n="NEW"><emph>kaadimaa MiidiyaaWiki</emph>: Wikicha Fili.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="om" l10n="NEW"><emph>Mataduree</emph>: Mataduree fuulaa katabi. Fuula dura jiru barruu galmee ammaatin irrabuuf mataduree galmee duraa katabi. Fuula haaraa Wikicharratti uumuuf mataduree haaraa katabi.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="om" l10n="NEW"><emph>Golaba</emph>: Golaba gabaabaa waa'ee fuulaa galchi.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="om" l10n="NEW"><emph>Kuni Gulaala xinnaa dha</emph>: Fuula dura ol fe'amee jiru akka xinnuma gulaalameetti ibsuuf saanduqa kana filadhu.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="om" l10n="NEW"><emph>Iyyaafataa keessatti mul'isi</emph>: Fuula Wiki olfe'ame iyyaafataa sirna keetii irratti bantee ilaaluu yoo barbaadde saanduqa kana filadhu.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="om" l10n="NEW">Ergi Cuqaasi.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

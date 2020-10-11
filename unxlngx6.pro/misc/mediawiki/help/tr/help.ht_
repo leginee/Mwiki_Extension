@@ -1,0 +1,18 @@
+1c vnd.com.sun.star.wiki%3Asend 74 Şu anki Writer belgesini MediaWiki sunucusuna göndermek için Dosya - Gönder - MediaWiki'ye  seçeneğini seçin.
+20 vnd.com.sun.star.wiki%3Aaboutbox b8 Wiki Publisher kullanarak şu anki Writer metin belgenizi MediaWiki sunucusuna gönderebilirsiniz. Gönderdikten sonra, tüm Wiki kullanıcıları Wiki üzerinden belgenizi okuyabilir.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox bf Oturumlar arasında parola saklamayı etkinleştirin. Asıl parola etkinelştirilmek zorundadır. Daha fazla bilgi için Araçlar - Seçenekler - %PRODUCTNAME - Güvenlik seçeneğine bakın.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 53 MediaWiki sunucusu için parolanızı girin. İsimsiz erişim için boş bırakın.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 5d MediaWiki sunucusu için kullanıcı adınızı girin. İsimsiz erişim için boş bırakın.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3c MediaWiki sunucusunun URL'sini girin, http:// ile başlayın
+1f vnd.com.sun.star.wiki%3Aaccount 3c MediaWiki sunucusunun URL'sini girin, http:// ile başlayın
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 6d Sistem web tarayıcınızı açmak ve gönderilmiş Wiki sayfasını göstermek için bu kutuyu işaretleyin.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 99 Aynı başlığı olan zaten varolan bir sayfanın küçük düzenlemesi yapılmış gibi gönderilen sayfayı işaretlemek için bu kutuyu işaretleyin.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 36 İsteğe bağlı olarak kısa özet ya da yorum girin.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 10c Wiki girişinizin başlığını girin. Bu, Wiki girişinizin en üst başlığıdır. Yeni bir giriş için bu Wiki üzerinde başlık benzersiz olmak zorundadır. Eğer varolan bir başlık girerseniz, gönderdiğiniz varolan Wiki girişinin üzerine yazılacaktır.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 82 Belgenizi yayımlamak istediğiniz MediaWiki sunucusunu seçin. Listeye yeni bir sunucu eklemek için Ekle düğmesine tıklayın.
+22 vnd.com.sun.star.wiki%3AsendDialog 82 Belgenizi yayımlamak istediğiniz MediaWiki sunucusunu seçin. Listeye yeni bir sunucu eklemek için Ekle düğmesine tıklayın.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 25 Listeden seçilen girişi kaldırır.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3d Seçilen girişi düzenlemek için MediaWiki iletisini açar.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 40 Listeye yeni bir giriş eklemek için MediaWiki iletisini açar.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList f1 Yeni bir Wiki sunucusu eklemek için Ekle düğmesine tıklayın.Bir giriş seçin ve hesap ayarlarını düzenlemek için Düzenle düğmesine tıklayın.Bir giriş seçin ve listeden girişi kaldırmak için Kaldır düğmesine tıklayın.
+20 vnd.com.sun.star.wiki%3Asettings f1 Yeni bir Wiki sunucusu eklemek için Ekle düğmesine tıklayın.Bir giriş seçin ve hesap ayarlarını düzenlemek için Düzenle düğmesine tıklayın.Bir giriş seçin ve listeden girişi kaldırmak için Kaldır düğmesine tıklayın.

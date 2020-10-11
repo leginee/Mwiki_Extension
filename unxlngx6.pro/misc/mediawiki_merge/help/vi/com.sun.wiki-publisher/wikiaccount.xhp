@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="vi">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="vi" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="vi" l10n="NEW">Hãy sử dụng hộp thoại MediaWiki để thêm hay chỉnh sửa thiết lập tài khoản MediaWiki của bạn.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="vi" l10n="NEW"><ahelp hid="." visibility="hidden">Gõ địa chỉ URL của một máy phục vụ MediaWiki, bắt đầu với giao thức (http://).</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="vi" l10n="NEW"><ahelp hid="." visibility="hidden">Gõ tên người dùng của bạn trên máy phục vụ MediaWiki này. Bỏ trống để truy cập nặc danh.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="vi" l10n="NEW"><ahelp hid="." visibility="hidden">Gõ mật khẩu của bạn trên máy phục vụ MediaWiki này. Bỏ trống để truy cập nặc danh.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="vi" l10n="NEW"><ahelp hid="." visibility="hidden">Bật tùy chọn này để lưu lại mật khẩu của bạn giữa hai buổi đăng nhập. Mật khẩu chủ phải được bật: xem <item type="menuitem">Công cụ - Tùy chọn - OpenOffice.org - Bảo mật</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="vi" l10n="NEW">Gõ địa chỉ Internet của một máy phục vụ Wiki theo định dạng (v.d.) « http://wiki.services.openoffice.org/wiki », hoặc sao chép địa chỉ URL từ trình duyệt Web.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="vi" l10n="NEW">Nếu Wiki này cho phép truy cập nặc danh, bạn có thể bỏ trống các hộp văn bản của tài khoản. Không thì gõ tên người dùng và mật khẩu của bạn.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="vi" l10n="NEW">Nếu bạn đã bật tùy chọn mật khẩu chủ trên thẻ  Bảo mật  của hộp thoại Công cụ - Tùy chọn - OpenOffice.org, phần mềm có khả năng lưu lại mật khẩu của bạn rồi tự động chèn nó theo yêu cầu. Bật tùy chọn &quot;Lưu mật khẩu&quot; để lưu lại mật khẩu của bạn.</paragraph>
+</body>
+</helpdocument>

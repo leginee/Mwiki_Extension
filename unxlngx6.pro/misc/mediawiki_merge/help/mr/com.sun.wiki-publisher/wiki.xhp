@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mr">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="mr" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="mr" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="mr" l10n="NEW"><ahelp hid="."> @WIKIEXTENSIONPRODUCTNAME@ चा वापर करून तुम्ही वर्तमान Writer पाठ्य दस्तऐवज MediaWiki सर्वरवर अपलोड करू शकता. अपलोडींग नंतर, सर्व Wiki वापरकर्ता Wiki वरील दस्तऐवज वाचू शकता.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="mr" l10n="NEW"><ahelp hid="."> वर्तमान Writer दस्तऐवजला MediaWiki सर्वरवर अपलोड करायचे असल्यास <item type="menuitem">MediaWiki करीता - फाइल - पाठवा</item> निवडा.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="mr" level="2" l10n="NEW">पद्धतीच्या आवश्यकता</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="mr" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="mr" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="mr" l10n="NEW">जावा रनटाईम इनवॉरन्मेट 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="mr" l10n="NEW">समर्थीत <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> सर्वर वरील Wiki खाते</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="mr" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ स्थापित करत आहे</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="mr" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ प्रतिष्ठापन करण्यापूर्वी, %PRODUCTNAME Java Runtime Environment (JRE) चा वापर करते याची खात्री करा. JRE ची स्थिती तपासण्याकरीता, <item type="menuitem">साधन - पर्याय - %PRODUCTNAME - Java</item> चा वापर करा. लक्षात ठेवा &quot;Use a Java runtime environment&quot; चिन्हाकृत केले आहे व Java रनटाइम संचयीका यादीत निवडले गेली आहे याची खात्री करा. JRE सक्रीय नसल्यास, JRE 1.4 किंवा पुढिल सक्रीय करा व %PRODUCTNAME पुन्ह प्रारंभ करा.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="mr" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ स्थापित करण्यासाठी</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="mr" l10n="NEW">Writer चौकटीत, <item type="menuitem">साधन - विस्तारण व्यवस्थापक</item> निवडा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="mr" l10n="NEW">एक्सटेन्शन व्यवस्थापक संवादात, समाविष्ट करा वर क्लिक करा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="mr" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt धारिकेस स्थानित करा, उघडा वर क्लिक करा, आणि नंतर बंद करा वर क्लिक करा. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="mr" l10n="NEW">%PRODUCTNAME बंद करा, व तसेच कार्यक्षम असल्यास Quickstarter देखील बंद करा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="mr" l10n="NEW">सॉफ्टवेअर पुन्हा सुरू करा, पाठ्य दस्तऐवज उघडा, व त्यानंतर Wiki संयोजना प्रविष्ट करण्याकरीता <item type="menuitem">साधन - पर्याय - महाजाळ - MediaWiki</item> निवडा. खालिल &quot;To Connect To a Wiki&quot; पर्याय पहा.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="mr" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ला काढून टाकण्यासाठी</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="mr" l10n="NEW">Writer चौकटीत, <item type="menuitem">साधन - विस्तारण व्यवस्थापक</item> पर्याय निवडा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="mr" l10n="NEW">माझ्या एक्सटेन्शनच्या समोर अधिक चिन्हा (+) वर क्लिक करा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="mr" l10n="NEW">एक्सटेन्शन निवडा, काढून टाकण्यावर क्लिक करा, आणि नंतर बंद करा वर क्लिक करा.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="mr" level="2" l10n="NEW">विकी ला जोडण्यासाठी</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="mr" l10n="NEW">टिप: तुम्ही %PRODUCTNAME अंतर्गत आपले वापरकर्ता नाव व पासवर्ड परस्पर संवाद करीता संचयीत करू शकता. पासवर्ड योग्यरित्या सुरक्षीतरित्या संचयीत केले जाईल, जेथे प्रवेश मुख्य पासवर्ड द्वारे सुस्थित केले जाते. मुख्य पासवर्ड कार्यान्वीत करण्याकरीता, <item type="menuitem">साधने - पर्याय - %PRODUCTNAME - सुरक्षा</item> पर्याय निवडा.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="mr" l10n="NEW">टिप: प्रॉक्सी सर्वरचा वापर करून वेबशी जुळवणी स्थापीत करायचे असल्यास, <item type="menuitem">Tools - Options - Internet - Proxy</item> करीता प्रॉक्सी माहिती प्रविष्ट करा, व सॉफ्टवेअर पुन्हा सुरू करा.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="mr" l10n="NEW">Writer दस्तऐवज उघडा, व <item type="menuitem">साधन - पर्याय - महाजाळ - MediaWiki</item> निवडा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="mr" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">पर्याय</link> संवाद अंतर्गत, जोडावर क्लिक करा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="mr" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> संवाद अंतर्गत, Wiki करीता खाते माहिती प्रविष्ट करा.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="mr" l10n="NEW">URL मजकूरबॉक्समध्ये, विकीचा पत्ता एन्टर करा जो आपणास जोडायचा आहे.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="mr" l10n="NEW">आपण वेब ब्राऊजरकडून URL ची प्रत करू शकता आणि मजकूरबॉक्समध्ये त्यास चिकटवू शकता.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="mr" l10n="NEW">वापरकर्त्याच्या नावाच्या बॉक्समध्ये, आपल्या विकी  खात्यासाठी वापरकर्त्याचा ID एन्टर करा.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="mr" l10n="NEW">जर विकीने निनावी लेखन प्रवेशास परवानगी दिली, तर आपण वापरकर्त्याचे नाव आणि  पासवर्ड बॉक्सना रिक्त ठेवू शकता.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="mr" l10n="NEW">परवलीच्या शब्द बॉक्समध्ये, आपल्या विकी खात्यासाठी पासवर्ड एन्टर करा, नंतर OK वर क्लिक करा.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="mr" l10n="NEW">सत्र अंतर्गत पासवर्ड संचयीत करायचे असल्यास &quot;Save password&quot; पर्याय कार्यान्वीत करा. सर्व संचयीत पासवर्डच्या प्रवेश करीता मुख्य पासवर्ड वापरले जाते. मुख्य पासवर्ड वापरण्याकरीता <item type="menuitem">साधन - पर्याय - %PRODUCTNAME - सुरक्षा</item> निवडा. मुख्य पासवर्ड कार्यान्वीत नसल्यास &quot;Save password&quot; अनुपलब्ध होते.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="mr" level="2" l10n="NEW">नवीन विकी पान निर्माण करण्यासाठी</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="mr" l10n="NEW">रायटर कागदपत्र उघडा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="mr" l10n="NEW">Wiki पानचे अनुक्रम लिहा. तुम्ही पाठ्य स्वरूप, शिर्षलेख, तळलेख, व यानुरूप स्वरूपन करू शकता. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">समर्थीत स्वरूपनची यादी</link> पहा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="mr" l10n="NEW"><item type="menuitem">MediaWiki करीता - फाइल - पाठवा</item> निवडा.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="mr" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWiki कडे पाठवा</link> संवाद अंतर्गत, तुमच्या नोंदणी करीता संयोजना निश्चित करा.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="mr" l10n="NEW"><emph>MediaWiki सर्वर</emph>: Wiki निवडा.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="mr" l10n="NEW"><emph>शिर्षक</emph>: तुमच्या पानाचे शिर्षक टाइप करा. पान अंतर्गत वर्तमान पाठ्य दस्तऐवजसह पुन्ह लेखन करण्याकरीता वर्तमान पानाचे शिर्षक टाइप करा. Wiki वर नविन पान बनविण्याकरीता नविन शिर्षक टाइप करा.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="mr" l10n="NEW"><emph>सारांश</emph>: वैकल्पीक लहानसे पानाचे सारांश प्रविष्ट करा.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="mr" l10n="NEW"><emph>हे एख किर्कोळ संपादन आहे</emph>: अपलोड केलेल्या पानास आधिपासूनच अस्तित्वातील समान शिर्षक असलेले पानाशी किर्कोळ संपादन नुरूप चिन्हाकृत करण्याकरीता हा पर्याय निवडा.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="mr" l10n="NEW"><emph>वेब ब्राऊजर अंतर्गत दर्शवा</emph>: प्रणाली वेब ब्राऊजर उघडण्याकरीता हा पर्याय निवडा व अपलोड केलेले Wiki पान दर्शवा.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="mr" l10n="NEW">पाठवणे वर क्लिक करा.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

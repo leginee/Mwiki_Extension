@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="gu">મીડિયાવિકી બંધારણો</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="gu" level="1" l10n="NEW">મીડિયાવિકી બંધારણો</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="gu" l10n="NEW">નીચેની યાદી લખાણ બંધારણો ની ઝાંખી આપે છે કે જે @WIKIEXTENSIONPRODUCTNAME@ વિકી સર્વર માં અપલોડ કરી શકાય છે.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="gu" l10n="NEW">OpenDocument બંધારણ એ લેખક દ્દારા વપરાયેલ છે અને વિકીમીડિયા બંધારણ એ થોડુ જુદુ છે. બધા લક્ષણોનાં ફક્ત સબસેટ એ એક બંધારણ માંથી બીજા બંધારણ માં રૂપાંતરિત કરી શકાય છે.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="gu" level="2" l10n="NEW">મથાળાઓ</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="gu" l10n="NEW">તમારા લેખક દસ્તાવેજમાં મથાળાઓમાં મથાળાનાં ફકરાની શૈલીને લાગુ કરો. વિકી એ એજ બહારની લીટી સ્તરને મથાળા શૈલીઓને બતાવશે. વિકી એંજિન દ્દારા વ્યાખ્યાયિત વડે બંધારણ કરેલ છે.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="gu" level="2" l10n="NEW">હાઇપરલિંકો</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="gu" l10n="NEW">મૂળભૂત OpenDocument હાઇપરલિકો એ &quot;external&quot; વિકી કડીઓમાં રૂપાંતરણ કરેલ છે. માટે, OpenDocument ની બિલ્ટ-ઇન લિંકીક સુવિધા એ કડીઓને બનાવવા માટે ફક્ત વાપરેલ હોવી જોઇએ કે જે વિકી વેબ ની બહારની બીજી સાઇટો પર ધ્યાન ખેંચે. વિકી કડીઓને બનાવવા માટે કે જે એજ વિકી ડોમેઇનનાં વિષયો પર ધ્યાન ખેંચો, વિકી કડીઓને વાપરો.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="gu" level="2" l10n="NEW">યાદીઓ</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="gu" l10n="NEW">યાદીઓ ને વિશ્ર્વાસપાત્ર રીતે નિકાસ કરી શકાય છે જ્યારે આખી યાદી એ સુસંગત યાદી શૈલી રીતે વાપરે છે. લેખક માં યાદી ને ઉત્પન્ન કરવા માટે નંબર ક્રમમાં અથવા બુલોટો ચિહ્નો ને વાપરો. જો નંબર ક્રમમાં અથવા બુલેટો વગર યાદીની તમારે જરૂર હોય તો, વ્યાખ્યાયિત કરવા માટે બુલેટો અને નંબર ક્રમનાં બંધારણ ને વાપરો અને સંબંધી યાદી શૈલી ને લાગુ કરો.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="gu" level="2" l10n="NEW">ફકરાઓ</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="gu" level="3" l10n="NEW">સીમારેખા</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="gu" l10n="NEW">નિશ્ચિત લખાણ ગોઠવણી એ વિકી લેખોમાં વપરાયેલ ન હોવી જોઇએ. છતાંપણ, લખાણ ગોઠણી એ લખાણની ડાબી, મધ્યમાં, અને જમણી ગોઠવણી માટે આધારભૂત છે.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="gu" level="3" l10n="NEW">પહેલેથી બંધારણ થયેલ વખાણ</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="gu" l10n="NEW">સુધારેલ-પહોળાઇ ફોન્ટ સાથે ફકરા શૈલી એ પહેલેથી બંધારણ થયેલ લખાણ વડે રૂપાંતરિત થયેલ છે. પહેલેથી બંધારણ થયેલ લકાણ એ લખાણની આજુબાજુ સીમા સાથે વિકી પર બતાવેલ છે.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="gu" level="2" l10n="NEW">અક્ષર શૈલીઓ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="gu" l10n="NEW">અક્ષર શૈલીઓ ફકરાનાં ભાગોનાં દેખાવ ને સુધારે છે. રૂપાંતરણ એ બોલ્ડ, ઇટાલિક, બોલ્ડ/ઇટાલિક, સબસ્ક્રિપ્ટ ને આધાર આપે છે. બધી સુધારેલ ફોન્ટો એ વિકી ટાઇપરાઇટર શૈલીમાં રૂપાંતરિત થયેલ છે.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="gu" level="2" l10n="NEW">ફુટનોંધો</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="gu" l10n="NEW">નોંધ: રૂપાંતરણ એ &lt;ref&gt; અને &lt;references&gt; ટેગો સાથે ફુટનોંધોની નવી શૈલી વાપરે છે કે જે મીડિયાવિકીમાં સ્થાપિત કરવા માટે Cite.php એક્સટેન્શનની જરૂર છે. જો પેલા ટેગો એ રૂપાંતરણ પરિણામ માં સાદા લખાણ તરીકે ઉત્પન્ન થાય તો, આ એક્સટેન્શનને સ્થાપિત કરવા માટે વિકી વહીવટકર્તાને પૂછો.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="gu" level="2" l10n="NEW">ઇમેજો</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="gu" l10n="NEW">ઇમેજો એ વિકી લખાણ ની એક જ ફાઇલનું ઉત્પાદન કરવા દરમ્યાન રૂપાંતરણ દ્રારા નિકાસ થયેલ છે. છતાંપણ, જો ઇમેજ એ પહેલેથી લક્ષ્ય વિકી ડોમેઇન (દા.ત. વિકીમીડિયા સામાન્ય) માં અપલોડેડ થયેલ હોય તો, પછી રૂપાંતરણ એ ઇમેજ ટેગ નું ઉત્પાદન કરે છે કે જે ઇમેજ ને સમાવે છે. ઇમેજ કેપ્શનો એ પણ આધારભૂત છે.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="gu" level="2" l10n="NEW">કોષ્ટકો</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="gu" l10n="NEW">સાદા કોષ્ટકો એ સારી રીતે આધારભૂત છે. કોષ્ટક હેડરો એ વિકી કોષ્ટક શૈલી હેડરો ને અનુસારમાં રૂપાંતરિત થયેલ છે. છતાંપણ, કોષ્ટક હદો, સ્તંભ માપોનું વૈવિધ્ય રીતે બંધારણ કરી રહ્યા છે અને પાશ્ર્વ ભાગ રંગોને અવગણેલ છે.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="gu" level="3" l10n="NEW">જોડાયેલ સેલો</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="gu" l10n="NEW">OpenDocument અને ખાસ રીતે OpenOffice.org એ કોષ્ટકો ને રજૂઆત કરે છે કે જે શેલો સાથે જોડાયેલ છે કે જે માળો થયેલ કોષ્ટકો સાથે કોષ્ટકો તરીકે પૂરા વિસ્તારમાં હરોળો છે. વિરુદ્દ માં, કોષ્ટકનું મોડેલ એ કેટલાક જોડાયેલ સેલો માટે સ્તંભ અને હરોળ ને જાહેર કરવા માટે છે. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="gu" l10n="NEW">જો ફ્કત સરખી હારમાળાનાં ફક્ત સ્તંભો એ જોડાયેલ છે, રૂપાંતરણનું પરિણામ એ સ્ત્રોત દસ્તાવેજ ને સારી રીતે મળતુ આવે છે.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="gu" level="3" l10n="NEW">કિનારીઓ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="gu" l10n="NEW">સીમા અને પાશ્ર્વ ભાગ માટે વૈવિધ્ય કોષ્ટક શૈલીનું ધ્યાન ન રાખનાર, કોષ્ટક એ &quot;<emph>prettytable&quot;</emph> તરીકે હંમેશા નિકાસ થયેલ છે, કે જે સાદી સીમાઓ અને બોલ્ડ હેડર સાથે વિકી એંજિન માં ગોઠવાય છે.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="gu" level="2" l10n="NEW">અક્ષર સુયોજન અને વિશિષ્ટ અક્ષરો</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="gu" l10n="NEW">રૂપાંતરણ પરિણામનું અક્ષર સુયોજન એ UTF-8 માં સુધારેલ છે. તમારી સિસ્ટમ પર આધાર રાખી રહ્યુ છે, આ મૂળભૂત અક્ષર સુયોજન કદાચ ન હતુ. જ્યારે મૂળભૂત સુયોજનો સાથે દર્શાવેલ હતુ ત્યારે આ &quot;special characters&quot; એ તૂટેલા હોવાનું કારણ હોઇ શકે છે. ગમે તે રીતે, તમે આને સુધારવા માટે UTF-8 એનકોડીંગ માં તમારા સંપાદક ને તમે બદલી શકો છો. જો તમારુ સંપાદક એ એનકોડીંગ ને બદલવામાં આધાર આપતુ ન હોય તો, તમે Firefox બ્રાઉઝરમાં રૂપાંતરણનાં પરિણામ ને દર્શાવી શકો છો અને ત્યાં UTF-8 માં એનકોડીંગ ને બદલો. હવે તમે તમારા પસંદગીનાં કાર્યક્રમનાં રૂપાંતરણ પરિણામને કાપી અને ચોંટાડી શકો છો.</paragraph>
+</body>
+</helpdocument>

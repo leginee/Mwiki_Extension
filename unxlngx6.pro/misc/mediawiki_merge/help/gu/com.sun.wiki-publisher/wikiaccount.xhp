@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="gu">મીડિયાવિકી</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="gu" level="1" l10n="NEW">મીડિયાવિકી</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="gu" l10n="NEW">તમારા મીડિયાવિકી ખાતા સુયોજનો ને ફેરફાર અથવા ઉમેરવા માટે મીડિયાવિકી સંવાદને વાપરો.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="gu" l10n="NEW"><ahelp hid="." visibility="hidden">મીડિયાવિકી સર્વર ની URL ને દાખલ કરો, http:// સાથે શરૂ કરી રહ્યા છે</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="gu" l10n="NEW"><ahelp hid="." visibility="hidden">મીડિયાવિકી સર્વર પર તમારા વપરાશકર્તાનામ ને દાખલ કરો. નામ વગરનાં પ્રવેશ માટે ખાલી છોડો.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="gu" l10n="NEW"><ahelp hid="." visibility="hidden">મીડિયાવિકી સર્વર પર તમારા પાસવર્ડ ને દાખલ કરો. નામ વગરનાં પ્રવેશ માટે ખાલી છોડો.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="gu" l10n="NEW"><ahelp hid="." visibility="hidden">સત્રો વચ્ચે તમારા પાસવર્ડ ને સંગ્રહ કરવાનું સક્રિય કરો. મુખ્ય પાસવર્ડ એ સક્રિય થયેલ હોવો જ જોઇએ, <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>.</ahelp> ને જુઓ</paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="gu" l10n="NEW">બંધારણ માં વિકી સર્વર નાં ઇન્ટરનેટ સરનામાં ને દાખલ કરો જેવુ કે http://wiki.services.openoffice.org/wiki અથવા વેબ બ્રાઉઝર માંથી URL ની નકલ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="gu" l10n="NEW">જો વિકી નામ વગરનો પ્રવેશ આપે તો, તમે ખાતા લખાણ બોક્સો ને ખાલી છોડી શકો છો. નહિં તો તમારા વપરાશકર્તાનામ અને પાસવર્ડ ને દાખલ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="gu" l10n="NEW">જો તમે Tools - Options - %PRODUCTNAME સંવાદ નાં સુરક્ષા ટેબ પાનાં પર મુખ્ય પાસવર્ડ લક્ષણ ને સક્રિય કરેલ હોય તો, પછી સોફ્ટવેર એ તમારા પાસવર્ડ ને સંગ્રહ કરી શકે છે અને જ્યાં જરૂરી હોય તેવી માહિતીને આપમેળે દાખલ કરો. તમારા પાસવર્ડ ને સંગ્રહ કરવા માટે &quot;પાસવર્ડ સંગ્રહ કરો&quot; ને સક્રિય કરો.</paragraph>
+</body>
+</helpdocument>

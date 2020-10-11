@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="et">MediaWiki vormindus</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="et" level="1" l10n="NEW">MediaWiki vormindus</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="et" l10n="NEW">Järgnev loetelu annab ülevaate tekstivormingutest, mida @WIKIEXTENSIONPRODUCTNAME@ saab üles laadida Wiki serverisse.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="et" l10n="NEW">Writer'i poolt kasutatav OpenDocument-vorming ja WikiMedia vorming on üsna erinevad. Ühest vormingust teise saab teisendada ainult teatud osa võimalustest.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="et" level="2" l10n="NEW">Pealkirjad</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="et" l10n="NEW">Rakenda pealkirja lõigustiil oma Writer'i dokumendi pealkirjadele. Wiki kuvab pealkirjade stiile vastavalt liigendustasemele ja vormindatuna vastavalt Wiki mootori sätetele.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="et" level="2" l10n="NEW">Hüperlingid</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="et" l10n="NEW">Tavalised OpenDocument'i hüperlingid teisendatakse &quot;välisteks&quot; Wiki linkideks. Seetõttu tuleks OpenDocument'i sisseehitatud linkimise võimalust kasutada ainul nende linkide loomiseks, mis viitavad teistele veebilehtedele väljaspool Wikit. Wiki linkide loomiseks, mis viitavad teistele samas Wiki domeenis asuvatele subjektidele, tuleb kasutada Wiki linke.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="et" level="2" l10n="NEW">Loendid</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="et" l10n="NEW">Loendeid saab korrektselt eksportida, kui kogu loend kasutab püsivat loendistiili. Kasuta loendi loomiseks Writer'is nummerduse ja täppide ikooni. Kui vajad ilma nummerduse ja täppideta loendit, kasuta loendistiili määramiseks ja rakendamiseks käsku Vormindus - Nummerdus ja täpid.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="et" level="2" l10n="NEW">Lõigud</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="et" level="3" l10n="NEW">Joondus</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="et" l10n="NEW">Wiki artiklites ei tohiks kasutada teksti otsest joondamist. Sellegipoolest on toetatud teksti vasakule, keskele ja paremale joondamine.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="et" level="3" l10n="NEW">Eelvormindatud tekst</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="et" l10n="NEW">Fikseeritud laiusega fondiga lõigustiilid teisendatakse eelvormindatud tekstiks. Eelvormindatud teksti kuvatakse Wikis äärisega ümber teksti.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="et" level="2" l10n="NEW">Märgistiilid</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="et" l10n="NEW">Tähemärgi stiilid muudavad lõigu osade välimust. Muundus toetab paksu kirja, kaldkirja, paksu kaldkirja, üla- ja alakirja. Kõik fikseeritud laiusega fondid teisendatakse Wiki masinakirja stiiliks.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="et" level="2" l10n="NEW">Allmärkused</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="et" l10n="NEW">Märkus: teisendus kasutab uut allmärkuste stiili &lt;ref&gt; ja &lt;references&gt; siltidega, mis vajab, et Cite.php laiendus oleks MediaWikisse paigaldatud. Kui teisenduse tulemusena kuvatakse neid silte tavalise tekstina, palu Wiki administraatoril see laiendus paigaldada.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="et" level="2" l10n="NEW">Pildid</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="et" l10n="NEW">Pilte ei saa eksportida teisendusega, mis väljastab ühe Wiki teksti faili. Siiski, kui pilt on juba üles laetud Wiki domeeni (nt. WikiMedia Commons), siis loob teisendus korrektse pildi lipiku, mis kaasab ka pildi. Toetatud on ka piltide pealdised.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="et" level="2" l10n="NEW">Tabelid</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="et" l10n="NEW">Lihttabelite tugi on hea. Tabeli päised teisendatakse vastava Wiki stiiliga tabeli päisteks. Paraku eiratakse kohandatud vormindusega tabelite ääriseid, veergude laiusi ja taustavärve.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="et" level="3" l10n="NEW">Ühendatud lahtrid</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="et" l10n="NEW">OpenDocument ja eriti OpenOffice.org võimaldavad tabeleid, mis sisaldavad ühendatud lahtreid, mis hõlmavad ridu kui põimitud tabelitega tabeleid. Vastukaaluks, wiki tabelimudel on selleks et deklareerida selliste liitunud lahtrite veergude või ridade suurused. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="et" l10n="NEW">Kui ühendatakse ainult sama rea veerud, siis on teisenduse tulemus võrreldes lähtedokumendiga väga hea.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="et" level="3" l10n="NEW">Äärised</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="et" l10n="NEW">Sõltumata tabeli ääriste ja tausta kohandatud stiilidest eksporditakse tabel alati kui &quot;<emph>prettytable&quot;</emph>, mida Wiki mootor näitab lihtsate ääriste ja paksus kirjas päistega.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="et" level="2" l10n="NEW">Märgistik ja erimärgid</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="et" l10n="NEW">Teisenduse tulemuse märgistik on alati UTF-8. Sõltuvalt sinu süsteemist ei pruugi see olla vaikimisi märgistik. Seetõttu võib vaikesätetega vaatamisel tunduda, et &quot;erimärgid&quot; on katki. Vaate parandamiseks võid lülitada oma tekstiredaktori UTF-8 peale. Kui sinu redaktor ei toeta märgistiku vahetamist, võid teisenduse tulemust vaadata Firefoxi veebibrauseriga ja lülitada seal märgistiku UTF-8 peale. Nüüd võid sa teisenduse tulemuse kopeerida ja asetada vabalt valitud rakendusse.</paragraph>
+</body>
+</helpdocument>

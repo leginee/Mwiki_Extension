@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sa-IN">मीडिया विकि विकल्पाः   </title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="sa-IN" level="1" l10n="NEW">मीडिया विकि विकल्पाः   </paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="sa-IN" l10n="NEW">त्वं मीडियाविकिसर्वर्स् अपनेतुं,सम्पादयितुं,तथा सङ्कलयितुं च शक्णोषि।&lt;वस्तु वर्गः=&quot;मेनिवस्तु&quot;&gt;टूल्स् - विकल्पाः - इण्टेर्नेट् - मीडियाविकि&lt;/वस्तु&gt; इति एभिः संवादम् उद्घाटय।वैकल्पिकेन,&lt;वस्तुवर्गः=&quot;मेनुवस्तु&quot;&gt;टूल्स् -विस्तारणप्रबन्धकः&lt;/वस्तु वृणु, @WIKIEXTENSIONPRODUCTNAME@ वृणु, तथा विकल्पबट्टन्स् च क्लिक् कुरु।</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot;&gt;नूतनविकिसर्वर् सङ्कलयितुं सङ्कलनं क्लिक् कुरु।<br/>निवेशनं वृणु तथा उपयोजकसंज्ञानिर्धारणानि सम्पादयितुं सम्पादनं च क्लिक् कुरु<br/>निवेशनं वृणु तथा सूचेः निवेशनं अपनेतुम् अपनयनं च क्लिक् कुरु।&lt;/aसहायम्&gt;</paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;सूचेः नूतननिवेशनं सङ्कलयितुं मीडियाविकिसंवादम् उद्घाटयति।&lt;/aसहायम्&gt;</paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;वृतनिवेशनं सम्पादयितुं मीडिया विकि संवादम् उद्घाटय।&lt;/aसहायम्&gt;</paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;सूचेः वृतनिवेशनं अपनयति।&lt;/aसहायम्&gt;</paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="sa-IN" l10n="NEW">यदा त्वं सम्पादनम् अथवा सङ्कलनं क्लिक् करोषि, &lt;लिङ्क् href=&quot;@WIKIEXTENSIONID@/विकि उपयोजकसंज्ञा.xhp&quot;&gt;मीडियाविकि&lt;/लिङ्क्&gt;संवादम् उद्घाटयति।</paragraph>
+</body>
+</helpdocument>

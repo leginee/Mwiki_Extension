@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="et">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="et" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>laiendused; MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="et" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="et" l10n="NEW"><ahelp hid=".">Kasutades @WIKIEXTENSIONPRODUCTNAME@ saad sa laadida oma Writer'i tekstidokumendi MediaWiki serverisse. Pärast üleslaadimist saavad kõik Wiki kasutajad seda sealt lugeda.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="et" l10n="NEW"><ahelp hid=".">Vali <item type="menuitem">Fail - Saada - MediaWikisse</item> et aktiivne Writer'i dokumendi üles laadida MediaWiki serverisse</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="et" level="2" l10n="NEW">Nõuded süsteemile</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="et" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="et" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="et" l10n="NEW">Java käitusaja keskkond 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="et" l10n="NEW">Wiki konto toetatud <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> serveris</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="et" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ paigaldamine</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="et" l10n="NEW">Enne @WIKIEXTENSIONPRODUCTNAME@ paigaldamist veendu, et %PRODUCTNAME kasutab Java käitusaja keskkonda (JRE). JRE oleku kontrollimiseks vali <item type="menuitem">Tööriistad - Valikud - %PRODUCTNAME - Java</item>. Veendu, et &quot;Java käitusaja keskkonna kasutamine&quot; on sisse lülitatud ja Java käitusaja kaust on suures loendikastis valitud. Kui JRE pole aktiveeritud, aktiveeri JRE 1.4 või uuem ja taaskäivita %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="et" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ paigaldamiseks</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="et" l10n="NEW">Vali Writer'i aknas <item type="menuitem">Tööriistad - Laienduste haldur</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="et" l10n="NEW">Klõpsa laienduste halduri dialoogis Lisa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="et" l10n="NEW">Otsi üles fail @WIKIEXTENSIONFILENAME@.oxt, klõpsa Ava ja seejärel Sulge. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="et" l10n="NEW">Sulge %PRODUCTNAME ja ka kiirkäivitaja, kui see töötab.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="et" l10n="NEW">Taaskäivita rakendus, ava tekstidokument ja vali <item type="menuitem">Tööriistad - Valikud - Internet - MediaWiki</item> oma Wiki sätete sisestamiseks. Vaata lõiku &quot;Wikiga ühendumine&quot; allpool.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="et" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ eemaldamiseks</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="et" l10n="NEW">Vali Writer'i aknas <item type="menuitem">Tööriistad - Laienduste haldur</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="et" l10n="NEW">Klikka plussmärgil (+) kirje Minu laiendused ees.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="et" l10n="NEW">Vali laiendus, klõpsa eemalda ja seejärel Sulge.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="et" level="2" l10n="NEW">Wikiga ühendumiseks</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="et" l10n="NEW">Märkus: sa saad salvestada oma kasutajanime ja parooli kõikides %PRODUCTNAME-i vastavates dialoogides. Parool salvestatakse turvaliselt, juurdepääsuks on vajalik ülemparool. Ülemparooli lubamiseks vali <item type="menuitem">Tööriistad - Valikud - %PRODUCTNAME - Turvalisus</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="et" l10n="NEW">Märkus: kui kasutad veebiühenduste jaoks puhverserverit, sisesta selle teave dialoogi <item type="menuitem">Tööriistad - Valikud - Internet - Puhverserver</item>, ja taaskäivita rakendus.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="et" l10n="NEW">Ava Writer'i dokument ja vali <item type="menuitem">Tööriistad - Sätted - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="et" l10n="NEW">Klõpsa <link href="@WIKIEXTENSIONID@/wikisettings.xhp">sätete</link> dialoogis Lisa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="et" l10n="NEW">Sisesta <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> dialoogi teave Wiki konto kohta.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="et" l10n="NEW">Sisesta URL-i tekstikasti Wiki aadress, millega soovid ühendust luua.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="et" l10n="NEW">Sa võid kopeerida URL-i veebibrauserist ja asetada selle tekstikasti.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="et" l10n="NEW">Sisesta kasutajanime kasti oma Wiki konto kasutaja ID.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="et" l10n="NEW">Kui Wiki lubab anonüümset ligipääsu kirjutamiseks, võid jätta kasutajanime ja parooli kastid tühjaks.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="et" l10n="NEW">Sisesta parooli kasti oma Wiki konto parool ja kliki Sobib.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="et" l10n="NEW">Valikuliselt luba &quot;Salvesta salasõna&quot; et salvestada salasõna seansside vahel. Salvestatud paroolidele juurdepääsu haldamiseks kasutatakse ülemparooli. Ülemparooli lubamiseks vali <item type="menuitem">Tööriistad - Valikud - %PRODUCTNAME - Turvalisus</item>. &quot;Salvesta salasõna&quot; pole kasutatav, kui ülemparool ei ole lubatud.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="et" level="2" l10n="NEW">Uue Wiki artikli loomiseks</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="et" l10n="NEW">Ava Writer'i dokument.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="et" l10n="NEW">Kirjuta Wiki artikli sisu. Võid kasutada vormindust nagu tekstivormindus, pealkirjad, allmärkused jne. Toetatud vormindusvõtted on <link href="@WIKIEXTENSIONID@/wikiformats.xhp">toetatud vorminduse nimekirjas</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="et" l10n="NEW">Vali <item type="menuitem">Fail - Saada - MediaWikisse</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="et" l10n="NEW">Määra dialoogis <link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWikisse saatmine</link> oma sissekande sätted.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="et" l10n="NEW"><emph>MediaWiki server</emph>: vali Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="et" l10n="NEW"><emph>Pealkiri</emph>: sisesta oma artikli pealkiri. Artikli ülekirjutamiseks oma aktiivse tekstidokumendiga sisesta olemasolev pealkiri. Uue Wiki artikli loomiseks sisesta uus pealkiri.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="et" l10n="NEW"><emph>Kokkuvõte</emph>: sisesta soovi korral oma artikli lühikokkuvõte.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="et" l10n="NEW"><emph>See on väike muudatus</emph>: märgi see ruut, kui üleslaaditav artikkel sisaldab sama nimega olemasoleva artikli väikest muudatust.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="et" l10n="NEW"><emph>Kuvamine veebibrauseris</emph>: märgi see ruut süsteemse brauseri avamiseks ja üleslaaditud Wiki lehe kuvamiseks selles.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="et" l10n="NEW">Klõpsa Saada.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

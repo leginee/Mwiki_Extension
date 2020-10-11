@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="he">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="he" branch="index" id="bm_id3154408">‪<bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value>‪<bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value>‪<bookmark_value>‫הרחבות; ‪MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="he" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="he" l10n="NEW"><ahelp hid=".">שימוש ב-@WIKIEXTENSIONPRODUCTNAME@ מאפשר לך להעלות את טקסט מסמך ה-Writer לשרת MediaWiki. לאחר מכן, כל המשתמשים ב-Wiki יוכלו לקרוא את המסמך שלך שם.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="he" l10n="NEW"><ahelp hid=".">יש לבחור <item type="menuitem">קובץ - שלח - ל-MediaWiki‏</item> כדי להעלות את מסמך ה-Writer לשרת ה-MediaWiki.‏</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="he" level="2" l10n="NEW">דרישות מערכת</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="he" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="he" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="he" l10n="NEW">סביבת זמן ריצה של ג'אווה 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="he" l10n="NEW">חשבון Wiki על שרת <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> נתמך.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="he" level="2" l10n="NEW">מתקין @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="he" l10n="NEW">לפני התקנת @WIKIEXTENSIONPRODUCTNAME@, יש לוודא ש-‎%PRODUCTNAME ‏משתמש בסביבת ריצה של Java ‏(JRE). כדי לבדוק זאת, יש לבחור ב-<item type="menuitem">כלים - אפשרויות - ‎%PRODUCTNAME‏‏ - Java</item>. יש לוודא שהאפשרות &quot;השתמש בסביבת-ריצה של Java&quot; מסומנת ושתיקיית ה-Java מסומנת בתיבת הבחירה. אם לא הופעלה סביבת Java, יש להפעיל JRE 1.4 ומעלה ולאתחל את ‎%PRODUCTNAME‏.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="he" level="3" l10n="NEW">להתקנת @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="he" l10n="NEW">בחלון Writer, יש לבחור ב-<item type="menuitem">כלים - מנהל ההרחבות</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="he" l10n="NEW">במנהל ההרחבות, יש ללחוץ על &quot;הוסף&quot;.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="he" l10n="NEW">יש למצוא את הקובץ ‎@WIKIEXTENSIONFILENAME@.oxt‏,  ללחוץ על &quot;פתח&quot;, ואז על &quot;סגור&quot;. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="he" l10n="NEW">יש לסגור את ‎%PRODUCTNAME‏ ואת מאיץ-ההפעלה, אם הוא פעיל.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="he" l10n="NEW">כדי להגדיר את ה-Wiki יש לאתחל את התוכנה, לפתוח מסמך טקסט ולבחור ב-<item type="menuitem">כלים - אפשרויות אינטרנט - ‎MediaWiki‏ </item>. ראה מטה &quot;להתחבר ל-‎Wiki‏&quot;.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="he" level="3" l10n="NEW">להסרת @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="he" l10n="NEW">בחלון Writer, יש לבחור ב-<item type="menuitem">כלים - מנהל ההרחבות</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="he" l10n="NEW">לחץ על סימן הפלוס (+) מול הסיומות שלי.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="he" l10n="NEW">בחר את הסיומת, לחץ על הסר ולאחר מכן לחץ על סגור.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="he" level="2" l10n="NEW">כדי להתחבר לוויקי</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="he" l10n="NEW">הערה: ניתן לשמור את שם המשתמש והסיסמה שלך עבור כל הדיאלוגים ב-‎%PRODUCTNAME‏. הסיסמה תישמר באופן מאובטח, אליו ניתן לגשת בעזרת סיסמה ראשית. כדי להפעיל את הסיסמה הראשית, יש לבחור באפשרות <item type="menuitem">כלים - אפשרויות - ‎%PRODUCTNAME‏ - אבטחה</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="he" l10n="NEW">הערה: אם אתה מתחבר לאינטרנט באמצעות שרת מתווך (proxy), הזן את פרטיו לתוך <item type="menuitem">כלים - אפשרויות - אינטרנט - שרת מתווך</item>, והפעל מחדש את התוכנה.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="he" l10n="NEW">יש לפתוח מסמך Writer, ולבחור ב-<item type="menuitem">כלים - אפשרויות - אינטרנט - MediaWiki‏</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="he" l10n="NEW">בתיבת הדיאלוג <link href="@WIKIEXTENSIONID@/wikisettings.xhp">אפשרויות</link>, יש ללחוץ על &quot;הוסף&quot;.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="he" l10n="NEW">בתיבת הדיאלוג <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki‏</link>, יש להקליד את פרטי חשבון ה-Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="he" l10n="NEW">בתיבת טקסט כתובת האתר, להזין את הכתובת של ויקי שברצונך להתחבר אליו.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="he" l10n="NEW">באפשרותך להעתיק את כתובת האתר מדפדפן אינטרנט ולהדביק אותה בתיבת הטקסט.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="he" l10n="NEW">בתיבה שם משתמש, הזן את  זיהוי המשתמש שלך לחשבון  הויקי שלך.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="he" l10n="NEW">אם ויקי מאפשר גישה לכתיבה אנונימית, אתה יכול להשאיר את תיבות  שם משתמש וסיסמא ריקות.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="he" l10n="NEW">בתיבת הסיסמה, הזן את הסיסמה עבור חשבון ויקי שלך, לאחר מכן לחץ על אישור.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="he" l10n="NEW">כדי לשמור את הסיסמה לפעמים הבאות באפשרותך להפעיל את &quot;שמור סיסמה&quot;. נעשה שימוש בסיסמה ראשית כדי לאפשר גישה לכל הסיסמאות השמורות. כדי להפעיל אותה יש לבחור ב-<item type="menuitem">כלים - אפשרויות - ‎%PRODUCTNAME - אבטחה</item>. האפשרות &quot;שמור סיסמה&quot; אינה זמינה לשימוש כשהסיסמה הראשית לא מאופשרת.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="he" level="2" l10n="NEW">ליצירת דף ויקי חדש</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="he" l10n="NEW">פתח מסמך כתבן.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="he" l10n="NEW">כתוב את תוכן דף ה-Wiki. אתה יכול לעצב את הטקסט, להגדיר כותרות, הערות שוליים ועוד. ראה את <link href="@WIKIEXTENSIONID@/wikiformats.xhp">רשימת הפורמטים הנתמכים</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="he" l10n="NEW">יש לבחור ב-<item type="menuitem">קובץ - שלח - ל-MediaWiki‏</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="he" l10n="NEW">יש לציין את הגדרות הפריט שלך בתיבת הדיאלוג <link href="@WIKIEXTENSIONID@/wikisend.xhp">שלח ל-MediaWiki‏</link>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="he" l10n="NEW"><emph>שרת MediaWiki‏</emph>: בחר את ה-Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="he" l10n="NEW"><emph>כותרת</emph>: הקלד את כותרת הדף שלך. הקלד את הכותרת של דף קיים כדי להחליף את הדף במסמך הטקסט הנוכחי שלך. הקלד כותרת חדשה ליצירת דף חדש ב-Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="he" l10n="NEW"><emph>סיכום</emph>: הזן סיכום רשות קצר של הדף שלך.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="he" l10n="NEW"><emph>זוהי עריכה זניחה</emph>: סמנו תיבה זו כדי לסמן את העמוד המועלה כעריכה זניחה של הדף הקיים בעל אותה כותרת.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="he" l10n="NEW"><emph>הצג בדפדפן אינטרנט</emph>: סימון תיבה זו ייפתח את דפדפן האינטרנט של המערכת שלך ויציג את דף ה-Wiki שפורסם.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="he" l10n="NEW">הקש שלח</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

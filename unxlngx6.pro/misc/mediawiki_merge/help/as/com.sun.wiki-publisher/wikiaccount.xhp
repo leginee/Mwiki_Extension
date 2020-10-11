@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="as">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="as" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="as" l10n="NEW">MediaWiki সম্বাদ ব্যৱহাৰ কৰক আপোনাৰ MediaWiki হিচাপৰ পছন্দ যোগ কৰিবলৈ বা সম্পাদন কৰিবলৈ ।</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">এটা MediaWiki সেৱকৰ URL দিয়ক,  http:// ৰে আৰম্ভ কৰি</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki সেৱকৰত আপোনাৰ ব্যৱহাৰকৰোঁতাৰ নাম দিয়ক । বেনামী অভিগমৰ বাবে ৰিক্ত ৰাখক ।</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki সেৱকত আপোনাৰ গুপ্তশব্দ দিয়ক । বেনামী অভিগমৰ কাৰণে ৰিক্ত ৰাখক ।</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">অধিবেশনত আপোনাৰ গুপ্তশব্দ ৰক্ষা কৰিবলৈ সক্ৰিয় কৰক । মূখ্য গুপ্তশব্দ সক্ৰিয় হ'ব লাগিব,  <item type="menuitem">Tools - Options - StarOffice/OpenOffice.org - Security</item> চাওক ।</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="as" l10n="NEW">http://wiki.services.openoffice.org/wiki আকৃতিত এটা ৱিকি সেৱকৰ ইন্টাৰ্নে'ট ঠিকনা দিয়ক বা এটা ৱেব চৰকৰ পৰা URL নকল কৰক ।</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="as" l10n="NEW">ৱিকিয়ে বেনামী অভিগমৰ অনুমতি দিলে, আপুনি হিচাপৰ টেক্সট বাকচ ৰিক্ত ৰাখিব পাৰে । ন'হ'লে আপোনাৰ ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দ  দিয়ক ।</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="as" l10n="NEW">যদি আপুনি Tools - Options - StarOffice/OpenOffice.org  সম্বাদৰ সুৰক্ষা টেব পৃষ্ঠাত মূখ্য গুপ্তশব্দৰ গুণ যদি সক্ৰিয় কৰিছে, তেতিয়াহ'লে চালনাজ্ঞানে গুপ্তশব্দ ৰক্ষা কৰিব আৰু প্ৰয়োজনৰ মতে নিজেই তথ্য দিব ।আপোনাৰ গুপ্তশব্দ ৰক্ষা কৰিবলৈ &quot;গুপ্তশব্দ ৰক্ষা কৰক&quot; সক্ৰিয় কৰক ।</paragraph>
+</body>
+</helpdocument>

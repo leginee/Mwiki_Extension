@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="cy">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="cy" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="cy" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="cy" l10n="NEW"><ahelp hid=".">Drwy ddefnyddio @WIKIEXTENSIONPRODUCTNAME@ gallwch lwytho i fyny eich dogfen testun Writer cyfredol i weinydd MediaWiki. Ar ôl llwytho i fyny, bydd holl ddefnyddiwr y wiki yn gallu darllen eich dogfen arno.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="cy" l10n="NEW"><ahelp hid=".">Dewis <item type="menuitem">Ffeil - Anfon - At MediaWiki</item> i lwytho fyny'r ddogfen Writer i'r gweinydd  MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="cy" level="2" l10n="NEW">Anghenion y System</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="cy" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="cy" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="cy" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="cy" l10n="NEW">Cyfrif Wiki ar weinydd sy'n cynnal <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="cy" level="2" l10n="NEW">Gosod @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="cy" l10n="NEW">Before you install the @WIKIEXTENSIONPRODUCTNAME@, ensure that %PRODUCTNAME uses a Java Runtime Environment (JRE). To check the status of the JRE, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item>. Ensure that &quot;Use a Java runtime environment&quot; is marked and that a Java runtime folder is selected in the big listbox. If no JRE was activated, then activate a JRE 1.4 or later and restart %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="cy" level="3" l10n="NEW">Er mwyn gosod @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="cy" l10n="NEW">Mewn ffenestr yn Writer, dewisch <item type="menuitem">Offer - Rheolwr Estyniadau</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="cy" l10n="NEW">Yn neialog y Rheolwr Estyniadau, cliciwch Ychwanegu</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="cy" l10n="NEW">Canfyddwch y ffeil  @WIKIEXTENSIONFILENAME@.oxt, cliciwch Agor ac yna clicio Cau. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="cy" l10n="NEW">Caewch %PRODUCTNAME, a chau'r Cychwyn Cyflym os yw'n weithredol.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="cy" l10n="NEW">Ailgychwynnwch y feddalwedd, agor dogfen testun, yna dewis <item type="menuitem">Offer - Dewisiadau - Rhyngrwyd - MediaWiki</item> i fynd at osodiadau eich Wiki. Gw. &quot;Cysylltu â'ch Wiki&quot; isod.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="cy" level="3" l10n="NEW">I dynnu @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="cy" l10n="NEW">Mewn ffenestr yn Writer, dewiswch <item type="menuitem">Offer - Rheolwr Estyniadau</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="cy" l10n="NEW">Cliciwch yr arwydd plws (+) o flaen Fy Estyniadau.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="cy" l10n="NEW">Dewiswch yr estyniad, clicio Tynnu ac yna clicio Cau.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="cy" level="2" l10n="NEW">Cysylltu â Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="cy" l10n="NEW">Note: You can store your user name and password for all respective dialogs inside %PRODUCTNAME. The password will be stored in a secure way, where access is maintained by a master password. To enable the master password, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="cy" l10n="NEW">Nodyn: Os ydych yn cysylltu â'r we drwy weinydd dirprwyol, rhowch fanylion y dirprwy yn <item type="menuitem">Offer - Dewisiadau - Rhyngrwyd - Dirprwy</item>, ac ailgychwyn y feddalwedd.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="cy" l10n="NEW">Agorwch ddogfen Writer, a dewis <item type="menuitem">Offer - Dewisiadau - Rhyngrwyd -  MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="cy" l10n="NEW">Yn y deialog <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Dewisiadau</link>, cliciwch Ychwanegu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="cy" l10n="NEW">Yn y deialog <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> , rhowch manylion cyfrf y Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="cy" l10n="NEW">Ym mlwch testun yr URL, rhowch gyfeiriad y Wiki i gysylltu iddo.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="cy" l10n="NEW">Gallwch gopïo’r URL o borwr gwe a'i ludo i'r blwch testun.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="cy" l10n="NEW">Yn y blwch enw defnyddiwr, rhowch eich enw defnyddiwr ar gyfer eich cyfrif Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="cy" l10n="NEW">Os yw'r Wiki'n caniatau mynediad ysgrifennu anhysbys, gallwch adael y blwch Enw Defnyddiwr a Cyfrinair yn wag.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="cy" l10n="NEW">Yn y blwch Cyfrinair, rhowch gyfrinair eich cyfrif Wiki ac yna clicio Iawn.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="cy" l10n="NEW">Optionally enable &quot;Save password&quot; to save the password between sessions. A master password is used to maintain access to all saved passwords. Choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> to enable the master password. &quot;Save password&quot; is unavailable when the master password is not enabled.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="cy" level="2" l10n="NEW">Creu Tudalen Wiki Newydd</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="cy" l10n="NEW">Agor dogfen Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="cy" l10n="NEW">Ysgrifennu cynnwys y dudalen Wiki. Gallwch ddefnyddio fformatio megis fformat testun, pennawdau, troednodiiadau, ac yn y blaen. Gw. y rhestr o fformatau sy'n cael eu cynnal yn <link href="@WIKIEXTENSIONID@/wikiformats.xhp"> </link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="cy" l10n="NEW">Dewiswch <item type="menuitem">Ffeil - Anfon - At MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="cy" l10n="NEW">Yn y deialog <link href="@WIKIEXTENSIONID@/wikisend.xhp">Anfon at MediaWiki</link> , pennwch y gosodiadau ar gyfer eich mynediad.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="cy" l10n="NEW"><emph>Gweinydd MediaWiki</emph>: Dewis y Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="cy" l10n="NEW"><emph>Teitl</emph>: Teipiwch deitl eich tudalen. Teipiwch deitl y dudalen bresennol er mwyn ysgrifennu dros y dudalen gyda'ch dogfen testun cyfredol.  Teipiwch deitl newydd i greu tudalen newydd ar y Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="cy" l10n="NEW"><emph>Crynodeb</emph>: Yn ddewisol, rhowch grynodeb byr o'ch tudalen.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="cy" l10n="NEW"><emph>Mân olygu yw hwn</emph>: Ticiwch y blwch i nodi mai mân olygu ydyw o dudalen sy'n bodoli eisoes gyda'r un teitl.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="cy" l10n="NEW"><emph>Dangos mewn porwr gwe</emph>: Ticiwch yn y blwch i agor eich porwr gwe a dangos y dudalen Wiki ar ei newydd wedd.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="cy" l10n="NEW">Clicio Anfon</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ug">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ug" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ug" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ug" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ ئىشلىتىپ نۆۋەتتىكىWriter تېكست پۈتۈكىنى MediaWiki مۇلازىمىتىرىغا يۈكلىيەلەيسىز، يۈكلىگەندىن كېيىن بارلىق Wiki ئىشلەتكۈچىلىرى پۈتۈكىڭىزنى ئوقۇيالايدۇ.  </ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ug" l10n="NEW"><ahelp hid=".">تاللا <item type="menuitem">ھۆججەت-يوللا- MediaWiki</item> نۆۋەتتىكى پۈتۈك MediaWiki مۇلازىمىتىرىغا يوللىنىدۇ.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ug" level="2" l10n="NEW">سىستېما تەلىپى</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ug" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ug" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ug" l10n="NEW">Java ئىجرا مۇھىتى 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ug" l10n="NEW">Wiki ھېساباتىنى قوللايدىغان<link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> مۇلازىمىتىر</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ug" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ قاچىلاۋاتىدۇ</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ug" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ قاچىلاشتىن ئىلگىرى، %PRODUCTNAME ئىشلىتىدىغان Java ئىجرا مۇھىتى (JRE) غا كاپالەتلىك قىلىڭ. JRE ھالىتىنى تەكشۈرۈشتە، <item type="menuitem">قورال-تاللانما- %PRODUCTNAME - Java</item>نى تاللاڭ. «Java ئىجرا مۇھىتى ئىشلەت» تاللانغانلىقىغا كاپالەتلىك قىلىڭ ھەمدە چوڭراق تاللاش رامكىسىدىن Java ئىجرا بولىدىغان مۇندەرىجىنى تاللاڭ. ئەگەر ھېچقانداق JRE ئاكتىپلانمىغان بولسا JRE 1.4 ياكى ئۇنىڭدىن يۇقىرى نەشرىنى ئاكتىپلاپ ئاندىن %PRODUCTNAME  قايتا قوزغىتىڭ.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ug" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ قاچىلا</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ug" l10n="NEW">Writer كۆزنىكىدە، <item type="menuitem">قورال - كېڭەيتمە باشقۇرغۇچ</item> تاللا</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ug" l10n="NEW">كېڭەيتمە باشقۇرۇش سۆزلىشىش رامكىسىدا «قوش» نى چېكىڭ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ug" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ھۆججەت ئىزدەۋاتىدۇ، «ئاچ»نى چېكىپ، ئاندىن «ياپ»نى چېكىڭ. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ug" l10n="NEW">%PRODUCTNAME ياپىدۇ، قوزغىتىلغان بولسا تېز قوزغىتىشنىنى ياپىدۇ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ug" l10n="NEW">يۇمشاق دېتالنى قايتا قوزغىتىپ، تېكست پۈتۈكنى ئېچىڭ، ئاندىن <item type="menuitem">قورال - تاللانما - ئىنتېرنېت - MediaWiki</item> تاللاپ Wiki تەڭشىكىنى كىرگۈزۈڭ. تۆۋەندىكى «Wiki غا ئۇلا» دىن پايدىلىنىڭ.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ug" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ئۆچۈر</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ug" l10n="NEW">Writer كۆزنىكىدە، <item type="menuitem">قورال - كېڭەيتمە باشقۇرغۇچ</item> تاللا</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ug" l10n="NEW">كېڭەيتىلمەمنىڭ يېنىدىكى قوشۇش بەلگىسى (+)نى چېكىڭ</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ug" l10n="NEW">كېڭەيتىلمىنى تاللاپ، «ئۆچۈر»نى چېكىپ ئاندىن «ياپ»نى چېكىڭ.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ug" level="2" l10n="NEW">Wiki غا ئۇلا</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ug" l10n="NEW">دىققەت: سىز %PRODUCTNAME دىكى بارلىق سۆزلىشىش رامكىلىرىغا ئايرىم-ئايرىم ئىشلەتكۈچى ئاتى ۋە ئىم ساقلىيالايسىز. ئىم بىخەتەر ھالەتتە ساقلىنىدۇ، بۇ ئۇسۇل ئاساسىي ئىم ئىشلىتىپ ساقلانغان ئىم زىيارىتىنى ئاسرايدۇ. ئاساسىي ئىمنى قوزغىتىشتا <item type="menuitem">قورال - تاللانما - %PRODUCTNAME - بىخەتەرلىك</item> نى تاللاڭ.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ug" l10n="NEW">دىققەت: ئەگەر سىز ۋاكالەتچى مۇلازىمىتىر بىلەن تورغا ئۇلانسىڭىز، <item type="menuitem">قورال-تاللانما-ئىنتېرنېت-ۋاكالەتچى</item> گە ۋاكالەتچى ئۇچۇرىنى كىرگۈزۈپ، ئاندىن يۇمشاق دېتالنى قايتا قوزغىتىڭ.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ug" l10n="NEW">Writer پۈتۈكىنى ئېچىپ،<item type="menuitem">«قورال»--«تاللانما»--«ئىنتېرنېت»--«MediaWiki»</item> نى تاللايسىز.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ug" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">تاللانما</link> سۆزلىشىش رامكىسىدا، «قوش»نى چېكىڭ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ug" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> سۆزلىشىش رامكىسىدا، Wiki ھېسابات ئۇچۇرىنى كىرگۈزۈڭ.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ug" l10n="NEW">URL تېكست رامكىسىغا ئۇلىنىدىغان Wiki ئادرېسىنى كىرگۈزۈڭ.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ug" l10n="NEW">سىز توركۆرگۈدىن URL نى كۆچۈرۈپ تېكست رامكىسىغا كۆچۈرەلەيسىز.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ug" l10n="NEW">ئىشلەتكۈچى ئاتى رامكىسىغا Wiki ھېسابات ئىشلەتكۈچى ID نى كىرگۈزۈڭ.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ug" l10n="NEW">ئەگەر Wiki ئىمزاسىز يېزىش زىيارىتىگە يول قويسا، ئىشلەتكۈچى ئاتى ۋە ئىم رامكىسىنى بوش قالدۇرسىڭىز بولىدۇ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ug" l10n="NEW">ئىم رامكىسىدا Wiki ھېساباتىڭىزنىڭ ئىمنى كىرگۈزۈپ ئاندىن «جەزملە»نى چېكىڭ.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ug" l10n="NEW">&quot;ئىم ساقلا&quot; نى قوزغىتىشنى تاللاپ سۆزلىشىش ئارىسىدىكى ئىمنى ساقلاشقا بولىدۇ. ئاساسىي ئىم ساقلانغان بارلىق ئىملارنى زىيارەت قىلىشنى ئاسرايدۇ. <item type="menuitem">قورال - تاللانما - %PRODUCTNAME - بىخەتەرلىك</item> نى تاللاپ ئاساسىي ئىمنى قوزغىتىشقا بولىدۇ. ئاساسىي ئىم  قوزغىتىلمىغان ئەھۋالدا، &quot;ئىم ساقلا&quot; ئىشلىمەيدۇ.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ug" level="2" l10n="NEW">يېڭى Wiki بېتى قۇر</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ug" l10n="NEW">پۈتۈكنى Writer بىلەن ئاچ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ug" l10n="NEW">Wiki بېتىگە يېزىلغان مەزمۇن. سىز تۆۋەندىكى فورماتنى ئىشلەتسىڭىز بولىدۇ: تېكست فورماتى، ماۋزۇ ۋە بەت ئاستى ئىزاھات قاتارلىق. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">قوللايدىغان فورمات تىزىملىكى</link>. پايدىلىنىڭ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ug" l10n="NEW"><item type="menuitem">ھۆججەت-يوللا  -  MediaWiki</item> تاللاڭ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ug" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWiki غا يوللا</link>  سۆزلىشىش رامكىسىدا، تۈر تەڭشىكىنى بەلگىلەڭ.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ug" l10n="NEW"><emph>MediaWiki مۇلازىمىتىر</emph>: Wiki تاللاڭ.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ug" l10n="NEW"><emph>ماۋزۇ</emph>: بەت ماۋزۇسىنى كىرگۈزۈڭ. نۆۋەتتىكى بەتنىڭ ماۋزۇسىنى كىرگۈزسىڭىز نۆۋەتتىكى تېكست پۈتۈك شۇ بەت يۈزىنى قاپلايدۇ. يېڭى ماۋزۇ كىرگۈزسىڭىز يېڭى Wiki بېتى قۇرغىلى بولىدۇ.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ug" l10n="NEW"><emph>مۇھىم نۇقتا</emph>: بەتنىڭ تاللاشچان قىسقىچە مۇھىم نۇقتىسىنى كىرگۈزۈڭ.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ug" l10n="NEW"><emph>مۇھىم بولمىغان تەھرىر</emph>: بۇ رامكا تاللانسا يۈكلەنگەن بەت نۆۋەتتىكى ئوخشاش ماۋزۇدىكى بەتنىڭ قوشۇمچە تەھرىرى قىلىپ بەلگە قويۇلىدۇ.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ug" l10n="NEW"><emph>تور كۆرگۈدە كۆرسەت</emph>: بۇ رامكا تاللانسا سىستېمىدىكى توركۆرگۈنى ئاچىدۇ ھەمدە يۈكلەنگەن Wiki بېتىنى كۆرسىتىدۇ.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ug" l10n="NEW">«يوللا» نى چېكىڭ.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="oc">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="oc" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="oc" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="oc" l10n="NEW"><ahelp hid=".">En utilizant lo @WIKIEXTENSIONPRODUCTNAME@ podètz cargar vòstre document tèxte Escriure actual dins un servidor MediaWiki. Aprèp lo cargament, totes los utilizaires Wiki pòdon legir vòstre document sul Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="oc" l10n="NEW"><ahelp hid=".">Causir <item type="menuitem">Fichièr - Mandar - A MediaWiki</item> per encargar lo document Escriure actual dins un servidor MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="oc" level="2" l10n="NEW">Besonhs sistèma</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="oc" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="oc" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="oc" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="oc" l10n="NEW">Un compte Wiki sus un servidor suportat <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="oc" level="2" l10n="NEW">Installacion d'@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="oc" l10n="NEW">Abans d'installar @WIKIEXTENSIONPRODUCTNAME@, asseguratz-vos que StarOffice o OpenOffice.org utiliza un environament d'execucion Java (JRE). Per verificar l'estatut del JRE, causissètz <item type="menuitem">Espleches - Opcions - StarOffice/OpenOffice.org - Java</item>. Asseguratz-vos que &quot;Utilizar un environament d'execucion Java&quot; es marcat e qu'un dorsièr d'execucion Java es seleccionat dins lo grand airal de lista. Se cap de JRE es pas activat, alara activatz un JRE 1.4 o superior e tornatz aviar StarOffice/OpenOffice.org.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="oc" level="3" l10n="NEW">Par installar @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="oc" l10n="NEW">Dins una fenèstra Writer, causissètz <item type="menuitem">Espleches - Gestionari de las extensions</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="oc" l10n="NEW">Dins la bóstia de dialòg Gestionari de las extensions, clicatz sus Apondre.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="oc" l10n="NEW">Localizatz lo fichièr @WIKIEXTENSIONFILENAME@.oxt, clicatz sus Dobrir, puèi clicatz sus Tampar. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="oc" l10n="NEW">Tampatz %PRODUCTNAME e tampatz tanben l'aviada rapida s'es activa.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="oc" l10n="NEW">Tornatz aviar lo logicial, dobrissètz un document tèxte, puèi causissètz <item type="menuitem">Espleches - Opcions - Internet - MediaWiki</item> per picar los paramètres Wiki. Vejatz &quot;Per se connectar a un Wiki&quot; çaijós.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="oc" level="3" l10n="NEW">Per suprimir l'@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="oc" l10n="NEW">Dins una fenèstra Writer, causissètz <item type="menuitem"> Espleches - Gestionari de las extensions</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="oc" l10n="NEW">Clicatz sul signe (+) en fàcia de Mas extensions.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="oc" l10n="NEW">Seleccionatz l'extension, clicatz sus Suprimir, puèi clicatz sus Tampar.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="oc" level="2" l10n="NEW">Per se connectar a un wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="oc" l10n="NEW">Remarca : podètz estocar vòstre nom d'utilizaire e vòstre senhal per totas las bóstias de dialòg respectivas dins %PRODUCTNAME. Lo senhal serà estocat d'un biais securizat e son accès es gerit per un senhal principal. Per activar lo senhal principal, causissètz <item type="menuitem">Espleches - Opcions - %PRODUCTNAME - Seguretat</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="oc" l10n="NEW">Notar : Se vos connectatz a internet amb un servidor intermediari o proxy, picatz las informacions del servidor intermediari dins <item type="menuitem">Espleches - Opcions - Internet - Servidor intermediari</item>, e tornatz aviar lo logicial.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="oc" l10n="NEW">Dobrissètz un document Writer e causissètz <item type="menuitem">Espleches - Opcions - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="oc" l10n="NEW">Dins la bóstia de dialòg <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opcions</link>bóstia dilòg, clicatz sus Apondre.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="oc" l10n="NEW">Dins la bóstia de dialòg <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, picatz las informacion del compte pel Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="oc" l10n="NEW">Dins l'airal del tèxte URL, picatz l'adreça del Wiki al qual vos volètz connectar.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="oc" l10n="NEW">Podètz copiar l'URL a partir d'un navigador web e l'empegar dins l'airal de tèxte.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="oc" l10n="NEW">Dins l'airal Nom d'utilizaire, picatz vòstre ID d'utilizaire pel compte Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="oc" l10n="NEW">Se lo Wiki autoriza d'accèsses en escritura anonima, podètz daissar voidas los airals Nom d'utilizaire e Senhal.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="oc" l10n="NEW">Dins l'airal Senhals, picatz lo senhal per vòstre compte Wiki, puèi clicatz sus OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="oc" l10n="NEW">Facultativament, activatz &quot;Enregistrar lo senhal&quot; per enregistrar lo senhal entre doas sesilhas. Un senhal principal es utilizat per manténer l'accès a totes los senhals enregistrats. Causissètz <item type="menuitem">Espleches - Opcions - StarOffice/OpenOffice.org - Seguretat</item> per activar lo senhal principal. &quot;Enregistrar lo senhal&quot; n'es pas disponible se lo senhal principal es pas activat.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="oc" level="2" l10n="NEW">Per crear una pagina de wiki novèla</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="oc" l10n="NEW">Dobrissètz un document Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="oc" l10n="NEW">Escrivètz lo contengut de la pagina Wiki. Podètz utilizar de formatatges coma de formats de tèxte, de títols, de nòtas de pès de pagina... e mai encara. Vejatz la <link  href="@WIKIEXTENSIONID@/wikiformats.xhp">lista dels formats suportats </link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="oc" l10n="NEW">Causissètz <item type="menuitem">Fichièr - Mandar - A MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="oc" l10n="NEW">Dans la bóstia de dialòg <link href="@WIKIEXTENSIONID@/wikisend.xhp">Mandar a MediaWiki</link>, indicatz los parametratges de vòstra entrada.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="oc" l10n="NEW"><emph>Servidor MediaWiki</emph>: seleccionatz lo Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="oc" l10n="NEW"><emph>Títol</emph>: Picatz lo títol de vòstra pagina. Picatz lo títol d'una pagina existenta per espotir la pagina amb lo document tèxte actiu. Picatz un títol novèl per crear una pagina novèla dins lo Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="oc" l10n="NEW"><emph>Resumit</emph>: picatz un resumit brèu facultatiu de vòstra pagina.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="oc" l10n="NEW"><emph>Es un edicion menora</emph>: marcatz aquela casa per marcar la pagina mesa en linha coma una edicion menora per la pagina existenta amb lo meteis títol.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="oc" l10n="NEW"><emph>Afichar dins lo navigador web</emph>: marcatz aquela casa per dobrir lo navigador web del sistèma e afichatz la pagina Wiki mesa en linha.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="oc" l10n="NEW">Clicatz sus Mandar.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

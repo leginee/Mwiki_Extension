@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.TypeDetection" oor:name="Types">
+  <node oor:name="Types">
+    <node oor:name="MediaWiki" oor:op="fuse">
+      <prop oor:name="DetectService">
+        <value>com.sun.star.comp.filters.XMLFilterDetect</value>
+      </prop>
+      <prop oor:name="URLPattern"/>
+      <prop oor:name="Extensions">
+        <value>txt</value>
+      </prop>
+      <prop oor:name="MediaType"/>
+      <prop oor:name="PreferredFilter"/>
+      <prop oor:name="UIName"/>
+      <prop oor:name="ClipboardFormat"/>
+    </node>
+  </node>
+</oor:component-data>

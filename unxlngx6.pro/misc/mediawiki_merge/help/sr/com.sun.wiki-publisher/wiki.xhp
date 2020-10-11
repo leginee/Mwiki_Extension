@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sr">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sr" branch="index" id="bm_id3154408"><bookmark_value>Вики;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>пакети;Медија Вики</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sr" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sr" l10n="NEW"><ahelp hid=".">Користећи @WIKIEXTENSIONPRODUCTNAME@ можете отпремити текст из Писца на Медија Вики сервер тако да сви корисници могу да прочитају ваш документ на Викију.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sr" l10n="NEW"><ahelp hid=".">Изаберите <item type="menuitem">Датотека - Пошаљи - На Медија Вики</item> како бисте отпремили тренутни документ на Медија Вики сервер.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sr" level="2" l10n="NEW">Системски захтеви</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sr" l10n="NEW">StarOffice или StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sr" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sr" l10n="NEW">Јавино радно окружење 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sr" l10n="NEW">Вики налог на подржаном <link href="http://www.mediawiki.org/wiki/MediaWiki">Медија Вики</link> серверу</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sr" level="2" l10n="NEW">Инсталирам @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sr" l10n="NEW">Пре него што инсталирате @WIKIEXTENSIONPRODUCTNAME@, проверите да ли %PRODUCTNAME користи Јава радно окружење (JRE). За проверу стања Јава радног окружења изаберите <item type="menuitem">Алатке - Опције - %PRODUCTNAME - Јава</item>. Проверите да ли је укључено „Користи Јавино радно окружење“ и да ли је Јавин радни директоријум изабран у приложеном пољу. Уколико радно окружење није активно, укључите JRE 1.4 или новије издање и поново покрените %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sr" level="3" l10n="NEW">Како бисте инсталирали @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sr" l10n="NEW">У прозору Писца изаберите <item type="menuitem">Алатке - Управник пакета</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sr" l10n="NEW">У прозорчету управника пакета изаберите „Додај“.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sr" l10n="NEW">Нађите @WIKIEXTENSIONFILENAME@.oxt датотеку, кликните „Отвори“, а затим „Затвори“. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sr" l10n="NEW">Затворите %PRODUCTNAME, као и брзи покретач, уколико је укључен.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sr" l10n="NEW">Поново покрените програм, отворите текстуални документ и изаберите <item type="menuitem">Алатке - Опције - Интернет - Медија Вики</item> за подешавање Викија. Погледајте доле „За повезивање на Вики“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sr" level="3" l10n="NEW">За уклањање @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sr" l10n="NEW">У прозору Писца изаберите <item type="menuitem">Алатке - Управник пакета</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sr" l10n="NEW">Кликните на плус (+) испред Моји пакети.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sr" l10n="NEW">Изаберите пакет, кликните „Уклони“. а затим „Затвори“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sr" level="2" l10n="NEW">За повезивање на Вики</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sr" l10n="NEW">Примедба: Можете сачувати своје корисничко име и лозинку засебно за све %PRODUCTNAME прозорчиће. Лозинка се чува на сигуран начин и њој се приступа главном лозинком. За омогућавање главне лозинке изаберите <item type="menuitem">Алатке - Опције - %PRODUCTNAME - Сигурност</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sr" l10n="NEW">Примедба: Уколико се повезујете на мрежу кроз посреднички сервер, унесите податке о посреднику у <item type="menuitem">Алатке - Опције - Интерент - Посредник</item> и поново покрените програм.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sr" l10n="NEW">Отворите документ Писца и изаберите <item type="menuitem">Алатке - Опције - Интернет - Медија Вики</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sr" l10n="NEW">У прозорчету <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Опције</link> кликните на Додај.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sr" l10n="NEW">У прозорчету <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">Медија Вики</link> унесите податке о Вики налогу.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sr" l10n="NEW">У пољу за адресу унесите УРЛ адресу Викија на који желите да се повежете.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sr" l10n="NEW">Можете копирати УРЛ адресу из Интернет прегледника и убацити је у текстуално поље.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sr" l10n="NEW">У пољу Корисничко име унесите кориснички ИБ Вики налога.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sr" l10n="NEW">Уколико Вики дозвољава анонимни приступ за упис, поља „Корисничко име“ и „Лозинка“ можете оставити празна.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sr" l10n="NEW">У пољу „Лозинка“ унесите лозинку Вики налога и кликните „У реду“.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sr" l10n="NEW">Опционо укључите „Сачувај лозинку“ уколико желите памћење лозинке између сесија. Главна лозинка се употребљава за приступ свим сачуваним лозинкама. У менију <item type="menuitem">Алатке - Опције - %PRODUCTNAME - Сигурност</item> омогућите главну лозинку. Ставку „Сачувај лозинку“ је могуће активирати тек по постављању главне лозинке.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sr" level="2" l10n="NEW">Израда нове вики странице</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sr" l10n="NEW">Отвори документ Писца.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sr" l10n="NEW">Напишите садржај Вики странице. Можете користити форматирања као што су облик текста, заглавља, фусноте и друго. Погледајте <link href="@WIKIEXTENSIONID@/wikiformats.xhp">списак подржаних формата</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sr" l10n="NEW">Изаберите <item type="menuitem">Датотека - Пошаљи - На Медија Вики</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sr" l10n="NEW">У прозорчету <link href="@WIKIEXTENSIONID@/wikisend.xhp">Пошаљи на Медија Вики</link> наведите подешавања свој унос.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sr" l10n="NEW"><emph>Медија Вики сервер</emph>: Изаберите Вики.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sr" l10n="NEW"><emph>Наслов</emph>: Упишите наслов своје странице. Упишите наслов већ постојеће странице уколико желите да је заменити тренутним документом. Упишите нови наслов за израду нове странице на викију.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sr" l10n="NEW"><emph>Сажетак</emph>: Можете унети кратак сажетак своје странице.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sr" l10n="NEW"><emph>Ово је мала измена</emph>: Означите ово да бисте отпремили страницу као малу измену постојеће странице са истим називом.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sr" l10n="NEW"><emph>Прикажи у веб прегледнику</emph>: Означите ово да бисте отворили отпремљену Вики страницу у Интернет прегледнику.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sr" l10n="NEW">Кликните на „Пошаљи“.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

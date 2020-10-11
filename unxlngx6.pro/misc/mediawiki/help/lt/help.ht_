@@ -1,0 +1,18 @@
+1c vnd.com.sun.star.wiki%3Asend 7d Esamą rašinį į „MediaWiki“ tarnybinę stotį galite įkelti, atvėrę langą „Byla > Siųsti > į „MediaWiki“ .
+20 vnd.com.sun.star.wiki%3Aaboutbox a2 Naudodami „Wiki Publisher“, galėsite įkelti esamą rašinį į „MediaWiki“ tarnybinę stotį. Įkeltą dokumentą galės skaityti visi vikio naudotojai.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 9e Įjungę, saugosite slaptažodį tarp seansų. Turi būti įjungtas bendrasis slaptažodis, žr. „Priemones > Nuostatas > „%PRODUCTNAME“ > Nuostatas“.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 70 Įveskite slaptažodį „MediaWiki“ tarnybinėje stotyje. Palikite eilutę tuščią, jei jungiatės anonimu.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 74 Įveskite naudotojo vardą „MediaWiki“ tarnybinėje stotyje. Palikite eilutę tuščią, jei jungiatės anonimu.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 49 Įveskite „MediaWiki“ tarnybinės stoties URL, pradėdami nuo http://
+1f vnd.com.sun.star.wiki%3Aaccount 49 Įveskite „MediaWiki“ tarnybinės stoties URL, pradėdami nuo http://
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 62 Pažymėję šį langelį, paleisite sistemos tinklo naršyklę įkeltajam vikio puslapiui rodyti.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 7b Pažymėję šį langelį, paženklinsite, kad įkeltas puslapis sudaro nedidelę jau esamo puslapio su antrašte pataisą.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 39 Įveskite pasirenkamą glaustą santrauką arba pastabą.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText f3 Įveskite vikio įrašo antraštę. Ji taps aukščiausia vikio įrašo antrašte. Kuriant naują įrašą, antraštė šiame vikyje turi būti vienetinė. Įvedę jau esamą antraštę ir įkėlę duomenis, perrašysite esamą vikio įrašą.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 91 Rinkitės „MediaWiki“ tarnybinę stotį, kurioje norite skelbti dokumentą. Spustelėję „Pridėti“, pridėsite naują tarnybinę stotį.
+22 vnd.com.sun.star.wiki%3AsendDialog 91 Rinkitės „MediaWiki“ tarnybinę stotį, kurioje norite skelbti dokumentą. Spustelėję „Pridėti“, pridėsite naują tarnybinę stotį.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2d Šalinamas pasirinktas įrašas iš sąrašo.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 42 Užmezgamas „MediaWiki“ dialogas pasirinktam įrašui taisyti.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 4c Užmezgamas „MediaWiki“ dialogas naujam įrašui pridėti prie sąrašo.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList ee Spustelėję „Pridėti“, pridėsite naują tarnybinę vikio stotį.Pasirinkę įrašą ir spustelėję „Taisyti“, taisysite paskyros nuostatas.Pasirinkę įrašą ir spustelėję „Šalinti“, pašalinsite įrašą iš sąrašo.
+20 vnd.com.sun.star.wiki%3Asettings ee Spustelėję „Pridėti“, pridėsite naują tarnybinę vikio stotį.Pasirinkę įrašą ir spustelėję „Taisyti“, taisysite paskyros nuostatas.Pasirinkę įrašą ir spustelėję „Šalinti“, pašalinsite įrašą iš sąrašo.

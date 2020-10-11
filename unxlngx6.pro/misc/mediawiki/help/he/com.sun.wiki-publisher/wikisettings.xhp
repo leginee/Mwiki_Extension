@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="he">אפשרויות MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="he" level="1" l10n="NEW">אפשרויות MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="he" l10n="NEW">באפשרותך להוסיף, לערוך או להסיר שרתי MediaWiki. יש לפתוח את תיבת הדיאלוג דרך התפריט <item type="menuitem">כלים - אפשרויות - אינטרנט - MediaWiki‏</item>. לחילופין, אפשר לבחור ב-<item type="menuitem">כלים - מנהל ההרחבות</item>, לבחור את Wiki Publisher, וללחוץ על כפתור אפשרויות.</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="he" l10n="NEW"><ahelp hid=".">לחיצה על &quot;הוסף&quot; תוסיף שרת Wiki חדש.<br/>כדי לערוך את הגדרות החשבון יש לסמן פריט וללחוץ על &quot;ערוך&quot;.<br/>כדי להסיר פריט מהרשימה יש לסמן אותו וללחוץ על &quot;הסר&quot;.</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="he" l10n="NEW"><ahelp hid="." visibility="hidden">פותח את תיבת הדיאלוג של MediaWiki כדי להוסיף פריט חדש לרשימה.</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="he" l10n="NEW"><ahelp hid="." visibility="hidden">פותח את תיבת הדיאלוג של MediaWiki כדי לערוך את הפריט שנבחר.</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="he" l10n="NEW"><ahelp hid="." visibility="hidden">מסיר את הפריט שנבחר מהרשימה.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="he" l10n="NEW">לחיצה על &quot;הוסף&quot; או &quot;ערוך&quot; תפתח את תיבת הדיאלוג <link href="com.sun.wiki-publisher/wikiaccount.xhp">‎MediaWiki</link>.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mr">MediaWiki स्वरूप</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="mr" level="1" l10n="NEW">MediaWiki स्वरूप</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="mr" l10n="NEW">पुढील यादी मजकूर स्वरूपाचे सर्वसाधारण वर्णन देते ज्याने @WIKIEXTENSIONPRODUCTNAME@ हे विकी सर्वरला अपलोड करू शकते.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="mr" l10n="NEW">रायटरकडून OpenDocument स्वरूप  वापरले गेले आणि विकीमिडीया स्वरूप जरा वेगळे आहे.  सर्व वैशिष्ट्यांचा फक्त उपसंच एका स्वरूपातून दुसरया स्वरूपात रूपांतरित करू शकता.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="mr" level="2" l10n="NEW">मथळा</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="mr" l10n="NEW">आपल्या रायटर कागदपत्रातील मथळ्याकडे मथळ्याची परिच्छेद शैली लागू करा.  विकी इंजिनने ठरवलेल्याप्रमाणे स्वरूपित केलेली विकी समान बाह्यरेखा स्तराची मथळ्याची शैली दाखवेल.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="mr" level="2" l10n="NEW">हाईपरलिंकस</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="mr" l10n="NEW">स्थानिक OpenDocument हाईपरलिंकस &quot;बाह्य&quot; विकी दुव्यात रूपांतरित केले आहे. म्हणून, OpenDocument मध्ये समावेश असलेले जोडण्याचे साधन दुवे जे विकी वेबच्या बाहेरून इतर संकेतस्थळांना दर्शवते त्यांना निर्माण करण्यासाठी फक्त वापरायला हवे . विकी दुवे  जे सारख्या विकी महाजालावरील संकेतस्थळाच्या इतर विषयांना दर्शवते त्यांना निर्माण करण्यासाठी.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="mr" level="2" l10n="NEW">यादी</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="mr" l10n="NEW">जेव्हा संपूर्ण यादी सुसंगत यादी शैली वापरते तेव्हा याद्या विश्वनीयरित्या पाठवल्या जाऊ शकतात.  रायटरमध्ये यादी निर्माण करण्यासाठी क्रमांक किंवा बुलेटस चित्रसंकेत वापरा.  जर आपणास  क्रमांक किंवा बुलेटस रहित यादी ची आवश्यकता असेल, तर ठरवण्यासाठी बुलेटस आणि क्रमांकाचे स्वरूप वापरा  आणि संबंधित यादी शैली लागू करा.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="mr" level="2" l10n="NEW">परिच्छेद</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="mr" level="3" l10n="NEW">संरेषण</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="mr" l10n="NEW">वेगळे पाठ्य स्थिती Wiki पत्रकात वापरू नका. तरी, पाठ्य स्थिती डावी, मध्य व उजवी स्थिती करीता समर्थीत आहे.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="mr" level="3" l10n="NEW">पूर्व-स्वरूपीत पाठ्य</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="mr" l10n="NEW">निश्चित-रूंदीची परिच्छेद शैली आधीच-स्वरूपित केलेल्या मजकूराप्रमाणे रूपांतरित केली आहे. आधीच-स्वरूपित केलेला मजकूर मजकूराभोवतीच्या सीमारेषेने विकी वर दाखवलेला आहे.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="mr" level="2" l10n="NEW">अक्षर शैली</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="mr" l10n="NEW">अक्षऱ शैलीं परिच्छेद भागाच्या स्वरूपास सुधारित करते.  रूपांतरण ठळक, तिरके, ठळक/ तिरके, माथालेखन, पायथालेखन इ. ला आधार देते. सर्व निश्चित रूंदीच्या फॉन्टसना विकी टंकलेखन शैलीमध्ये रूपांतरीत केले आहे.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="mr" level="2" l10n="NEW">चरणओळं</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="mr" l10n="NEW">नोंद:रूपांतर तळटिपांची नवीन शैली  \&lt;ref\&gt; आणि \&lt;references\&gt;  टॅगसह वापरते ज्यांना संकेतस्थळाची आवश्यकता आहे . मिडीया विकीत php एक्सटेन्शन स्थापित करू.  जर हे टॅग्ज रूपांतर अहवालात साध्या मजकूराप्रमाणे आले, तर हे एक्सटेन्शन स्थापित करण्यासाठी विकी प्रशासकाला विचारा.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="mr" level="2" l10n="NEW">प्रतिमा</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="mr" l10n="NEW">प्रतिमांना  विकी मजकूराची एखादी धारिका निर्माण करून रूपांतरणाने पाठवू शकत नाही. तथापि, जर प्रतिमा आधीच लक्ष्य विकी महाजालावरील संकेतस्थळा  (उदा., विकीमिडीया सामायिक) कडे अपलोड केलेली आहे,  तर रूपांतरणाने वैध प्रतिमा टॅग निर्माण होतो जे प्रतिमांचा समावेश करते.  प्रतिमा कॅप्शनने देखील आधार दिलेला आहे.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="mr" level="2" l10n="NEW">कोष्टक</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="mr" l10n="NEW">साधे कोष्टक चांगला आधार देतात.  कोष्टकाचा माथासमास मजकूर संबंधित विकी   शैली कोष्टकाचा माथासमास मजकूरात अनुवादित केला आहे. तथापि,कोष्टक सीमारेखाचे इच्छित स्वरूपण, स्तंभ आकार, आणि पार्श्वभूमीचे रंग दुर्लक्षित केले जातात.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="mr" level="3" l10n="NEW">जोडलेले कप्पे</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="mr" l10n="NEW">OpenDocument  आणि विशेषकरून OpenOffice.org कोष्टकांना दाखवतात कि त्यांच्याकडे जोडलेले कक्ष आहेत जे नेस्टेड कोष्टकांच्या साहाय्याने कोष्टकाप्रमाणे पंक्तिना वाढवते.  </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="mr" l10n="NEW">जर समान पंक्तिचा फक्त स्तंभाना जोडले असेल, तर रूपांतराचा परिणाम  स्त्रोत कागपत्रास चांगल्याप्रकारे सारखे करते.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="mr" level="3" l10n="NEW">सीमा</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="mr" l10n="NEW">किनार व पार्श्वभूमी करीता इच्छिक कोष्टक शैली लागू केले असल्यास किंवा नसल्यास, कोष्टक नेहमी &quot;<emph>prettytable&quot;</emph> नुरूप एक्सपोर्ट केले जाते, जे Wiki इंजिन अंतर्गत सोपे बॉर्डर व ठळक हेड्डर दर्शविते.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="mr" level="2" l10n="NEW">Charset व विशेष अक्षरं</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="mr" l10n="NEW">रूपांतरन नंतर charset UTF-8 करीता निश्चित केली जाते. प्रणाली वर आधारीत, हे मुलभूत charset नसू शकते. यामुळे काहिक &quot;special characters&quot; मुलभूत संयोजनासह मोडल्या सारखे प्रदर्शित होऊ शकते. व्यस्थित करण्याकरीता, तुम्हाला संपादकास UTF-8 एन्कोडींग करीता निश्चित करावे लागेल. संपादक एनकोडिंग बदलविण्यास समर्थन पुरवित नसल्यास, तुम्ही रूपांतरनचे परिणाम Firefox ब्राऊजर अंतर्गत पाऊ शकाल व एनकोडिंगला UTF-8 करीता बदलवू शकता. आता, तुम्ही रूपांतरन परिणाम तुमच्या पसंतीच्या कार्यक्रमात कापून चिकटवू शकता.</paragraph>
+</body>
+</helpdocument>

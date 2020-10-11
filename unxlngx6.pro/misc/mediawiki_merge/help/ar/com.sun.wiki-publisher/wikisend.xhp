@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisendxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ar">إرسال إلى MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisend.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:36:25"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:sendDialog" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id108340" xml-lang="ar" level="1" l10n="NEW">إرسال إلى MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1743827" xml-lang="ar" l10n="NEW">في مربع الحوار أرسل إلى MediaWiki، حدد الإعدادات لتحميل Wiki الحالي.</paragraph><comment>MediaWiki server</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList" id="bm_id735801" localize="false"/>
+<paragraph role="paragraph" id="par_id664082" xml-lang="ar" l10n="NEW"><ahelp hid=".">حدد خادم MediaWiki حيث تريد نشر المستند الخاص بك. انقر فوق إضافة لإضافة خادم جديد إلى القائمة.</ahelp></paragraph><comment>title</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText" id="bm_id735802" localize="false"/>
+<paragraph role="paragraph" id="par_id2794885" xml-lang="ar" l10n="NEW"><ahelp hid=".">أدخل عنوان إدخال Wiki. يُعد ذلك العنوان الرئيسي لإدخال Wiki الخاص بك. لإدخال جديد، يجب أن يكون العنوان فريدًا على ذلك Wiki. في حالة إدخال عنوان موجود، فسيحل التحميل الخاص بك محل إدخال Wiki الموجود.</ahelp></paragraph><comment>summary</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText" id="bm_id735803" localize="false"/>
+<paragraph role="paragraph" id="par_id2486342" xml-lang="ar" l10n="NEW"><ahelp hid=".">أدخل ملخصًا قصيرًا اختياريًا أو تعليقًا.</ahelp> انظر <link href="http://meta.wikimedia.org/wiki/Help:Edit_summary">http://meta.wikimedia.org/wiki/Help:Edit_summary</link>.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck" id="bm_id2619708" localize="false"/>
+<paragraph role="paragraph" id="par_id823999" xml-lang="ar" l10n="NEW"><emph>يُعد ذلك تعديلاً ثانويًا</emph>: <ahelp hid=".">تحقق من هذا المربع لتحديد الصفحة التي تم تحميلها كتحرير ثانوي للصفحة الموجودة بالفعل بنفس العنوان.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck" id="bm_id1293679" localize="false"/>
+<paragraph role="paragraph" id="par_id6592913" xml-lang="ar" l10n="NEW"><emph>العرض في مستعرض ويب</emph>: <ahelp hid=".">تحقق من هذا المربع لفتح مستعرض ويب النظام وعرض صفحة Wiki التي تم تحميلها.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton" id="bm_id290536" localize="false"/>
+<list type="ordered" startwith="5">
+</list>
+</body>
+</helpdocument>

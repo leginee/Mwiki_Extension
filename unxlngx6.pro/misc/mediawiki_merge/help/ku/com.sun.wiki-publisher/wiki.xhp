@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ku">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ku" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>pêvek;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ku" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ku" l10n="NEW"><ahelp hid=".">Bi bikaranîna @WIKIEXTENSIONPRODUCTNAME@ re hun dikarin belgeya nivîsa Writer bar bikin li pêşkêşkera MediaWiki. Piştî barkirinê, hemû bikarhênerên Wiki dikarin belgeya we di Wiki de bixwînin.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ku" l10n="NEW"><ahelp hid=".">Ji bo barkirina belgeya Writer li pêşkêşkera MediaWiki, <item type="menuitem">Pel - Bişîne - MediaWiki re</item> hilbijêrin.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ku" level="2" l10n="NEW">Pêdiviyên Pergalê</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ku" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ku" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ku" l10n="NEW">Derdora Java Runtime 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ku" l10n="NEW">Hisabekî Wiki ya tê piştgirîdan di pêşkêşkera <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> de</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ku" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ tê sazkirin</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ku" l10n="NEW">Beriya sazkirina @WIKIEXTENSIONPRODUCTNAME@, kontrol bikin ku %PRODUCTNAME Derdora Java Runtime (JRE) bikar tîne. Ji bo kontrolkirina rewşa JRE, <item type="menuitem">Amûr - Vebijêrk - %PRODUCTNAME - Java</item> hilbijêrin. Kontrol bikin ku &quot;Derdora Java runtime bikar bîne&quot; nîşan kiriye û di qutiya lîsteyan ya mezin de peldanka Java runtime hilbijartiye. Heke tu JRE çalak nebin, JRE4 an bilindtir çalak bikin û %PRODUCTNAME nûve bidin destpêkirin.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ku" level="3" l10n="NEW">Ji bo sazkirina @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ku" l10n="NEW">Di paceya Writer de, <item type="menuitem">Amûr - Rêvebirê Pêvekan</item> hilbijêrin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ku" l10n="NEW">Di paceya Rêvebirê Pêvekan de, pêl Lê Zêde Bike bikin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ku" l10n="NEW">Cihê pela @WIKIEXTENSIONFILENAME@.oxt bibînin, pêl Veke bikin, û paşê pêl Bigire bikin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ku" l10n="NEW">%PRODUCTNAME bigirin, û heke Destpêkera Bilez çalak be vê jî bigirin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ku" l10n="NEW">Nivîsbariyê bidin destpêkirin, belgeyekî nivîsê vekin, paşê <item type="menuitem">Amûr - Vebijêrk - Înternet - MediaWiki</item> hilbjêrin û mîhengên Wiki têkevin. &quot;Girêdana bi Wiki re&quot; ya jêr binihêrin.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ku" level="3" l10n="NEW">Ji bo rakirina @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ku" l10n="NEW">Di paceya Writer de, <item type="menuitem">Amûr - Rêvebirê Pêvekan</item> hilbijêrin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ku" l10n="NEW">Pêl nîşaneya zêdek (+) ya pêşiya Pêvekên Min bikin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ku" l10n="NEW">Pêvekê hilbijêrin, pêl Rake bikin, û pêl Bigire bikin.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ku" level="2" l10n="NEW">Girêdana bi Wiki re</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ku" l10n="NEW">Nîşe: Hun dikarin navê bikarhêner û nasnav ji bo hemû paceyên di %PRODUCTNAME de tomar bikin. Nasnav bi riyekî ewle tê tomarkirin, gihîştina cihê vê bi makenasnav tê parastin. Ji bo çalakkirina makenasnav, <item type="menuitem">Amûr - Vebijêrk - %PRODUCTNAME - Ewlehî</item> hilbijêrin.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ku" l10n="NEW">Nîşe: Heke hun bi bikaranîna pêşkêşkerekî cîgir re bikevin înternetê, agahiyên cîgir li vir têkevin; <item type="menuitem">Amûr - Vebijêrk - Înternet - Proxy</item>, û nivîsbariyê nûve bidin destpêkirin.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ku" l10n="NEW">Belgeyekî Writer vekin, û <item type="menuitem">Amûr - Vebijêrk - Înternet - MediaWiki</item> hilbijêrin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ku" l10n="NEW">Di paceya <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Vebijêrk</link> de pêl Lê Zêde Bike bikin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ku" l10n="NEW">Di paceya <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> de agahiyên hisab ji bo Wiki têkevin.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ku" l10n="NEW">Di qutiya nivîsan ya URL de navnîşana Wiki ya hun bi re daxwaza girêdanê dikin, têkevin.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ku" l10n="NEW">Hun dikarin URL yê ji geroka torê jiber bigirin û di qutiya nivîs de pêve bikin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ku" l10n="NEW">Di qutiya Bikarhêner de, IDya bikarhêner ya hisaba Wiki têkevin.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ku" l10n="NEW">Heke Wiki gihîştina nivîsînê ya gelêrî dide, hun dikarin qutiyên Navê Bikarhêner û Nasnav vala bihêlin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ku" l10n="NEW">Di qutiya nasnav de, nasnava xwe ya hisaba Wiki têkevin, û pêl Temam bikin.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ku" l10n="NEW">Hun dikarin &quot;Nasnav tomar bike&quot; çalak bikin ku navbera danişînan de nasnav were tomarkirin. Makenasnavek ji bo parastina hemû nasnavan tê bikaranîn. Ji bo çalakkirina makenasnav <item type="menuitem">Amûr - Vebijêrk - %PRODUCTNAME - Ewlehî</item> hilbijêrin. Heke makenasnav neçalak be, &quot;Nasnav tomar bike&quot; tune dibe.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ku" level="2" l10n="NEW">Ji bo Afirandina Rûpelekî Nû ya Wîkî</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ku" l10n="NEW">Belgeyeke Writerê veke.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ku" l10n="NEW">Naveroka rûpela Wiki binivîsin. Hun dikarin teşekirinên wek teşeya nivîsê, sernivîs, têbîn, û zêdetir bikar bînin. Binihêre <link href="@WIKIEXTENSIONID@/wikiformats.xhp">lîsteya teşeyên tên piştgirîdan</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ku" l10n="NEW">Hilbijêre <item type="menuitem">Pel - Bişîne - MediaWiki re</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ku" l10n="NEW">Di paceya <link href="@WIKIEXTENSIONID@/wikisend.xhp">MediaWiki re Bişîne</link> de, mîhengên têketina xwe taybet bikin.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ku" l10n="NEW"><emph>Pêşkêşkarê MediaWiki</emph>: Wîkiyê hilbijêre.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ku" l10n="NEW"><emph>Sernav</emph>: Sernava rûpela xwe binivîsin. Sernavê rûpelekî heyî binivîsin ku li ser de belgeya nivîsa we were nivîsîn. Sernavekî nû binivîsin ku di wiki de rûpelekî nû biafirînin.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ku" l10n="NEW"><emph>Kurtasî</emph>: Heke daxwaz dikin, kurtasiyekî rûpela xwe binivîsin.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ku" l10n="NEW"><emph>Ev guherînekî biçûk e</emph>: Heke rûpela barkirî guherînekî bîçûk ya rûpelekî heyî bi eynî sernavê be, vê qutiyê nîşan bikin.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ku" l10n="NEW"><emph>Di geroka torê de nîşan bide</emph>: Ji bo vekirina geroka torê ya di pergala we de û nîşandana rûpela Wiki ya barkirî, vê qutiyê nîşan bikin.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ku" l10n="NEW">Pêl Bîşîne bikin.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

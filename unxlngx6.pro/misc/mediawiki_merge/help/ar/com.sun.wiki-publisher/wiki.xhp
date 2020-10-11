@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ar">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ar" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ar" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ar" l10n="NEW"><ahelp hid=".">باستخدام @WIKIEXTENSIONPRODUCTNAME@ يُمكنك تحميل مستند نص Writer إلى خادم MediaWiki. وبعد القيام بالتحميل، يُمكن لكافة مستخدمي Wiki قراءة المستند على موقع Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ar" l10n="NEW"><ahelp hid=".">اختر <item type="menuitem">ملف - إرسال - إلى MediaWiki</item> لتحميل مستند Writer إلى خادم MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ar" level="2" l10n="NEW">متطلبات النظام</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ar" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ar" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ar" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ar" l10n="NEW">حساب Wiki على خادم <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> مدعوم</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ar" level="2" l10n="NEW">تثبيت @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ar" l10n="NEW">قبل تثبيت @WIKIEXTENSIONPRODUCTNAME@، تأكد من أن %PRODUCTNAME يستخدم (Java Runtime Environment (JRE. للتحقق من حالة JRE، اختر <item type="menuitem">أدوات - خيارات - %PRODUCTNAME - Java</item>. تأكد من تحديد &quot;استخدام Java runtime environment&quot; وتحديد مجلد Java runtime في مربع القائمة الكبير. إذا لم توجد أي JRE نشطة، فقم بتنشيط JRE 1.4 أو أحدث ثم أعد تشغيل %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ar" level="3" l10n="NEW">لتثبيت @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ar" l10n="NEW">في الإطار Writer، اختر <item type="menuitem">أدوات - مدير التمديد</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ar" l10n="NEW">في مربع الحوار مدير التمديد، انقر فوق إضافة.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ar" l10n="NEW">قم بتحديد موقع ملف @WIKIEXTENSIONFILENAME@.oxt، انقر فوق فتح ثم انقر فوق إغلاق. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ar" l10n="NEW">قم بإغلاق %PRODUCTNAME، وإغلاق Quickstarter أيضًا إذا أمكن.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ar" l10n="NEW">قم بإعادة تشغيل البرنامج، افتح مستندًا نصيًا، ثم اختر <item type="menuitem">أدوات - خيارات - إنترنت - MediaWiki</item> لإدخال إعدادات Wiki الخاصة بك. انظر &quot;للاتصال بموقع Wiki&quot; أدناه.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ar" level="3" l10n="NEW">لإزالة @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ar" l10n="NEW">في الإطار Writer، اختر <item type="menuitem">أدوات - مدير التمديد</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ar" l10n="NEW">انقر فوق علامة إضافة (+) الموجودة أمام الامتدادات الخاصة بي.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ar" l10n="NEW">حدد التمديد، انقر فوق إزالة ثم انقر إغلاق.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ar" level="2" l10n="NEW">للاتصال بموقع Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ar" l10n="NEW">ملاحظة: يمكنك تخزين اسم المستخدم الخاص بك وكلمة المرور لمربعات الحوار ذات الصلة داخل %PRODUCTNAME. سيتم تخزين كلمة المرور بطريقة آمنة، بينما يتم الاحتفاظ بالوصول بكلمة مرور رئيسية. لتمكين كلمة المرور الرئيسية، اختر <item type="menuitem">أدوات - خيارات - %PRODUCTNAME - الأمان</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ar" l10n="NEW">ملاحظة: في حالة تعذر الاتصال بويب باستخدام خادم وكيل، أدخل معلومات الوكيل إلى <item type="menuitem">أدوات - خيارات - إنترنت - وكيل</item> وقم بإعادة تشغيل البرنامج.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ar" l10n="NEW">افتح مستند Writer واختر <item type="menuitem">أدوات - خيارات - إنترنت - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ar" l10n="NEW">في مربع الحوار <link href="@WIKIEXTENSIONID@/wikisettings.xhp">خيارات</link>، انقر فوق إضافة.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ar" l10n="NEW">في مربع الحوار <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>، أدخل معلومات الحساب لموقع Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ar" l10n="NEW">في المربع النصي لعنوان URL، أدخل عنوان موقع Wiki الذي تريد الاتصال به.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ar" l10n="NEW">يُمكنك نسخ عنوان URL من مستعرض ويب ولصقه في المربع النصي.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ar" l10n="NEW">في المربع اسم المستخدم، أدخل معرّف المستخدم لحساب موقع Wiki الخاص بك.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ar" l10n="NEW">إذا كان موقع Wiki يسمح بالوصول المجهول إلى الكتابة، فإنه يُمكنك ترك مربعي اسم المستخدم وكلمة المرور فارغين.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ar" l10n="NEW">في مربع كلمة المرور، أدخل كلمة المرور الخاصة بحساب Wiki ثم انقر فوق موافق.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ar" l10n="NEW">قم بتمكين &quot;حفظ كلمة المرور&quot; ـ وهذا أمر اختياري ـ لحفظ كلمة المرور بين الجلسات. يتم استخدام كلمة المرور الرئيسية للاحتفاظ بالوصول إلى كافة كلمات المرور المحفوظة. اختر <item type="menuitem">أدوات - خيارات - %PRODUCTNAME - الأمان</item> لتمكين كلمة المرور الرئيسية. يكون &quot;حفظ كلمة المرور&quot; غير متوفر عند عدم تمكين كلمة المرور الرئيسية.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ar" level="2" l10n="NEW">لإنشاء صفحة Wiki جديدة</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ar" l10n="NEW">افتح مستند Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ar" l10n="NEW">اكتب محتوى صفحة Wiki. يُمكنك استخدام تنسيق مثل التنسيقات النصية والعناوين والحواشي السفلية وأكثر من ذلك. انظر قائمة <link href="@WIKIEXTENSIONID@/wikiformats.xhp"> للتنسيقات المدعومة</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ar" l10n="NEW">اختر ملف <item type="menuitem">- إرسال - إلى MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ar" l10n="NEW">في مربع الحوار <link href="@WIKIEXTENSIONID@/wikisend.xhp">أرسل إلىMediaWiki</link>، حدد الإعدادات للإدخال الخاص بك.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ar" l10n="NEW"><emph>خادم MediaWiki</emph>: حدد Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ar" l10n="NEW"><emph>العنوان</emph>: اكتب عنوان الصفحة. اكتب عنوان صفحة موجودة لتحل محل الصفحة بالمستند النصي الحالي لديك،. اكتب عنوانًا جديدًا لإنشاء صفحة جديدة على موقع Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ar" l10n="NEW"><emph>ملخص</emph>: أدخل ملخصًا موجزًا اختياريًا لصفحتك.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ar" l10n="NEW"><emph>يُعد ذلك بمثابة تحرير ثانوي</emph>:تحقق من هذا المربع لتحديد الصفحة التي تم تحميلها باعتبارها تحريرًا ثانويًا للصفحة الموجودة بالفعل بنفس العنوان.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ar" l10n="NEW"><emph>العرض في مستعرض ويب</emph>: تحقق من هذا المربع لفتح مستعرض النظام وعرض صفحة موقع Wiki التي تم تحميلها.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ar" l10n="NEW">انقر فوق إرسال.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="he">פורמט MediaWiki </title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="he" level="1" l10n="NEW">פורמט MediaWiki </paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="he" l10n="NEW">הרשימה הבאה סוקרת בכלליות את סוגי הטקסט ש-‎@WIKIEXTENSIONPRODUCTNAME@‎ יכול להעלות לשרת Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="he" l10n="NEW">פורמטים של מסמךפתוח-OpenDocument בשימוש על ידי  ווריטר-Writer ופורמט ויקימדיה הם שונים לגמרי. רק קבוצת משנה של כל התכונות נתנת להפיכה מתבנית אחת לשנייה.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="he" level="2" l10n="NEW">כותרות</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="he" l10n="NEW">מחיל סגנון פסקה כותרת לכותרות במסמך ה-Writer. ה-Wiki תציג את סגנונות הכותרת של אותה רמת חלוקה לרמות, כשהעיצוב יהיה לפי מה שמוגדר במנוע ה-Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="he" level="2" l10n="NEW">קישורים</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="he" l10n="NEW">קישורי OpenDocument מקוריים הופכים לקישורים Wiki &quot;חיצוניים&quot;. לכן, הקישור המובנה של OpenDocument צריך רק לשמש ליצירת קישורים שמפנה לאתרים אחרים מחוץ לאינטרנט Wiki. ליצירת קישורי Wiki המצביעים על נושאים אחרים באותו תחום של וויקי,  יש להשתמש בקישורי Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="he" level="2" l10n="NEW">רשימות</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="he" l10n="NEW">ניתן לייצא במהימנות רשימות כאשר כל הרשימה משתמשת בסגנון רשימה אחיד. השתמש במספור או תבליטי סמל כדי ליצור רשימה ב-Writer. אם אתה צריך רשימה ללא מספור או תבליטים, השתמש בתבנית - תבליטים ומספורים כדי להגדיר וליישם את סגנון הרשימה הנדרש.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="he" level="2" l10n="NEW">פיסקאות</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="he" level="3" l10n="NEW">יישור</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="he" l10n="NEW">אין לכלול בכתבות Wiki פקודות ספציפיות ליישור טקסט. עם זאת, קיימת תמיכה ביישור הטקסט שמאלה, למרכז, וימינה.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="he" level="3" l10n="NEW">טקסט מעוצב לפי רווחים</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="he" l10n="NEW">סגנון פיסקה שמכיל גופן בעל רוחב קבוע של תווים מומר לטקסט מעוצב לפי רווחים. טקסט זה מוצג ב-Wiki כשיש מסגרת סביבו.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="he" level="2" l10n="NEW">סגנונות תו</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="he" l10n="NEW">סגנונות תו משנים את המראה של חלק מהמילים בפיסקה. השינויים כוללים הדגשה, הטייה, כתב תחתי או עילי. גופנים בעלי רוחב קבוע של תווים מומרים לסגנון מכונת-כתיבה של Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="he" level="2" l10n="NEW">הערות-שוליים</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="he" l10n="NEW">הערה: ההמרה משתמשת בסגנון חדש של הערות-שוליים המכיל תגים &lt;ref&gt; ו-&lt;references&gt; שתלויים בתוסף Cite.php ל-MediaWiki. אם תגים אלו מופיעים לאחר ההמרה כטקסט רגיל, יש להתייעץ עם מנהל ה-Wiki כיצד להתקין את התוסף.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="he" level="2" l10n="NEW">תמונות</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="he" l10n="NEW">לא ניתן לייצא תמונות בזמן המרה שמייצרת קובץ יחיד של טקסט Wiki. עם זאת, אם התמונה פורסמה כבר באתר ה-Wiki (למשל, WikiMedia Commons), ההמרה תייצר תג תמונה שיכיל את התמונה. קיימת תמיכה גם בכתוביות תמונה.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="he" level="2" l10n="NEW">טבלות</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="he" l10n="NEW">טבלאות פשוטות נתמכות היטב. כותרות טבלה מתורגמות לכותרות טבלה מקבילות בסגנון Wiki. עם זאת, המערכת מתעלמת מעיצוב מותאם אישית של מסגרות טבלה, גודל עמודות וצבעי רקע.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="he" level="3" l10n="NEW">תאים מצורפים</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="he" l10n="NEW">OpenDocument ובמיוחד OpenOffice.org מייצג טבלות  המכילים תאים מצורפים שמשתרעים על פני שורות כמו טבלותעם טבלאות מקוננות. לעומת זאת, המודל של ויקי שולחן הוא להכריז תוחלת עמודות ושורות לתאים הצטרפו כאלה.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="he" l10n="NEW">תוצאת ההמרה תהיה דומה מאוד למקור, בתנאי שרק תאים מאותה שורה אוחדו.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="he" level="3" l10n="NEW">מסגרות</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="he" l10n="NEW">טבלה מיוצאת תמיד כ-<emph>&quot;prettytable&quot;</emph>, ללא תלות בסגנונות רקע ומסגרות שקבעת. ה-Wiki יתרגם זאת לטבלה עם מסגרות פשוטות וכותרת מודגשת.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="he" level="2" l10n="NEW">סט אותיות ותווים מיוחדים</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="he" l10n="NEW">סט האותיות בזמן ההמרה קובע ל-UTF-8. יתכן ובמערכת שלך מוגדר סט אותיות אחר כברירת-מחדל. דבר זה עלול לגרום לתווים מיוחדים להיראות כטעות בעת הצגה עם סט אותיות זה. בכל מקרה, באפשרותך לשנות את קידוד התצוגה בעורך הטקסט ל-UTF-8 ובכך לפתור את הבעייה. אם אין אפשרות כזו בעורך הטקסט שלך, אפשר להציג את תוצאת ההמרה גם בדפדפן אינטרנט כמו Firefox ושם להחליף את הקידוד ל-UTF-8. כעת, ניתן לגזור ולהדביק את תוצאת ההמרה בכל תוכנה לבחירתך. </paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="el">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="el" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="el" l10n="NEW">Χρησιμοποιήστε τον διάλογο MediaWiki για να προσθαίσετε ή να τροποποιήσετε τις ρυθμίσεις λογαριασμού σας στο MediaWiki.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="el" l10n="NEW"><ahelp hid="." visibility="hidden">Εισάγετε το URL ενός MediaWiki σέρβερ, αρχίζοντας με http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="el" l10n="NEW"><ahelp hid="." visibility="hidden">Είσαγετε το όνομα χρήστη στον MediaWiki σέρβερ. Αφήστε το κενό για ανώνυμη πρόσβαση .</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="el" l10n="NEW"><ahelp hid="." visibility="hidden">Εισάγετε τον κωδικό σας στον MediaWiki σέρβερ. Αφήστε κενό για ανώνυμη πρόσβαση.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="el" l10n="NEW"><ahelp hid="." visibility="hidden">Ενεργοποιήστε για να αποθηκεύεται ο κωδικός σας μεταξύ συνεδριών. Ο κύριος κωδικός πρέπει να είναι ενεργοποιημένος, ελέγξτε το στο <item type="menuitem">Εργαλεία - Επιλογές - %PRODUCTNAME - Ασφάλεια</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="el" l10n="NEW">Εισάγετε την διεύθυνση ενος Wiki σέρβερ με τη μορφή http://wiki.services.openoffice.org/wiki ή αντιγράψτε το URL απο ένα πρόγραμμα ανάγνωσης ιστοσελίδων.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="el" l10n="NEW">Εάν το Wiki επιτρέπει ανωυμη πρόσβαση, μπορείτε να αφήσετε τα πεδία λογριασμού κενά. Αλλιώς εισάγετε το όνομα χρήστη και τον κωδικό.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="el" l10n="NEW">Αν έχετε ενεργοποιήσει τον κύριο κωδικό στην καρτέλα Ασφάλεια του διαλόγου Εργαλεία - Επιλογές - %PRODUCTNAME, τότε το λογισμικό μπορεί να αποθηκεύσει τον κωδικό σας και να εισάγει αυτόματα τα δεδομένα όπου χρειάζεται. Ενεργοποιήστε την επιλογή &quot;Αποθήκευση κωδικού&quot; για να αποθηκευτεί ο κωδικός σας.</paragraph>
+</body>
+</helpdocument>

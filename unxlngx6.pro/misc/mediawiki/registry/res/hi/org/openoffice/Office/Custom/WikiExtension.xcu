@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="hi">'MediaWiki में भेजें' सफलतापूर्वक पूर्ण नहीं हो सका।</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="hi">मीडियाविकि निर्यात फिल्टर ढूँढा नहीं जा सकता। फिल्टर स्थापित करने के लिए 'औजार-XML फिल्टर विन्यास' चुनें, या व्यवस्थापन का उपयोग कर घटक स्थापित करें।</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="hi">'$ARG1' पर MediaWiki तंत्र में एक संयोजन नहीं बनाया जा सकेगा।</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="hi">उपयोक्तानाम या कूटशब्द सही नहीं है। कृपया फिर कोशिश करें, या कोई बेनाम संयोजन के लिए क्षेत्रों को खाली छोड़ें।</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="hi">संयोजन नहीं बनाया जा सकेगा, क्योंकि URL अवैध है।</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="hi">मीडियाविकि सर्वर को एक URL देकर निर्दिष्ट करें।</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="hi">हस्तांतरण बाधित हो रहा है। कृपया विकी आलेख की विश्वसनीयता जाँचें।</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="hi">URL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="hi">उपयोक्तानाम</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="hi">कूटशब्द</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="hi">मीडियाविकी में भेजें</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="hi">विकी आलेख</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="hi">नहीं</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="hi">ठीक</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="hi">हाँ</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="hi">जोड़ें...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="hi">संपादन...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="hi">भेजें</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="hi">हटाएँ</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="hi">'$ARG1' शीर्षक युक्त एक विकी आलेख मोजुद नहीं है। क्या आप उस नाम के साथ एक नवीन आलेख बनना चाहते हैं?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="hi">MediaWiki सर्वर</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="hi">शीर्षक</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="hi">सारांश</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="hi">यह एक गौण संपादन है</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="hi">वेब ब्राउजर में दिखाएँ</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="hi">चुने साइट का प्रमाणपत्र अज्ञात है।</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="hi">मीडियाविकी</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="hi">खाता</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="hi">MediaWiki सर्वर</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="hi">कूटशब्द सहेजें</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="hi">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="hi">'$ARG1' शीर्षक से एक विकी आलेख पहले से मौजूद है।&amp;#13;&amp;#13;क्या आप मौजूदा आलेख को बदलना चाहते हैं अपने इस आलेख से?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

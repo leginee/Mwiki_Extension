@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="es">Formatos de MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="es" level="1" l10n="NEW">Formatos de MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="es" l10n="NEW">La siguiente lista muestra una revisión de los formatos de texto que Wiki Publisher puede subir al servidor Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="es" l10n="NEW">El formato OpenDocument utilizado por Writer y el formato WikiMedia son diferentes. Solamente un subconjunto de todos los características pueden ser transformados de un formato al otro.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="es" level="2" l10n="NEW">Encabezados</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="es" l10n="NEW">Aplicar un estilo de encabezado de párrafo a los títulos en un documento de Writer. El Wiki mostrará los estilos de los encabezados en el esquema del mismo nivel, en el formato como está definido por el Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="es" level="2" l10n="NEW">Hipervínculos</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="es" l10n="NEW">Hipervínculos nativos de OpenDocument se transforman en vínculos &quot;externos&quot; en el Wiki . Por consiguiente, la facilidad de vínculos incorporado en OpenDocument solamente debe ser utilizado para crear vínculos que apuntan a otros sitios, fuera del web del Wiki. Para crear vínculos Wiki que apuntan a otros elementos en el mismo dominio del Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="es" level="2" l10n="NEW">Listas</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="es" l10n="NEW">Listas pueden ser exportado fiablemente cuando la lista entera utiliza un estilo de lista consistente. Usa el icono de Numeración o Viñetas para generar una lista en Writer. Si necesitas una lista sin numeración o viñetas, usa Formato &gt; Numeración y viñetas para definir y aplicar el estilo respectivo.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="es" level="2" l10n="NEW">Párrafos</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="es" level="3" l10n="NEW">Alineamiento</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="es" l10n="NEW">Alineamiento explícitos del texto no deberían ser usado en artículos de Wiki. De todas maneras son soportadas para alineamiento de texto a la izquierda, centrada y a la derecha.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="es" level="3" l10n="NEW">Texto predeterminado</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="es" l10n="NEW">Un estilo de párrafo con un tipo de letra de ancho fijo es trasformado como texto con formato. Texto con formato se muestra en el Wiki con un borde alrededor del texto.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="es" level="2" l10n="NEW">Estilos del carácter</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="es" l10n="NEW">Los estilos de carácter modifican la apariencia de partes de un párrafos. La transformación soporta negritas, cursivas, negritas/cursivas, subíndice y superíndice. Todos los tipos de letras de ancho fijo están transformado al estilo de máquina de escribir de Wiki. </paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="es" level="2" l10n="NEW">Notas de pies</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="es" l10n="NEW">Nota: La transformación utiliza el nuevo estilo de notas al pie de página con etiquetas &lt;ref&gt; y &lt;references&gt; que requiere que la extensión Cite.php esté instalada en MediaWiki. Si aquellas etiquetas ocurren como texto simple en el resultado de la transformación, pida al administrador del Wiki la instalación de esta extensión.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="es" level="2" l10n="NEW">Imagenes</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="es" l10n="NEW">Las imágenes no pueden ser exportadas a través de una transformación para producir un solo archivo de texto Wiki. Sin embargo, si la imagen ya está disponible en el servidor del Wiki (por ejemplo, WikiMedia Commons), entonces la transformación produce una etiqueta de imagen válida que incluye el imagen. Los títulos de las imágenes también son soportados.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="es" level="2" l10n="NEW">Tablas</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="es" l10n="NEW">La compatibilidad con tablas sencillas es muy buena. Los encabezados de las tablas se convierten usando el estilo de encabezado de tabla correspondiente del Wiki. Sin embargo se ignora el formato personalizado en los bordes de la tabla, tamaños de columnas y colores de fondo.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="es" level="3" l10n="NEW">Celdas unidas</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="es" l10n="NEW">OpenDocument y especialmente OpenOffice.org representan tablas con celdas unidas en múltiples filas, como tablas en cascada. En contraste, el modelo de tabla en wiki es declarar múltiples columnas y/o filas para tales celdas unidas.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="es" l10n="NEW">Si solamente las columnas de una misma fila están unidos, el resultado de la transformación parecerá mucho al documento original.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="es" level="3" l10n="NEW">Bordes</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="es" l10n="NEW">Sin importar los estilos de tablas personalizadas para bordes y fondos, una tabla siempre se exporta como &quot;<emph>prettytable</emph>&quot;, el cual se mostrada por el Wiki con bordes sencillos y encabezados en negrillas.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="es" level="2" l10n="NEW">Juegos de caracteres y caracteres especiales</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="es" l10n="NEW">El conjunto de caracteres del resultado de la conversión está configurado a UTF-8. Dependiendo en su sistema, puede que no sea el conjunto de caracteres predeterminado. Que puede resultar en &quot;caracteres especiales&quot; con apariencia extraña. Sin embargo, puede cambiar el editor a utilizar codificación UTF-8 para arreglar esto. Si su editor no soporta cambiar la codificación, puede mostrar el resultado en el navegador Firefox y cambiarlo la codificación de UTF-8. Ahora, puede cortar y pegar las conversiones resultante en el programa de su selección.</paragraph>
+</body>
+</helpdocument>

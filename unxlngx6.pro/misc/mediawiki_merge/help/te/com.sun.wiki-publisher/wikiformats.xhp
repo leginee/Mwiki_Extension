@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="te">MediaWiki ఫార్మాట్లు</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="te" level="1" l10n="NEW">MediaWiki రూపలావణ్యములు</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="te" l10n="NEW">ఈ క్రింది జాబితా అనునది @WIKIEXTENSIONPRODUCTNAME@ వికీ సేవికకు అప్‌లోడ్ చేయగల పాఠ్యపు ఫార్మాట్లను యిస్తుంది.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="te" l10n="NEW">Writer మరియు WikiMedia ఫార్మాట్‌తో వుపయోగించు వోపెన్‌డాక్యుమెంట్ ఫార్మాట్ భిన్నమైంది. అన్ని సౌలభ్యముల యొక్క వుపసమితి మాత్రమే వొక ఫార్మాట్‌నుండి మరియొక దానికి మారగలదు.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="te" level="2" l10n="NEW">పీఠికలు</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="te" l10n="NEW">మీ Writer పత్రమునందలి హెడింగ్సుకు హెడింగ్ పరిచ్ఛేదము శైలిని ఆపాదించుము. వికీ అదే అవుట్‌లైన్ స్థాయి యొక్క హెడింగ్ శైలిని చూపుతుంది, వికీ యింజన్ ద్వారా నిర్వచించబడినట్లు ఫార్మాట్ చేసి.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="te" level="2" l10n="NEW">మహాతలానికి జోడింపు</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="te" l10n="NEW">స్వాభావిక వోపెన్‌డాక్యుమెంట్ హైపర్‌లింక్సు &quot;బాహ్య&quot; వికీలింకలకు బదలాయించబడినవి.అందువలన, ఓపెన్‌డాక్యుమెంట్ యొక్క అంతర్నిర్మిత లింకింగ్ సౌలభ్యము వికీ వెబ్‌నకు బయటి సైటులను సూచించుటకు సృష్టించు లింకులనందే వుపయోగించాలి. అదే వికీ డొమైన్ యొక్క యితర విషయములను సూచించుటకు లింకులను సృష్టించుటకు వికీ లింకులను వుపయోగించుము.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="te" level="2" l10n="NEW">జాబితాలు</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="te" l10n="NEW">మొత్త జాబితా స్థిరమైన జాబితా శైలిని వుపయోగించునప్పుడు జాబితాలు నమ్మకంగా ఎగుమతి చేయబడతాయి. Writer నందు జాబితాను వుద్బవింపచేయుటకు నంబరింగ్ లేదా బుల్లెట్స్ ప్రతిమను వుపయోగించుము. సంఖ్యీకరణ లేదా బుల్లెట్స్ లేకుండా మీకు జాబితా అవసరమైతే, బుల్లెట్స్ మరియు సంఖ్యీకరణ - ఫార్మాట్ వుపయోగించుము మరియు సంభందిత జాబితా శైలి ఆపాదించుము.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="te" level="2" l10n="NEW">పరిచ్ఛేదములు</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="te" level="3" l10n="NEW">ఒక వరుసలో వుంచుట</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="te" l10n="NEW">వికీ ప్రకరణములనందు బాహ్య పాఠ్య అమరిక వుపయోగించ కూడదు. పాఠ్య అమరిక అనునది ఎడమ, కేంద్ర, మరియు కుడి పాఠ్యపు అమరికనకు మద్దతించబడుతుంది.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="te" level="3" l10n="NEW">ముందుగా-ఫార్మాట్‌చేసిన పాఠ్యము</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="te" l10n="NEW">నిర్ధిష్ట-వెడల్పు ఫాంటుతోని పరిచ్ఛేదము ప్రి-ఫార్మేటెడ్ పాఠ్యము వలె బదలాయించబడింది. ప్రీ-ఫార్మేటెడ్ పాఠ్యము అనునది వికీనందు దానిచుట్టూ హద్దుతో చూపబడుతుంది.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="te" level="2" l10n="NEW">అక్షరం శైలిలు</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="te" l10n="NEW">పరిచ్ఛేదముల యొక్క భాగములు కనిపించు విధానాన్ని అక్షర శైలిలు సవరించగలవు. బదలాయింపు బోల్డు, యిటాలిక్స్, బోల్డ్/యిటాలిక్స్, సబ్‌స్క్రిప్ట్ మరియు సూపర్‌స్క్రిప్ట్‌ను మద్దతిస్తుంది. అన్ని నిర్దిష్ట వెడల్పు ఫాంట్లు వికీ టైప్‌వ్రైటర్ శైలికి బదలాయించబడినవి.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="te" level="2" l10n="NEW">పాదపు గమనికలు</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="te" l10n="NEW">గమనిక: బదలాయింపు కొత్త శైలి భూమికలను వుపయోగిస్తోంది &lt;ref&gt; మరియు &lt;references&gt; టాగ్స్‌తో దానికి Cite.php పొడిగింపు MediaWiki నందు సంస్థాపించవలసివుంది. ఒకవేళ ఆ టాగ్లు సాదా పాఠ్యము వలె బదలాయింపు ఫలితమునందు యెదురైతే, వికీ నిర్వాహకుని ఈ పొడిగింపు సంస్థాపించుటకు అడుగుము.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="te" level="2" l10n="NEW">ప్రతిబింబములు</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="te" l10n="NEW">వికీ పాఠ్యము యొక్క వొంటరి ఫైలును యిచ్చు బదలాయింపు ద్వారా ప్రతిబింబములను యెగుమతి చేయలేము. ఒక వేళ ప్రతిబంబము లక్ష్యపు వికీ డొమైన్ (ఉ. దా. WikiMedia Commons) అప్‌లోడ్ అయితే, అప్పుడు బదలాయింపు అనునది చెల్లునటువంటి ప్రతిబింబ టాగ్‌ను ప్రతిబింబముతో యిస్తుంది. ప్రతిబింబమునకు పేర్లు కూడా మద్దతించబడతాయి.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="te" level="2" l10n="NEW">పట్టికలు</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="te" l10n="NEW">సాదారణ పట్టికలు బాగా మద్దతించబడతాయి. పట్టిక పీఠికలు సంభందిత వికీ శైలి పట్టిక పీఠికలకు అనువాదము చేయబడతాయి.  పట్టిక సరిహద్దుల, నిలువువరుసల పరిమాణములు మరియు బ్యాక్‌గ్రౌండ్ రంగుల యొక్క మలచుకొనిన ఫార్మాట్ వదిలివేయబడతాయి.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="te" level="3" l10n="NEW">కలిపిన అరలు</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="te" l10n="NEW">పట్టికలలో పట్టికల అడ్డువరుసలను కలిపిన అరలను వోపెక్‌డాక్యుమెంట్ ప్రత్యేకించి OpenOffice.org ప్రస్పుటం చేయగలవు. అటువంటి కలిపిన అరలకు వికీ రీతి పట్టిక నిలువువరుస మరియు అడ్డువరుస స్పాన్లను ప్రకటించాలి.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="te" l10n="NEW">ఒకే అడ్డువరుస యొక్క నిలువువరుసలు మాత్రమే కలుపబడితే, బదలాయింపు యొక్క ఫలితం మూలపు పత్రమును చాలా బాగా పోలివుంటుంది.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="te" level="3" l10n="NEW">సరిహద్దులు</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="te" l10n="NEW">మలచుకొనిన పట్టికల హద్దు మరియు బ్యాక్‌గ్రౌండ్ శైలులతో సంభందము లేకుండా, వొక పట్టిక యెల్లప్పుడూ &quot;<emph>prettytable&quot;</emph> వలె యెగుమతి చేయబడుతుంది, ఇది వికీ యింజన్‌నందు సాదారణ హద్దులు మరియు మందమైన పీఠికతో ప్రస్పుటించబడుతుంది.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="te" level="2" l10n="NEW">అక్షరసమితి మరియు ప్రత్యేక అక్షరములు</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="te" l10n="NEW">బదలాయింపు ఫలితం యొక్క అక్షరసమితి UTF-8కు నిర్ధిష్టము. మీ సిస్టమ్ పైన ఆధారపడి, యిది అప్రమేయ అక్షరసమితి కాకపోవచ్చును. అప్రమేయ అమరికలతో &quot;ప్రత్యేక అక్షరములు&quot;ను చూచునప్పుడు అవి సరిగా వుండక పోవుటకు కారణం కావచ్చును. దీనిని పరిష్కరించుటకు మీరు UTF-8 ఎన్కోడింగ్‌కు మారవచ్చు. మీ సరికూర్పరిలు ఎన్కోడింగ్‌ను మద్దతించక పోతే, మీరు బదలాయింపు ఫలితాన్ని ఫైర్‌ఫాక్స్ నందు ప్రదర్శించ వచ్చును మరియు అక్కడ ఎన్కోడింగ్‌ను UTF-8కు మార్చవచ్చును. ఇప్పుడు, మీరు బదలాయింపు ఫలితాన్ని మీకు కావలసిన ప్రోగ్రామ్‌నకు తీసి అతికించుకొనవచ్చును.</paragraph>
+</body>
+</helpdocument>

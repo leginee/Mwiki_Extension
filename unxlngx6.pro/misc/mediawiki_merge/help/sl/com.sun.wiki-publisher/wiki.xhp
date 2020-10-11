@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sl">Wiki-založnik</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sl" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>razširitev;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sl" level="1" l10n="NEW">Wiki-založnik</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sl" l10n="NEW"><ahelp hid=".">Če uporabljate razširitev @WIKIEXTENSIONPRODUCTNAME@, lahko prenesete svoj trenutni dokument z besedilom iz Writerja na strežnik MediaWiki. Po prenosu lahko vsi uporabniki Wikija preberejo vaš dokument na Wikiju.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sl" l10n="NEW"><ahelp hid=".">Izberite <item type="menuitem">Datoteka - Pošlji - Na MediaWiki</item>, če želite prenesti trenutni dokument na strežnik MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sl" level="2" l10n="NEW">Sistemske zahteve</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sl" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sl" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sl" l10n="NEW">Javansko izvajalno okolje JRE 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sl" l10n="NEW">Račun Wiki na podprtem strežniku <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sl" level="2" l10n="NEW">Namestitev razširitve @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sl" l10n="NEW">Preden namestite @WIKIEXTENSIONPRODUCTNAME@, zagotovite, da %PRODUCTNAME uporablja izvajalno okolje Java (JRE). Če želite preveriti stanje JRE, izberite <item type="menuitem">Orodja - Možnosti - %PRODUCTNAME - Java</item>. Zagotovite, da je polje &quot;Uporabi izvajalno okolje Java&quot; potrjeno in da je v velikem seznamskem polju izbrana mapa izvajalnega okolja Java. Če ni izbrano nobeno izvajalno okolje JRE, potem aktivirajte JRE 1.4 ali novejše in ponovno zaženite %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sl" level="3" l10n="NEW">Namestitev razširitve @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sl" l10n="NEW">V oknu programa Writer izberite <item type="menuitem">Orodja - Upravitelj razširitev</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sl" l10n="NEW">V Upravitelju razširitev kliknite Dodaj.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sl" l10n="NEW">Poiščite datoteko @WIKIEXTENSIONFILENAME@.oxt, kliknite Odpri, nato kliknite Zapri. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sl" l10n="NEW">Zaprite %PRODUCTNAME in Hitri zaganjalnik, če je vključen.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sl" l10n="NEW">Ponovno zaženite program, odprite dokument z besedilom, nato izberite <item type="menuitem">Orodja - Možnosti - Internet - MediaWiki</item>, kjer vnesete svoje nastavitve za Wiki. Oglejte si &quot;Povezava z Wikijem&quot; spodaj.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sl" level="3" l10n="NEW">Odstranitev razširitve @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sl" l10n="NEW">V oknu programa Writer izberite <item type="menuitem">Orodja - Upravitelj razširitev</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sl" l10n="NEW">Kliknite znak plus (+) pred oznako Moje razširitve.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sl" l10n="NEW">Izberite razširitev, kliknite Odstrani, nato kliknite Zapri.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sl" level="2" l10n="NEW">Povezava z Wikijem</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sl" l10n="NEW">Opomba: Svoje uporabniško ime in geslo lahko shranite za vsa ustrezna pogovorna okna v %PRODUCTNAME. Geslo bo shranjeno na varen način, dostop pa ščiti glavno geslo. Če želite omogočiti glavno geslo, izberite <item type="menuitem">Orodja - Možnosti - %PRODUCTNAME - Varnost</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sl" l10n="NEW">Opomba: Če se v splet povezujete prek posredovalnega strežnika, vnesite podatke o posredovalnem strežniku v <item type="menuitem">Orodja - Možnosti - Internet - Posredovalni strežniki</item> in ponovno zaženite program.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sl" l10n="NEW">Odprite dokument programa Writer in izberite <item type="menuitem">Orodja - Možnosti - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sl" l10n="NEW">V pogovornem oknu <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Možnosti</link> kliknite Dodaj.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sl" l10n="NEW">V pogovornem oknu <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> vnesite podatke o računu za Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sl" l10n="NEW">V polje z besedilom URL vnesite naslov wikija, s katerim se želite povezati.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sl" l10n="NEW">URL lahko kopirate iz spletnega brskalnika in ga prilepite v polje z besedilom.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sl" l10n="NEW">V polje Uporabniško ime vnesite svoje uporabniško ime za račun Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sl" l10n="NEW">Če Wiki dovoli anonimni dostop in pisanje, lahko pustite polji Uporabniško ime in Geslo prazni.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sl" l10n="NEW">V polje Geslo vnesite geslo svojega računa Wiki, nato kliknite V redu.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sl" l10n="NEW">Po potrebi potrdite &quot;Shrani geslo&quot;, če želite shraniti geslo med sejami. Glavno geslo uporabljamo za ohranjanje dostopa do vseh shranjenih gesel. Izberite <item type="menuitem">Orodja - Možnosti - %PRODUCTNAME - Varnost</item>, če želite omogočiti glavno geslo. &quot;Shrani geslo&quot; ni na voljo, če glavno geslo ni omogočeno.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sl" level="2" l10n="NEW">Ustvarjanje nove strani wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sl" l10n="NEW">Odprite dokument programa Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sl" l10n="NEW">Napišite vsebino strani Wiki. Uporabite lahko oblikovanje, kot so oblikovanje samega besedila, naslovi, sprotne opombe in druge. Oglejte si <link href="@WIKIEXTENSIONID@/wikiformats.xhp">seznam podprtih vrst datotek</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sl" l10n="NEW">Izberite <item type="menuitem">Datoteka - Pošlji - Na MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sl" l10n="NEW">V pogovornem oknu <link href="@WIKIEXTENSIONID@/wikisend.xhp">Pošlji na MediaWiki</link> določite nastavitve za svoj vnos.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sl" l10n="NEW"><emph>Strežnik MediaWiki</emph>: Izberite Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sl" l10n="NEW"><emph>Naslov</emph>: Vnesite naslov svoje strani. Vnesite naslov obstoječe strani, če jo želite prepisati z vsebino trenutnega dokumenta z besedilom. Vnesite nov naslov, če želite ustvariti novo stran Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sl" l10n="NEW"><emph>Povzetek</emph>: Vnesite neobvezen kratek povzetek svoje strani.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sl" l10n="NEW"><emph>To je manjši popravek</emph>: Označite to polje, če želite označiti preneseno stran kot manjši popravek že obstoječe istoimenske strani.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sl" l10n="NEW"><emph>Pokaži v spletnem brskalniku</emph>: Označite to polje, če želite odpreti svoj spletni brskalnik in si v njem ogledati preneseno stran Wiki.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sl" l10n="NEW">Kliknite Pošlji.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

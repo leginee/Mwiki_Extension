@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="as">MediaWiki বিকল্প</title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="as" level="1" l10n="NEW">MediaWiki বিকল্প</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="as" l10n="NEW">আপুনি MediaWiki সেৱক যোগ কৰিব, সম্পাদন কৰিব বা আঁতৰাব পাৰে । সম্বাদক <item type="menuitem">Tools - Options - Internet - MediaWiki</item> ৰে খোলক । বৈকল্পিকভাবে, <item type="menuitem">Tools - Extension Manager</item> বাচি লওক, @WIKIEXTENSIONPRODUCTNAME@ নিৰ্ব্বাচন কৰক, আৰু বিকল্প বুটাম টিপক ।</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="as" l10n="NEW"><ahelp hid=".">নতুন ৱিকি সেৱক যোগ কৰিবলৈ যোগ কৰক টিপক । <br/>এটা নিবেশ নিৰ্ব্বাচন কৰি হিচাপৰ পছন্দ সম্পাদন কৰিবলৈ সম্পাদন টিপক । <br/>নিবেশ নিৰ্ব্বাচন কৰক আৰু তালিকাৰ পৰা তাক আঁতৰাবলৈ আঁতৰাওক টিপক ।</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">তালিকাত নতুন নিবেশ দিবলৈ MediaWiki সম্বাদ খোলে ।</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">নিৰ্বাচিত নিবেশ সম্পাদন কৰিবলৈ MediaWiki সম্বাদ খোলে ।</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="as" l10n="NEW"><ahelp hid="." visibility="hidden">তালিকাৰ পৰা নিৰ্বাচিত নিবেশ গুচায় ।</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="as" l10n="NEW">যোগ কৰক বা সম্পাদন কৰক টিপিলে, <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> সম্বাদ খোলে ।</paragraph>
+</body>
+</helpdocument>

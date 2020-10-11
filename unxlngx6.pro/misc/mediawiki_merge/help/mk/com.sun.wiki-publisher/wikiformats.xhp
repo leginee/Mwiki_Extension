@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="mk">MediaWiki формати</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="mk" level="1" l10n="NEW">MediaWiki формати</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="mk" l10n="NEW">Следниов список ви дава преглед на текст формати кои @WIKIEXTENSIONPRODUCTNAME@ може да испраќа на Вики сервер.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="mk" l10n="NEW">OpenDocument форматот кој се користи во Writer и WikiMedia форматот се прилично различни. Само подмножество на сите карактеристики може да се трансформираат од едниот во другиот формат.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="mk" level="2" l10n="NEW">Заглавија</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="mk" l10n="NEW">Применете заглавие стил на пасусот во заглавијата во вашиот документ во Writer. Викито ќе ги прикаже стиловите на заглавијата на исто ниво на главни црти, форматирани како што е одредено од двигателот на Вики.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="mk" level="2" l10n="NEW">Хиперврски</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="mk" l10n="NEW">Изворните хиперврски на OpenDocument се трансформираат во „надворешни“ Вики врски. Затоа, вградените можности за поврзување на OpenDocument треба да се користат само за создавање на врски кои покажуваат кон други страници, надвор од Вики. За создавање на Вики врски кои покажуваат на други субјекти од истиот Вики домен, користете Вики врски.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="mk" level="2" l10n="NEW">Листи</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="mk" l10n="NEW">Листите можат сигурно да се извезуваат кога целата листа користи конзистентен стил на листа. Користете икони за нумерирање или точки за да создадете листа во Writer. Ако ви е потребна листа без нумерирање или точки, користете Форматирај - Точки и нумерирање за да го одредите или примените соодветниот стил на листата.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="mk" level="2" l10n="NEW">Пасуси</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="mk" level="3" l10n="NEW">Порамнување</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="mk" l10n="NEW">Не треба да се користи експлицитно порамнување на текст во Вики статии. Сепак, порамнувањето на текст е поддржано за лево, центрирано и десно порамнување на текст.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="mk" level="3" l10n="NEW">Однапред форматиран текст</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="mk" l10n="NEW">Стилот на пасусот со фиксна ширина на фонтот се трансформира како однапред форматиран текст. Однапред форматираниот текст е прикажан на Вики со граници околу текстот.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="mk" level="2" l10n="NEW">Стилови на знаците</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="mk" l10n="NEW">Стилови на знаците го променуваат изгледот на деловите од пасусот. Трансформацијата поддржува задебелен, курзивен, задебелен/курзивен, долен индекс и горен индекс.Сите фиксни ширини на фонтот се трансформираат во Вики стил на машина за пишување.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="mk" level="2" l10n="NEW">Фусноти</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="mk" l10n="NEW">Забелешка: Трансформацијата користи нов стил на фусноти со &lt; ref &gt; и &lt; references &gt; ознаки на кои им треба да биде инсталирана Cite.php екстензијата во MediaWiki. Ако тие ознаки се појават како чист текст во резултатот од трансформацијата, побарајте од администраторот на Вики да ја инсталира оваа екстензија.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="mk" level="2" l10n="NEW">Слики</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="mk" l10n="NEW">Сликите не можат да се извезат преку траснформација која ќе произведе единствена датотека на Вики текст. Меѓутоа, ако сликата е веќе испратена до целниот Вики домен (пр. WikiMedia Commons), тогаш трансформацијата произведува валидна ознака за слика која ја вклучува и сликата. Наслови на слики се исто така поддржани.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="mk" level="2" l10n="NEW">Табели </paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="mk" l10n="NEW">Едноставни табели се добро поддржани. Заглавијата на табелите се преведуваат во соодветни заглавија за Вики стил на табели. Меѓутоа, форматирањето на границите на табели по избор, големината на колоните и боите на позадината се игнорираат.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="mk" level="3" l10n="NEW">Споени ќелии</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="mk" l10n="NEW">OpenDocument, а посебно OpenOffice.org претставуваат табели кои имаат споени ќелии кои ги спојуваат редовите како кај табели со вгнездени табели. Наспроти ова, моделот на Вики за табели е да ја декларира колоната и растојанието на редовите за таквите споени ќелии.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="mk" l10n="NEW">Ако се споени само колони од ист ред, резултатот од трансформацијата личи многу добро на оригиналниот документ.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="mk" level="3" l10n="NEW">Рамки</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="mk" l10n="NEW">Независно од стиловите на табели по избор за граници и позадина, табелата секогаш се извезува како &quot;<emph>prettytable&quot;</emph>, кое се исцртува во Вики двигателот како едноставни граници и здебелено заглавие.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="mk" level="2" l10n="NEW">Кодна страница и специјални знаци.</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="mk" l10n="NEW">Кодната страница на трансформираниот резултат е фиксиран на UTF-8. Во зависност од вашиот систем, ова може да не е стандардна кодна страница. Ова може да предизвика „специјалните знаци“ да изгледаат расипано кога се гледаат со стандардните поставки. Меѓутоа, можете да го префрлите вашиот уредувач на UTF-8 енкодирање за да го поправите ова. Ако вашиот уредувач не подржува префрлување на енкодирање, можете да го прикажете резултатот од трансформацијата во Firefox прелистувачот и таму да го префрлите енкодирањето во UTF-8. Сега, можете да му направите исечи/вметни на текстот во вашиот уредувач по избор.</paragraph>
+</body>
+</helpdocument>

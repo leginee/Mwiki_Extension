@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="ru">Невозможно завершить отправку в MediaWiki.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="ru">Фильтра экспорта MediaWiki не обнаружен. Выберите «Сервис - Настройка фильтров XML» для установки фильтра или используйте программу установки и выберите соответствующий компонент.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="ru">Невозможно установить соединение с MediaWiki «$ARG1».</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="ru">Имя пользователя или пароль не верны. Попробуйте ещё раз или оставьте указанные поля пустыми для анонимного соединения.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="ru">Невозможно установить соединение по причине некорректного URL.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="ru">Определите сервер MediWiki, используя URL.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="ru">Передача была прервана. Проверьте правильность статьи wiki.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="ru">U~RL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="ru">Имя пользователя</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="ru">Пароль</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="ru">Отправить в MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="ru">Статья Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="ru">Нет</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="ru">ОК</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="ru">Да</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="ru">Добавить...</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="ru">Правка...</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="ru">Отправить</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="ru">Удалить</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="ru">Статья wiki с названием «$ARG1» ещё не существует. Создать статью с указанным названием?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="ru">Сервер Media~Wiki</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="ru">~Заголовок</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="ru">Итоги</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="ru">Незначительное изменение</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="ru">Показать в браузере</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="ru">Сертификат указанного сайта неизвестен.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="ru">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="ru">Учётная запись</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="ru">Сервер MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="ru">Сохранить пароль</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="ru">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="ru">Статья wiki с именем «$ARG1» уже существует.&amp;#13;&amp;#13;Заменить существующую статью?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="kid">g[-wm0‖@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="kid" branch="index" id="bm_id3154408">-0]iq7‖<bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="kid" level="1" l10n="NEW">d9]30h‖@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="kid" l10n="NEW">+2qmd=‖<ahelp hid=".">By using the @WIKIEXTENSIONPRODUCTNAME@ you can upload your current Writer text document to a MediaWiki server. After uploading, all Wiki users can read your document on the Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="kid" l10n="NEW">aiyih4‖<ahelp hid=".">Choose <item type="menuitem">File - Send - To MediaWiki</item> to upload the current Writer document to a MediaWiki server.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="kid" level="2" l10n="NEW">4a5zgd‖System Requirements</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="kid" l10n="NEW">oq-4][‖StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="kid" l10n="NEW">rhc6+i‖OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="kid" l10n="NEW">0eoub9‖Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="kid" l10n="NEW">z81i5d‖A Wiki account on a supported <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> server</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="kid" level="2" l10n="NEW">tjtxw7‖Installing @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="kid" l10n="NEW">7j9979‖Before you install the @WIKIEXTENSIONPRODUCTNAME@, ensure that %PRODUCTNAME uses a Java Runtime Environment (JRE). To check the status of the JRE, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item>. Ensure that &quot;Use a Java runtime environment&quot; is marked and that a Java runtime folder is selected in the big listbox. If no JRE was activated, then activate a JRE 1.4 or later and restart %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="kid" level="3" l10n="NEW">vb1be8‖To Install the @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="kid" l10n="NEW">hs6]e5‖In a Writer window, choose <item type="menuitem">Tools - Extension Manager</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="kid" l10n="NEW">r2+1fs‖In the Extension Manager dialog, click Add.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="kid" l10n="NEW">97lx61‖Locate the @WIKIEXTENSIONFILENAME@.oxt file, click Open, and then click Close. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="kid" l10n="NEW">hsic6n‖Close %PRODUCTNAME, and close also the Quickstarter if enabled.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="kid" l10n="NEW">8xnnhn‖Restart the software, open a text document, then choose <item type="menuitem">Tools - Options - Internet - MediaWiki</item> to enter your Wiki settings. See &quot;To Connect To a Wiki&quot; below.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="kid" level="3" l10n="NEW">8myu7c‖To Remove the @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="kid" l10n="NEW">hr1vpk‖In a Writer window, choose <item type="menuitem">Tools - Extension Manager</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="kid" l10n="NEW">xxnj2k‖Click the plus sign (+) in front of My Extensions.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="kid" l10n="NEW">7dj8j4‖Select the extension, click Remove, and then click Close.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="kid" level="2" l10n="NEW">3molx]‖To Connect to a Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="kid" l10n="NEW">ii0j6u‖Note: You can store your user name and password for all respective dialogs inside %PRODUCTNAME. The password will be stored in a secure way, where access is maintained by a master password. To enable the master password, choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="kid" l10n="NEW">nc782j‖Note: If you connect to the web using a proxy server, enter the proxy information to <item type="menuitem">Tools - Options - Internet - Proxy</item>, and restart the software.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="kid" l10n="NEW">2t0=na‖Open a Writer document, and choose <item type="menuitem">Tools - Options - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="kid" l10n="NEW">z5lvwx‖In the <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Options</link> dialog, click Add.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="kid" l10n="NEW">gylw9f‖In the <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> dialog, enter the account information for the Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="kid" l10n="NEW">s46mxl‖In the URL textbox, enter the address of a Wiki that you want to connect to.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="kid" l10n="NEW">pfhir8‖You can copy the URL from a web browser and paste it into the textbox.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="kid" l10n="NEW">+5kpti‖In the Username box, enter your user ID for your Wiki account.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="kid" l10n="NEW">6l2q5v‖If the Wiki allows anonymous write access, you can leave the Username and Password boxes empty.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="kid" l10n="NEW">tks+co‖In the Password box, enter the password for your Wiki account, then click OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="kid" l10n="NEW">u6bjfv‖Optionally enable &quot;Save password&quot; to save the password between sessions. A master password is used to maintain access to all saved passwords. Choose <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> to enable the master password. &quot;Save password&quot; is unavailable when the master password is not enabled.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="kid" level="2" l10n="NEW">y]oedi‖To Create a New Wiki Page</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="kid" l10n="NEW">2vk+h+‖Open a Writer document.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="kid" l10n="NEW">q[4klp‖Write the content of the Wiki page. You can use formatting like text formats, headings, footnotes, and more. See the <link href="@WIKIEXTENSIONID@/wikiformats.xhp">list of supported formats</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="kid" l10n="NEW">4uavf[‖Choose <item type="menuitem">File - Send - To MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="kid" l10n="NEW">7y+02w‖In the <link href="@WIKIEXTENSIONID@/wikisend.xhp">Send to MediaWiki</link> dialog, specify the settings for your entry.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="kid" l10n="NEW">yf-chu‖<emph>MediaWiki server</emph>: Select the Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="kid" l10n="NEW">6i8ajk‖<emph>Title</emph>: Type the title of your page. Type the title of an existing page to overwrite the page with your current text document. Type a new title to create a new page on the Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="kid" l10n="NEW">32lbzf‖<emph>Summary</emph>: Enter an optional short summary of your page.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="kid" l10n="NEW">f[4pvw‖<emph>This is a minor edit</emph>: Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="kid" l10n="NEW">53m10s‖<emph>Show in web browser</emph>: Check this box to open your system web browser and show the uploaded Wiki page.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="kid" l10n="NEW">c6w0ab‖Click Send.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

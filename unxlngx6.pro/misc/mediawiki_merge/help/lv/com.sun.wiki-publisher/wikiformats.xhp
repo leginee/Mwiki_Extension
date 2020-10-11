@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="lv">MediaWiki formāti</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="lv" level="1" l10n="NEW">MediaWiki formāts</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="lv" l10n="NEW">Sekojošais saraksts dod pārskatu par teksta formātiem, kurus @WIKIEXTENSIONPRODUCTNAME@ var augšupielādēt uz Wiki servera.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="lv" l10n="NEW">OpenDocument formāts, kuru izmanto Writer un WikiMedia formāts ir diezgan atšķirīgi. Tikai daļa no visām iespējām ir pārceļamas no viena formāta otrā.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="lv" level="2" l10n="NEW">Virsraksti</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="lv" l10n="NEW">Pielietot virsraksta rindkopas stilu virsrakstiem Writer dokumentā. Wiki rādīs virsrakstu stilus tādam pašam struktūras līmenim, formatētus tā, kā to ir definējis Wiki dzinis.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="lv" level="2" l10n="NEW">Hipersaites</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="lv" l10n="NEW">Iekšējās OpenDocument hipersaites tiks pārveidotas par &quot;ārējām&quot; Wiki saitēm. Tāpēc OpenDocument iebūvētā saišu veidošanai vajadzētu tikt izmantotai tikai norādīšanai uz citām vietnēm ārpus Wiki vietnes. Lai izveidotu Wiki saites, kuras norāda uz dokumentiem tajā pašā Wiki domēnā, izmantojiet Wiki saites.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="lv" level="2" l10n="NEW">Saraksti</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="lv" l10n="NEW">Sarakstus var uzticami eksportēt, kad viss saraksts izmanto vienotu sarakstu stilu. Izmantojiet numurēšanas vai aizzīmju ikonu, lai izveidotu sarakstu. Ja jums vajag sarakstu bez numerācijas vai aizzīmēm, izmantojiet Formatēt - Aizzīmes un numerācija, lai definētu un pielietotu attiecīgo saraksta stilu.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="lv" level="2" l10n="NEW">Rindkopas</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="lv" level="3" l10n="NEW">Līdzinājums</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="lv" l10n="NEW">Nevajadzētu veikt precīzu teksta līdzināšanu Wiki rakstos. Bet tiek atbalstīta teksta līdzināšana pie labās/kreisās malas, kā arī vidū.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="lv" level="3" l10n="NEW">Pre-formatēts teksts</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="lv" l10n="NEW">Rindkopas stils ar fiksēta platuma fontu tiks pārveidots par pre-formatētu tekstu. Pre-formatēts teksts tiks attēlots uz Wiki ar malu ap tekstu.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="lv" level="2" l10n="NEW">Rakstzīmju stili</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="lv" l10n="NEW">Rakstzīmju stili maina rindkopu daļu izskatu. Pārveidošana atbalsta treknrakstu, slīprakstu, treknu slīprakstu, apakšrakstu un augšrakstu. Visi fiksēta platuma fonti tiks pārveidoti Wiki rakstāmmašīnas stilā.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="lv" level="2" l10n="NEW">Vēres</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="lv" l10n="NEW">Piezīme: pārveidošanā tiek izmantots jauns vēru stils ar &lt;ref&gt; un &lt;reference&gt; birkām, kam ir nepieciešams, lai Cite.php paplašinājums būtu uzinstalēts uz MediaWiki. Ja šīs birkas transformācijas rezultātā parādās kā vienkāršs teksts, palūdziet Wiki administratoram uzinstalēt šo paplašinājumu.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="lv" level="2" l10n="NEW">Attēli</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="lv" l10n="NEW">Attēlus nevar eksportēt, izveidojot vienu Wiki teksta failu. Taču, ja attēls jau ir augšupielādēts uz mērķa Wiki domēna (piemēram, WikiMedia Commons), transformācija veidos derīgu attēla birku, kas satur attēlu. Paraksti arī ir atbalstīti.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="lv" level="2" l10n="NEW">Tabulas</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="lv" l10n="NEW">Arī vienkāršas tabulas ir atbalstītas. Tabulu virsraksti tiek pārveidoti atbilstošos Wiki stila tabulu virsrakstos. Taču pielāgota tabulu malu, kolonnu izmēru un fona krāsu formatēšana tiks ignorēta.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="lv" level="3" l10n="NEW">Savienotās šūnas</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="lv" l10n="NEW">OpenDocument un it īpaši OpenOffice.org tabulas, kurās ir savienotas šūnas, kuras aptver rindas kā tabulas, attēlo kā iegultas tabulas. Toties wiki tabulu modelis ir deklarēt kolonnas un rindu aptveršanu šādām savienotām šūnām.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="lv" l10n="NEW">Ja tikai kolonnas no tās pašas rindas ir savienotas, pārveidošanas rezultāts būs ļoti līdzīgs avota dokumentam.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="lv" level="3" l10n="NEW">Malas</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="lv" l10n="NEW">Neatkarīgi no pielāgotiem tabulas stiliem malām un fonam, tabula vienmēr tiks eksportēta kā &quot;<emph>prettytable&quot;</emph>, kas uz Wiki būs redzama ar vienkāršām malām un treknu virsrakstu.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="lv" level="2" l10n="NEW">Rakstzīmju kopas un īpašās rakstzīmes</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="lv" l10n="NEW">Pārveidošanas rezultātā izmantota tiks UTF-8 rakstzīmju kopa. Atkarībā no jūsu sistēmas, šī varētu nebūt noklusētā rakstzīmju kopa. Tas varētu likt &quot;īpašām rakstzīmēm&quot; izskatīties salauztām, ja dokumentu apskata ar noklusētajiem iestatījumiem. Taču jūs varat pārslēgt savu redaktoru uz UTF-8 kodējumu, lai to salabotu. Ja jūsu redaktors neatbalsta kodējuma pārslēgšanu, jūs varat apskatīties pārveidojumu Firefox pārlūkā un tur nomainīt kodējumu uz UTF-8. Tagad jūs varat izgriezt un ielīmēt pārveidošanas rezultātu savā programmā.</paragraph>
+</body>
+</helpdocument>

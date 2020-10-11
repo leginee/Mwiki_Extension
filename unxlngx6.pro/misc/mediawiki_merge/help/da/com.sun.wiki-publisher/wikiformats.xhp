@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="da">MediaWiki formater</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="da" level="1" l10n="NEW">MediaWiki formater</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="da" l10n="NEW">Den følgende liste giver et overblik over tekstformater, som @WIKIEXTENSIONPRODUCTNAME@ kan sende til Wiki-serveren.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="da" l10n="NEW">OpenDocument-formatet brugt af Writer og WikiMedia-formatet er ret forskellige. Kun en delmængde af alle egenskaber kan omdannes fra det ene format til det andet.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="da" level="2" l10n="NEW">Overskrifter</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="da" l10n="NEW">Anvend en overskriftstypografi til overskrifterne i dit Writerdokument. Wikien vil vise overskriftstypografierne for det samme dispositionsniveau formateret som defineret af wiki-maskinen.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="da" level="2" l10n="NEW">Hyperlinks</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="da" l10n="NEW">OpenDocument hyperlinks konverteres til &quot;eksterne&quot; wiki-links. Derfor bør den indbyggede link-funktion i OpenDocument kun bruges til at oprette links,  som peger på eksterne lokationer udenfor wikien. For at oprette wiki-links, som peger på emner indenfor wikiens domæne, bruges wiki-links.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="da" level="2" l10n="NEW">Lister</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="da" l10n="NEW">Lister kan eksporteres pålideligt, hvis hele liste bruger en konsistent listetypografi. Brug nummererings- eller punktopstillingsikonet for at opstille en liste i Writer. Hvis du har brug for en liste uden nummererings- eller eller punkttegn, brug Formater - Punktopstilling for at definere og anvende den ønskede listetypografi.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="da" level="2" l10n="NEW">Afsnit</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="da" level="3" l10n="NEW">Justering</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="da" l10n="NEW">Eksplicit tekstjustering bør ikke bruges i wiki-artikler; dog er venstre- højre- og centerstilling af tekst understøttet.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="da" level="3" l10n="NEW">Præformateret tekst</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="da" l10n="NEW">En afsnitstypografi med fastbredde-skrifttype konverteres til præformateret tekst. Præformateret tekst vises på den wikien med en ramme omkring teksten.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="da" level="2" l10n="NEW">Tegntypografier</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="da" l10n="NEW">Tegntypografier modificerer udseendet for dele af et afsnit. Konverteringen understøtter fed, kursiv, fed/kursiv, sænket skrift og hævet skrift. Alle fastbredde-skrifttyper konverteres til Wiki-typografien Typewriter.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="da" level="2" l10n="NEW">Fodnoter</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="da" l10n="NEW">Bemærk: konverteringen bruger den nye typografi for fodnoter med &lt;ref&gt;- og &lt;references&gt;-mærkater , som kræver udvidelsen Cite.php installeret i MediaWiki. Hvis disse mærkater forekommer som simpel tekst i konverteringsresultatet, bør du bede den wiki-administratoren om at installere denne udvidelse.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="da" level="2" l10n="NEW">Billeder</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="da" l10n="NEW">Billeder kan ikke eksporteres med en konvertering, der producerer en enkelt fil med wiki-tekst. Der vil dog, hvis billedet allerede er uploadet til wiki-domænet (f. eks. WikiMedia Commons), dannes en gyldig billedmærkat som indeholder billedet. Billedtekster er også understøttet.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="da" level="2" l10n="NEW">Tabeller</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="da" l10n="NEW">Simple tabeller er godt understøttede. Tabelhoveder oversættes til tilsvarende wiki-tabelhoveder. Dog ignoreres brugerdefineret formatering af tabelrammer, kolonnebredder og baggrundsfarver.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="da" level="3" l10n="NEW">Flettede celler</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="da" l10n="NEW">OpenDocument og specielt OpenOffice.org repræsenterer tabeller, som har flettede celler som strækker over rækker, som tabeller med indlejrede tabeller. Derimod benytter wikimodellen for tabeller en metode, som bruger kolonne- og rækkebredde for flettede celler. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="da" l10n="NEW">Hvis kun kolonner af samme række er forenet, vil resultatet af konverteringen ligne kildedokumentet meget.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="da" level="3" l10n="NEW">Kanter</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="da" l10n="NEW">Uanset brugerdefinerede tabeltypografier for kant og baggrund eksporteres en tabel altid som &quot;<emph>prettytable&quot;</emph>, som repræsenteres af wiki-maskinen med simple rammer og fed skrift i tabelhovedet.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="da" level="2" l10n="NEW">Tegnsæt og specialtegn</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="da" l10n="NEW">Konverteringsresultatets tegnsæt vil altid være UTF-8. Afhængigt af dit system kan dette være forskelligt fra standardtegnsættet. Det kan forårsage, at visse tegn bliver vist forkert i en editor, når det vises med standardindstillinger. Formentlig kan du dog nemt ændre indstillingen for din editor til UTF-8-tegnsæt og dermed løse problemet. Hvis din editor ikke understøtter ændring af tegnsæt, kan du kan få vist resultatet af konverteringen i Firefox-browseren ved at skifte tegnsæt til UTF-8 der. Derefter kan du kopiere og indsætte resultatet i din editor.</paragraph>
+</body>
+</helpdocument>

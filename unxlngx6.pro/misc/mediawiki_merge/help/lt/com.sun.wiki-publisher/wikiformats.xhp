@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="lt">„MediaWiki“ formatai</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="lt" level="1" l10n="NEW">„MediaWiki“ formatai</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="lt" l10n="NEW">Šiame sąraše apžvelgiami teksto formatai, kuriuos „@WIKIEXTENSIONPRODUCTNAME@“ gali įkelti į vikio tarnybinę stotį.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="lt" l10n="NEW">Rašyklės naudojamas „OpenDocument“ formatas ženkliai skiriasi nuo „WikiMedia“ formato. Tik dalį vieno formato ypatybių galima pertvarkyti į kitą.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="lt" level="2" l10n="NEW">Antraštės</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="lt" l10n="NEW">Taikykite antraščių pastraipos stilių rašinio antraštėms. Vikis rodys to paties metmenų lygio antraščių stilius, formuotus pagal vikio variklio apibrėžimus.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="lt" level="2" l10n="NEW">Saitai</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="lt" l10n="NEW">Vietiniai „OpenDocument“ saitai pertvarkomi į „išorinius“ vikio saitus. Vadinasi, „OpenDocument“ formoje įtvirtintas siejimo būdas naudotinas tik kuriant saitus, nurodančius į saitus, esančius anapus vikio tinklo. Vikio saitus, nurodančius į kitas vikio srities temas, galima kurti, naudojant vikio saitus.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="lt" level="2" l10n="NEW">Sąrašai</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="lt" l10n="NEW">Sąrašus galima patikimai eksportuoti, visame sąraše naudojant nuoseklų sąrašo stilių. Pasitelkę „Numeravimo“ arba „Ženklinimo“ piktogramą, rašyklėje sudarysite sąrašą. Jei reikalingas sąrašas be numeravimo arba ženklinimo, pasitelkę langą „Formuoti &gt; Ženklinimas ir numeravimas“, apibrėšite ir pritaikysite atitinkamą sąrašo stilių.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="lt" level="2" l10n="NEW">Pastraipos</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="lt" level="3" l10n="NEW">Lygiuotė</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="lt" l10n="NEW">Vikio straipsniuose nenaudotina akivaizdi teksto lygiuotė, tačiau numatytos kairinė, vidurinė ir dešininė teksto lygiuotės.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="lt" level="3" l10n="NEW">Iš anksto formuotas tekstas</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="lt" l10n="NEW">Pastraipos stilius su pastovaus pločio šriftu pertvarkomas į iš anksto formuotą tekstą. Vikyje iš anksto formuotas tekstas rodomas rėmelyje.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="lt" level="2" l10n="NEW">Rašmenų stilius</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="lt" l10n="NEW">Rašmenų stiliai keičia pastraipos dalių išvaizdą. Pertvarkymas numato pusjuodį, kursyvą, pusjuodį kursyvą, viršutinį indeksą ir apatinį indeksą. Pastovaus pločio šriftai pertvarkomi į vikio spausdinimo mašinėlės stilių.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="lt" level="2" l10n="NEW">Puslapinės išnašos</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="lt" l10n="NEW">Įsidėmėtina, kad pertvarkant, naudojamas naujasis puslapinių išnašų su &lt;ref&gt; ir &lt;references&gt; gairių stilius, kuriam reikalingas „MediaWiki“ įdiegtas plėtinys „Cite.php“. Jei pertvarkytame rezultate tokios gairės rodomos grynuoju tekstu, prašykite vikio tvarkytojo įdiegti minėtą plėtinį.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="lt" level="2" l10n="NEW">Paveikslai</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="lt" l10n="NEW">Pertvarkant, paveikslų negalima eksportuoti vientisoje vikio teksto byloje, tačiau jei paveikslas jau įkeltas į tikslinę sritį vikyje (pvz., „WikiMedia Commons“), pertvarkius, gaunama atitinkama paveikslo gairė, leidžianti gauti patį paveikslą. Numatyti ir paveikslo pavadinimai.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="lt" level="2" l10n="NEW">Lentelės</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="lt" l10n="NEW">Kartu numatytos ir paprastos lentelės. Lentelių antraštės verčiamos į atitinkamas vikio stiliaus lentelių antraštes, tačiau pritaikytų lentelių kraštinių, stulpelių dydžių ir fono spalvų formavimo nepaisoma.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="lt" level="3" l10n="NEW">Sujungti langeliai</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="lt" l10n="NEW">„OpenDocument“ ir ypač „OpenOffice.org“ lenteles vaizduoja, turinčias sujungtus langelius, kurie apima eilutes kaip lenteles su įdėtinėmis lentelėmis. Vikio lentelių modelis, priešingai, stulpelių ir eilučių sritis tokiems sujungtiems langeliams priskiria.</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="lt" l10n="NEW">Jei jungiami tik tos pačios eilutės stulpeliai, pertvarkymo rezultatas yra labai panašus į pirminį dokumentą.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="lt" level="3" l10n="NEW">Kraštinės</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="lt" l10n="NEW">Nepaisant kraštinei ir fonui skirtų pritaikytos lentelės stilių, lentelė visada eksportuojama kaip <emph>„prettytable“</emph>, vikio varikliui ją paverčiant su paprastomis kraštinėmis ir pusjuode antrašte.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="lt" level="2" l10n="NEW">Koduotė ir ypatingi rašmenys</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="lt" l10n="NEW">Pertvarkymo rezultato koduotė visada yra UTF-8. Jūsų sistemoje gali būti numatyta kita koduotė. Tokiu atveju, naudojant numatytąsias nuostatas, „ypatingi rašmenys“ gali atrodyti sugadinti. Padėtis ištaisoma, rašyklę perjungus į UTF-8 koduotę. Jei rašyklė nenumato koduotės perjungimo, pertvarkymo rezultatą galima rodyti naršyklėje „Firefox“, koduotę perjungus į UTF-8, o tada rezultatą galima kopijuoti ir įklijuoti į pasirinktą programą.</paragraph>
+</body>
+</helpdocument>

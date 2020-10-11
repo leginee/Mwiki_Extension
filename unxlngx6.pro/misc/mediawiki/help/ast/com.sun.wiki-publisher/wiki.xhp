@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ast">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ast" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>estensiones;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ast" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ast" l10n="NEW"><ahelp hid=".">Col usu de Wiki Publisher puedes xubir el to documentu de testu corriente de Writer a un sirvidor de MediaWiki. Dempués de xubilu, tolos usuarios del Wiki pueden lleer el documentu nel Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ast" l10n="NEW"><ahelp hid=".">Escueyi <item type="menuitem">Documentu - Unviar - a Mediawiki</item> pa xubir el documentu actual de Writer al sirvidor de MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ast" level="2" l10n="NEW">Requerimientos del sistema</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ast" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ast" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ast" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ast" l10n="NEW">Una cuenta de Wiki nun sirvidor de sofitu <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link></paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ast" level="2" l10n="NEW">Instalando Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ast" l10n="NEW">Enantes d'instalar el Wiki Publisher, asegúrate que %PRODUCTNAME usa Java Runtime Environment (JRE). Pa verificar l'estáu del JRE, escueyi <item type="menuitem">Ferramientes - Opciones - %PRODUCTNAME - Java</item>. Asegúrate de que &quot;Usar un entornu de Java&quot; ta marcáu y qu'un direutoriu del executable Java ta seleicionáu nel cuadru de llista grande. Si dengún JRE taba activáu, entós activa el JRE 1.4 o más recien y reanicia %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ast" level="3" l10n="NEW">Pa instalar la estensión Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ast" l10n="NEW">Nuna ventana de Writer, escueyi, <item type="menuitem">Ferramientes - Xestor d'Estensiones</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ast" l10n="NEW">Calca Amestar, nel diálogu del Alministrador d'estensiones.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ast" l10n="NEW">Allugar el ficheru wiki-publisher.oxt, calca n'Abrir, y darréu calca en Zarrar. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ast" l10n="NEW">Zarrar %PRODUCTNAME, y tamién zarrar el Llanzador rápidu si ta activáu .</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ast" l10n="NEW">Rearranca'l software, abri un documento de testu, entós escueyi <item type="menuitem">Ferramientes - Opciones - Internet - MediaWiki</item> pa introducir la configuración del Wiki. Ver abaxo, &quot;Coneutar al Wiki&quot;.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ast" level="3" l10n="NEW">Pa desaniciar la estensión Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ast" l10n="NEW">Nuna ventana de Writer, escueyi <item type="menuitem">Ferramientes - Alministrador d'estensiones</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ast" l10n="NEW">Calca nel simbolu de más (+) delantre de Les Mios Estensiones.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ast" l10n="NEW">Esbillar la estensión, calca en Desaniciar, y darréu calca en Zarrar.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ast" level="2" l10n="NEW">Pa coneutar al Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ast" l10n="NEW">Nota: Pues guardar el to nome d'usuariu y contraseña pa los respeutivos diálogos dientro de %PRODUCTNAME. La contraseña almacenaráse d'una manera segura, donde l'accesu caltendráse con una contraseña maestra. P'activar la contraseña maestra, escueyi <item type="menuitem">Ferramientes - Opciones - %PRODUCTNAME - Seguridá</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ast" l10n="NEW">Nota: Si te conectes a la páxina web usando un sirvidor proxy, ingresa la información del proxy a <item type="menuitem">Ferramientes - Opciones - Internet - Proxy</item>, y reanicia'l software.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ast" l10n="NEW">Abri un documentu de Writer, y escueyi <item type="menuitem">Ferramientes - Opciones - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ast" l10n="NEW">Nel diálogu <link href="com.sun.wiki-publisher/wikisettings.xhp">Opciones</link>, calca n'Amestar.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ast" l10n="NEW">Nel diálogu de <link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link>, pon la información de la to cuenta de Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ast" l10n="NEW">Na caxa de testu de la URL, pon la direición del Wiki a la que quieras coneutate.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ast" l10n="NEW">Puedes copiar el URL dende un restolador d'internet y pegalu na caxina de testu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ast" l10n="NEW">Na caxa de nome d'usuariu, pon l'identificador del to usuariu na cuenta del Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ast" l10n="NEW">Si'l Wiki permite escritura de cuentes anonimes, puedes dexar les caxes de nome d'usuariu y contraseña baleres.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ast" l10n="NEW">Na caxella de la Contraseña, pon la contraseña pa la to cuenta en Wiki, darréu calca en Aceutar (OK).</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ast" l10n="NEW">Opcionalmente, activa &quot;Guardar contraseña&quot; pa guardar la contraseña ente sesiones. S'usa una contraseña maestra pa caltener l'accesu a toles claves guardaes. Escueyi <item type="menuitem">Ferramientes - Opciones - %PRODUCTNAME- Seguridá</item> p'activar la contraseña maestra. &quot;Guardar contraseña&quot; nun ta disponible cuando la contraseña maestra nun ta activada.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ast" level="2" l10n="NEW">Pa crear una nueva fueya de wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ast" l10n="NEW">Abri un documentu de Writer</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ast" l10n="NEW">Escribi'l conteníu de la páxina de Wiki. Puedes usar les opciones de formatu, testeres, pies de páxina y más. Ver la <link href="com.sun.wiki-publisher/wikiformats.xhp">llista de formatos sofitaos</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ast" l10n="NEW">Escueyi <item type="menuitem">Documentu - Unviar - a MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ast" l10n="NEW">Nel diálogu de <link href="com.sun.wiki-publisher/wikisend.xhp">Unviar a MediaWiki</link>, especifica la configuración pa tu entrada.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ast" l10n="NEW"><emph>Sirvidor MediaWiki</emph>: Escueyi'l Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ast" l10n="NEW"><emph>Títulu</emph>: Poner el títulu de la páxina. Escribir el títulu d'una páxina existente pa sobrescribir la páxina col documentu actual. Entrar un nuevu títulu pa crear una páxina nueva nel Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ast" l10n="NEW"><emph>Resume</emph>: Pon un resume opcional de la to páxina.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ast" l10n="NEW"><emph>Esta ye una edición menor</emph>: Marca esta caxella pa indicar que la páxina subida como una edición menor d'una páxina esistente del mesmu títulu.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ast" l10n="NEW"><emph>Amuesa nel restolador d'internet</emph>: Revisa esta caxella p'abrir el restolador preseleicionada del sistema y amosar la páxina Wiki cargada.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ast" l10n="NEW">Calca n'Unviar</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

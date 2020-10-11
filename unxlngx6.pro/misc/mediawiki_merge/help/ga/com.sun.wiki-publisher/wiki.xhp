@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ga">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ga" branch="index" id="bm_id3154408"><bookmark_value>Vicí;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>eisínteachtaí;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ga" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ga" l10n="NEW"><ahelp hid=".">Le @WIKIEXTENSIONPRODUCTNAME@ beidh tú in ann do cháipéis reatha a uasluchtú ó Writer go freastalaí MediaWiki.  Tar éis duit é a uasluchtú, beidh gach léitheoir an Vicí in ann do cháipéis a léamh.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ga" l10n="NEW"><ahelp hid=".">Roghnaigh <item type="menuitem">Comhad - Seol - Go MediaWiki</item> chun an cháipéis reatha Writer a uasluchtú go freastalaí MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ga" level="2" l10n="NEW">Riachtanais Chórais</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ga" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ga" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ga" l10n="NEW">Timpeallacht Amrite Java 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ga" l10n="NEW">Cuntas vicí ar fhreastalaí <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> a dtacaítear leis</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ga" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ á Shuiteáil</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ga" l10n="NEW">Sula suiteálfaidh tú an @WIKIEXTENSIONPRODUCTNAME@, cinntigh go bhfuil Timpeallacht Ama Rite Java (Java Runtime Environment, JRE) in úsáid ag %PRODUCTNAME. Le stádas an JRE a sheiceáil, roghnaigh <item type="menuitem">Uirlisí - Roghanna - %PRODUCTNAME - Java</item>. Cinntigh go bhfuil &quot;Úsáid timpeallacht ama rite Java&quot; marcáilte agus go bhfuil fillteán ama rite Java roghnaithe sa liosta mór. Mura bhfuil JRE gníomhachtaithe, gníomhachtaigh JRE 1.4 nó níos déanaí agus atosaigh %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ga" level="3" l10n="NEW">Chun @WIKIEXTENSIONPRODUCTNAME@ a shuiteáil</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ga" l10n="NEW">I bhfuinneog Writer, roghnaigh <item type="menuitem">Uirlisí - Bainisteoir na nEisínteachtaí</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ga" l10n="NEW">Cliceáil &quot;Cuir Leis&quot; i mBainisteoir na nEisínteachtaí.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ga" l10n="NEW">Aimsigh comhad @WIKIEXTENSIONFILENAME@.oxt, cliceáil Oscail, ansin cliceáil Dún. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ga" l10n="NEW">Dún %PRODUCTNAME, agus dún an Meardhúisire freisin más gá.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ga" l10n="NEW">Atosaigh an bogearra, oscail cáipéis téacs, agus roghnaigh <item type="menuitem">Uirlisí - Roghanna - Idirlíon - MediaWiki</item> chun do chuid socruithe Vicí a dhéanamh.  Féach ar &quot;Chun Ceangal a Bhunú le Vicí&quot; thíos.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ga" level="3" l10n="NEW">Chun @WIKIEXTENSIONPRODUCTNAME@ a bhaint</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ga" l10n="NEW">I bhfuinneog Writer, roghnaigh <item type="menuitem">Uirlisí - Bainisteoir na nEisínteachtaí</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ga" l10n="NEW">Cliceáil an tsín plus (+) roimh Mo Chuid Eisínteachtaí.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ga" l10n="NEW">Roghnaigh an eisínteacht, cliceáil Bain, ansin cliceáil Dún.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ga" level="2" l10n="NEW">Chun Ceangal a Bhunú le Vicí</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ga" l10n="NEW">Nóta: is féidir leat d'ainm úsáideora agus d'fhocal faire le haghaidh gach dialóg a stóráil i %PRODUCTNAME. Beidh an focal faire stóráilte go slán agus é cosanta le príomhfhocal faire. Chun an príomhfhocal faire a chumasú, roghnaigh <item type="menuitem">Uirlisí - Roghanna - %PRODUCTNAME - Slándáil</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ga" l10n="NEW">Nóta: má cheanglaíonn tú leis an nGréasán trí sheachfhreastalaí, cuir isteach sonraí an tseachfhreastalaí ag <item type="menuitem">Uirlisí - Roghanna - Idirlíon - Seachfhreastalaí</item>, agus atosaigh an bogearra.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ga" l10n="NEW">Oscail cáipéis Writer agus roghnaigh <item type="menuitem">Uirlisí - Roghanna - Idirlíon - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ga" l10n="NEW">Sa dialóg <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Roghanna</link>, cliceáil &quot;Cuir Leis&quot;.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ga" l10n="NEW">Sa dialóg <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, cuir isteach an fhaisnéis chuntais le haghaidh an Vicí.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ga" l10n="NEW">I mbosca téacs an URL, cuir isteach seoladh Vicí a theastaíonn uait ceangal leis.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ga" l10n="NEW">Is féidir leat an URL a chóipeáil ó bhrabhsálaí agus é a ghreamú sa bhosca téacs.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ga" l10n="NEW">I mbosca an ainm úsáideora, cuir isteach aitheantas úsáideora do chuntais Vicí.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ga" l10n="NEW">Má tá rochtain scríofa gan ainm ceadaithe ag an Vicí, is féidir leat na boscaí Ainm Úsáideora agus Focal Faire a fhágáil glan.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ga" l10n="NEW">I mbosca an fhocail fhaire, cuir isteach focal faire do chuntais Vicí, agus cliceáil OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ga" l10n="NEW">Tá sé de rogha agat &quot;Sábháil an focal faire&quot; a chumasú chun an focal faire a shábháil ó sheisiún go seisiún. Úsáidtear príomhfhocal faire chun na focail fhaire shábháilte a rochtain. Roghnaigh <item type="menuitem">Uirlisí - Roghanna - %PRODUCTNAME - Slándáil</item> chun an príomhfhocal faire a chumasú. Níl &quot;Sábháil an focal faire&quot; ar fáil mura bhfuil an príomhfhocal faire cumasaithe.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ga" level="2" l10n="NEW">Chun Leathanach Nua Vicí a Chruthú</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ga" l10n="NEW">Oscail cáipéis Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ga" l10n="NEW">Scríobh inneachar an leathanaigh Vicí. Is féidir leat formáidiú cosúil le formáidithe téacs, ceannteidil, fonótaí, srl a úsáid. Feic an <link href="@WIKIEXTENSIONID@/wikiformats.xhp">liosta d'fhormáidí inúsáidte</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ga" l10n="NEW">Roghnaigh <item type="menuitem">Comhad - Seol - Go MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ga" l10n="NEW">Sa dialóg <link href="@WIKIEXTENSIONID@/wikisend.xhp">Seol chuig MediaWiki</link>, sonraigh socruithe d'iontrála.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ga" l10n="NEW"><emph>Freastalaí MediaWiki</emph>: Roghnaigh an Vicí.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ga" l10n="NEW"><emph>Teideal</emph>: Clóscríobh teideal do leathanaigh. Clóscríobh teideal leathanaigh atá ann cheana chun do cháipéis téacs reatha a chur in áit an leathanaigh sin. Clóscríobh teideal nua chun leathanach nua a chruthú ar an Vicí.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ga" l10n="NEW"><emph>Achoimre</emph>: Cuir isteach achoimre ghairid roghnach de do leathanach.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ga" l10n="NEW"><emph>Is mioneagarthóireacht í seo</emph>: Roghnaigh an bosca seo chun an leathanach uasluchtaithe a mharcáil mar mhioneagarthóireacht den leathanach atá ann cheana agus an teideal céanna air.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ga" l10n="NEW"><emph>Taispeáin i mbrabhsálaí</emph>: Roghnaigh an bosca seo chun brabhsálaí do chórais a oscailt agus an leathanach Vicí uasluchtaithe a thaispeáint.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ga" l10n="NEW">Cliceáil &quot;Seol&quot;.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

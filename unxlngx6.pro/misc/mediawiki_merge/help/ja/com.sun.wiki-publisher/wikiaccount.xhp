@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ja">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="ja" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="ja" l10n="NEW">「MediaWiki」ダイアログでは、MediaWiki アカウント設定の追加または編集を行います。</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="ja" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki サーバーの URL を、http:// から始まる形式で入力します。</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="ja" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki サーバーでのユーザー名を入力します。匿名アクセスの場合は空白のままにしてください。</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="ja" l10n="NEW"><ahelp hid="." visibility="hidden">MediaWiki サーバーでのパスワードを入力します。匿名アクセスの場合は空白のままにしてください。</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="ja" l10n="NEW"><ahelp hid="." visibility="hidden">セッションのたびにパスワードを入力しなくても済むように、パスワードを保存しておくことができます。マスターパスワードが有効化されている必要があります。<item type="menuitem">「ツール」→「オプション」→「%PRODUCTNAME」→「セキュリティ」</item>を参照してください。</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="ja" l10n="NEW">Wiki サーバーのインターネットアドレスを「http://wiki.services.openoffice.org/wiki」のような形式で入力するか、URL をウェブブラウザからコピーします。</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="ja" l10n="NEW">Wiki で匿名アクセスが許可されている場合は、アカウントのテキストボックスが空白のままでもかまいません。そうでない場合は、ユーザー名とパスワードを入力してください。</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="ja" l10n="NEW">「ツール」→「オプション」→「%PRODUCTNAME」ダイアログの「セキュリティ」タブページでマスターパスワード機能を有効にした場合は、パスワードが保存され、必要に応じて自動的にデータに挿入されます。パスワードを保存するには、「パスワードの保存」チェックボックスをオンにしてください。</paragraph>
+</body>
+</helpdocument>

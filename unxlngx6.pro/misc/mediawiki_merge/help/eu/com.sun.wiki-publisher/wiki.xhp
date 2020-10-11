@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="eu">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="eu" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>hedapenak;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="eu" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="eu" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ erabiliz uneko Writer testu-dokumentua igo dezakezu MediaWiki zerbitzarira. Igo ondoren, Wiki-aren erabiltzaile guztiek irakurri ahal izango dute zure dokumentua Wiki-an.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="eu" l10n="NEW"><ahelp hid=".">Aukeratu <item type="menuitem">Fitxategia - Bidali - MediaWiki-ra</item> uneko Writer dokumentua MediaWiki zerbitzarira igotzeko.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="eu" level="2" l10n="NEW">Sistemaren eskakizunak</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="eu" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="eu" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="eu" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="eu" l10n="NEW">Wiki kontua onartutako <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> zerbitarian</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="eu" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ instalatzea</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="eu" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ instalatu aurretik, ziurtatu %PRODUCTNAME aplikazioak Java Runtime Environment (JRE) erabiltzen duela. JRE-ren egoera jakiteko, aukeratu <item type="menuitem">Tresnak - Aukerak - %PRODUCTNAME - Java</item>. Ziurtatu &quot;Erabili Java runtime environment&quot; markatuta dagoela eta exekuzio-denborako Java-ren karpeta hautatuta dagoela zerrenda-koadro handian. JRE ez badago aktibatuta, aktibatu JRE 1.4 edo bertsio berriagoa eta berrabiarazi %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="eu" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ instalatzeko</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="eu" l10n="NEW">Writer-en leihoan, aukeratu <item type="menuitem">Tresnak - Hedapenen kudeatzailea</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="eu" l10n="NEW">Hedapenen kudeatzailearen elkarrizketa-koadroan, egin klik 'Gehitu' botoian.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="eu" l10n="NEW">Bilatu @WIKIEXTENSIONFILENAME@.oxt fitxategia, egin klik 'Ireki' botoian, eta gero egin klik 'Itxi' botoian.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="eu" l10n="NEW">Itxi %PRODUCTNAME, eta itxi baita ere abiarazle bizkorra gaituta egonez gero.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="eu" l10n="NEW">Berrabiarazi softwarea, ireki testu-dokumentua, ondoren aukeratu <item type="menuitem">Tresnak - Aukerak - Internet - MediaWiki</item> elementua zure Wiki ezarpenak sartzeko. Ikusi beheko &quot;Wiki-arekin konektatzeko&quot;.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="eu" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ kentzeko</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="eu" l10n="NEW">Writer-en leihoan, aukeratu <item type="menuitem">Tresnak - Hedapenen kudeatzailea</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="eu" l10n="NEW">Egin klik Hedapenak-en aurrean dagoen plus (+) ikurrean.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="eu" l10n="NEW">Hautatu hedapena, egin klik 'Kendu' botoian eta ondoren, egin klik 'Itxi' botoian.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="eu" level="2" l10n="NEW">Wiki-arekin konektatzeko</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="eu" l10n="NEW">Oharra: erabiltzaile-izena eta pasahitza gorde ditzakezu %PRODUCTNAME-(e)ko elkarrizketa-koadro guztientzako. Pasahitza modu seguru batean gordeko da, eta sarbidea pasahitz maisu batek mantenduko du. Pasahitz maisua gaitzeko, aukeratu <item type="menuitem">Tresnak - Aukerak - %PRODUCTNAME - Segurtasuna</item> menua.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="eu" l10n="NEW">Oharra: proxy zerbitzari baten bitartez konektatzen bazara web batera, sartu proxy-aren informazioa <item type="menuitem">Tresnak - Aukerak - Internet - Proxy</item> menuan, eta berrabiarazi softwarea.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="eu" l10n="NEW">Ireki Writer dokumentu bat, eta aukeratu <item type="menuitem">Tresnak - Aukerak - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="eu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">Aukerak</link> elkarrizketa-koadroan, egin klik 'Gehitu' botoian.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="eu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> elkarrizketa-koadroan, sartu kontuaren informazioa Wiki-arentzako.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="eu" l10n="NEW">URLaren testu-koadroan, sartu konektatzea nahi duzun Wiki-aren helbidea.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="eu" l10n="NEW">Web arakatzaile batetik kopia dezakezu URLa eta testu-koadroan itsatsi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="eu" l10n="NEW">Erabiltzaile-izenaren koadroan, sartu Wiki kontuaren erabiltzailearen identifikatzailea.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="eu" l10n="NEW">Wiki-ak anonimoki idazteko sarbidea baimentzen badu, erabiltzaile-izena eta pasahitzaren eremuak hutsik utz ditzakezu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="eu" l10n="NEW">Pasahitzaren koadroan, sartu Wiki kontuaren pasahitza, eta egin klik 'Ados' botoian.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="eu" l10n="NEW">Bestela, gaitu &quot;Gorde pasahitza&quot; pasahitza saioen artean gordetzeko. Pasahitz maisua erabiltzen da gordetako pasahitz guztien sarbidea mantentzeko. Aukeratu <item type="menuitem">Tresna - Aukerak - %PRODUCTNAME - Seguratsuna</item> menua pasahitz maisua gaitzeko. &quot;Gorde pasahitza&quot; ez da erabilgarri egongo pasahitz maisua gaitu arte.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="eu" level="2" l10n="NEW">Wiki orrialde berria sortzeko</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="eu" l10n="NEW">Ireki Writer dokumentua.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="eu" l10n="NEW">Idatzi Wiki orrialdeko edukia. Formatua eman dezaiokezu, adib: formatua, goiburuak, oin-oharrak, eta gehiago. Ikusi <link href="@WIKIEXTENSIONID@/wikiformats.xhp">onartutako formatuen zerrenda</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="eu" l10n="NEW">Aukeratu <item type="menuitem">Fitxategia - Bidali - MediaWiki-ra</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="eu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">Bidali MediaWiki-ra</link> elkarrizketa-koadroan zehaztu zure sarreraren ezarpenak.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="eu" l10n="NEW"><emph>MediaWiki zerbitzaria</emph>: hautatu Wiki-a.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="eu" l10n="NEW"><emph>Titulua</emph>: idatzi orrialdearen titulua. Idatzi existitzen den orrialde baten titulua zure uneko testu-dokumentuarekin gainidazteko. Idatzi titulu berria orrialde berria sortzeko Wiki-an.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="eu" l10n="NEW"><emph>Laburpena</emph>: sartu orrialdearen aukerako laburpena.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="eu" l10n="NEW"><emph>Edizio lagungarria da.</emph>: aktibatu koadro hau igotako orrialdea titulu berdineko existitzen den orrialdea edizio lagungarri gisa markatzeko.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="eu" l10n="NEW"><emph>Erakutsi web araktzailean</emph>: aktibatu koadro hau sistemako web arakatzailea irekitzeko eta igotako Wiki orrialdea erakusteko.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="eu" l10n="NEW">Egin klik 'Bidali' botoian.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

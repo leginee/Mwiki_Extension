@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="nb">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="nb" branch="index" id="bm_id3154408"><bookmark_value>wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>utvidingar;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="nb" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="nb" l10n="NEW"><ahelp hid=".">Ved hjelp av @WIKIEXTENSIONPRODUCTNAME@ kan du laste opp det gjeldende tekstdokumentet i Writer til en MediaWiki-tjener. Når dokumentet er lastet opp, kan andre wikibrukere lese det på wikien.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="nb" l10n="NEW"><ahelp hid=".">Velg <item type="menuitem">Fil – Send – Til MediaWiki</item> for å laste opp det gjeldende Writer-dokumentet til en MediaWiki-tjener.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="nb" level="2" l10n="NEW">Systemkrav</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="nb" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="nb" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="nb" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="nb" l10n="NEW">En wikikonto på en <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link>-tjener som støttes</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="nb" level="2" l10n="NEW">Installere @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="nb" l10n="NEW">Kontroller at %PRODUCTNAME bruker et Java-kjøremiljø (JRE) før du installerer @WIKIEXTENSIONPRODUCTNAME@. Du kan kontrollere status for JRE ved å velge <item type="menuitem">Verktøy → Innstillinger → %PRODUCTNAME → Java</item>. Sjekk at det er krysset av for <emph>Bruk et Java-kjøremiljø</emph> og at en Java-kjøretidsmappe er valgt i den store lista. Hvis ingen JRE er slått på, må du slå på JRE 1.4 eller nyere og starte %PRODUCTNAME på nytt.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="nb" level="3" l10n="NEW">Installere @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="nb" l10n="NEW">Velg <item type="menuitem">Verktøy – Utvidelser</item> i et Writer-vindu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="nb" l10n="NEW">Velg <emph>Legg til</emph> i dialogvinduet <emph>Utvidelser</emph>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="nb" l10n="NEW">Finn fila @WIKIEXTENSIONFILENAME@.oxt, velg <emph>Åpne</emph> og deretter <emph>Lukk</emph>. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="nb" l10n="NEW">Avslutt %PRODUCTNAME, og lukk hurtigstarteren hvis den er i bruk.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="nb" l10n="NEW">Start programmet på nytt, åpne et tekstdokument og gå deretter til <item type="menuitem">Verktøy – Innstillinger – Internett – MediaWiki</item> og legg inn wiki-innstillingene. Se også «Koble til en wiki» nedenfor.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="nb" level="3" l10n="NEW">Fjerne @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="nb" l10n="NEW">Velg <item type="menuitem">Verktøy – Utvidelser</item> i et Writer-vindu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="nb" l10n="NEW">Trykk plusstegnet (+) foran <emph>Mine utvidelser</emph>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="nb" l10n="NEW">Velg utvidelsen, trykk <emph>Fjern</emph> og deretter <emph>Lukk</emph>.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="nb" level="2" l10n="NEW">Koble til en wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="nb" l10n="NEW">Merk: Du kan lagre brukernavnet og passordet for alle de ulike dialogvinduene i %PRODUCTNAME. Passordet blir lagret på en sikker måte, og du får tilgang til det via et hovedpassord. Du kan slå på bruk av hovedpassord ved å velge <item type="menuitem">Verktøy → Innstillinger → %PRODUCTNAME → Sikkerhet</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="nb" l10n="NEW">Merk: Hvis du kobler til Internett via en mellomtjener, må du skrive inn opplysninger om denne i <item type="menuitem">Verktøy – Innstillinger – Internett – Mellomtjener</item> og starte programmet på nytt.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="nb" l10n="NEW">Åpne et Writer-dokument og velg <item type="menuitem">Verktøy – Innstillinger – Internett – MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="nb" l10n="NEW">Trykk <emph>Legg til</emph> i dialogvinduet <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Innstillinger</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="nb" l10n="NEW">Skriv inn opplysninger om wikikontoen i dialogvinduet <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="nb" l10n="NEW">I tekstboksen <emph>Nettadresse</emph> skriver du inn adressen til wikien du vil koble til.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="nb" l10n="NEW">Du kan kopiere nettadressen fra en nettleser og lime den inn i tekstboksen.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="nb" l10n="NEW">I boksen <emph>Brukernavn</emph> skriver du inn bruker-IDen som hører til wikikontoen.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="nb" l10n="NEW">Hvis wikien tillater anonym skrivetilgang, kan du la feltene for brukernavn og passord stå tomme.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="nb" l10n="NEW">I boksen <emph>Passord</emph> skriver du inn passordet til wikikontoen din og velger <emph>OK</emph>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="nb" l10n="NEW">Hvis du vil, kan du krysse av for <emph>Lagre passordet</emph> for å lagre passordet mellom øktene. Et hovedpassord brukes til å behandle tilgangen til alle passord som er lagret. Velg <item type="menuitem">Verktøy → Innstillinger → %PRODUCTNAME → Sikkerhet</item> for å ta i bruk et hovedpassord. Du kan ikke velge «Lagre passordet» hvis hovedpassord ikke brukes.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="nb" level="2" l10n="NEW">Lage en ny wikiside</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="nb" l10n="NEW">Åpne et dokument i Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="nb" l10n="NEW">Skriv inn innholdet på wikisiden. Du kan bruke formatering av tekst, overskrifter fotnoter og mer. Se <link href="@WIKIEXTENSIONID@/wikiformats.xhp">lista over formatering som støttes</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="nb" l10n="NEW">Velg <item type="menuitem">Fil – Send – Til MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="nb" l10n="NEW">Angi innstillinger for innsendinga i dialogvinduet <link href="@WIKIEXTENSIONID@/wikisend.xhp">Send til MediaWiki</link>.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="nb" l10n="NEW"><emph>MediaWiki-tjener</emph>: Velg wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="nb" l10n="NEW"><emph>Tittel</emph>: Skriv inn tittelen på siden. Skriv inn tittelen på en side som finnes fra før hvis du vil overskrive den med din egen versjon. Skriv inn en ny tittel for å opprette en ny side på wikien.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="nb" l10n="NEW"><emph>Sammendrag</emph>: Skriv inn et kort sammendrag av siden hvis du ønsker det.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="nb" l10n="NEW"><emph>Dette er en liten endring</emph>: Kryss av i denne boksen for å merke siden du laster opp, som en liten endring av artikkelen med samme navn som ligger der fra før.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="nb" l10n="NEW"><emph>Vis i nettleser</emph>: Kryss av i denne boksen for å åpne nettleseren på systemet og vise wikisiden du laster opp.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="nb" l10n="NEW">Trykk «Send».</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

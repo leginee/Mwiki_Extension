@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ast">Formatos de MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ast" level="1" l10n="NEW">Formatos de MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ast" l10n="NEW">La siguiente llista amuesa una revisión de los formatos de testu que @WIKIEXTENSIONPRODUCTNAME@ puede xubir al sirvidor Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ast" l10n="NEW">El formatu OpenDocument usáu por Writer y el formatu WikiMedia son estremaos. Solamente un subconxuntu de toles carauterístiques pueden tresformase d'un formatu al otru.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ast" level="2" l10n="NEW">Testeres</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ast" l10n="NEW">Aplicar un estilu de testera de párrafu a los títulos nun documentu de Writer. El Wiki amosará los estilos de les testeres nel esquema del mesmu nivel, nel formatu como ta definíu pol Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ast" level="2" l10n="NEW">Hipervínculos</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ast" l10n="NEW">Hiperenllaces nativos d'OpenDocument tresfórmense n'enllaces &quot;esternos&quot; nel Wiki . Poro, la facilidá d'enllaces incorporaos en OpenDocument namái tien d'usase pa crear enllaces qu'apunten a otros sitios, fuera del web del Wiki. Pa crear enllaces Wiki qu'apunten a otros elementos nel mesmu dominiu del Wiki, usa Wiki links.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ast" level="2" l10n="NEW">Llistes</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ast" l10n="NEW">Pueden esportase llistes fiablemente cuando la llista entera usa un estilu de llista consistente. Usa l'iconu de Numberación o Viñetes pa xenerar una llista en Writer. Si necesites una llista ensin numberación o viñetes, usa Formatu &gt; Numberación y viñetes pa definir y aplicar l'estilu respeutivu.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ast" level="2" l10n="NEW">Párrafos</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ast" level="3" l10n="NEW">Alliniamientu</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ast" l10n="NEW">Alliniamientu esplicitu del testu nun hai que lo usar n'artículos de Wiki. De toes maneres, allliniamientos de testu sofítense p'alliniamientu de testu a la esquierda, centrada y a la drecha.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ast" level="3" l10n="NEW">Testu predetermináu</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ast" l10n="NEW">Un estilu de párrafu con una triba de lletra d'anchor fixu tresfórmase en testu con formatu. Testu con formatu amuésase nel Wiki con un berbesu al rodiu del testu.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ast" level="2" l10n="NEW">Estilos de caráuteres</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ast" l10n="NEW">Estilos de caráuteres modifica l'apariencia de partes de párrafos. La tresformación sofita negrines, cursives, negrines/cursives, subíndice, y superíndice. Toles tribes de lletres d'anchor fixu tresformáronse al estilu de máquina d'escribir de Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ast" level="2" l10n="NEW">Notes de pies</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ast" l10n="NEW">Nota: La tresformación usa'l nuevu estilu de notes de pies con etiquetes &lt;ref&gt; y &lt;references&gt; que requier que la estensión Cite.php tea instalada en MediaWiki. Si aquelles etiquetes ocurren como testu nel resultáu de la tresformación, píde-y al alministrador del Wiki, la instalación d'esta estensión.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ast" level="2" l10n="NEW">Imáxenes</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ast" l10n="NEW">Imáxenes nun pueden esportase pa producir un solo ficheru del Wiki con una tresformación. Por embargu, si la imaxe ta disponible nel sirvidor del Wiki  (por exemplu, WikiMedia Commons), entós la tresformación produz una etiqueta d'imaxe valida qu'inclúi la imaxe. Los títulos de les imáxenes tamién se sofiten.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ast" level="2" l10n="NEW">Tables</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ast" l10n="NEW">Tablas cencielles tán bien sofitaes. Les testeres de tables tradúcense nes testeres correspondientes de les tables nel Wiki. Por embargu, formatos personalizaos de berbesos, anchor de columnes y colores del fondu ignórense.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ast" level="3" l10n="NEW">Caxelles xuníes</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ast" l10n="NEW">OpenDocument y especialmente OpenOffice.org representen les tables con caxelles xuníes en múltiples fileres, como tables en cascada. En contraste, el modelu de tabla en wiki ye declarar múltiples columnes y/o fileres pa eses caxelles xuníes. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ast" l10n="NEW">Si solamente les columnes d'una mesma filera tán xuníes, el resultáu de la tresformación pareceráse muncho al documentu orixinal.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ast" level="3" l10n="NEW">Berbesos</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ast" l10n="NEW">Ensin importar los estilos de tables personalizaes pa berbesos y fondos, una tabla siempres s'esporta como &quot;<emph>prettytable</emph>&quot;, y amuésase nel Wiki con berbesos cenciellos y testeres en negrina.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ast" level="2" l10n="NEW">Xuegos de caráuteres y caráuteres especiales</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ast" l10n="NEW">El conxuntu de carauteres del resultáu de la conversión ta configuráu a UTF-8. Dependiendo del to sistema, puede que nun seya'l conxuntu de caráuteres predetermináu. Que puede resultar en &quot;caráuteres especiales&quot; con apariencia rara. Por embargu, puedes camudar l'editor pa usar codificación UTF-8 pa iguar esto. Si l'editor nun sofita camudar la codificación, puedes ver el resultáu nel restolador Firefox y camuda-y la codificación d'UTF-8. Agora, puedes cortar y apegar les conversiones resultantes nel programa de la to escoyeta.</paragraph>
+</body>
+</helpdocument>

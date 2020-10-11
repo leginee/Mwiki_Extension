@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="fi">MediaWikin muotoilut</title>
+<filename>/com.sun.wiki-publisher/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="fi" level="1" l10n="NEW">MediaWikin muotoilut</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="fi" l10n="NEW">Oheinen luettelo antaa yleiskuvan niistä tekstimuotoiluista, jotka Wiki Publisher voi kopioida Wiki-palvelimelle.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="fi" l10n="NEW">OpenDocument-tiedostomuoto, jota Writer käyttää ja WikiMedia-tiedostomuoto ovat hyvin erilaisia. Vain piirteiden osajoukko on muunnettavissa tiedostomuodosta toiseen.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="fi" level="2" l10n="NEW">Otsikot</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="fi" l10n="NEW">Writerin asiakirjan otsikoihin käytetään otsikko-kappaletyyliä. Wiki esittää saman jäsennystason otsikkotyylit, jotka muotoillaan Wiki-ohjelman määritysten mukaan.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="fi" level="2" l10n="NEW">Hyperlinkit</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="fi" l10n="NEW">Alkuperäiset OpenDocument-hyperlinkit muunnetaan &quot;ulkoisiksi&quot; Wiki-linkeiksi. Tämän vuoksi ODF:n sisäänrakennettua linkkiominaisuutta pitäisi käyttää vain luotaessa linkkejä, jotka osoittavat Wiki-verkon ulkopuolisiin sivustoihin. Luotaessa Wiki-linkkejä, jotka osoittavat samalle Wiki-alueelle, käytetään Wiki-linkkejä.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="fi" level="2" l10n="NEW">Luettelot</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="fi" l10n="NEW">Luetelmat voidaan viedä luotettavasti, kun koko luettelo käyttää samaa luetelmatyyliä. Writerin luetelmien tuottamiseen käytetään Numerointi- tai Luettelomerkit-kuvaketta. Mikäli tarvitaan luetelmaa ilman numerointia tai luetelmamerkkejä, käytetään Muotoilu - Luettelomerkit ja numeroinnit -toimintoa sopivan luetelmatyylin määrittämiseen.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="fi" level="2" l10n="NEW">Kappaleet</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="fi" level="3" l10n="NEW">Tasaus</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="fi" l10n="NEW">Wiki-artikkeleissa ei tulisi käyttää tiettyä tasausta. Tekstin tasauksista on kuitenkin tuettuina vasen, keskitetty ja oikea tasaus.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="fi" level="3" l10n="NEW">Esimuotoiltu teksti</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="fi" l10n="NEW">Tasaleveää fonttia käyttävä kappaletyyli muunnetaan esimuotoilluksi tekstiksi, joka esitetään Wikissä kehystettynä.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="fi" level="2" l10n="NEW">Merkkityylit</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="fi" l10n="NEW">Merkkityylit muuntavat kappaleen osan ulkonäköä. Muunnos tukee lihavointia, kursivointia, lihavoitua kursivointia, alaindeksiä ja yläindeksiä. Kaikki tasaleveät fontit muunnetaan Wikin konekirjoitustyyliksi.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="fi" level="2" l10n="NEW">Alaviitteet</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="fi" l10n="NEW">Muunnos käyttää uutta alaviitetyyliä &lt;ref&gt;- ja &lt;references&gt;-muotoilukoodein. Vaatimuksena on, että MediaWikiin on asennettu Cite.php-laajennus. Jos muotoilukoodit esiintyvät pelkkänä tekstinä muunnostuloksessa, Wiki-ylläpitoa pitää pyytää asentamaan tarvittava laajennus.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="fi" level="2" l10n="NEW">Kuvat</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="fi" l10n="NEW">Kuvia ei voida viedä muunnoksessa, joka tuottaa yksittäisen Wiki-tekstin tiedoston. Jos kuitenkin kuva on jo kopioitu kohteena olevan Wikin alueelle (esim. kohteeseen WikiMedia Commons), muunnos tuottaa tällöin kelvollisen kuvamuotoilukoodin, johon kuva sisältyy. Myös kuvatekstit ovat tuettuja.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="fi" level="2" l10n="NEW">Taulukot</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="fi" l10n="NEW">Yksinkertaisten taulukkojen tuki on kattava. Taulukkojen otsikot muunnetaan vastaaviksi Wiki-tyylin mukaisiksi taulukkojen otsikoiksi. Mukautetut taulukkojen reunojen, sarakeleveyksien ja taustavärien muotoilut kuitenkin ohitetaan.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="fi" level="3" l10n="NEW">Yhdistetyt solut</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="fi" l10n="NEW">OpenDocument (ODF) ja erityisesti OpenOffice.org esittävät taulukot, joissa on yhdistettyjä, rivien yli ulottuvia, soluja, sisäkkäisinä taulukoina. Wiki-taulukkomallissa taas määritetään sarakkeiden ja rivien ylitykset tämäntapaisille yhdistetyille soluille. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="fi" l10n="NEW">Jos vain yhden rivin sarakkeet yhdistetään, muunnoksen tulos muistuttaa tarkasti lähdeasiakirjaa.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="fi" level="3" l10n="NEW">Reunat</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="fi" l10n="NEW">Riippumatta reunojen ja taustan mukautetuista taulukkotyyleistä taulukko viedään aina &quot;<emph>prettytable&quot;</emph>-määritteisenä, jonka Wiki-ohjelma piirtää yksinkertaisin reunoin ja lihavoiduin otsikoin.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="fi" level="2" l10n="NEW">Merkistö ja erikoismerkit</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="fi" l10n="NEW">Muunnoksen tuloksen merkistöksi on vakioitu UTF-8. Järjestelmästä riippuen tämä voi olla oletusmerkistö tai ei ole sitä. Tämä voi aiheuttaa &quot;erikoismerkkien&quot; näkymisen rikkinäisinä oletusasetuksin tarkasteltaessa. Muokkaimen voi kuitenkin vaihtaa UTF-8 -koodaustavalle tämän korjaamiseksi. Jos muokkaimesi ei tue koodaustavan vaihtoa, muunnoksen tulosta voi tarkastella Firefox-selaimessa vaihtaen merkistökoodauksen  UTF-8:een. Tämän jälkeen muunnoksen tulos on leikattavissa ja liitettävissä käyttäjän valitsemaan ohjelmaan.</paragraph>
+</body>
+</helpdocument>

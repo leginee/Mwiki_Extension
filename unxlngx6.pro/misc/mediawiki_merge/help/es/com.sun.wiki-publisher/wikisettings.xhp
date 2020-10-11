@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikisettingsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="es">Opciones de MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikisettings.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T12:53:38"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:settings" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id6425672" xml-lang="es" level="1" l10n="NEW">Opciones MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id1188390" xml-lang="es" l10n="NEW">Puede agregar, editar o eliminar servidores MediaWiki. Abrá el diálogo con <item type="menuitem">Herramientas - Opciones - Internet - MediaWiki</item>. Alternativamente, escoja <item type="menuitem">Herramientas - Administrador de Extensiónes</item>, escoja @WIKIEXTENSIONPRODUCTNAME@, y haga clic en el botón de Opciones.</paragraph><comment>Listbox</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.WikiList" id="bm_id6402783" localize="false"/>
+<paragraph role="paragraph" id="par_id300607" xml-lang="es" l10n="NEW"><ahelp hid=".">Haga clic en Agregar para añadir un nuevo servidor Wiki.<br/>Seleccione una entrada y haga clic en Editar para editar la configuración de la cuenta.<br/>Seleccione una entrada y haga clic en Remover para eliminar una entrada de la lista.</ahelp></paragraph><comment>Add button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.AddButton" id="bm_id6067384" localize="false"/>
+<paragraph role="paragraph" id="par_id9786065" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Abre el dialogo del MediaWiki para añadir una nueva entrada a la lista.</ahelp></paragraph><comment>Edit button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.EditButton" id="bm_id6067385" localize="false"/>
+<paragraph role="paragraph" id="par_id3386333" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Abre el dialogo del MediaWiki para editar la entrada seleccionada.</ahelp></paragraph><comment>Remove button</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.Settings.RemoveButton" id="bm_id6067386" localize="false"/>
+<paragraph role="paragraph" id="par_id7285073" xml-lang="es" l10n="NEW"><ahelp hid="." visibility="hidden">Quitar la entrada seleccionada de la lista.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id1029084" xml-lang="es" l10n="NEW">Cuando usted haga clic en Agregar o Editar, el diálogo de <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> abre.</paragraph>
+</body>
+</helpdocument>

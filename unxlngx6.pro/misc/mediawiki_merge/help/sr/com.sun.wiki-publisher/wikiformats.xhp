@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sr">Медија Вики формати</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sr" level="1" l10n="NEW">Медија Вики формати</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sr" l10n="NEW">Обликовања текста које @WIKIEXTENSIONPRODUCTNAME@ може да отпреми на Вики сервер су наведена у следећем списку.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sr" l10n="NEW">Вики Медија формат и отворени документ-формат које користи Писац су прилично различити. Само део опција може бити преведен из једног формата у други.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sr" level="2" l10n="NEW">Заглавља</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sr" l10n="NEW">Примените стил пасуса за заглавље у заглављу Пишчевог документа. Вики ће приказати стил заглавља истог нивоа, онако како је подешено у Викију.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sr" level="2" l10n="NEW">Хипервезе</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sr" l10n="NEW">Изворне везе у отвореном документ-формату (ОДФ) се преводе у „спољне“ везе на викију. Због тога користите везе у ОДФ-у само за везе које воде до страница ван викија. За израду вики веза које воде на друге чланке унутар истог вики домена, користите вики везе.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sr" level="2" l10n="NEW">Листе</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sr" l10n="NEW">Листе могу бити правилно извезене када цела листа користи доследан стил. Користите иконицу за „Нумерисање“ или „Ознаке за набрајање“ у „Писцу“ за израду списка или листе. Уколико вам је потребна листа без ознака за набрајање или нумерисање, користите „Формат - Ознаке за нумерисање и набрајање“ како бисте изабрали жељени стил.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sr" level="2" l10n="NEW">Пасуси</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sr" level="3" l10n="NEW">Поравнање</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sr" l10n="NEW">Задато поравнање текста није пожељно у Вики чланцима. Ипак, лево, центрирано и десно поравнање текста је подржано.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sr" level="3" l10n="NEW">Преформатирани текст</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sr" l10n="NEW">Стил пасуса са задатом ширином фонта се преводи у преформатирани текст. Преформатирани текст се приказује на Викију са ивицом око текста.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sr" level="2" l10n="NEW">Стил знакова</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sr" l10n="NEW">Стил знакова мења изглед делова пасуса. Подржан је подебљан текст, курзив, подебљани курзив, текст у експоненту и текст у индексу. Све задате ширине фонтова се преводе у Вики стил.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sr" level="2" l10n="NEW">Фусноте</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sr" l10n="NEW">Примедба: Превођење користи нови стил фуснота са ознакама &lt;ref&gt; и &lt;references&gt; које захтевају да на Медија Вики буде инсталирано проширење Cite.php. Уколико се ове ознаке појаве као обичан текст у преведеном резултату, захтевајте од администратора Вики странице да инсталира проширење.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sr" level="2" l10n="NEW">Слике</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sr" l10n="NEW">Слике се не могу извести трансформацијом у датотеку Вики текста. Међутим, уколико је слика већ отпремљена на циљни Вики домен (нпр. WikiMedia Commons) биће направљена исправна ознака за укључивање слике. Наслови слика су такође подржани.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sr" level="2" l10n="NEW">Табеле</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sr" l10n="NEW">Једноставне табеле су добро подржане. Заглавља табеле се преводе у одговарајући Вики стил заглавља. Међутим, произвољно форматиране ивице табела, величина колона и боја позадине ће бити занемарене.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sr" level="3" l10n="NEW">Спојене ћелије</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sr" l10n="NEW">Отворени документ формат (ОДФ), а пре свега OpenOffice.org, представља табеле са спојеним ћелијама као табеле са угнежденим табелама. С друге стране, Вики дефинише спајање колона и редова за такве ћелије. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sr" l10n="NEW">Уколико су спојене само колоне истог реда, резултат превођења ће бити сличан изворном документу.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sr" level="3" l10n="NEW">Ивице</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sr" l10n="NEW">Занемарујући прилагођене стилове табеле за границе и позадину табеле, она се увек извози као „<emph>лепа табела</emph>“, што се у Викију приказује као табела са једноставним ивицама и подебљаним заглављем.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sr" level="2" l10n="NEW">Кодирање и посебни знаци</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sr" l10n="NEW">Знаци преведеног резултата су задати као УТФ-8. У зависности од вашег система, ово не мора бити подразумевано кодирање, па „посебни знаци“ могу изгледати другачије. У уређивачу текста можете пребацити кодирање на УТФ-8. Уколико уређивач не подржава промену кодирања, можете отворити резултат трансформације у Фајерфокс прегледнику и одатле пребацити кодирање на УТФ-8. Тада у жељени програм можете убацити резултат трансформације.</paragraph>
+</body>
+</helpdocument>

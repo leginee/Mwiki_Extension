@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ug">MediaWiki فورماتى</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="ug" level="1" l10n="NEW">MediaWiki فورماتى</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="ug" l10n="NEW">تۆۋەندىكى تىزىملىك @WIKIEXTENSIONPRODUCTNAME@ ئارقىلىق تېكست ئۇسلۇبى ئومۇمىي كۆرۈنۈشىنى Wiki مۇلازىمىتىرىغا يۈكلىگىلى بولىدۇ.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="ug" l10n="NEW">Writer ئىشلەتكەن OpenDocument فورماتى بىلەن WikiMedia فورماتىنىڭ پەرقى ناھايىتى چوڭ. پەقەت بىر قىسىم ئىقتىدارنىلا بىر خىل فورماتتىن يەنە بىر خىل فورماتقا ئايلاندۇرغىلى بولىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="ug" level="2" l10n="NEW">ماۋزۇلار</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="ug" l10n="NEW">Writer پۈتۈكىدىكى ماۋزۇ ماۋزۇ ئابزاس ئۇسلۇبى قوللىنىدۇ. Wiki ئوخشاش دەرىجىلىك تېزىسنىڭ ماۋزۇ ئۇسلۇبىنى كۆرسىتىدۇ، ھەمدە Wiki موتورىغا ئاساسەن تەڭشەك فورماتىغا ئېنىقلىما بېرىلىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="ug" level="2" l10n="NEW">ئۇلانما</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="ug" l10n="NEW">يەرلىك كومپيۇتېردىكى OpenDocument ئۇلانمىسىنى &quot;سىرتقى&quot; Wiki ئۇلانمىسىغا ئايلاندۇرىدۇ. شۇڭلاشقا، OpenDocument نىڭ ئىچكى ئۇلانما قورالى پەقەت Wiki web دىن باشقا بېكەت ئۇلىنىشىغا قارىتىلغان.ئوخشاش Wiki دائىرىسىدىكى باشقا تېمىدىكى Wiki ئۇلىنىش قۇرۇشتا Wiki ئۇلىنىشى ئىشلىتىڭ.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="ug" level="2" l10n="NEW">تىزىملىك</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="ug" l10n="NEW">پۈتكۈل تىزىملىك بىردەك رەت ئۇسلۇبى ئىشلەتكەندە جەدۋەلنى خاتىرجەم چىقىرىشقا بولىدۇ. تەرتىپ نومۇرى ياكى تۈر بەلگە سىنبەلگىسى ئىشلىتىپ Writer دا تىزىملىك ھاسىل قىلىشقا بولىدۇ. ئەگەر تەرتىپ نومۇرى ياكى تۈر بەلگىسى يوق تىزىملىككە ئېھتياجلىق بولسىڭىز، پىچىم-تۈر بەلگىسى ۋە تەرتىپ نومۇرى ئىشلىتىپ ھەر قايسىسىنىڭ تىزىملىك ئۇسلۇبىغا ئېنىقلىما بېرىپ قوللىنىڭ.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="ug" level="2" l10n="NEW">ئابزاس</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="ug" level="3" l10n="NEW">توغرىلا</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="ug" l10n="NEW">Wiki ماقالىسىدە ئاشكارە تېكست توغرىلىنىشى ئىشلىتىلمەيدۇ. ئەمما تېكستنى سولغا، ئوتتۇرىغا، ئوڭغا توغرىلاشنى قوللايدۇ.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="ug" level="3" l10n="NEW">تەييار فورماتلىق تېكست</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="ug" l10n="NEW">مۇقىم كەڭلىككە ئىگە خەت نۇسخىدىكى ئابزاس ئۇسلۇبى ئالدىن فورماتلانغان تېكستكە ئايلاندۇرۇلىدۇ. ئالدىن فورماتلانغان تېكست Wiki دا رامكا بىلەن ئورالغان تېكست شەكلىدە كۆرۈنىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="ug" level="2" l10n="NEW">ھەرپ ئۇسلۇبى</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="ug" l10n="NEW">ھەرپ ئۇسلۇبى ئابزاسنىڭ مەلۇم بۆلىكىنىڭ سىرتقى كۆرۈنۈشىنى ئۆزگەرتەلەيدۇ. توم، يانتۇ، تون يانتۇ، ئاستى ئىندېكس ۋە ئۈستى ئىندېكس ئايلاندۇرۇشنى قوللايدۇ. بارلىق مۇقىم كەڭلىكتىكى خەت نۇسخىسى Wiki بېسىش ئۇسلۇبىغا ئايلاندۇرۇلىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="ug" level="2" l10n="NEW">بەت ئاستى ئىزاھات</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="ug" l10n="NEW">دىققەت: ئايلاندۇرغاندا بەت ئاستى ئىزاھاتنىڭ يېڭى ئۇسلۇبىنى ئىشلىتىدۇ، يېڭى ئۇسلۇبتا &lt;ref&gt; ۋە &lt;references&gt; بەلگىسى بار، بۇنىڭ ئۈچۈن MediaWiki دا Cite.php كېڭەيتىلمىسى قاچىلاش لازىم. ئەگەر بۇ بەلگىلەر ئايلاندۇرۇش نەتىجىسىدە ساپ تېكست سۈپىتىدە كۆرۈلسە، Wiki باشقۇرغۇچىسىدىن مەزكۇر كېڭەيتىلمىنى قاچىلاشنى تەلەپ قىلىڭ.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="ug" level="2" l10n="NEW">سۈرەتلەر</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="ug" l10n="NEW">يەككە Wiki تېكست ھۆججىتىگە ئايلاندۇرۇش ئارقىلىق سۈرەت چىقىرالمايدۇ. بىراق سۈرەت نىشان Wiki دائىرىسى (مەسىلەن، WikiMedia Commons)، ئۇنداقتا ئايلاندۇرۇش ئىناۋەتلىك سۈرەت بەلگىسى(بەلگىدە سۈرەت بار) ھاسىل قىلىدۇ. ئۇندىن باشقا سۈرەتلىك ماۋزۇنى قوللايدۇ.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="ug" level="2" l10n="NEW">جەدۋەللەر</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="ug" l10n="NEW">ئاددى جەدۋەلنى ناھايىتى ياخشى قوللايدۇ. جەدۋەل ماۋزۇسىنى مۇناسىپ Wiki ئۇسلۇبىدىكى جەدۋەل ماۋزۇسىغا ئالماشتۇرىدۇ. ئەمما جەدۋەل يان رامكىسى، رەت چوڭ كىچىكلىكى ۋە تەگلىك رەڭگىنىڭ ئىختىيارىچە پىچىم قاتارلىقلارغا پەرۋا قىلمايدۇ.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="ug" level="3" l10n="NEW">بېرىكمە كاتەكچە</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="ug" l10n="NEW">OpenDocument (بولۇپمۇ OpenOffice.org) قۇر ئاتلاپ بىرلەشتۈرۈلگەن جەدۋەلنى ئىپادىلەيدۇ، جەدۋەلدە جەدۋەل سىڭدۈرگەنگە ئوخشاش. ئەمما wiki مودىلىدىكى جەدۋەلدە بۇ خىل بىرلەشتۈرۈلگەن كاتەكچىنىڭ رەت ۋە قۇرىنىڭ قۇر ئاتلاش دەرىجىسىگە ئېنىقلىما بېرىدۇ. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="ug" l10n="NEW">ئەگەر ئوخشاش بىر قۇردىكى ھەر قايسى رەتنىلا بىرلەشتۈرسە ئايلاندۇرۇشنىڭ نەتىجىسى بىلەن پۈتۈك ناھايىتى ئوخشاپ كېتىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="ug" level="3" l10n="NEW">يان رامكا</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="ug" l10n="NEW">رامكا ۋە تەگلىكنىڭ ئىختىيارىچە ئۇسلۇبى قانداق بولۇشىدىن قەتئىينەزەر، جەدۋەلنى ئىزچىل &quot;<emph>نەپىس جەدۋەل&quot;</emph> سۈپىتىدە چىقىرىدۇ، ئۇ Wiki موتورىدا ئاددىي يان رامكا ۋە توم ماۋزۇدا كۆرۈنىدۇ.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="ug" level="2" l10n="NEW">ھەرپلەر توپلىمى ۋە ئالاھىدە ھەرپلەر</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="ug" l10n="NEW">ئايلاندۇرىدىغان ھەرپ توپلىمى مۇقىم UTF-8 بولىدۇ. بۇ كۆڭۈلدىكى ھەرپ توپلىمى بولماسلىقى مۇمكىن، ئەمەلىيەتتە بۇ سىستېمىڭىز بىلەن مۇناسىۋەتلىك. بۇنداق بولغاندا كۆڭۈلدىكى تەڭشەكنى ئىشلىتىپ كۆرگەندە &quot;ئالاھىدە ھەرپ&quot; بۇزۇلغان دەپ كۆرۈنۈشى مۇمكىن. ئەمما سىز تەھرىرلىگۈچنى UTF-8 كودلىغۇچقا ئالماشتۇرۇپ بۇ مەسىلىنى ئوڭشىسىڭىز بولىدۇ. ئەگەر تەھرىرلىگۈچىڭىز كودلىغۇچ ئالماشتۇرۇشنى قوللىمىسا،ئالماشتۇرۇش نەتىجىسىنى Firefox توركۆرگۈدە كۆرسىتىپ، كودلىنىشنى UTF-8 گە ئالماشتۇرۈشقا بولىدۇ. بۇ چاغدا، ئالماشتۇرۇش نەتىجىسىنى كېسىپ تاللىغان پروگراممىغا چاپلىسىڭىز بولىدۇ.</paragraph>
+</body>
+</helpdocument>

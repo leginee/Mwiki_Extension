@@ -1,0 +1,18 @@
+1c vnd.com.sun.star.wiki%3Asend 66 Trie Archiu - Enviar - a Mediawiki Per a enviar el document actual de Writer al servidor de MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox b0 Utilisant el Wiki Publisher pot enviar el seu document actual de Writer a un servidor MediaWiki. En acabant, tots els usuaris del Wiki podran llegir el seu document en el Wiki.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 8e Habilitar per a guardar la clau entre sessions. La clau mestra te que estar habilitada, veja Ferramentes - Opcions - %PRODUCTNAME - Seguritat.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 62 Introduïxca la seua contrasenya en el servidor MediaWiki. Deixe-la buida per a un accés anònim.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 60 Introduïxca el seu nom d'usuari en el servidor MediaWiki. Deixe'l buit per a un accés anònim.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 44 Introduïxca una URL d'un servidor MediaWiki, començant per http://
+1f vnd.com.sun.star.wiki%3Aaccount 44 Introduïxca una URL d'un servidor MediaWiki, començant per http://
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 68 Revise este quadro per a obrir el navegador seleccionat pel sistema i mostrar la pàgina Wiki carregada.
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 7c Marque este quadro per a indicar que la pàgina enviada és una edició menor d'una pàgina ya existent en el mateix títul.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 30 Introduïxca un resum curt opcional o comentari.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 105 Introduïxca el títul del seu artícul Wiki. Esta és la capçalera principal del seu artícul Wiki. Per a una nova entrada, el títul deu ser únic en este Wiki. Si introduïx un títul existent, el seu enviament sobreescriurà la pàgina existent en el Wiki.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 83 Seleccione el servidor MediaWiki en el que vol publicar el seu document. Punche en afegir per a afegir un nou servidor a la llista.
+22 vnd.com.sun.star.wiki%3AsendDialog 83 Seleccione el servidor MediaWiki en el que vol publicar el seu document. Punche en afegir per a afegir un nou servidor a la llista.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2c Elimina l'entrada seleccionada de la llista.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 41 Obri el diàlec de MediaWiki per a editar l'entrada seleccionada.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 47 Obri el diàlec de MediaWiki per a afegir una nova entrada a la llista.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList dd Faça clic en Afegir per a afegir un nou servidor Wiki.Seleccione una entrada i punche en Editar per a editar la configuració del conte.Seleccione una entrada i punche en Eliminar per a eliminar una entrada de la llista.
+20 vnd.com.sun.star.wiki%3Asettings dd Faça clic en Afegir per a afegir un nou servidor Wiki.Seleccione una entrada i punche en Editar per a editar la configuració del conte.Seleccione una entrada i punche en Eliminar per a eliminar una entrada de la llista.

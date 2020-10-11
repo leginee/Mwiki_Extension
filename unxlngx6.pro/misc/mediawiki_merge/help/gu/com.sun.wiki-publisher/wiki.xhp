@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="gu">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="gu" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="gu" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="gu" l10n="NEW"><ahelp hid=".">@WIKIEXTENSIONPRODUCTNAME@ ની મદદથી તમે મીડિયાવિકી સર્વરમાં તમારા હાલનાં લેખક લખાણ દસ્તાવેજ માં અપલોડ કરી શકાય છે. અપલોડ થાય પછી, બધા વિકી વપરાશકર્તાઓ વિકી પર તમારા દસ્તાવેજ ને વાંચી શકે છે.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="gu" l10n="NEW"><ahelp hid="."> મીડિયાવિકી સર્વર માં હાલનાં લેખક દસ્તાવેજમાં અપલોડ કરવા માટે <item type="menuitem">File - Send - To MediaWiki</item> ને પસંદ કરો.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="gu" level="2" l10n="NEW">સિસ્ટમ જરૂરિયાતો</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="gu" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="gu" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="gu" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="gu" l10n="NEW">આધારભૂત <link href="http://www.mediawiki.org/wiki/MediaWiki">મીડિયાવિકી</link> સર્વર પર વિકી ખાતુ</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="gu" level="2" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ને સ્થાપિત કરી રહ્યા છે</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="gu" l10n="NEW">તમે @WIKIEXTENSIONPRODUCTNAME@ ને સ્થાપિત કરતા પહેલા, ખાતરી કરો કે જે %PRODUCTNAME એ Java Runtime Environment (JRE) ને વાપરે છે. JRE ની સ્થિતિ ને ચકાસવા માટે, <item type="menuitem">Tools - Options - %PRODUCTNAME - Java</item> ને પસંદ કરો. ખાતરી કરો કે જે &quot;Use a Java runtime environment&quot; એ ચિહ્નિત થયેલ છે અને Java રનટાઇમ ફોલ્ડર એ મોટી યાદીબોક્સમાં પસંદ થયેલ છે. જો JRE એ સક્રિય થયેલ ન હોય તો, પછી JRE 1.4 અથવા પછીનાં ને સક્રિય કરો અને %PRODUCTNAME ને ફરી શરૂ કરો.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="gu" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ને સ્થાપિત કરવા માટે</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="gu" l10n="NEW">લેખક વિન્ડોમાં, <item type="menuitem">Tools - Extension Manager</item> ને પસંદ કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="gu" l10n="NEW">Extension Manager સંવાદમાં , ઉમેરો પર ક્લિક કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="gu" l10n="NEW">@WIKIEXTENSIONFILENAME@.oxt ફાઇલ ને સ્થાપિત કરો, ખોલો પર ક્લિક કરો, અને પછી બંધ પર ક્લિક કરો. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="gu" l10n="NEW">%PRODUCTNAME ને બંધ કરો, અને Quickstarter ને પણ બંધ કરો જો તે સક્રિય હોય તો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="gu" l10n="NEW">સોફ્ટવેર ને ફરી શરી કરો, લખાણ દસ્તાવેજ ને ખોલો, પછી તમારા વિકી સુયોજનોમાં દાખલ થવા માટે <item type="menuitem">Tools - Options - Internet - MediaWiki</item> ને પસંદ કરો. નીચે &quot;To Connect To a Wiki&quot; ને જુઓ.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="gu" level="3" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@ ને દૂર કરવા માટે</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="gu" l10n="NEW">લેખક વિન્ડોમાં, <item type="menuitem">Tools - Extension Manager</item> ને પસંદ કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="gu" l10n="NEW">મારા એક્સટેન્શની આગળ માં પ્લસ સાઇન (+) પર ક્લિક કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="gu" l10n="NEW">એક્સટેન્સન ને પસંદ કરો, દૂર કરવા પર ક્લિક કરો, અને બંધ કરવા પર ક્લિક કરો.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="gu" level="2" l10n="NEW">વિકી ને જોડવા માટે</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="gu" l10n="NEW">નોંધ: %PRODUCTNAME ની અંદર બધા સંબંધી સંવાદો માટે તમારા વપરાશકર્તા નામ અને પાસવર્ડનો સંગ્રહ કરી શકાય છે. પાસવર્ડ એ સુરક્ષિત જગ્યામાં સંગ્રહ થયેલ હશે, જ્યાં પ્રવેશ એ મુખ્ય પાસવર્ડ દ્દારા જાળવી રાખેલ છે. મુખ્ય પાસવર્ડ ને સક્રિય કરવા માટે, <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> ને પસંદ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="gu" l10n="NEW">નોંધ: જો તમે પ્રોક્સી સર્વર ની મદદથી વેબને જોડો તો, <item type="menuitem">Tools - Options - Internet - Proxy</item> માં પ્રોક્સી જાણકારી ને દાખલ કરો, અને સોફ્ટવેર ને ફરી શરૂ કરો.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="gu" l10n="NEW">લેખક દસ્તાવેજ ને ખોલો, અને <item type="menuitem">Tools - Options - Internet - MediaWiki</item> ને પસંદ કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="gu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisettings.xhp">વિકલ્પો</link> સંવાદમાં, ઉમેરવા પર ક્લિક કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="gu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> સંવાદ માં, વિકી માટે ખાતાની જાણકારી ને દાખલ કરો.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="gu" l10n="NEW">URL લખાણ બોક્સ માં, વિકી નાં સરનામાં ને દાખલ કરો કે જે તમે જોડવા માંગો છો.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="gu" l10n="NEW">વેબ બ્રાઉઝર માંથી તમે URL ની નકલ કરી શકો છો અને લખાણબોક્સ માં તેને ચોંટાડી શકો છો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="gu" l10n="NEW">વપરાશકર્તાનામ બોક્સ માં, તમારા વિકી ખાતા માટે તમારા વપરાશકર્તા ID ને દાખલ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="gu" l10n="NEW">જો વિકી નામ વિનાનો લખવાનાં પ્રવેશની પરવાનગી આપે તો, તમે વપરાશકર્તાનામ અને પાસવર્ડ બોક્સો ને ખાલી છોડી શકો છો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="gu" l10n="NEW">પાસવર્ડ બોક્સ માં, તમારા વિકી ખાતા માટે પાસવર્ડ ને દાખલ કરો, પછી બરાબર પર ક્લિક કરો.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="gu" l10n="NEW">વૈકલ્પિક રીતે સત્રો વચ્ચેનાં પાસવર્ડ ને સંગ્રહ કરવા માટે &quot;Save password&quot; ને નિષ્ક્રિય કરો. મુખ્ય પાસવર્ડ એ બધા સંગ્રહ થયેલ પાસવર્ડોને પ્રવેશનું જાળવવા માટે વાપરેલ છે. મુખ્ય પાસવર્ડને સક્રિય કરવા માટે <item type="menuitem">Tools - Options - %PRODUCTNAME - Security</item> ને પસંદ કરો. &quot;Save password&quot; એ ઉપલ્બધ નથી જ્યારે મુખ્ય પાસવર્ડ એ સક્રિય થયેલ ન હોય તો.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="gu" level="2" l10n="NEW">નવા વિકી પાનાં ને બનાવવા માટે</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="gu" l10n="NEW">લેખક દસ્તાવેજ ને ખોલો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="gu" l10n="NEW">વિકી પાનાં ના સમાવિષ્ટો ને લખો. તમે બંધારણ ને વાપરી શકો છો જેવા કે લખાણ બંધારણો, મથાળાઓ, ફુટનોંધો. અને વધારે. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">આધારભૂત બંધારણો ની યાદી</link> ને જુઓ.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="gu" l10n="NEW"><item type="menuitem">ફાઇલ મીડિયાવિકી ને મોકલો</item> તે પસંદ કરો.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="gu" l10n="NEW"><link href="@WIKIEXTENSIONID@/wikisend.xhp">મીડિયાવિકી ને મોકલો</link> સંવાદ માં, તમારા પ્રવેશ માટે સુયોજનો ને સ્પષ્ટ કરો.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="gu" l10n="NEW"><emph>મીડિયાવિકી સર્વર</emph>: વિકી ને પસંદ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="gu" l10n="NEW"><emph>શીર્ષક</emph>: તમારા પાનાંના શીર્ષક ને ટાઇપ કરો. તમારા હાલનાં લખાણ દસ્તાવેજ સાથે પાનાં પર ફરી લખવા માટે અસ્તિત્વ ધરાવતા પાનાં ના શીર્ષક ને ટાઇપ કરો. વિકી પર નવા પાનાં ને બનાવવા માટે નવા શીર્ષક ને ટાઇપ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="gu" l10n="NEW"><emph>સારાંશ</emph>: તમારા પાનાં ની વૈકલ્પિક ટૂંકા સારાંશ ને દાખલ કરો.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="gu" l10n="NEW">
+<emph>This is a minor edit</emph>: Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="gu" l10n="NEW"><emph>વેબ બ્રાઉઝર માં બતાવો</emph>: તમારા સિસ્ટમ વેબ બ્રાઉઝર ને ખોલવા માટે આ બોક્સ પર ક્લિક કરો અને અપલોડ થયેલ વિકી પાનાં ને બતાવો.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="gu" l10n="NEW">મોકલો પર ક્લિક કરો.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

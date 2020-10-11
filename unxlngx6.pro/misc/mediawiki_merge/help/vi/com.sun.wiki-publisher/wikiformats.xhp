@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="vi">Định dạng MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="vi" level="1" l10n="NEW">Định dạng MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="vi" l10n="NEW">Danh sách dưới đây chứa miêu tả chung về những định dạng văn bản mà @WIKIEXTENSIONPRODUCTNAME@ có thể tải lên máy chủ Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="vi" l10n="NEW">Định dạng OpenDocument (tài liệu mở) dùng bởi Soạn Thảo and định dạng MediaWiki hơi khác với nhau. Do đó chỉ không phải tất cả các tính năng chuyển dạng được từ định dạng này sang định dạng khác.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="vi" level="2" l10n="NEW">Tiêu đề</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="vi" l10n="NEW">Áp dụng một kiểu dáng đoạn văn kiểu tiêu đề cho những tiêu đề trong tài liệu Soạn Thảo của bạn. Wiki sẽ hiển thị những kiểu dáng tiêu đề theo cùng một bậc phác thảo, được định dạng tùy theo cơ chế Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="vi" level="2" l10n="NEW">Siêu liên kết</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="vi" l10n="NEW">Ssiêu liên kết OpenDocument sở hữu được chuyển đổi sang liên kết Wiki « bên ngoài ». Vì vậy khả năng liên kết dựng sẵn của OpenDocument chỉ nên được dùng để tạo liên kết chỉ tới địa chỉ bên ngoài Wiki trên Web. Để tạo liên kết chỉ tới địa chỉ khác bên trong miền Wiki, hãy dùng liên kết kiểu Wiki (ngoặc vuông đôi).</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="vi" level="2" l10n="NEW">Danh sách</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="vi" l10n="NEW">Danh sách có thể được xuất một cách tin cậy khi toàn bộ danh sách theo một kiểu dáng danh sách thống nhất. Dùng biểu tượng <emph>Đánh số</emph> hay <emph>Chấm điểm</emph> để tạo một danh sách trong Soạn Thảo. Muốn tạo một danh sách không có chấm điểm hay đấnh số thì dùng lệnh trình đơn <emph>Định dạng &gt; Chấm điểm và Đánh số</emph> để xác định và áp dụng kiểu dáng danh sách thích hợp.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="vi" level="2" l10n="NEW">Đoạn văn</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="vi" level="3" l10n="NEW">Canh lề</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="vi" l10n="NEW">Không nên dùng chức năng canh lề văn bản dứt khoát trong bài Wiki. Tuy nhiên, chức năng canh lề văn bản được hỗ trợ để canh lề văn bản bên trái, ở giữa và bên phải.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="vi" level="3" l10n="NEW">Văn bản Định dạng Sẵn</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="vi" l10n="NEW">Một kiểu dáng đoạn văn có phông chữ có độ rộng cố định được chuyển dạng như la văn bản định dạng sẵn. Văn bản định dạng sẵn được hiển thị trên Wiki với một viền chung quanh.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="vi" level="2" l10n="NEW">Kiểu dáng Ký tự</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="vi" l10n="NEW">Kiểu dáng ký tự làm thay đổi diện mạo một số phần của đoạn văn. Chức năng này hỗ trợ in đậm, nghiêng, đậm/nghiêng, chỉ số trên và chỉ số dưới. Mọi phông chữ có độ rộng cố định đều được chuyển dạng sang kiểu dáng chữ đánh máy Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="vi" level="2" l10n="NEW">Cước chú</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="vi" l10n="NEW">Ghi chú : chức năng chuyển dạng này sử dụng kiểu dáng cước chú mới với thẻ &lt;ref&gt; và &lt;references&gt; mà cần thiết phần mở rộng Cite.php được cài đặt vào phần mềm MediaWiki. Nếu bạn thấy thẻ này theo văn bản bình thường trong kết quả chuyển dạng, yêu cầu quản trị Wiki cài đặt phần mở rộng này.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="vi" level="2" l10n="NEW">Ảnh</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="vi" l10n="NEW">Ảnh không thể được chức năng chuyển dạng xuất ra một tập tin văn bản Wiki riêng lẻ. Tuy nhiên, nếu ảnh đã được tải lên miền Wiki đích (v.d. Wikimedia Commons), thì chức năng chuyển dạng xuất một thẻ ảnh hợp lệ mà bao gồm ảnh đó. Cũng hỗ trợ phụ đề ảnh.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="vi" level="2" l10n="NEW">Bảng</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="vi" l10n="NEW">Bảng đơn giản được hỗ trợ. Tiêu đề bảng được chuyển dạng sang tiêu đề kiểu Wiki tương ứng. Tuy nhiên, định dạng riêng của viền bảng, kích cỡ cột và màu nền đều bị bỏ qua.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="vi" level="3" l10n="NEW">Ô liền</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="vi" l10n="NEW">OpenDocument và đặc biệt OpenOffice.org hỗ trợ bảng chứa các ô liền (ô theo hàng) dạng bảng có bảng lồng nhau. Trái lại, mô hình bảng Wiki là khai báo mỗi ô theo hàng và ô theo cột cho các ô liền như vậy. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="vi" l10n="NEW">Nếu chỉ nối lại một số cột trên cùng một hàng, kết quả của chức năng chuyển dạng rất giống với tài liệu nguồn.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="vi" level="3" l10n="NEW">Viền</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="vi" l10n="NEW">Bất chấp kiểu dáng bảng riêng đối với viền và nền, một bảng luôn được xuất dưới dạng &quot;<emph>prettytable</emph>&quot;. Trong máy Wiki, bảng này xuất hiện với viền đơn giản và tiêu đề in đậm.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="vi" level="2" l10n="NEW">Bảng mã và ký tự đặc biệt</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="vi" l10n="NEW">Bảng mã của kết quả chuyển dạng là cố định: UTF-8 (khuyến khích cho tiếng Việt). Phụ thuộc vào hệ thống, có lẽ UTF-8 không phải là bảng mã mặc định. Không thì các ký tự đặc biệt có thể không hiển thị đẹp khi xem theo thiết lập mặc định. Tuy nhiên, bạn có thể chuyển đổi trình soạn thảo sang bảng mã UTF-8 để sửa chữa trường hợp này. Nếu trình soạn thảo không hỗ trợ chuyển đổi bảng mã, bạn có thể hiển thị kết quả chuyển dạng trong trình duyệt (v.d. Firefox) và chuyển đổi bảng mã sang UTF-8 trong đó. Vì thế bạn có thể cắt và dán kết quả vào chương trình đã chọn.</paragraph>
+</body>
+</helpdocument>

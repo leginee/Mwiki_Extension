@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="lv">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="lv" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>paplašinājumi;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="lv" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="lv" l10n="NEW"><ahelp hid=".">Izmantojot @WIKIEXTENSIONPRODUCTNAME@ jūs varat augšupielādēt pašreizējo Writer teksta dokumentu uz MediaWiki serveri. Pēc augšupielādēšanas, visi Wiki lietotāji varēs izlasīt jūsu dokumentu uz Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="lv" l10n="NEW"><ahelp hid=".">Izvēlieties <item type="menuitem">Fails - Sūtīt - Uz MediaWiki</item>, lai augšupielādētu tekošo Writer dokumentu uz MediaWiki servera.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="lv" level="2" l10n="NEW">Sistēmas prasības</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="lv" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="lv" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="lv" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="lv" l10n="NEW">Wiki konts uz atbalstīta <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> servera</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="lv" level="2" l10n="NEW">Instalē @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="lv" l10n="NEW">Pirms @WIKIEXTENSIONPRODUCTNAME@ instalēšanas, pārliecinieties, ka %PRODUCTNAME izmanto Java Runtime Environment (JRE). Lai pārbaudītu JRE statusu, izvēlieties <item type="menuitem">Rīki - Opcijas - %PRODUCTNAME - Java</item>. Pārliecinieties, ka &quot;Lietot Java runtime environment&quot; ir atzīmēts un, ka Java runtime mape ir izvēlēta lielajā sarakstā. Ja neviens JRE nav aktivizēts, aktivizējiet JRE 1.4 vai jaunāku un pārstartējiet %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="lv" level="3" l10n="NEW">Lai instalētu @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="lv" l10n="NEW">Writer logā, izvēlieties <item type="menuitem">Rīki - Paplašinājumupārvaldnieks</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="lv" l10n="NEW">Paplašinājumu pārvaldnieka dialogā spiediet 'Pievienot'.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="lv" l10n="NEW">Atrodiet @WIKIEXTENSIONFILENAME@.oxt failu, spiediet 'Atvērt', tad spiediet 'Aizvērt'. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="lv" l10n="NEW">Aizveriet %PRODUCTNAME, un aizveriet ātro palaidēju, ja tas ir ieslēgts.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="lv" l10n="NEW">Pārstartējiet lietotni, atveriet teksta dokumentu, tad izvēlieties <item type="menuitem">Rīki - Opcijas - Internets - MediaWiki</item>, lai ievadītusavus Wiki iestatījumus. Apskatiet &quot;Lai savienotos ar Wiki&quot; lejā.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="lv" level="3" l10n="NEW">Lai noņemtu @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="lv" l10n="NEW">Writer logā izvēlieties <item type="menuitem">Rīki - Paplašinājumu pārvaldnieks</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="lv" l10n="NEW">Spiediet plus zīmi (+) 'Mani paplašinājumi' priekšā.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="lv" l10n="NEW">Izvēlieties paplašinājumu, spiediet 'Izņemt' un pēc tam 'Aizvērt'.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="lv" level="2" l10n="NEW">Lai savienotos ar Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="lv" l10n="NEW">Piezīme: jūs varat saglabāt %PRODUCTNAME savu lietotāja vārdu un paroli visiem atbilstošajiem dialogiem. Paroles tiks aizsargātas drošā veidā, kur pieeju uztur galvenā parole. Lai ieslēgtu galveno paroli, izvēlieties <item type="menuitem">Rīki - Opcijas - %PRODUCTNAME - Drošība</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="lv" l10n="NEW">Piezīme: ja pieslēdzaties pie tīmekļa izmantojot starpniekserveri, ievadiet starpnieka informāciju <item type="menuitem">Rīki - Opcijas - Internets - Starpnieks</item>, un pārstartējiet lietotni.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="lv" l10n="NEW">Atveriet Writer dokumentu, un izvēlieties <item type="menuitem">Rīki - Opcijas - Internets - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="lv" l10n="NEW">Dialogā <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opcijas</link>, spiediet 'Pievienot'.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="lv" l10n="NEW">Dialogā <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, ievadiet Wiki konta informāciju.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="lv" l10n="NEW">URL teksta lodziņā ievadiet adresi Wiki, ar kuru vēlaties savienoties.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="lv" l10n="NEW">Jūs varat nokopēt URL no tīmekļa pārlūka un ielīmēt to teksta laukā.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="lv" l10n="NEW">Lietotājvārda lodziņā ievadiet savu Wiki konta lietotāja ID.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="lv" l10n="NEW">Ja Wiki atļauj rakstīt anonīmi, lietotājvārda un paroles lodziņus var atstāt tukšus.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="lv" l10n="NEW">Paroles lodziņā ievadiet savu Wiki konta paroli un spiediet 'Labi',</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="lv" l10n="NEW">Varat ieslēgt &quot;Saglabāt paroli&quot;, lai saglabātu paroli starp sesijām. Tiks izmantota galvenā parole, lai uzturētu pieeju visām saglabātajām parolēm. Izvelieties <item type="menuitem">Rīki - Opcijas - %PRODUCTNAME - Drošība</item>, lai ieslēgtu galveno paroli. &quot;Saglabāt paroli&quot; nav pieejama, kad galvenā parole nav ieslēgta.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="lv" level="2" l10n="NEW">Lai izveidotu jaunu Wiki lapu</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="lv" l10n="NEW">Atvērt teksta dokumentu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="lv" l10n="NEW">Rakstīt Wiki lapas saturu. Jūs varat izmantot formatēšanu, piemēram, teksta formāts, virsraksti, vēres un vēl. <link href="@WIKIEXTENSIONID@/wikiformats.xhp">Atbalstīto formātu saraksts</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="lv" l10n="NEW">Izvēlieties <item type="menuitem">Fails - Sūtīt - Uz MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="lv" l10n="NEW">Dialogā <link href="@WIKIEXTENSIONID@/wikisend.xhp">Sūtīt uz MediaWiki</link>, norādiet sava ieraksta iestatījumus.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="lv" l10n="NEW"><emph>MediaWiki serveris</emph>: izvēlieties Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="lv" l10n="NEW"><emph>Virsraksts</emph>: ievadiet savas lapas virsrakstu. Ievadiet esošas lapas virsrakstu, lai to pārrakstītu ar savu teksta dokumentu. Ievadiet jaunu virsrakstu, lai uz Wiki izveidotu jaunu lapu.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="lv" l10n="NEW"><emph>Kopsavilkums</emph>: varat ievadīt īsu kopsavilkumu par lapu.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="lv" l10n="NEW"><emph>Šīs ir mazsvarīgas izmaiņas</emph>: atzīmējiet šo kasti, lai atzīmētu augšupielādēto lapu ka maznozīmīgu labojumu jau esošajai lapai ar šād nosaukumu.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="lv" l10n="NEW"><emph>Rādīt pārlūkā</emph>: atzīmējiet šo lodziņu, lai atvērtu savas sistēmas tīmekļa pārlūku un parādītu augšupielādēto Wiki lapu.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="lv" l10n="NEW">Spiediet 'Sūtīt'.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

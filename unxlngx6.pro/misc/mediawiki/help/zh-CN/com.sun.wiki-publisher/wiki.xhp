@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="zh-CN">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="zh-CN" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="zh-CN" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="zh-CN" l10n="NEW"><ahelp hid=".">使用 Wiki Publisher，您可以将当前的 Writer 文本文档上载至 MediaWiki 服务器。上载之后，所有 Wiki 用户都可以在 Wiki 中阅读您的文档。</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="zh-CN" l10n="NEW"><ahelp hid=".">选择<item type="menuitem">文件 - 发送 - 发送至 MediaWiki</item> 可将当前的 Writer 文档上载至 MediaWiki 服务器。</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="zh-CN" level="2" l10n="NEW">系统要求</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="zh-CN" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="zh-CN" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="zh-CN" l10n="NEW">Java 运行时环境 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="zh-CN" l10n="NEW">受支持的 <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> 服务器中的 Wiki 帐户</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="zh-CN" level="2" l10n="NEW">正在安装 Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="zh-CN" l10n="NEW">在您安装 Wiki Publisher 之前, 确认 %PRODUCTNAME 使用 Java 运行时环境(JRE)。要检查 JRE 的状态，请选择 <item type="menuitem">工具 - 选项 - %PRODUCTNAME - Java</item>。确保已选中“使用 Java 运行时环境”并在列表框中选择了 Java 运行时文件夹。如果未激活任何 JRE，请激活 JRE 1.4 或更高版本，然后重新启动 %PRODUCTNAME。</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="zh-CN" level="3" l10n="NEW">安装 Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="zh-CN" l10n="NEW">在 Writer 窗口中，选择<item type="menuitem">工具 - 扩展管理器</item>。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="zh-CN" l10n="NEW">在“扩展管理器”对话框中，单击“添加”。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="zh-CN" l10n="NEW">找到 wiki-publisher.oxt 文件，单击“打开”，然后单击“关闭”。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="zh-CN" l10n="NEW">关闭 %PRODUCTNAME, 如果已启动同时关闭快速启动。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="zh-CN" l10n="NEW">重新启动软件，打开文本文档，然后选择<item type="menuitem">工具 - 选项 - Internet - MediaWiki</item> 以输入您的 Wiki 设置。请参见下面的“连接至 Wiki”。</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="zh-CN" level="3" l10n="NEW">删除 Wiki Publisher</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="zh-CN" l10n="NEW">在 Writer 窗口中，选择<item type="menuitem">工具 - 扩展管理器</item>。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="zh-CN" l10n="NEW">单击“我的扩展”前面的加号 (+)。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="zh-CN" l10n="NEW">选择扩展，单击“删除”，然后单击“关闭”。</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="zh-CN" level="2" l10n="NEW">连接至 Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="zh-CN" l10n="NEW">注：您可以在%PRODUCTNAME 内所有相应的对话框中储存你的用户名和密码。密码将以一种安全的方式储存，并通过一个主密码来进行访问控制。启用主密码，选择<item type="menuitem">工具 - 选项 - %PRODUCTNAME - 安全</item>。</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="zh-CN" l10n="NEW">注意：如果您使用代理服务器连接至 Web，请在<item type="menuitem">工具 - 选项 - Internet - 代理</item>中输入代理信息，然后重新启动软件。</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="zh-CN" l10n="NEW">打开 Writer 文档，然后选择<item type="menuitem">工具 - 选项 - Internet - MediaWiki</item>。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="zh-CN" l10n="NEW">在<link href="com.sun.wiki-publisher/wikisettings.xhp">选项</link>对话框中，单击“添加”。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="zh-CN" l10n="NEW">在 <link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link> 对话框中，输入 Wiki 的帐户信息。</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="zh-CN" l10n="NEW">在 &quot;URL&quot; 文本框中，输入要连接的 Wiki 地址。</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="zh-CN" l10n="NEW">您可以从 Web 浏览器中复制 URL 并将其粘贴到文本框中。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="zh-CN" l10n="NEW">在“用户名”框中，输入您的 Wiki 帐户的用户 ID。</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="zh-CN" l10n="NEW">如果 Wiki 允许匿名写入访问，您可以将“用户名”和“密码”框保留为空。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="zh-CN" l10n="NEW">在“密码”框中，输入您的 Wiki 帐户的密码，然后单击“确定”。</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="zh-CN" l10n="NEW">可选择启用“保存密码”以保存会话间的密码。主密码用来保持对所有已保存密码的访问。选择 <item type="menuitem">工具 -选项  - %PRODUCTNAME - 安全性</item>启用主密码。当主密码没有启用时，“保存密码”不可用。</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="zh-CN" level="2" l10n="NEW">创建新的 Wiki 页面</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="zh-CN" l10n="NEW">打开 Writer 文档。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="zh-CN" l10n="NEW">写入 Wiki 页面的内容。您可以使用如下格式：文本格式、标题和脚注等。请参见<link href="com.sun.wiki-publisher/wikiformats.xhp">支持的格式列表</link>。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="zh-CN" l10n="NEW">选择<item type="menuitem">文件 - 发送 - 发送至 MediaWiki</item>。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="zh-CN" l10n="NEW">在<link href="com.sun.wiki-publisher/wikisend.xhp">发送至 MediaWiki</link> 对话框中，指定条目的设置。</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="zh-CN" l10n="NEW"><emph>MediaWiki 服务器</emph>：选择 Wiki。</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="zh-CN" l10n="NEW"><emph>标题</emph>：键入页面标题。键入现有页面的标题可使用当前文本文档覆盖该页面。键入新标题可创建新的 Wiki 页面。</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="zh-CN" l10n="NEW"><emph>摘要</emph>：输入页面的可选简短摘要。</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="zh-CN" l10n="NEW"><emph>这是次要编辑</emph>：选中此框可将上载的页面标记为现有同标题页面的次要编辑。</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="zh-CN" l10n="NEW"><emph>在 Web 浏览器中显示</emph>：选中此框可打开您的系统 Web 浏览器，并显示已上载的 Wiki 页面。</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="zh-CN" l10n="NEW">单击“发送”。</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

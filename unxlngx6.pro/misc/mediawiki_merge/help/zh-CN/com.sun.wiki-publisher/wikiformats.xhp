@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="zh-CN">MediaWiki 格式</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="zh-CN" level="1" l10n="NEW">MediaWiki 格式</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="zh-CN" l10n="NEW">以下列表是 @WIKIEXTENSIONPRODUCTNAME@ 可上载至 Wiki 服务器的文本格式概览。</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="zh-CN" l10n="NEW">Writer 使用的 OpenDocument 格式与 WikiMedia 格式差别很大。只有一部分功能可以从一种格式变换为另一种格式。</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="zh-CN" level="2" l10n="NEW">标题</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="zh-CN" l10n="NEW">为 Writer 文档中的标题应用标题段落样式。Wiki 将显示相同大纲级的标题样式，并按照 Wiki 引擎定义设置格式。</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="zh-CN" level="2" l10n="NEW">超链接</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="zh-CN" l10n="NEW">本机 OpenDocument 超链接会变换为“外部”Wiki 链接。因此，OpenDocument 的内置链接工具应仅用于创建指向 Wiki Web 之外的其他站点的链接。要创建指向相同 Wiki 域内其他主题的 Wiki 链接，请使用 Wiki 链接。</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="zh-CN" level="2" l10n="NEW">列表</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="zh-CN" l10n="NEW">整个列表使用一致的列表样式时即可放心导出列表。使用“编号”或“项目符号”图标可在 Writer 中生成列表。如果您需要不带有编号或项目符号的列表，请使用“格式”-“项目符号和编号”来定义并应用各自的列表样式。</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="zh-CN" level="2" l10n="NEW">段落</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="zh-CN" level="3" l10n="NEW">对齐</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="zh-CN" l10n="NEW">Wiki 文章中不应使用显式文本对齐。但是，支持文本左对齐、居中和右对齐。</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="zh-CN" level="3" l10n="NEW">预格式化文本</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="zh-CN" l10n="NEW">具有固定宽度字体的段落样式会变换为预格式化文本。预格式化文本在 Wiki 中显示为以边框包围的文本。</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="zh-CN" level="2" l10n="NEW">字符样式</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="zh-CN" l10n="NEW">字符样式可修改段落某些部分的外观。支持粗体、斜体、粗斜体、下标和上标变换。所有固定宽度的字体均会变换为 Wiki 打印样式。</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="zh-CN" level="2" l10n="NEW">脚注</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="zh-CN" l10n="NEW">注意：变换时使用脚注的新样式，新样式具有 &lt;ref&gt; 和 &lt;references&gt; 标记，这需要在 MediaWiki 中安装 Cite.php 扩展。如果这些标记在变换结果中作为纯文本出现，请要求 Wiki 管理员安装此扩展。</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="zh-CN" level="2" l10n="NEW">图像</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="zh-CN" l10n="NEW">无法通过生成单个 Wiki 文本文件的变换导出图像。但是，如果图像已上载至目标 Wiki 域（例如 WikiMedia Commons），则变换会生成有效的图像标记（标记中包括图像）。此外，还支持图像标题。</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="zh-CN" level="2" l10n="NEW">表格</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="zh-CN" l10n="NEW">很好地支持简单表格。表格标题转换为相应的 Wiki 样式表格标题。但是，会忽略表格边框、列大小和背景颜色的自定义格式。</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="zh-CN" level="3" l10n="NEW">组合单元格</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="zh-CN" l10n="NEW">OpenDocument（尤其是 OpenOffice.org）表示具有跨行组合单元格的表格，如同在表格中嵌套表格一样。而 Wiki 模型表格将声明此类组合单元格的列和行跨度。</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="zh-CN" l10n="NEW">如果只组合同一行的各列，变换的结果将与原文档非常相似。</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="zh-CN" level="3" l10n="NEW">边框</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="zh-CN" l10n="NEW">无论边框和背景的自定义表格样式如何，都会始终将表格导出为<emph>“精美表格”</emph>，它在 Wiki 引擎中呈现为简单边框和粗体标题。</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="zh-CN" level="2" l10n="NEW">字符集和特殊字符</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="zh-CN" l10n="NEW">变换结果的字符集固定为 UTF-8。这可能不是默认字符集，具体取决于您的系统。这可能会导致在使用默认设置查看时“特殊字符”显示已被损坏。但是，您可以将编辑器切换至 UTF-8 编码来修复此问题。如果您的编辑器不支持编码切换，可在 Firefox 浏览器中显示变换结果并将编码切换为 UTF-8。此时，您便可以将变换结果剪切并粘贴至所选的程序。</paragraph>
+</body>
+</helpdocument>

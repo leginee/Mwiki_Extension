@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sk">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="sk" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="sk" l10n="NEW">Použite dialógové okno MediaWiki pre pridanie alebo úpravu vašich nastavení MediaWiki.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="sk" l10n="NEW"><ahelp hid="." visibility="hidden">Zdajte URL servera MediaWiki, začínajúcu s http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="sk" l10n="NEW"><ahelp hid="." visibility="hidden">Zadajte vaše používateľské meno pre server MediaWiki. Nechajte pole prázdne v prípade anonymného prístupu.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="sk" l10n="NEW"><ahelp hid="." visibility="hidden">Zadajte vaše heslo pre server MediaWiki. Nechajte pole prázdne v prípade anonymného prístupu.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="sk" l10n="NEW"><ahelp hid="." visibility="hidden">Zapnite ukladanie hesla medzi sedeniami. Hlavné heslo musí byť zapnuté. Pozrite sa na <item type="menuitem">Nástroje - Možnosti - %PRODUCTNAME - Bezpečnosť</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="sk" l10n="NEW">Zdajte internetovú adresu servera Wiki vo formáte ako http://wiki.services.openoffice.org/wiki alebo skopírujte URL z webového prehliadača.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="sk" l10n="NEW">Ak Wiki dovoľuje anonymný prístup, môžete nechať textové polia účtu prázdne. V opačnom prípade zadajte vaše používateľské meno a heslo.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="sk" l10n="NEW">Ak ste zapli požívanie hlavného hesla na záložke Bezpečnosť v dialógovom okne Nástroje - Možnosti - %PRODUCTNAME, môže program ukladať vaše heslá a  automaticky vkladať dáta kde to bude potrebné Pre ukladanie vášho hesla zaškrtnite políčko &quot;Uložiť heslo&quot;.</paragraph>
+</body>
+</helpdocument>

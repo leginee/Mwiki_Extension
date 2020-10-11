@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="hi">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="hi" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="hi" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="hi" l10n="NEW"><ahelp hid=".">Wiki Publisherका उपयोग करके आप अपने वर्तमान लेखन पाठ दस्तावेज़ को एक मीडियाविकि सर्वर के लिए अभिभारित कर सकते हैं। अभिभारित करने के बाद, सभी विकी उपयोगकर्ता विकी पर आपके दस्तावेज़ को पढ़ सकते हैं।</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="hi" l10n="NEW"><ahelp hid=".">चुनें <item type="menuitem">फाइल - भेजें - मीडियाविकी को</item> वर्तमान लिखित दस्तावेज को मीडियाविकी सर्वर पर अभिभारित करने के लिए।</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="hi" level="2" l10n="NEW">तंत्र जरूरत</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="hi" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="hi" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="hi" l10n="NEW">जावा कार्यसमय वातावरण 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="hi" l10n="NEW"><link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> सर्वर पर मीडिया विकी</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="hi" level="2" l10n="NEW">Wiki Publisher संस्थापित कर रहा है</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="hi" l10n="NEW">Wiki Publisher संस्थापित करने के पहले, सुनिश्चित करें कि %PRODUCTNAME एक जावा कार्यसमय वातावरण (JRE) का प्रयोग करता है। JRE की स्थिति जाँचने के लिए, <item type="menuitem">औज़ार - विकल्प - %PRODUCTNAME - जावा</item> चुनें। सुनिश्चित करें कि &quot;जावा कार्यसमय वातावरण इस्तेमाल करें&quot; चिह्नित है और कि जावा कार्यसमय फ़ोल्डर को बड़ी सूचीपेटी में चुना जाता है। यदि कोई JRE सक्रिय नहीं किया गया है, तब एक JRE 1.4 या उत्तरवर्ती को सक्रिय करें और %PRODUCTNAME फिर आरंभ करें।</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="hi" level="3" l10n="NEW">Wiki Publisher को संस्थापित करने के लिए</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="hi" l10n="NEW">राइटर विंडो में, <item type="menuitem">औज़ार - विस्तार प्रबंधक</item> चुनें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="hi" l10n="NEW">विस्तार प्रबंधक संवाद में, जोड़ें क्लिक करें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="hi" l10n="NEW">wiki-publisher.oxt फ़ाइल पता करें, खोलें क्लिक करें, और फिर बंद करें क्लिक करें। </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="hi" l10n="NEW">%PRODUCTNAME बंद करें, और द्रुत-आरंभक भी बंद करें अगर सक्रिय है।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="hi" l10n="NEW">सॉफ्टवेयर फिर आरंभ करें, किसी पाठ दस्तावेज़ को खोलें, तब <item type="menuitem">औज़ार - विकल्प - इंटरनेट - मीडियाविकी</item> को अपनी विकी विन्यास प्रविष्ट करने के लिए चुनें। &quot;विकी से संयोजित करने के लिए&quot; को नीचे देखें।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="hi" level="3" l10n="NEW">Wiki Publisher को हटाने के लिए</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="hi" l10n="NEW">राइटर विंडो में, <item type="menuitem">औज़ार - विस्तार प्रबंधक</item> चुनें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="hi" l10n="NEW">मेरे विस्तार के सामने (+) चिह्न क्लिक करें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="hi" l10n="NEW">विस्तार चुनें, हटाएँ क्लिक करें, और फिर बंद करें क्लिक करें।</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="hi" level="2" l10n="NEW">विकी से संयोजित करें</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="hi" l10n="NEW">नोट: आप %PRODUCTNAME के अंदर सभी संबंधित संवाद के लिए उपयोक्तानाम व कूटशब्द जमा कर सकते हैं। कूटशब्द को सुरक्षित तरीके से संग्रहित किया जाएगा, जहाँ अभिगम्य को मुख्य कूटशब्द के द्वारा बनाए रखा जाता है। किसी मुख्य कूटशब्द को सक्रिय करने के लिए, <item type="menuitem">औज़ार - विकल्प - %PRODUCTNAME - सुरक्षा</item> चुनें।</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="hi" l10n="NEW">नोट: यदि आप परोक्ष सर्वर के प्रयोग से वेब से संयोजित होते हैं, <item type="menuitem">औज़ार - विकल्प - इंटरनेट - परोक्ष</item> में परोक्ष सूचना प्रविष्ट करें, और साफ्टवेयर फिर आरंभ करें।</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="hi" l10n="NEW">राइटर दस्तावेज़ खोलें, <item type="menuitem">औज़ार - विकल्प - इंटरनेट - मीडियाविकी</item> चुनें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="hi" l10n="NEW"><link href="com.sun.wiki-publisher/wikisettings.xhp">विकल्प</link> संवाद में, जोड़ें क्लिक करें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="hi" l10n="NEW"><link href="com.sun.wiki-publisher/wikiaccount.xhp">MediaWiki</link> संवाद में, विकी के लिए खाता सूचना प्रविष्ट करें।</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="hi" l10n="NEW">यूआरएल पाठ बॉक्स में, उस विकी का पता प्रविष्ट करें जिससे आप संयोजन करना चाहते हैं।</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="hi" l10n="NEW">आप किसी वेब ब्राउज़र से URL प्रतिलिपि बनाकर पाठपेटी में चिपका सकते हैं।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="hi" l10n="NEW">उपयोक्तानाम बॉक्स में, अपना उपयोक्ता ID अपने विकी खाता के लिए प्रविष्ट करें।</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="hi" l10n="NEW">विकी में बेनामी लेखन अभिगम्य दें, आप उपयोक्तानाम और कूटशब्द बॉक्स को रिक्त छोड़ सकते हैं।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="hi" l10n="NEW">कूटशब्द बॉक्स में, अपने विकी खाते के लिए कूटशब्द प्रविष्ट करें, फिर ठीक पर क्लिक करें।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="hi" l10n="NEW">वैकल्पिक रूप से &quot;कूटशब्द सहेजें&quot; को सत्रों के बीच कूटशब्द सहेजने के लिए सक्रिय करें। एक मुख्य कूटशब्द को सभी सहेजे कूटशब्द में अभिगम्यता बनाए रखने के लिए प्रयोग किया जाता है। <item type="menuitem">औज़ार - विकल्प - %PRODUCTNAME - सुरक्षा</item> को मुख्य कूटशब्द सक्रिय करने के लिए चुनें। &quot;कूटशब्द सहेजें&quot; अनुपलब्ध है जबतक मुख्य कूटशब्द सक्रिय नहीं होता है।</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="hi" level="2" l10n="NEW">नया विकी पृष्ठ बनाने के लिए</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="hi" l10n="NEW">राइटर दस्तावेज़ खोलें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="hi" l10n="NEW">विकी पृष्ठ की सामग्री लिखें। आप पाठ प्रारूप, शीर्षक, पादटीका, और बहुत कुछ रूप में प्रारूपण का प्रयोग कर सकते हैं। <link href="com.sun.wiki-publisher/wikiformats.xhp">समर्थित प्रारूप की सूची</link> को देखें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="hi" l10n="NEW"><item type="menuitem">फ़ाइल - भेजे - मीडियाविकी में</item> चुनें।</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="hi" l10n="NEW"><link href="com.sun.wiki-publisher/wikisend.xhp">मीडियाविकी में भेजें</link> संवाद में, अपनी प्रविष्टि के लिए विन्यास निर्दिष्ट करें।</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="hi" l10n="NEW"><emph>मीडियाविकी सर्वर</emph>: विकी चुनें।</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="hi" l10n="NEW"><emph>शीर्षक</emph>: आपके पृष्ठ के लिए शीर्षक लिखें। अपने मौजूदा पाठ दस्तावेज़ से पृष्ठ अधिलेखित करने के लिए किसी मौजूदा पृष्ठ का शीर्षक लिखें। विकी पर एक नया पृष्ठ बनाने के लिए एक नया शीर्षक लिखें।</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="hi" l10n="NEW"><emph>सारांश</emph>: अपने पृष्ठ के लिए एक वैकल्पिक संक्षिप्त सारांश प्रविष्ट करें।</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="hi" l10n="NEW"><emph>यह एक छोटा बदलाव है</emph>: इसी शीर्षक के साथ पहले से ही विद्यमान पृष्ठ का एक छोटा बदलाव के रूप में अभिभारित पृष्ठ चिह्नित करने के लिए इस बक्से को चिह्नित करें।</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="hi" l10n="NEW"><emph>वेब ब्राउजर में दिखाएँ</emph>: अपने तंत्र वेब ब्राउज़र खोलने के लिए और अभिभारित विकी पृष्ठ दिखाने के लिए इस बक्से को चिह्नित करें।</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="hi" l10n="NEW">भेजें पर क्लिक करें।</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sa-IN">मीडिया विकि  </title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="sa-IN" level="1" l10n="NEW">मीडिया विकि  </paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="sa-IN" l10n="NEW">तव मीडियाविकिउपयोजकसंज्ञानिर्धारणानि सम्पादितुम् अथवा सङ्कलयितुं मीडियाविकिसंवाम् उपयोजय।</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="sa-IN" l10n="NEW"><ahelp hid="." visibility="hidden">Enter the URL of a MediaWiki server, starting with http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;मीडियाविकिसर्वर्मधये तव प्रयोक्तृनाम निवेशय।अज्ञातप्रवेशनाय रिक्तं त्यज।&lt;/aसहायम्&gt;</paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;मीडियाविकिसर्वर्मध्ये तव गुह्यपदं निवेशय।अज्ञातप्रवेशाय रिक्तं त्यज।&lt;/aसहायम्&gt;</paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="sa-IN" l10n="NEW">&lt;aसहायम् आच्छादितम्=&quot;.&quot; दृश्यता=&quot;आच्छादितम्&quot;&gt;&gt;संसदोः अन्तरे तव गुह्यपदं सङ्ग्रहितुं प्रकारय।मु्खयगुह्यपदं प्रकारितव्यम्।,&lt;वस्तुवर्गः=&quot;मेनुवस्तु&quot;&gt;टूल्स् -विकल्पाः - स्टार् ओफीस्/ओपेन ओफीस्.org - सुरक्षा&lt;/वस्तु&gt;।&lt;/aसहायम्&gt;</paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="sa-IN" l10n="NEW"> http://विकि.सेवाः.ओपेन् ओफीस्.org/विकि इव रचनायां विकि सर्वर् अस्य इण्टेर्नेट्पत्रसङ्केतं निवेशय अथवा वेब् ब्रौसर्तः URL कापी कुरु।</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="sa-IN" l10n="NEW">विकि अज्ञातप्रवेशम् अनुमोदति चेत्, त्वम् उपयोजकसंज्ञाविषयपेटिकाः रिक्ताः त्यक्तुं शक्णोषि।अन्यथा तव प्रयोक्तृनाम गुहायपदं च निवेशय।</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="sa-IN" l10n="NEW">यदि त्वं टूल्स् - विकल्पाः - स्टार् ओफीस्/ओपेन् ओफीस्.org संवादस्य सुरक्षाटैब्पृष्ठमध्ये मु्खयगुह्यपदलक्षणं प्रकारयति,तर्हि सोफ्ट्वेर् तव गुह्यपदं सञ्चयितुं शक्नोषि तथा स्वचलितप्रकारेण आवश्यकस्थाने डाटा समावेशयति।तव गुह्यपदं सञ्चयितुं &quot;गुह्यपदसञ्चयन&quot; परीक्षापेटिकां प्रकारय।</paragraph>
+</body>
+</helpdocument>

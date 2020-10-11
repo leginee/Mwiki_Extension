@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="th">รูปแบบ MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="th" level="1" l10n="NEW">รูปแบบ MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="th" l10n="NEW">รายการต่อไปนี้ให้ภาพรวมของรูปแบบข้อความที่ @WIKIEXTENSIONPRODUCTNAME@ สามารถอัพโหลดไปยัง Wiki เซิร์ฟเวอร์</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="th" l10n="NEW">รูปแบบ OpenDocument ที่ Writer ใช้นั้นค่อนข้างแตกต่างจากรูปแบบ WikiMedia ดังนั้นจึงมีคุณลักษณะบางส่วนเท่านั้นที่สามารถแปลงจากรูปแบบหนึ่งเป็นอีกรูปแบบหนึ่งได้</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="th" level="2" l10n="NEW">หัวข้อ</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="th" l10n="NEW">ใช้สไตล์ย่อหน้าหัวข้อกับหัวข้อในเอกสาร Writer ของคุณ Wiki จะแสดงสไตล์หัวข้อที่มีระดับเค้าโครง (outline) เดียวกัน โดยจัดรูปแบบตามที่กำหนดโดยเครื่อง Wiki เอง</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="th" level="2" l10n="NEW">การเชื่อมโยงหลายมิติ (Hyperlinks)</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="th" l10n="NEW">การเชื่อมโยงหลายมิติ (ไฮเพอร์ลิงก์) ในรูปแบบภายในของ OpenDocument จะถูกแปลงเป็นการเชื่อมโยง &quot;ภายนอก&quot; ของวิกิ ดังนั้นเครื่องมือสร้างการเชื่อมโยงที่มากับ OpenDocument ควรใช้ในการสร้างการเชื่อมโยงที่ชี้ไปยังเว็บไซต์อื่นภายนอกเว็บของวิกิเองเท่านั้น ในการสร้างการเชื่อมโยงวิกิที่ชี้ไปยังวัตถุอื่นที่อยู่ในโดเมนวิกิเดียวกัน ให้ใช้การเชื่อมโยงวิกิ</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="th" level="2" l10n="NEW">รายการ</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="th" l10n="NEW">รายการนั้นจะสามารถส่งออกเป็นรูปแบบอื่นได้อย่างน่าเชื่อถือเมื่อทั้งรายการใช้สไตล์ของรายการที่คงเส้นคงวา ใช้ไอคอนเลขลำดับ (Numbering) หรือจุดนำ (Bullets) เพือสร้างรายการใน Writer ถ้าคุณต้องการสร้างรายการที่ไม่มีเลขลำดับหรือจุดนำ ให้ใช้ รูปแบบ - จุดนำและเลขลำดับ เพื่อกำหนดและใช้งานสไตล์ที่ต้องการ</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="th" level="2" l10n="NEW">ย่อหน้า</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="th" level="3" l10n="NEW">การปรับแนว</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="th" l10n="NEW">ไม่ควรใช้การปรับแนวข้อความโดยชัดแจ้งในบทความ Wiki อย่างไรก็ดี ก็ยังสนับสนุนการปรับแนวข้อความสำหรับการปรับแนวชิดซ้าย แนวกลาง และชิดขวา</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="th" level="3" l10n="NEW">ข้อความที่จัดรูปแบบไว้ล่วงหน้า</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="th" l10n="NEW">สไตล์ของย่อหน้าที่มีตัวอักขระความกว้างคงที่จะถูกแปลงเป็นข้อความที่จัดรูปแบบไว้ล่วงหน้า Wiki แสดงข้อความที่จัดรูปแบบไว้ล่วงหน้าโดยมีกรอบล้อมรอบข้อความ</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="th" level="2" l10n="NEW">รูปแบบอักขระ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="th" l10n="NEW">รูปแบบอักขระจะเปลี่ยนลักษณะที่ปรากฏของบางส่วนของย่อหน้า การแปลงรูปแบบสนับสนุนการทำตัวอักษรหน้า ตัวเอียง ตัวห้อย และตัวยก ตัวอักขระความกว้างคงที่จะถูกแปลงเป็นสไตล์ตัวพิมพ์ดีดของวิกิ</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="th" level="2" l10n="NEW">เชิงอรรถ</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="th" l10n="NEW">หมายเหตุ: การแปลงใช้สไตล์ของเชิงอรรถใหม่ที่มีแท็ก &lt;ref&gt; กับ &lt;reference&gt; ซึ่งจำเป็นต้องมีส่วนขยาย Cite.php ติดตั้งเข้าไปใน MediaWiki ถ้ามีแท็กเหล่านั้นเกิดขึ้นเป็นข้อความธรรมดา (plain text) ในผลการแปลง ให้สอบถามผู้ดูแลระบบ Wiki ให้ติดตั้งโปรแกรมส่วนขยายดังกล่าว</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="th" level="2" l10n="NEW">ภาพ</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="th" l10n="NEW">รูปภาพไม่สามารถส่งออกด้วยการแปลงที่สร้างเป็นไฟล์ข้อความวิกิเพียงไฟล์เดียว อย่างไรก็ดี หากภาพนั้นได้มีการอัพโหลดไปยังโดเมนวิกิเป้าหมายแล้ว (ตัวอย่างเช่น WikiMedia Commons), การแปลงจะสร้างแท็กของรูปภาพที่ถูกต้องรวมถึงรูปภาพเองด้วย คำบรรยายภาพก็ได้รับการสนับสนุนด้วย</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="th" level="2" l10n="NEW">ตาราง</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="th" l10n="NEW">ตารางที่ไม่ซับซ้อนได้รับการสนับสนุนเป็นอย่างดี หัวตารางจะถูกแปลงไปเป็นหัวตารางในสไตล์ของวิกิที่สอดคล้องกัน อย่างไรก็ตาม การจัดรูปแบบโดยผู้ใช้ของเส้นขอบตาราง ขนาดคอลัมน์และสีพื้นหลังจะถูกละเลย</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="th" level="3" l10n="NEW">เซลล์ที่ผสานกัน</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="th" l10n="NEW">OpenDocument และโดยเฉพาะ OpenOffice.org แสดงตารางที่่มีเซลล์ผสานกันข้ามแถวเป็นตารางที่มีตารางซ้อนอยู่ภายใน ในทางตรงกันข้าม ตารางในแบบของวิกิจะประกาศช่วงคอลัมน์และแถวของเซลล์ที่ผสานกันนั้น</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="th" l10n="NEW">ถ้าเฉพาะคอลัมน์ของแถวเดียวกันเท่านั้นที่ผสานกัน ผลของการแปลงจะได้คล้ายกับเอกสารต้นทางเป็นอย่างดี</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="th" level="3" l10n="NEW">ขอบ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="th" l10n="NEW">โดยไม่สนใจสไตล์ที่ผู้ใช้กำหนดสำหรับเส้นขอบและสีพื้นหลัง ตารางจะถูกส่งออกเป็น &quot;<emph>prettytable&quot;</emph>, เสมอ ซึ่งเครื่องจักรวิกิจะแสดงด้วยเส้นขอบธรรมดาและหัวตารางตัวหนา</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="th" level="2" l10n="NEW">ชุดอักขระ (Charset) และอักขระพิเศษ</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="th" l10n="NEW">ชุดอักขระของผลการแปลงถูกกำหนดให้เป็น UTF-8 ซึ่งในระบบของคุณ UTF-8 อาจไม่ใช่ชุดอักขระโดยปริยาย นี่อาจทำให้ &quot;อักขระพิเศษ&quot; เพี้ยนไปเมื่อดูจากการตั้งค่าโดยปริยาย แต่คุณอาจให้โปรแกรมแก้ไขข้อความของคุณเปลี่ยนไปใช้การเข้ารหัสอักขระแบบ UTF-8 เพื่อแก้ไขปัญหานี้ ถ้าโปรแกรมแก้ไขข้อความของคุณไม่สนับสนุนการเปลี่ยนการเข้ารหัสตัวอักษร คุณอาจแสดงผลของการแปลงในเบราเซอร์ Firefox แล้วเปลี่ยนการเข้ารหัสเป็น UTF-8 ในนั้น ทีนี้คุณก็จะสามารถคัดลอกหรือตัดข้อความผลการแปลงแล้วนำไปวางในโปรแกรมของคุณ</paragraph>
+</body>
+</helpdocument>

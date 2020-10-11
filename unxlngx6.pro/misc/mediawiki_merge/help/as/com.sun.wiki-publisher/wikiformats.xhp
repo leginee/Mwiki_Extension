@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="as">MediaWiki ৰ আকৃতি</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="as" level="1" l10n="NEW">MediaWiki ৰ আকৃতি</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="as" l10n="NEW">তলৰ তালিকাই লিপিৰ আকৃতিৰ তালিকা দিয়ে যি@WIKIEXTENSIONPRODUCTNAME@ এ ৱিকি সেৱকলৈ আপ-ল'ড কৰিব ।</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="as" l10n="NEW">Writer আৰু WikiMedia আকৃতিয়ে ব্যৱহাৰ কৰা OpenDocument  আকৃতি বেলেগ । এটা আকৃতিৰ পৰা অন্য এটালৈ অকল ইয়াৰ এটা উপসমষ্টিহে সলনি কৰিব পাৰি ।</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="as" level="2" l10n="NEW">Headings</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="as" l10n="NEW">আপোনাৰ Writer আলেখ্যনত এটা হেডিং পেৰেগ্ৰাফ ধৰণ লগাওক । ৱিকিৰ কলঘৰে সংজ্ঞা দিয়া আকৃতিৰ মতে, ৱিকিয়ে একে আউটলাইন স্তৰৰ হেডিং ধৰণ দেখুৱাব ।</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="as" level="2" l10n="NEW">Hyperlinks</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="as" l10n="NEW">Native OpenDocument hyperlink ক &quot;বাহিৰৰ&quot; ৱিকি সংযোগলৈ সলনি কৰা হয় । সেইকাৰণে, OpenDocument ৰ ভিতৰুৱা সংযোগব্যৱস্থাক অকল ৱিকি ৱেবৰ বাহিৰৰ সংযোগৰ বাবে ব্যৱহাৰ কৰিব লাগে । একেই ৱিকি ডোমেইনৰ অন্য বিষয়লৈ ৱিকি সংযোগ সৃষ্টি কৰিবলৈ, ৱিকি সংযোগ ব্যৱহাৰ কৰক ।</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="as" level="2" l10n="NEW">তালিকা</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="as" l10n="NEW">লিস্টক ৰপ্তানি কৰিব পাৰি যেতিয়া সম্পূৰ্ণ লিস্টে একে ধৰণৰ লিস্টৰ ধৰণ ব্যৱহাৰ কৰে । Numbering বা Bullets আইকণ ব্যৱহাৰ কৰক Writerত লিস্ট সৃষ্টি কৰিবলৈ । যদি numbering বা bullets নথকা লিস্ট লাগে, Format - Bullets আৰু Numbering ব্যৱহাৰ কৰক লিস্টৰ ধৰণক সংজ্ঞা দিয়ক আৰু প্ৰয়োগ কৰক ।</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="as" level="2" l10n="NEW">Paragraphs</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="as" level="3" l10n="NEW">শাৰীকৰণ</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="as" l10n="NEW">ৱিকি প্ৰবন্ধত Explicit text alignment ব্যৱহাৰ কৰিব নালাগে । তথাপিও,বাওঁফালৰ,মাজৰ, আৰু সোঁফালৰ শাৰীকৰণৰ কাৰণে text alignment ৰ সমৰ্থন কৰা হয় ।</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="as" level="3" l10n="NEW">Pre-formatted text</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="as" l10n="NEW">fixed-width আখৰ থকা পেৰেগ্ৰাফৰ ধৰনক এটা pre-formatted আখৰ হিচাপে সলনি কৰা হয় । Pre-formatted আখৰক ৱিকিত লিপিৰ চাৰিওফালে থকা বৰ্ডাৰ হিচাপে দেখুৱাই ।</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="as" level="2" l10n="NEW">আখৰৰ ধৰণ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="as" l10n="NEW">আখৰৰ ধৰণে পেৰেগ্ৰাফৰ অংশ সমূহ বেলেগকে দেখুৱাই । ইয়াত bold, italics, bold/italics, subscript আৰু superscript ৰ সমৰ্থন আছে । সকলো fixed width আখৰক ৱিকি typewriter ধৰণত সলনি কৰা হয় ।</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="as" level="2" l10n="NEW">Footnotes</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="as" l10n="NEW">মন কৰিব: এই সলনিয়ে &lt;ref&gt; আৰু &lt;references&gt; টেগ থকা footnotes ৰ নতুন ধৰণ ব্যৱহাৰ কৰে যাক Cite.php সম্প্ৰসাৰণৰ প্ৰয়োজন যাক MediaWiki ত সংস্থাপন কৰিব লাগে । যদি সেই টেগবোৰ সলনি কৰোঁতে সাধাৰণ লিপি হিচাপে ওলাই, ৱিকি প্ৰশাসকক এই সম্প্ৰসাৰণ সংস্থাপন কৰিব কওক ।</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="as" level="2" l10n="NEW">প্ৰতিমূৰ্ত্তি</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="as" l10n="NEW">ৱিকি লিপিৰ এটা নথিপত্ৰৰে সলনি কৰি প্ৰতিমূৰ্ত্তি ৰপ্তানি কৰিব নোৱাৰি । কিন্তু, যদি প্ৰতিমূৰ্তি ইতিমধ্যে লক্ষ্য ৱিকি ডোমেইনত আছে (e. g. WikiMedia Commons), তেতিয়া সলনি কৰিলে এটা বৈধ প্ৰতিমূৰ্ত্তিৰ টেগ ওলায় য'ত প্ৰতিমূৰ্ত্তি থাকে । Image captions ও সমৰ্থিত ।</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="as" level="2" l10n="NEW">টেবুলবোৰ</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="as" l10n="NEW">সাধাৰণ টেবুল সমৰ্থিত । টেবুল হেডাৰক ৱিকি ধৰনৰ টেবুল হেডাৰলৈ অনুবাদ কৰা হয় । কিন্তু, টেবুল কোণৰ, স্তম্ভৰ আকাৰৰ আৰু পৃষ্ঠভূমিৰ ৰঙৰ সলনি কৰা আওকাণ কৰা হয় ।</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="as" level="3" l10n="NEW">Joined Cells</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="as" l10n="NEW">OpenDocument আৰু বিশেষকৈ OpenOffice.org এ সেই টেবুল দেখুৱাই য'ত joined cells থাকে যি টেবুল হিচাপে শাৰী স্পেন কৰে । ইয়াৰ বিপৰিতে, ৱিকি ধৰণত স্তম্ভ আৰু শাৰীৰ স্পেনক তেনে joined cells ৰ কাৰণে ডিক্লেৰ কৰা হয় ।</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="as" l10n="NEW">যদি একে শাৰীৰ অকল স্তম্ভ লগ লগোৱা হয়, উৎস আলেখ্যনৰ নিচিনা দেখিবলৈ হয় ।</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="as" level="3" l10n="NEW">কোণবোৰ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="as" l10n="NEW">কোণ আৰু পৃষ্ঠঙূনিৰ বাবে যি টেবুলৰ ধৰনেই নহওক, এটা টেবুলক সদায়ে &quot;<emph>prettytable&quot;</emph> হিচাপে ৰপ্তানি কৰা হয়, যি ৱিকি কলঘৰত সাধাৰণ  কোণ আৰু ব'ল্ড হেডাৰেৰে ওলায় ।</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="as" level="2" l10n="NEW">Charset আৰু বিশেষ আখৰ</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="as" l10n="NEW">The charset of the transformation result is fixed to UTF-8. Depending on your system, this might not be the default charset. This might cause &quot;special characters&quot; to look broken when viewed with default settings. However, you can switch your editor to UTF-8 encoding to fix this. If your editor does not support switching the encoding, you can display the result of the transformation in the Firefox browser and switch the encoding to UTF-8 there. Now, you can cut and paste the transformation result to your program of choice.</paragraph>
+</body>
+</helpdocument>

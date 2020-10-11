@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="kab">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="kab" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>isiɣzifen;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="kab" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="kab" l10n="NEW"><ahelp hid=".">Ma tesqedceḍ @WIKIEXTENSIONPRODUCTNAME@ ad tizmireḍ ad tazneḍ ataftar Writer amiran ɣer uqeddac MediaWiki. Mi yettwazen, iseqdacen akk n Wiki ad izmiren ad ɣren ataftar-inek ɣef uwiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="kab" l10n="NEW"><ahelp hid=".">Fren<item type="menuitem">Afaylu- Azen- Ɣer MediaWiki</item> iwakken ad tazneḍ atatar Writer amiran ɣer uqedda MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="kab" level="2" l10n="NEW">Israyen n unagraw</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="kab" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="kab" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="kab" l10n="NEW">Tawennaḍt Java Runtime 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="kab" l10n="NEW">Amiḍan n Wiki ɣef uqeddac <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> yettwadehlen</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="kab" level="2" l10n="NEW">Asbeddi n @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="kab" l10n="NEW">Uqbel ad tesbeddeḍ @WIKIEXTENSIONPRODUCTNAME@, tḥeqqeq belli %PRODUCTNAME iseqdac tawennaḍt n uselkem Java (JRE). Iwakken ad tselkeneḍ aẓayer n JRE, fren <item type="menuitem">Ifecka- Tixtiṛiyin- %PRODUCTNAME - Java</item>. Tḥeqqeq belli &quot;Seqdec tawennaḍt n uselkem Java&quot; yettwacreḍ yerna akaram n uselkem n Java yettwafren di teɣzut tameqrant n tebdart.  Ma yella ulac JRE iremden, dɣa sermed JRE 1.4 neɣ anafellay yerna senkker tikkelt-nniḍen %PRODUCTNAME. </paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="kab" level="3" l10n="NEW">Iwakken ad tesbeddeḍ @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="kab" l10n="NEW">Deg usfaylu n Writer, fren<item type="menuitem">Ifecka- Asefrak n isiɣzifen</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="kab" l10n="NEW">Di tnaka n udiwenni Asefrak n isiɣzifen, ssed ɣef Rnu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="kab" l10n="NEW">Af-d afaylu @WIKIEXTENSIONFILENAME@.oxt, ssed ɣef Ldi, sakin ssed ɣef Mdel. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="kab" l10n="NEW">Mdel %PRODUCTNAME, sakin mdel daɣen asenkker s tɣawla ma yermed.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="kab" l10n="NEW">Senkker aseɣẓan tikkelt-nniḍen, ldi attaftar aḍrisn sakin fren <item type="menuitem">Ifecka- Tixtiṛiyin- Internet - MediaWiki</item> iwakken ad tsekcmeḍ iɣewwaren n uwiki. Ẓer &quot;Tuqqna ɣer uwiki&quot; uksar-agi.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="kab" level="3" l10n="NEW">Iwakken ad tekkseḍ @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="kab" l10n="NEW">Deg usfaylu Writer, fren <item type="menuitem">Ifecka- Asefrak n isiɣzifen</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="kab" l10n="NEW">Ssed ɣef imli (+) sdat n Isiɣzifen-iw</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="kab" l10n="NEW">Fren asiɣzef, ssed ɣef Kkes, sakin ssed ɣef Mdel.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="kab" level="2" l10n="NEW">Akken ad teqqneḍ ɣer Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="kab" l10n="NEW">Remarque : vous pouvez stocker votre nom d'utilisateur et votre mot de passe pour toutes les boîtes de dialogue respectives dans %PRODUCTNAME. Le mot de passe sera stocké de façon sécurisée et son accès est géré par un mot de passe principal. Pour activer le mot de passe principal, choisissez <item type="menuitem">Outils - Options - %PRODUCTNAME - Sécurité</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="kab" l10n="NEW">Tamawt : ma tetteqqneḍ ɣer web s uqeddac proxy, sekcem isalen n proxy di<item type="menuitem">Ifecka- Tixtiṛiyin- Internet - Proxy</item> sakin senkker tikkelt-nniḍen aseɣẓan..</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="kab" l10n="NEW">Ldi attaftar Writer u fren<item type="menuitem">Ifecka- Tixtiṛiyin - Internet - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="kab" l10n="NEW">Di tnaka n udiwenni <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Tixtiṛiyin</link>, Ssed ɣef Rnu.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="kab" l10n="NEW">Di tnakka n udiwenni<link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link>, sekcem isalen n umiḍan n uWiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="kab" l10n="NEW">Di teɣzut n uḍris n URL, sekcem tansa n uWiki wuɣur tebɣiḍ ad teqqneḍ.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="kab" l10n="NEW">Tzemreḍ ad tesneṣleḍ URL seg iminig n web sakin ad tt-tsenteḍeḍ di teɣzut n uḍris.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="kab" l10n="NEW">Di teɣzut isem n useqdac, sekcem ID n useqdac n umiḍan-inek n uwiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="kab" l10n="NEW">Ma yella awiki isirig anekcum warisem s tira, tzemreḍ ad tǧeḍ tiɣzuyin Isem n useqdac aked Awal n uɛeddi d tilmawin.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="kab" l10n="NEW">Di teɣzut Awal n uɛeddi, sekcem awal n uɛeddi n umiḍan-inek n uwiki, sakin ssed ɣef Ih.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="kab" l10n="NEW">Facultativement, activez &quot;Enregistrer le mot de passe&quot; pour enregistrer le mot de passe entre les sessions. Un mot de passe principal est utilisé pour gérer l'accès à tous les mots de passe enregistrés. Choisissez <item type="menuitem">Outils - Options - %PRODUCTNAME - Sécurité</item> pour activer le mot de passe principal. &quot;Enregistrer le mot de passe&quot; n'est pas disponible si le mot de passe principal n'est pas activé.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="kab" level="2" l10n="NEW">Iwakken ad d-tesnulfuḍ asebtar amaynut n uwiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="kab" l10n="NEW">Ldi attaftar  n Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="kab" l10n="NEW">Aru agbur n usebtar n uwiki. Tzemreḍ ad tesqedceḍ imsalen d imasalen n uḍris, ijerriḍen, tilɣa n uḍar n usebtar aked waṭas n tɣawsiwin-nniḍen. Ẓer <link href="@WIKIEXTENSIONID@/wikiformats.xhp">tabdart n imasalen yettwadehlen</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="kab" l10n="NEW">Fren <item type="menuitem">Afaylu - Azen - Ɣer MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="kab" l10n="NEW">Di tnakka n udiwenni <link href="@WIKIEXTENSIONID@/wikisend.xhp">Azen ɣer MediaWiki</link>, mel iɣewwaren n unekcum-inek.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="kab" l10n="NEW"><emph>Aqeddac MediaWiki</emph> : fren aWiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="kab" l10n="NEW"><emph>Azwel</emph> : sekcem azwel n usebtar. Sekcem azwel n usebtar yellan iwakken ad tsefsexeḍ asebtar s uttaftar aḍris amiran. </paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="kab" l10n="NEW"><emph>Agzul</emph> :d axeṭran, sekcem agzul awezlan n usebtar-inek.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="kab" l10n="NEW"><emph>D atẓrigt tameẓyant</emph> : fren taxxamt-agi iwakken ad tcerḍeḍ asebtar yettwazedmen d taẓrigt tameẓyant n usebtar yellan i yesɛan azwel am tagi.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="kab" l10n="NEW"><emph>Beqqeḍ deg iminig n Web</emph> : creḍ asebtar-agi iwakken ad teldiḍ iminig n web n unagraw yerna ad tbeqqeḍeḍ asebtar n uwiki i tzedmeḍ.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="kab" l10n="NEW">Ssed ɣef Azen.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

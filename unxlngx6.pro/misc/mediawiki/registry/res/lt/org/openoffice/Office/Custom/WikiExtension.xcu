@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="lt">Siuntimo į „MediaWiki“ nepavyko baigti.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="lt">„MediaWiki“ eksportavimo filtras nerastas. Reikiamą sandą įdiegsite, atsivėrę langą „Priemonės &gt; XML filtro nuostatos“, arba paleidę diegimo programą.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="lt">Nepavyko sukurti ryšio su „MediaWiki“ sistema adresu „$ARG1“.</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="lt">Neteisingas naudotojo vardas arba slaptažodis. Bandykite dar kartą arba palikite laukelius tuščius, jei norite jungtis anonimu.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="lt">Nepavyko sukurti ryšio, nes neleidžiamas URL.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="lt">Nurodykite „MediaWiki“ tarnybinės stoties URL adresą.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="lt">Siuntimas buvo pertrauktas. Patikrinkite vikio straipsnio vientisumą.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="lt">URL</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="lt">Naudotojo vardas</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="lt">Slaptažodis</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="lt">Siųsti į „MediaWiki“</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="lt">Vikio straipsnis</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="lt">Ne</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="lt">Vykdyti</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="lt">Taip</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="lt">Pridėti…</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="lt">Taisyti…</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="lt">Siųsti</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="lt">Šalinti</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="lt">Vikio straipsnio pavadinimu „$ARG1“ kol kas nėra. Ar kurti naują straipsnį tokiu pavadinimu?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="lt">„MediaWiki“ tarnybinė stotis</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="lt">Pavadinimas</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="lt">Santrauka</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="lt">Nežymi pataisa</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="lt">Rodyti tinklo naršyklėje</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="lt">Nežinomas pasirinktos svetainės liudijimas.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="lt">„MediaWiki“</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="lt">Paskyra</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="lt">„MediaWiki“ tarnybinė stotis</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="lt">Saugoti slaptažodį</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="lt">„@WIKIEXTENSIONPRODUCTNAME@“</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="lt">Vikio straipsnis pavadinimu „$ARG1“ jau yra.&amp;#13;&amp;#13;Ar pakeisti esamą straipsnį jūsų straipsniu?&amp;#13;&amp;#13;</value>
+    </prop>
+  </node>
+</oor:component-data>

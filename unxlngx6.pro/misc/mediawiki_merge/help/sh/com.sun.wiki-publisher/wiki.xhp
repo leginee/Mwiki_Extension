@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sh">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="sh" branch="index" id="bm_id3154408"><bookmark_value>Viki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>paketi;Medija Viki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="sh" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="sh" l10n="NEW"><ahelp hid=".">Koristeći @WIKIEXTENSIONPRODUCTNAME@ možete otpremiti tekst iz Pisca na Medija Viki server tako da svi korisnici mogu da pročitaju vaš dokument na Vikiju.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="sh" l10n="NEW"><ahelp hid=".">Izaberite <item type="menuitem">Datoteka - Pošalji - Na Medija Viki</item> kako biste otpremili trenutni dokument na Medija Viki server.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="sh" level="2" l10n="NEW">Sistemski zahtevi</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="sh" l10n="NEW">StarOffice ili StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="sh" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="sh" l10n="NEW">Javino radno okruženje 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="sh" l10n="NEW">Viki nalog na podržanom <link href="http://www.mediawiki.org/wiki/MediaWiki">Medija Viki</link> serveru</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="sh" level="2" l10n="NEW">Instaliram @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="sh" l10n="NEW">Pre nego što instalirate @WIKIEXTENSIONPRODUCTNAME@, proverite da li %PRODUCTNAME koristi Java radno okruženje (JRE). Za proveru stanja Java radnog okruženja izaberite <item type="menuitem">Alatke - Podešavanja - %PRODUCTNAME - Java</item>. Proverite da li je uključeno „Koristi Javino radno okruženje“ i da li je Javin radni direktorijum izabran u priloženom polju. Ukoliko radno okruženje nije aktivno, uključite JRE 1.4 ili novije izdanje i ponovo pokrenite %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="sh" level="3" l10n="NEW">Kako biste instalirali @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="sh" l10n="NEW">U prozoru Pisca izaberite <item type="menuitem">Alatke - Upravnik paketa</item></paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="sh" l10n="NEW">U prozorčetu upravnika paketa izaberite „Dodaj“.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="sh" l10n="NEW">Nađite @WIKIEXTENSIONFILENAME@.oxt datoteku, kliknite „Otvori“, a zatim „Zatvori“. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="sh" l10n="NEW">Zatvorite %PRODUCTNAME, kao i brzi pokretač, ukoliko je uključen.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="sh" l10n="NEW">Ponovo pokrenite program, otvorite tekstualni dokument i izaberite <item type="menuitem">Alatke - Opcije - Internet - Medija Viki</item> za podešavanje Vikija. Pogledajte dole „Za povezivanje na Viki“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="sh" level="3" l10n="NEW">Za uklanjanje @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="sh" l10n="NEW">U prozoru Pisca izaberite <item type="menuitem">Alatke - Upravnik paketa</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="sh" l10n="NEW">Kliknite na plus (+) ispred Moji paketi.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="sh" l10n="NEW">Izaberite paket, kliknite „Ukloni“. a zatim „Zatvori“.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="sh" level="2" l10n="NEW">Za povezivanje na Viki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="sh" l10n="NEW">Primedba: Možete sačuvati svoje korisničko ime i lozinku zasebno za sve %PRODUCTNAME prozorčiće. Lozinka se čuva na siguran način i njoj se pristupa glavnom lozinkom. Za omogućavanje glavne lozinke izaberite <item type="menuitem">Alatke - Podešavanja - %PRODUCTNAME - Sigurnost</item>.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="sh" l10n="NEW">Primedba: Ukoliko se povezujete na mrežu kroz posrednički server, unesite podatke o posredniku u <item type="menuitem">Alatke - Podešavanja - Interent - Posrednik</item> i ponovo pokrenite program.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="sh" l10n="NEW">Otvorite dokument Pisca i izaberite <item type="menuitem">Alatke - Podešavanja - Internet - Medija Viki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="sh" l10n="NEW">U prozorčetu <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Opcije</link> kliknite na Dodaj.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="sh" l10n="NEW">U prozorčetu <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">Medija Viki</link> unesite podatke o Viki nalogu.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="sh" l10n="NEW">U polju za adresu unesite adresu Vikija na koji želite da se povežete.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="sh" l10n="NEW">Možete kopirati adresu iz Internet preglednika i ubaciti je u tekstualno polje.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="sh" l10n="NEW">U polju Korisničko ime unesite korisničko ime Viki naloga.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="sh" l10n="NEW">Ukoliko Viki dozvoljava anonimni pristup za upis, polja „Korisničko ime“ i „Lozinka“ možete ostaviti prazna.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="sh" l10n="NEW">U polju „Lozinka“ unesite lozinku Viki naloga i kliknite „U redu“.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="sh" l10n="NEW">Opciono uključite „Sačuvaj lozinku“ ukoliko želite pamćenje lozinke između sesija. Glavna lozinka se upotrebljava za pristup svim sačuvanim lozinkama. U meniju <item type="menuitem">Alatke - Podešavanja - %PRODUCTNAME - Sigurnost</item> omogućite glavnu lozinku. Stavku „Sačuvaj lozinku“ je moguće aktivirati tek po postavljanju glavne lozinke.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="sh" level="2" l10n="NEW">Izrada nove viki stranice</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="sh" l10n="NEW">Otvori dokument Pisca.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="sh" l10n="NEW">Napišite sadržaj Viki stranice. Možete koristiti formatiranja kao što su oblik teksta, zaglavlja, fusnote i drugo. Pogledajte <link href="@WIKIEXTENSIONID@/wikiformats.xhp">spisak podržanih formata</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="sh" l10n="NEW">Izaberite <item type="menuitem">Datoteka - Pošalji - Na Medija Viki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="sh" l10n="NEW">U prozorčetu <link href="@WIKIEXTENSIONID@/wikisend.xhp">Pošalji na Medija Viki</link> navedite podešavanja svoj unos.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="sh" l10n="NEW"><emph>Medija Viki server</emph>: Izaberite Viki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="sh" l10n="NEW"><emph>Naslov</emph>: Upišite naslov svoje stranice. Upišite naslov već postojeće stranice ukoliko želite da je zameniti trenutnim dokumentom. Upišite novi naslov za izradu nove stranice na vikiju.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="sh" l10n="NEW"><emph>Sažetak</emph>: Možete uneti kratak sažetak svoje stranice.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="sh" l10n="NEW"><emph>Ovo je mala izmena</emph>: Označite ovo da biste otpremili stranicu kao malu izmenu postojeće stranice sa istim nazivom.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="sh" l10n="NEW"><emph>Prikaži u veb pregledniku</emph>: Označite ovo da biste otvorili otpremljenu Viki stranicu u Internet pregledniku.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="sh" l10n="NEW">Kliknite na „Pošalji“.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

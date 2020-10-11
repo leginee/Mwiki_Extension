@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiaccountxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="oc">MediaWiki</title>
+<filename>/@WIKIEXTENSIONID@/wikiaccount.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T13:15:05"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:account" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id960722" xml-lang="oc" level="1" l10n="NEW">MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id4571672" xml-lang="oc" l10n="NEW">Utilizatz la bóstia de dialòg MediaWiki per apondre o editar los paramètres de vòstre compte MediaWiki.</paragraph><comment>URL</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UrlField" id="bm_id4558244" localize="false"/>
+<paragraph role="paragraph" id="par_id7631458" xml-lang="oc" l10n="NEW"><ahelp hid="." visibility="hidden">Picatz l'URL del servidor MediaWiki, en començar amb http://</ahelp></paragraph><comment>Username</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.UsernameField" id="bm_id4558245" localize="false"/>
+<paragraph role="paragraph" id="par_id7862483" xml-lang="oc" l10n="NEW"><ahelp hid="." visibility="hidden">Picatz vòstre nom d'utilizaire sul servidor MediaWiki. Daissatz le camp void per un accès anonime.</ahelp></paragraph><comment>Password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.PasswordField" id="bm_id4558246" localize="false"/>
+<paragraph role="paragraph" id="par_id1113010" xml-lang="oc" l10n="NEW"><ahelp hid="." visibility="hidden">Picatz vòstre senhal pel servidor MediaWiki. Daissatz lo camp void per un accès anonime.</ahelp></paragraph><comment>Save password</comment>
+<bookmark xml-lang="en-US" branch="hid/com.sun.star.wiki.MediaWiki.EditSetting.SaveBox" id="bm_id4558247" localize="false"/>
+<paragraph role="paragraph" id="par_id656758" xml-lang="oc" l10n="NEW"><ahelp hid="." visibility="hidden">Activatz per estocar vòstre senhal entre doas sesilhas. Lo senhal principal deu èsser activat, vejatz <item type="menuitem">Espleches - Opcions - StarOffice/OpenOffice.org - Seguretat</item>.</ahelp></paragraph>
+<paragraph role="paragraph" id="par_id3112582" xml-lang="oc" l10n="NEW">Picatz l'adreça Internet d'un servidor Wiki dins un format coma http://wiki.services.openoffice.org/wiki o copiatz l'URL a partir d'un navigador web.</paragraph>
+<paragraph role="paragraph" id="par_id628070" xml-lang="oc" l10n="NEW">Se lo Wiki autoriza un accès anonime, podètz daissar los airals de dialòg pel compte voids. Siquenon picatz-i vòstre nom d'utilizaire e vòstre senhal.</paragraph>
+<paragraph role="paragraph" id="par_id9046601" xml-lang="oc" l10n="NEW">S'activatz la foncionalitat de senhal principal de l'onglet Seguretat dins la bóstia de dialòg Espleches - Opcions - StarOffice/OpenOffice.org, alara lo logicial poirà estocar vòstre senhal e inserir automaticament las donadas quora serà necessari. Activatz la casa de marcar &quot;Enregistrar lo senhal&quot; per estocar vòstre senhal.</paragraph>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="fr">Formats MediaWiki</title>
+<filename>/com.sun.wiki-publisher/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="fr" level="1" l10n="NEW">Formats MediaWiki</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="fr" l10n="NEW">La liste suivante donne un aperçu des formats de texte que Wiki Publisher peut télécharger sur le serveur Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="fr" l10n="NEW">Le format OpenDocument utilisé par Writer et le format WikiMedia sont quelque peu différents. Seul un sous-ensemble de toutes les fonctionnalités peut être transformé d'un format vers l'autre.</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="fr" level="2" l10n="NEW">Titres</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="fr" l10n="NEW">Appliquez un style de paragraphe titre aux titres dans le document Writer. Le Wiki affichera les styles de titre au même niveau de plan, formatés comme défini par le moteur du Wiki.</paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="fr" level="2" l10n="NEW">Hyperliens</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="fr" l10n="NEW">Les hyperliens OpenDocument natifs sont transformés en liens Wiki &quot;externes&quot;. Ainsi la facilité interne de lien offerte par OpenDocument doit être utilisée uniquement pour créer des liens qui pointent sur des autres sites en dehors du Web Wiki. Pour créer des liens Wiki qui pointent vers d'autres sujets du même domaine Wiki, utilisez les liens Wiki.</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="fr" level="2" l10n="NEW">Listes</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="fr" l10n="NEW">Les listes peuvent être exportées en toute confiance lorsque la liste complète utilise un style de liste cohérent. Utilisez l'icône Puces et numérotations pour générer une liste dans Writer. Si vous avez besoin d'une liste sans numérotations ou puces, utilisez Format - Puces et numérotations pour définir et appliquer le style de liste respectif.</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="fr" level="2" l10n="NEW">Paragraphes</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="fr" level="3" l10n="NEW">Alignement</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="fr" l10n="NEW">L'alignement de texte explicite ne doit pas être utilisé dans les articles de Wiki. Néanmoins, l'alignement de texte est pris en charge pour l'alignement gauche, centré et droite du texte.</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="fr" level="3" l10n="NEW">Texte pré-formaté</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="fr" l10n="NEW">Un style de paragraphe avec une police à largeur fixe est transformé en texte pré-formaté. Le texte pré-formaté est affiché sur le Wiki avec une bordure autour du texte.</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="fr" level="2" l10n="NEW">Styles de caractère</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="fr" l10n="NEW">Les styles de caractère modifient l'apparence des parties d'un paragraphe. La transformation prend en charge le gras, l'italique, l'italique gras, l'exposant et l'indice. Toutes les polices fixes sont transformées dans le style machine à écrire Wiki.</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="fr" level="2" l10n="NEW">Notes de bas de page</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="fr" l10n="NEW">Remarque : la transformation utilise le nouveau style de notes de bas de page avec les balises &lt;ref&gt; et &lt;references&gt; qui nécessitent que l'extension Cite.php soit installée dans MediaWiki. Si ces balises apparaissent comme texte brut au résultat de la transformation, demandez à l'administrateur du Wiki d'installer cette extension.</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="fr" level="2" l10n="NEW">Images</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="fr" l10n="NEW">Les images ne peuvent pas être exportées par une transformation produisant un fichier unique de texte Wiki. Cependant, si l'image est déjà téléchargée sur le domaine Wiki cible (par exemple WikiMedia Commons), alors la transformation produit une balise d'image valide qui inclut l'image. Les légendes d'image sont également prises en charge.</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="fr" level="2" l10n="NEW">Tableaux</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="fr" l10n="NEW">Les tableaux simples sont bien pris en charge. Les en-têtes de tableaux sont traduits dans le style Wiki correspondant d'en-têtes de tableaux. Cependant, les formatages personnalisés des bordures de tableaux, la taille des colonnes et les couleurs d'arrière-plan sont ignorés.</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="fr" level="3" l10n="NEW">Cellules jointes</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="fr" l10n="NEW">OpenDocument et spécialement OpenOffice.org représentent les tableaux qui ont des cellules jointes qui étendent les lignes comme des tableaux avec des tableaux imbriqués. Au contraire, le modèle wiki d'un tableau est de déclarer les colonnes et les lignes étendues pour de telles cellules jointes. </paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="fr" l10n="NEW">Si seules les colonnes d'une même ligne sont jointes, le résultat de la transformation est assez fidèle au document source.</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="fr" level="3" l10n="NEW">Bordures</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="fr" l10n="NEW">Sans respecter les styles de tableaux personnalisés pour les bordures et l'arrière-plan, un tableau est toujours exporté comme &quot;<emph>prettytable&quot;</emph>, ce qui donne un rendu avec des bordures simples et un en-tête en gras par le moteur Wiki.</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="fr" level="2" l10n="NEW">Jeu de caractères et caractères spéciaux</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="fr" l10n="NEW">Le jeu de caractères du résultat de la transformation est fixé en UTF-8. En fonction de votre système d'exploitation, cela peut ne pas être le jeu de caractères par défaut. Les &quot;caractères spéciaux&quot; auront l'air cassé lorsque affichés avec les paramètres par défaut. Cependant, vous pouvez régler votre éditeur sur un encodage UTF-8 pour corriger cela. Si votre éditeur ne supporte pas un changement d'encodage, vous pouvez afficher le résultat de la transformation dans le navigateur Firefox et régler l'encodage sur UTF-8 ici. Maintenant, vous pouvez couper et coller le résultat de la transformation dans le programme de votre choix.</paragraph>
+</body>
+</helpdocument>

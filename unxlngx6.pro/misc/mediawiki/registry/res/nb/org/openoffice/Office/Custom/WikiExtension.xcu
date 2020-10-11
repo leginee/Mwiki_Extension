@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="WikiExtension" oor:package="org.openoffice.Office.Custom">
+  <node oor:name="Strings">
+    <prop oor:name="GeneralSendError">
+      <value xml:lang="nb">Handlinga «Send til MediaWiki» kunne ikke utføres.</value>
+    </prop>
+    <prop oor:name="NoWikiFilter">
+      <value xml:lang="nb">Fant ikke eksportfilteret for MediaWiki. Velg «Verktøy – Innstillinger for XML-filter» for å installere filteret eller bruk installasjonsprogrammet til å installere denne komponenten.</value>
+    </prop>
+    <prop oor:name="NoConnectionToURL">
+      <value xml:lang="nb">Klarte ikke opprette tilkobling til MediaWiki-systemet på «$ARG1».</value>
+    </prop>
+    <prop oor:name="WrongLogin">
+      <value xml:lang="nb">Brukernavnet eller passordet er feil. Prøv på nytt eller la feltene stå tomme hvis du vil logge inn med anonym tilkobling.</value>
+    </prop>
+    <prop oor:name="InvalidURL">
+      <value xml:lang="nb">Klarte ikke opprette tilkobling. Nettadressen er ugyldig.</value>
+    </prop>
+    <prop oor:name="NoURL">
+      <value xml:lang="nb">Velg en MediaWiki-tjener ved å oppgi en nettadresse.</value>
+    </prop>
+    <prop oor:name="CancelSending">
+      <value xml:lang="nb">Overføringa ble avbrutt. Kontroller helheten i wikiartikkelen.</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UrlLabel">
+      <value xml:lang="nb">~Nettadresse</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_UsernameLabel">
+      <value xml:lang="nb">~Brukernavn</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_PasswordLabel">
+      <value xml:lang="nb">~Passord</value>
+    </prop>
+    <prop oor:name="Dlg_SendTitle">
+      <value xml:lang="nb">Send til MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_WikiArticle">
+      <value xml:lang="nb">Wikiartikkel</value>
+    </prop>
+    <prop oor:name="Dlg_No">
+      <value xml:lang="nb">Nei</value>
+    </prop>
+    <prop oor:name="Dlg_OK">
+      <value xml:lang="nb">OK</value>
+    </prop>
+    <prop oor:name="Dlg_Yes">
+      <value xml:lang="nb">Ja</value>
+    </prop>
+    <prop oor:name="Dlg_AddButton">
+      <value xml:lang="nb">~Legg til …</value>
+    </prop>
+    <prop oor:name="Dlg_EditButton">
+      <value xml:lang="nb">~Rediger …</value>
+    </prop>
+    <prop oor:name="Dlg_SendButton">
+      <value xml:lang="nb">~Send</value>
+    </prop>
+    <prop oor:name="Dlg_RemoveButton">
+      <value xml:lang="nb">~Fjern</value>
+    </prop>
+    <prop oor:name="Dlg_NewWikiPage_Label1">
+      <value xml:lang="nb">Det finnes ingen wikiartikkel med tittelen «$ARG1» ennå. Vil du opprette en ny artikkel med dette navnet?</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label1">
+      <value xml:lang="nb">~MediaWiki-tjener</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label2">
+      <value xml:lang="nb">~Tittel</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_Label3">
+      <value xml:lang="nb">~Sammendrag</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_MinorCheck">
+      <value xml:lang="nb">~Dette er en liten endring</value>
+    </prop>
+    <prop oor:name="Dlg_SendToMediaWiki_BrowserCheck">
+      <value xml:lang="nb">Vis i ~nettleser</value>
+    </prop>
+    <prop oor:name="UnknownCert">
+      <value xml:lang="nb">Den valgte siden har et ukjent sertifikat.</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Title">
+      <value xml:lang="nb">MediaWiki</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_AccountLine">
+      <value xml:lang="nb">Konto</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_WikiLine">
+      <value xml:lang="nb">MediaWiki-tjener</value>
+    </prop>
+    <prop oor:name="Dlg_EditSetting_SaveBox">
+      <value xml:lang="nb">~Lagre passord</value>
+    </prop>
+    <prop oor:name="Dlg_MediaWiki_Extension_String">
+      <value xml:lang="nb">@WIKIEXTENSIONPRODUCTNAME@</value>
+    </prop>
+    <prop oor:name="Dlg_WikiPageExists_Label1">
+      <value xml:lang="nb">Det finnes allerede en wikiartikkel med tittelen «$ARG1». Vil du erstatte den eksisterende artikkelen med din artikkel?</value>
+    </prop>
+  </node>
+</oor:component-data>

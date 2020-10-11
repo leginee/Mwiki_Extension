@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="sa-IN">मीडिया विकि रचनाः   </title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="sa-IN" level="1" l10n="NEW">मीडिया विकि रचनाः   </paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="sa-IN" l10n="NEW">The following list gives an overview of the text formats that the @WIKIEXTENSIONPRODUCTNAME@ can upload to the Wiki server.</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="sa-IN" l10n="NEW">लेखकेन उपयुक्तउद्घाटनलेख्यपत्रंरचना तथा विकिमीडिया रचना च भिन्ना।सर्वेषां लक्षणानाम् उपसमूहः केवलं एकस्याः रचनायाः अन्यरचनापर्यन्तं परिणामं कर्तुं शक्यते।   </paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="sa-IN" level="2" l10n="NEW">शीर्षकाः </paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="sa-IN" l10n="NEW">तव लेखकलेख्यपत्रे शीर्षकेभ्यः शीर्षकाधिकरणशैलीं प्रयोजय।समान औट्लैन् स्तरस्य शीर्षकशैलीः विकि दर्शयिष्यति,तथा विकि एन्जिन् अनेन रचितमिव निर्दिष्टम्।  </paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="sa-IN" level="2" l10n="NEW">हैपेर्लिङ्क्स् </paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="sa-IN" l10n="NEW">स्थानीकोद्घाटनलेख्पत्रहैपेर्लिङ्क्स् &quot;बहिर्गत&quot; विकिलिङ्क्स् मध्ये परिणतम्।अतः, उद्घाटनलेख्यपत्रस्य अन्तर्गतलिङ्क्करणसौकर्यं केवलं लिङ्क्स् उत्पादितुम् उपयुक्तं यत् विकिवेब् बहिः अन्यसैट्स् प्रति सूचयति।विकि लिङ्क्स् उत्पादितुं यत् समानविकि डोमैन् अस्य अन्यविषयेभ्यः सूचयति,विकिलिङ्क्स् उपयोजय। </paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="sa-IN" level="2" l10n="NEW">सूचयः </paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="sa-IN" l10n="NEW">सूचयः विश्वासेन निर्याणं कृतं यदा सम्पूर्णसूची स्थिरसूचीशैलीम् उपयोजयति।लेखके सूचीम् उत्पादितुं संख्याकरणम् अथवा बुल्लेट्स् संप्रतीकम् उपयोजय।संख्याकरणम् अथवा बुल्लेट्स् एभिः विना सूची आवश्यकं चेत् ,सूचीशैलीं यथाक्रमं प्रयोजितुं निर्देष्टुं च रचनाबुल्लेट्स् संख्याकरणं च उपयोजय।</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="sa-IN" level="2" l10n="NEW">अधिकरणानि </paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="sa-IN" level="3" l10n="NEW">पङ्क्तीकरणम् </paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="sa-IN" l10n="NEW">विकि आलेखेषु प्रत्यक्षविषयपङ्क्तीकरणं न उपयोक्तव्यम्।तथापि,वामाय,केन्द्रीकृताय, तथा विषयस्य दक्षिणपङ्क्तीकरणाय च विषयपङ्क्तीकरणं समर्थयति।</paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="sa-IN" level="3" l10n="NEW">पूर्व-रचितविषयः</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="sa-IN" l10n="NEW">स्थिरविस्तारणफोण्ट् अनेन सह अधिकरणशैली पूर्व रचित विषयमिव परिणतम्।विषय परितं सीमया सह विकि मध्ये पूर्व-रचितविषयः दर्शितः।</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="sa-IN" level="2" l10n="NEW">संप्रतीकशैल्यः </paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="sa-IN" l10n="NEW">संप्रतीकशैली अधिकरणानां भागानां आविर्भावं विकारयति।परिणामः स्थूलं,साचीकृतानि,स्थूलं/साचीकृतानि,अधोलिखितं तथा अधिलिखितं च समर्थयति।सर्वाणि स्थिरविस्तारफोण्ट्स् विकिटङ्ककशैल्यौ परिणतानि।</paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="sa-IN" level="2" l10n="NEW">फुट्नोट्स् </paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="sa-IN" l10n="NEW">टिप्पणी:परिणामः मीडियाविकि मध्ये टैग्स् कृते आवश्यकसैट्.php विस्तारणं संस्थापितुं &lt;सन्दर्भेण&gt;  &lt;सन्दर्भैः&gt; च फुट्नोट्स् अस्य नूतनशैलीम् उपयोजयति।परिणामफले तानि टैग्स् सामान्यविषयः इव घटितः चेत्, इदं विस्तारणं संस्थापितुं विकिप्रशासकं पृच्छ।</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="sa-IN" level="2" l10n="NEW">चित्राणि </paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="sa-IN" l10n="NEW">विकिविषयस्य एका सञ्चिका उत्पादने परिणामेन चित्राणि निर्याणं कर्तुं न शक्यते।तथापि, यदि चित्राणि पूर्वमेव लक्ष्यविकिडोमैन् कृते अप्लोडड् (e. g. विकिमीडियासमानानि),तर्हि परिणामः सिद्धचित्रटैग् उत्पादयति यत् अन्तर्गतं चित्रमस्ति।चित्रोपशीर्षकाः समर्थिताः।</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="sa-IN" level="2" l10n="NEW">सारण्यः </paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="sa-IN" l10n="NEW">सरलीकृतसारण्यः समीचीनतया समर्थिताः।युक्तविकिशैलीसारणीहेड्डेर्स् मध्ये सारणीहेड्डेर्स् अनुवादितानि।प्रायः, सारणीसीमायाः इष्टरचना,स्तम्भपरिमाणानि तथा पृष्टपटलवर्णाः च उपेक्षिताः।</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="sa-IN" level="3" l10n="NEW">मिलितकोष्ठिकाः </paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="sa-IN" l10n="NEW">उद्घाटनलेख्यपत्रं तथा च प्रत्येकतया ओपेन् ओफीस्.org सारणीन् प्रतिनिधिं करोति यस्मिन् संयुक्तकोष्ठिकाः विद्यन्ते यत् नेस्टेड्सारणीभिः सह सारणीः इव पङ्क्तीः स्पेन् करोति।विपरीतेन,सारणेः विकि मोडेल् संयुक्तकोष्ठिकाभ्यः स्तम्भं तथा पङ्क्तीस्पैन्स् च उद्घाषयितुं भवति।</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="sa-IN" l10n="NEW">समानपङ्क्तेः स्तम्भाः केवलं संयुक्ताः चेत्,परिणामस्य फलं मूललेख्यपत्रसदृशं भवति।</paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="sa-IN" level="3" l10n="NEW">सीमाः </paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="sa-IN" l10n="NEW"> पृष्ठपटलाय सीमायै च इष्टसारणीशैल्यानां निरपेक्षतया, &quot;<emph>सुन्दरसारणी&quot;</emph>इव सर्वदा सारणी निर्याणं कृतम्,या सरलसीमाभिः तथा स्थूलशीर्षकेन च सह विकिएन्जिन् मध्ये कथयति।</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="sa-IN" level="2" l10n="NEW">चार्सेट् तथा विषेषसंप्रतीकाः च </paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="sa-IN" l10n="NEW">परिणामफलस्य चार्सेट् UTF-8 कृते स्थिरम्।तव सिस्टम् आधारेण, इदं न मूलभूतचार्सेट्।इदं मूलभूतनिर्धारणैः सह दृश्यमाने खण्ड्तमिव दृष्टुं &quot;मुख्यसंप्रतीकाः&quot;कारणं भवेयुः।तथापि, इदं स्थापयितुं UTF-8  एन्कोडिङ्ग् कृते त्वं तव संपादकं स्विच् कर्तुं शक्नोषि।तव सम्पादकः एन्कोडिङ्ग् स्विच् कर्तुं न समर्थयति चेत्, त्वं फयर्फोक्स्ब्रौसर् मध्ये परिणामस्य फलं प्रदर्शितुं शक्नोषि तत्र च UTF-8 कृते एन्कोडिङ्ग् स्विचि कुरु।अधुना,त्वं तव इष्टप्रोग्राम् प्रति परिणामफलं कर्तितुं लेपितुं च शक्नोषि।</paragraph>
+</body>
+</helpdocument>

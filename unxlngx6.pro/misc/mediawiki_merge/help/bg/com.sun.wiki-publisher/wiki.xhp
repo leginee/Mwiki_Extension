@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="bg">@WIKIEXTENSIONPRODUCTNAME@</title>
+<filename>/@WIKIEXTENSIONID@/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="bg" branch="index" id="bm_id3154408"><bookmark_value>Wiki;@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="bg" level="1" l10n="NEW">@WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="bg" l10n="NEW"><ahelp hid=".">Чрез @WIKIEXTENSIONPRODUCTNAME@ можете да качите текущия текстов документ в Writer на сървър на MediaWiki. След качването всички потребители на Wiki ще могат да четат вашия документ от Wiki.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="bg" l10n="NEW"><ahelp hid=".">Изберете <item type="menuitem">Файл - Изпращане - Към MediaWiki</item>, за да качите текущия документ на Writer на сървъра на MediaWiki.</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="bg" level="2" l10n="NEW">Системни изисквания:</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="bg" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="bg" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="bg" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="bg" l10n="NEW">Данни за потребител на Wiki в поддържан <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> сървър</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="bg" level="2" l10n="NEW">Инсталиране на @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="bg" l10n="NEW">Преди да инсталирате @WIKIEXTENSIONPRODUCTNAME@, уверете се, че %PRODUCTNAME използва обкръжение за изпълнение на Java (JRE). За да проверите наличието на JRE изберете <item type="menuitem">Инструменти - Настройки - %PRODUCTNAME - Java</item>. Уверете се, че е отметнатно „Използване на обкръжение за изпъление на Java“ и в списъка е избрана папка за изпълнение на Java. Ако не е избрана JRE, активирайте JRE 1.4 или по-късна версия и рестартирайте %PRODUCTNAME.</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="bg" level="3" l10n="NEW">За да инсталирате @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="bg" l10n="NEW">В прозорец на Writer изберете <item type="menuitem">Инструменти - Диспечер на разширения</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="bg" l10n="NEW">В диалога Диспечер на разширения натиснете Добавяне.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="bg" l10n="NEW">Открйте файла @WIKIEXTENSIONFILENAME@.oxt, натиснете Отваряне и след това натиснете Затваряне. </paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="bg" l10n="NEW">Затворете %PRODUCTNAME и също така затворете Quickstarter, ако е разрешен.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="bg" l10n="NEW">Рестартирайте софтуера, отворете текстов документ, след това изберете <item type="menuitem">Tools - Настройки - Интернет - MediaWiki</item> за да въведете вашите настройки за Wiki. Вижте &quot;Свързване с Wiki&quot; по-долу.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="bg" level="3" l10n="NEW">За да премахнете @WIKIEXTENSIONPRODUCTNAME@</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="bg" l10n="NEW">В прозореца на Writer изберете <item type="menuitem">Инструменти - Диспечер на разширения</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="bg" l10n="NEW">Щракнете върху знака плюс (+) пред Моите разширения.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="bg" l10n="NEW">Изберете разширението, натиснете Премахване и след това натиснете Затваряне.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="bg" level="2" l10n="NEW">Свързване с Wiki</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="bg" l10n="NEW">Бележка: можете да запазите потребителското си име и паролата си за всички съответни диалогови прозорци в %PRODUCTNAME. Паролата ще се съхранява в защитен вид, като достъпът се осъществява чрез главна парола. Изберете <item type="menuitem">Инструменти - Настройки -  %PRODUCTNAME - Сигурност</item>, за да разрешите главната парола.</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="bg" l10n="NEW">Бележка: ако се свързвате с Интернет чрез прокси сървър, въведете информацията за него в <item type="menuitem">Инструменти - Настройки - Интернет - Прокси</item> и рестартирайте програмата.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="bg" l10n="NEW">Отворете документ на Writer и изберете <item type="menuitem">Инструменти - Настройки - Интернет - MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="bg" l10n="NEW">В диалогът <link href="@WIKIEXTENSIONID@/wikisettings.xhp">Настройки</link>, натиснете Добавяне.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="bg" l10n="NEW">В диалоговия прозорец <link href="@WIKIEXTENSIONID@/wikiaccount.xhp">MediaWiki</link> въведете информацията за потребител на Wiki.</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="bg" l10n="NEW">В текстовото поле за URL въведете адреса на Wiki, с което желаете да се свържете.</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="bg" l10n="NEW">Можете да копирате URL от браузър и да го поставите в текстовото поле.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="bg" l10n="NEW">В полето „Име на потребител“ въведете потребителското си име в Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="bg" l10n="NEW">Ако Wiki позволява анонимен достъп за писане, може да оставите полетата за име и парола празни.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="bg" l10n="NEW">Въведете паролата си за Wiki в полето Парола и натиснете OK.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="bg" l10n="NEW">Ако отметнете &quot;Съхраняване на паролата&quot;, тя ще се запазва между сесиите. Достъпът до запомнените пароли е защитен с главна парола. Изберете <item type="menuitem">Инструменти - Настройки - %PRODUCTNAME - Сигурност</item>, за да разрешите главната парола. &quot;Съхраняване на паролата&quot; е недостъпно, ако главната парола не е разрешена.</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="bg" level="2" l10n="NEW">За да създадете нова страница на Wiki</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="bg" l10n="NEW">Отворете документ на Writer.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="bg" l10n="NEW">Напишете съдържанието на Wiki страницата. Можете да форматирате текста, включвайки заглавия, бележки под линия и други – вижте <link href="@WIKIEXTENSIONID@/wikiformats.xhp">списъка на поддържаните формати</link>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="bg" l10n="NEW">Изберете <item type="menuitem">Файл - Изпращане - Към MediaWiki</item>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="bg" l10n="NEW">В диалоговия прозорец <link href="@WIKIEXTENSIONID@/wikisend.xhp">Изпращане към MediaWiki</link> задайте настройките за статията.</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="bg" l10n="NEW"><emph>MediaWiki сървър</emph>: изберете Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="bg" l10n="NEW"><emph>Заглавие</emph>: въведете заглавието на страницата. Ако има страница с това заглавие, тя ще бъде заменена с вашия документ. В противен случай ще бъде създадена нова страница в Wiki.</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="bg" l10n="NEW"><emph>Обобщение</emph>: ако желаете, въведете кратко резюме на страницата.</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="bg" l10n="NEW"><emph>Това е малка промяна</emph>: отметнете, за да отбележите изпращаната страница като малка корекция на съществуващата страница със същото заглавие.</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="bg" l10n="NEW"><emph>Показване в браузъра</emph>: отметнете, за да видите изпратената към Wiki страница в уеббраузъра на системата.</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="bg" l10n="NEW">Натиснете „Изпращане“.</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

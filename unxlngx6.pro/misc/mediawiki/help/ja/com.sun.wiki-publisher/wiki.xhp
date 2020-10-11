@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikixml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="ja">Wiki Publisher</title>
+<filename>/com.sun.wiki-publisher/wiki.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:28:08"/>
+</history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:aboutbox" id="bm_id3159252" localize="false"/>
+<bookmark xml-lang="ja" branch="index" id="bm_id3154408"><bookmark_value>Wiki;Wiki Publisher</bookmark_value><bookmark_value>Wiki Publisher</bookmark_value><bookmark_value>拡張機能;MediaWiki</bookmark_value></bookmark>
+<paragraph role="heading" id="hd_id5993530" xml-lang="ja" level="1" l10n="NEW">Wiki Publisher</paragraph>
+<paragraph role="paragraph" id="par_id9647511" xml-lang="ja" l10n="NEW"><ahelp hid=".">Wiki Publisher を使用すると、現在の Writer テキストドキュメントを MediaWiki サーバーにアップロードできます。アップロードされた記事は、その Wiki のすべての Wiki ユーザーが読むことができます。</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/vnd.com.sun.star.wiki:send" id="bm_id3159253" localize="false"/>
+<paragraph role="paragraph" id="par_id6468703" xml-lang="ja" l10n="NEW"><ahelp hid=".">現在の Writer ドキュメントを MediaWiki サーバーにアップロードするには、<item type="menuitem">「ファイル」→「送る」→「MediaWiki へ」</item>を選択してください。</ahelp></paragraph>
+<paragraph role="heading" id="hd_id4554582" xml-lang="ja" level="2" l10n="NEW">システム要件</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2597430" xml-lang="ja" l10n="NEW">StarOffice/StarSuite 9</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8430738" xml-lang="ja" l10n="NEW">OpenOffice.org 3.0</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9340495" xml-lang="ja" l10n="NEW">Java Runtime Environment 1.4</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id7387615" xml-lang="ja" l10n="NEW">サポートされている <link href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</link> サーバーでの Wiki アカウント</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id8047120" xml-lang="ja" level="2" l10n="NEW">Wiki Publisher のインストール</paragraph>
+<paragraph role="paragraph" id="par_id4277169" xml-lang="ja" l10n="NEW">Wiki Publisher をインストールする前に、%PRODUCTNAME が Java Runtime 環境 (JRE) を使用していることを確認してください。JRE の状態を調べるには、<item type="menuitem">「ツール」→「オプション」→「%PRODUCTNAME」→「Java」</item>を選択します。「Java Runtime 環境を使用」がオンになっていることと、リストボックスで Java Runtime のフォルダが選択されていることを確認してください。JRE がアクティブ化されていない場合は、JRE 1.4 以降をアクティブ化して %PRODUCTNAME を再起動してください。</paragraph>
+<paragraph role="heading" id="hd_id567339" xml-lang="ja" level="3" l10n="NEW">Wiki Publisher をインストールするには</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id1732230" xml-lang="ja" l10n="NEW">Writer のウィンドウで、<item type="menuitem">「ツール」→「拡張機能マネージャー」</item>を選択します。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4338511" xml-lang="ja" l10n="NEW">「拡張機能マネージャー」ダイアログの「追加」をクリックします。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5882442" xml-lang="ja" l10n="NEW">wiki-publisher.oxt ファイルを選択して「開く」をクリックし、次に「閉じる」をクリックします。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4008911" xml-lang="ja" l10n="NEW">%PRODUCTNAME を閉じ、有効化されている場合はクイック起動も閉じます。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id265511" xml-lang="ja" l10n="NEW">ソフトウェアを再起動し、テキストドキュメントを開いてから、<item type="menuitem">「ツール」→「オプション」→「インターネット」→「MediaWiki」</item>の順に選択して Wiki の設定を入力します。後述する「Wiki に接続するには」を参照してください。</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3569444" xml-lang="ja" level="3" l10n="NEW">Wiki Publisher を削除するには</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id2655110" xml-lang="ja" l10n="NEW">Writer のウィンドウで、<item type="menuitem">「ツール」→「拡張機能マネージャー」</item>を選択します。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id9504379" xml-lang="ja" l10n="NEW">「マイ拡張機能」の前のプラス記号 (+) をクリックします。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8431348" xml-lang="ja" l10n="NEW">拡張機能を選択して「削除」をクリックし、「閉じる」をクリックします。</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id5316019" xml-lang="ja" level="2" l10n="NEW">Wiki に接続するには</paragraph>
+<paragraph role="paragraph" id="par_id2381969" xml-lang="ja" l10n="NEW">注: %PRODUCTNAME のすべてのダイアログのユーザー名とパスワードを保存しておくことができます。パスワードは安全に保存され、アクセスするにはマスターパスワードを入力する必要があります。マスターパスワードを有効にするには、<item type="menuitem">「ツール」→「オプション」→「%PRODUCTNAME」→「セキュリティ」</item>を選択します。</paragraph>
+<paragraph role="paragraph" id="par_id3751640" xml-lang="ja" l10n="NEW">注: ウェブへの接続にプロキシサーバーを使用する場合は、プロキシ情報を<item type="menuitem">「ツール」→「オプション」→「インターネット」→「プロキシ」</item>で入力してから、ソフトウェアを再起動してください。</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id9533677" xml-lang="ja" l10n="NEW">Writer ドキュメントを開き、<item type="menuitem">「ツール」→「オプション」→「インターネット」→「MediaWiki」</item>を選択します。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id368968" xml-lang="ja" l10n="NEW"><link href="com.sun.wiki-publisher/wikisettings.xhp">「オプション」</link>ダイアログの「追加」をクリックします。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id6962187" xml-lang="ja" l10n="NEW"><link href="com.sun.wiki-publisher/wikiaccount.xhp">「MediaWiki」</link>ダイアログで、Wiki のアカウント情報を入力します。</paragraph>
+</listitem>
+</list>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id5328836" xml-lang="ja" l10n="NEW">「URL」テキストボックスに、接続先の Wiki のアドレスを入力します。</paragraph>
+<paragraph role="paragraph" id="par_id389416" xml-lang="ja" l10n="NEW">ウェブブラウザから URL をコピーしてテキストボックスに貼り付けることもできます。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id5906552" xml-lang="ja" l10n="NEW">「ユーザー名」ボックスに、Wiki アカウントのユーザー ID を入力します。</paragraph>
+<paragraph role="paragraph" id="par_id9297158" xml-lang="ja" l10n="NEW">Wiki で匿名書き込みアクセスが許可されている場合は、「ユーザー名」と「パスワード」のボックスを空白のままにしてもかまいません。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id8869594" xml-lang="ja" l10n="NEW">「パスワード」ボックスに Wiki アカウントのパスワードを入力して、「OK」をクリックします。</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id292062" xml-lang="ja" l10n="NEW">セッションのたびにパスワードを入力しなくても済むようにパスワードを保存しておくには、「パスワードの保存」をオンにします。保存されているパスワードには、マスターパスワードを使用してアクセスします。マスターパスワードを有効にするには、<item type="menuitem">「ツール」→「オプション」→「%PRODUCTNAME」→「セキュリティ」</item>を選択します。マスターパスワードが有効になっていない場合は、「パスワードの保存」は選択できません。</paragraph>
+<paragraph role="heading" id="hd_id7044892" xml-lang="ja" level="2" l10n="NEW">新しい Wiki ページを作成するには</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3514206" xml-lang="ja" l10n="NEW">Writer ドキュメントを開きます。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id944853" xml-lang="ja" l10n="NEW">Wiki ページの内容を執筆します。テキスト書式、見出し、脚注などの書式設定を使用できます。<link href="com.sun.wiki-publisher/wikiformats.xhp">サポートされる書式設定の一覧</link>を参照してください。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id4566484" xml-lang="ja" l10n="NEW"><item type="menuitem">「ファイル」→「送る」→「MediaWiki へ」</item>を選択します。</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id228278" xml-lang="ja" l10n="NEW"><link href="com.sun.wiki-publisher/wikisend.xhp">「MediaWiki へ送信」</link>ダイアログで、エントリの設定を指定します。</paragraph>
+</listitem>
+</list>
+<paragraph role="paragraph" id="par_id2564165" xml-lang="ja" l10n="NEW"><emph>MediaWiki サーバー</emph>: Wiki を選択します。</paragraph>
+<paragraph role="paragraph" id="par_id5566576" xml-lang="ja" l10n="NEW"><emph>タイトル</emph>: ページのタイトルを入力します。既存のページのタイトルを入力した場合は、そのページが現在のテキストドキュメントによって上書きされます。Wiki の新しいページを作成するには、新しいタイトルを入力してください。</paragraph>
+<paragraph role="paragraph" id="par_id9688711" xml-lang="ja" l10n="NEW"><emph>概要</emph>: ページの短い概要を入力します (省略可能)。</paragraph>
+<paragraph role="paragraph" id="par_id4123661" xml-lang="ja" l10n="NEW"><emph>これは小さな編集です</emph>: このチェックボックスをオンにすると、アップロードされるページは、同じタイトルの既存のページに対する小さな編集であると見なされます。</paragraph>
+<paragraph role="paragraph" id="par_id452284" xml-lang="ja" l10n="NEW"><emph>ウェブブラウザで表示</emph>: このチェックボックスをオンにすると、システムのウェブブラウザが開いて、アップロードされた Wiki ページが表示されます。</paragraph>
+<list type="ordered" startwith="5">
+<listitem>
+<paragraph role="paragraph" id="par_id8346812" xml-lang="ja" l10n="NEW">「送信」をクリックします。</paragraph>
+</listitem>
+</list>
+</body>
+</helpdocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+
+
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="comsunstarwikiMediaWikiwikiformatsxml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="my">မီဒီယာဝီကီ ရွေးပိုင်ခွင့်များ</title>
+<filename>/@WIKIEXTENSIONID@/wikiformats.xhp</filename>
+</topic>
+<history>
+<created date="2008-02-08T12:13:25"/>
+<lastedited date="2008-02-08T14:16:47"/>
+</history>
+</meta>
+<body>
+<bookmark branch="hid/vnd.com.sun.star.wiki:formats" id="bm_id7021088" localize="false"/> 
+<paragraph role="heading" id="hd_id3743095" xml-lang="my" level="1" l10n="NEW">MediaWiki စီစဉ်ဖွဲ့စည်းမှုပုံစံများ</paragraph>
+<paragraph role="paragraph" id="par_id8654133" xml-lang="my" l10n="NEW">အောက်ပါစာရင်းသည် စာသားစီစဉ်ဖွဲ့စည်းမှုပုံစံ၏ နမူနာပုံစံတစ်ခုဖြစ်သည်။ ၎င်းကို ဝီကီဆာဗာပေါ်သို့  @WIKIEXTENSIONPRODUCTNAME@ အနေဖြင့် ဆွဲတင်သည်။</paragraph>
+<paragraph role="paragraph" id="par_id5630664" xml-lang="my" l10n="NEW">ရေးသားသူတစ်ယောက် အနေဖြင့် OpenDocument စီစဉ်ဖွဲ့စည်းမှုပုံစံကို အသုံးပြုခဲ့ပြီး ဝီကီမီဒီယာ စီစဉ်ဖွဲ့စည်းမှုပုံစံသည် အတော်အတန် ခြားနားမှုရှိသည်။ လက္ခဏာရပ်များအားလုံး၏ အပိုင်းတစ်ပိုင်းကိုသာလျှင် ပုံစံတစ်ခုမှ အခြားပုံစံတစ်ခုသို့ အသွင်ပြောင်းလဲခဲ့သည်။</paragraph>
+<paragraph role="heading" id="hd_id7178868" xml-lang="my" level="2" l10n="NEW">ခေါင်းစဉ်များ</paragraph>
+<paragraph role="paragraph" id="par_id508133" xml-lang="my" l10n="NEW">သင့် မှတ်တမ်းမှတ်ရာရှိ ခေါင်းစဉ်များအတွက် စာပိုဒ်ပုံစံ ခေါင်းစဉ်တစ်ခု အသုံးပြုသည်။ ဝီကီအင်ဂျင်အနေဖြင့် ပြင်ဆင်ဖွဲ့စည်းမှုပုံစံအဖြစ် သတ်မှတ် ထားသော တူညီသည့် ကောက်ကြောင်းအဆင့်များ၏ ခေါင်းစဉ်ပုံစံများကို ဝီကီမှ ပြသလိမ့်မည်။ </paragraph>
+<paragraph role="heading" id="hd_id7217627" xml-lang="my" level="2" l10n="NEW">ဟိုင်ပါလင့်များ</paragraph>
+<paragraph role="paragraph" id="par_id3735465" xml-lang="my" l10n="NEW">မူလ OpenDocument ဟိုက်ပါလင့်ခ်အား &quot;ပြင်ပ&quot; ဝီကီချိတ်ဆက်မှုအဖြစ်သို့ အသွင်ပြောင်းလဲခဲ့သည်။ ထို့ကြောင့် ချိတ်ဆက်မှုများ တည်ဆောက်ရန် ပြင်ပ ဝီကီကွန်ယက်သို့ ညွှန်ပြသည့် ချိတ်ဆက်မှုလုပ်ငန်းများ အပြည့်အ၀ ဆောင်ရွက်ပေးနိုင်သည့် OpenDocument ချိတ်ဆက်မှု ကိုသာ ထည့်သွင်းတည်ဆောက်သင့်သည်။ ဝီကီချိတ်ဆက်မှုများ တည်ဆောက်ရန်အတွက် တူညီသော ဝီကီဒိုမိန်းများ၏ အခြားကိစ္စရပ်များကို ညွှန်ပြရန် ဝီကီချိတ်ဆက်မှုများ အသုံးပြုပါ။</paragraph>
+<paragraph role="heading" id="hd_id941190" xml-lang="my" level="2" l10n="NEW">စာရင်းများ</paragraph>
+<paragraph role="paragraph" id="par_id8942838" xml-lang="my" l10n="NEW">စာရင်းတစ်ခုလုံးကို ခိုင်မာမှုရှိသော စာရင်းပုံစံတစ်ခုအဖြစ်အသုံးပြုသောအခါ ယုံကြည်စိတ်ချရသော စာရင်းများအဖြစ်တင်ပို့နိုင်သည်။ နံပါတ်စဉ်တပ်ခြင်းနှင့် သင်္ကေတများတပ်ခြင်းကို အသုံးပြုပါ။ နံပါတ်စဉ်တပ်ခြင်း (သို့) သင်္ကေတတပ်ခြင်းအတွက် လိုအပ်လျှင် စီစဉ်ဖွဲ့စည်းမှုပုံစံ- သင်္ကေတများနှင့် နံပါတ်စဉ်တပ်ခြင်းကို အသုံးပြုပြီး သက်ဆိုင်ရာ စာရင်းပုံစံများကို အသုံးပြုပါ။</paragraph>
+<paragraph role="heading" id="hd_id7026886" xml-lang="my" level="2" l10n="NEW">စာပိုဒ်များ</paragraph>
+<paragraph role="heading" id="hd_id4436475" xml-lang="my" level="3" l10n="NEW">ဖြောင့်တန်းမှု</paragraph>
+<paragraph role="paragraph" id="par_id376598" xml-lang="my" l10n="NEW">ရှင်းလင်းတိကျစွာဖော်ပြထားသော စာသားချိန်ညှိမှုများကို ဝီကီဆောင်းပါးများတွင် အသုံးမပြုသင့်ပါ။ သို့သော်ငြား စာသားချိန်ညှိမှု ကို စာသား၏ ဘယ်၊ ညာ၊ အလယ်ချိန်ညှိမှုများအတွက် အထောက်အကူပြုခဲ့သည်။ </paragraph>
+<paragraph role="heading" id="hd_id7486190" xml-lang="my" level="3" l10n="NEW">ကြိုတင်စီစဉ်ဖွဲ့စည်းထားသည့်စာသား</paragraph>
+<paragraph role="paragraph" id="par_id1459395" xml-lang="my" l10n="NEW">စာပိုဒ်ပုံစံသည် ကြိုတင်စီစဉ်ထားသည့် စာသားပုံစံအတိုင်း အကျယ်အဝန်း အံဝင်ခွင်ကျဖြစ်သည်။ ကြိုတင်စီစဉ်ထားသည့် စာသားပုံစံသည် စာသားပတ်လည်တွင် ဘောင်များနှင့်အတူ ဝီကီပေါ်တွင် ပြသထားသည်။</paragraph>
+<paragraph role="heading" id="hd_id4834131" xml-lang="my" level="2" l10n="NEW">အက္ခရာပုံစံများ</paragraph>
+<paragraph role="paragraph" id="par_id6397595" xml-lang="my" l10n="NEW">စာပိုဒ်တစ်ခု၏ အစိတ်အပိုင်း သွင်ပြင်များကို အထူးပြုမည့် အက္ခရာစတိုင်လ်များဖြစ်သည်။ အသွင်ပြောင်းလဲမှုများမှ စာလုံးမဲ၊ စာလုံးစောင်း၊ စာလုံးမဲ/စောင်း၊ စာများအောက်သို့ချခြင်း၊ အပေါ်သို့တင်ခြင်းများကို အထောက်အကူပြုသည်။ စာသားအကျယ် အံဝင်ခွင်ကျ ဖြစ်မှုအားလုံးကို ဝီကီ ပုံနှိပ်စာလုံးပုံစံအဖြစ်သို့ ပြောင်းလဲခဲ့သည်။ </paragraph>
+<paragraph role="heading" id="hd_id5152745" xml-lang="my" level="2" l10n="NEW">အောက်ခြေမှတ်စုများ</paragraph>
+<paragraph role="paragraph" id="par_id5238196" xml-lang="my" l10n="NEW">မှတ်ချက်-&lt;ရည်ညွှန်းချက်&gt;နှင့်&lt;ရည်ညွှန်းချက်များ&gt;ကတ်ပြားများနှင့်အတူ အောက်ခြေမှတ်စုများ၏ ပုံစံသစ်များ ပြောင်းလဲအသုံးပြုသည်။ မီဒီယာဝီကီ အတွင်းသို့ ထည့်သွင်းရန် Cite.php ကို တိုးချဲ့ရန် လိုအပ်သည်။ အသွင်ပြောင်းလဲသည့် ရလဒ်တွင် စာသားအလွတ်အဖြစ် ကတ်ပြားများ တွေ့ရှိလျှင် ဤတိုးချဲ့ မှု ထည့်သွင်းရန် ဝီကီ စီမံအုပ်ချုပ်သူကို မေးပါ။</paragraph>
+<paragraph role="heading" id="hd_id9405499" xml-lang="my" level="2" l10n="NEW">ပုံရိပ်များ</paragraph>
+<paragraph role="paragraph" id="par_id3541673" xml-lang="my" l10n="NEW">ရုပ်ပုံများကို ဝီကီစာသား၏ ဖိုင်တစ်ခုအနေဖြင့် အသွင်ပြောင်းလဲ မပေးပို့နိုင်ပါ။ သို့သော် ရုပ်ပုံကို သက်ဆိုင်ရာ ဝီကီဒိုမိန်း (ဥပမာ- အများသုံး ဝီကီမီဒီယာ) တစ်ခုသို့ ဆွဲတင်ပေးပို့ပြီးဖြစ်လျှင် ရုပ်ပုံပါဝင်သည့် မှန်ကန်သော နောက်ဆက်တွဲ ပုံရိပ်တစ်ခုအဖြစ် အသွင်ပြောင်းလဲ ထုတ်လုပ်မည်ဖြစ်သည်။ ရုပ်ပုံခေါင်းစဉ်များမှလည်း အထောက်အကူပြုခဲ့သည်။</paragraph>
+<paragraph role="heading" id="hd_id2162236" xml-lang="my" level="2" l10n="NEW">ဇယားများ</paragraph>
+<paragraph role="paragraph" id="par_id3037202" xml-lang="my" l10n="NEW">နမူနာဇယားပုံစံများအနေဖြင့် အကောင်းဆုံး အထောက်အကူပြုသည်။ ဇယားခေါင်းစဉ်များကို သက်ဆိုင်ရာ ဝီကီ၏ ဇယားခေါင်းစဉ်များအဖြစ်သို့ ပြောင်းလဲ ခဲ့သည်။ သို့သော် ဇယားဘောင်များ၊ ကော်လံအရွယ်အစားများနှင့် နောက်ခံအရောင်များ စိတ်ကြိုက်ပြင်ဆင်ဖွဲ့စည်းမှု ကိုမူ လစ်လျူရှုသည်။</paragraph>
+<paragraph role="heading" id="hd_id2954496" xml-lang="my" level="3" l10n="NEW">ချိတ်ဆက်ထားသည့်ဆဲလ်အကွက်များ</paragraph>
+<paragraph role="paragraph" id="par_id8253730" xml-lang="my" l10n="NEW">OpenDocument နှင့် အထူးသဖြင့် OpenOffice.org တို့ကို ဇယားများတွင် ဖော်ပြပြီး ဆဲလ်အကွက်များနှင့် ချိတ်ဆက်မှုရှိသည်။ တိုးချဲ့ထားသော အတန်းများကို ဇယားများအဖြစ်အသုံးပြုသည်။ ဇယားဝီကီမော်ဒယ်သည် ချိတ်ဆက်ထားသော ဆဲလ်အကွက်များအတွက် ကော်လံနှင့်အတန်းများ တိုးချဲ့မှု ကို ကြေငြာရန်ဖြစ်သည်။</paragraph>
+<paragraph role="paragraph" id="par_id8163090" xml-lang="my" l10n="NEW">တူညီသော အတန်းတစ်ခု၏ ကော်လံများသာ ချိတ်ဆက်မှုရှိလျှင် တူညီသော ပင်မမှတ်တမ်းမှတ်ရာ အသွင်ပြောင်းလဲခြင်း၏ ရလဒ်သည် ကောင်းမွန်သည်။ </paragraph>
+<paragraph role="heading" id="hd_id425122" xml-lang="my" level="3" l10n="NEW">နယ်နိမိတ်များ</paragraph>
+<paragraph role="paragraph" id="par_id1831110" xml-lang="my" l10n="NEW">ဘောင်များနှင့်နောက်ခံပုံစံများအတွက် စိတ်ကြိုက်ဇယားပုံစံများရေးဆွဲပြီး ဇယားပုံစံတစ်ခုကို &quot;<emph>prettytable&quot;</emph> အဖြစ် အစဉ်အမြဲ တင်ပို့ပါ။ ၎င်းတို့ကို နမူနာ ဘောင်ပုံစံများ၊ ခေါင်းစဉ်မဲများဖြင့် ဝီကီအင်ဂျင်တွင် ပြန်လည်အသုံးပြုပါ။</paragraph>
+<paragraph role="heading" id="hd_id6255073" xml-lang="my" level="2" l10n="NEW">အက္ခရာအစုများနှင့်အထူးအက္ခရာများ</paragraph>
+<paragraph role="paragraph" id="par_id8216193" xml-lang="my" l10n="NEW">အက္ခရာစု အသွင်ပြောင်းလဲခြင်း၏ ရလဒ်သည် UTF-8 နှင့် ကိုက်ညီမှုရှိသည်။ သင်၏ ကွန်ပျူတာပေါ်တွင် မူတည်၍ နဂိုမူလအက္ခရာစု မဖြစ်နိုင်ပါ။ နဂိုမူလပြင်ဆင်ချိန်ညှိမှုများအနေဖြင့် ကြည့်သောအခါ &quot;အထူးအက္ခရာများ&quot; အဖြစ်မြင်တွေ့နိုင်သည်။ သို့သော် UTF-8 လျို့ဝှက်ရေးသားထားမှုနှင့် အံဝင် ခွင်ကျဖြစ်စေရန် တည်းဖြတ်သူတစ်ဦးအနေဖြင့် သင်ပြောင်းလဲနိုင်သည်။ လျှို့ဝှက်ရေးသားထားမှုများကို ပြောင်းလဲရန် သင့်တည်းဖြတ်သူမှ အထောက်အကူမပြုလျှင် ပြောင်းလဲမှုများ၏ ရလဒ်ကို Firefox ဘရောက်စ်ဇာတွင် သင်ပြသနိုင်ပြီး ၎င်းနေရာတွင် UTF-8 လျို့ဝှက်ရေးသားမှု ကို ပြောင်းလဲပါ။ ယခု ပြောင်းလဲခြင်း၏ရလဒ်ကို သင်ရွေးချယ်ထားသောပရိုဂရမ်းသို  ဖြတ်ယူ ထည့်နိုင်သည်။</paragraph>
+</body>
+</helpdocument>
